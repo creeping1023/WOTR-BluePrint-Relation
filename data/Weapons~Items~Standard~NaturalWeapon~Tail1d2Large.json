@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/AnimalCompanionUpgradeCentipede", "Dugeons/Loot/DungeonLootExclude", "Armies/UnitBlueprints/ArmyCentipede"], "children": ["Weapons/Types/NaturalWeapon/TailType"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration", "Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmDamageAbility"]}

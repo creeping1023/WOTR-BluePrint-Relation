@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_MagicMissileGreater", "Armies/Abilities/ArmyMagicMissileGreaterFeature"], "children": ["Armies/Abilities/ArmyMagicMissileGreaterResource", "FX/Spell Level 1/MagicMissile00"]}

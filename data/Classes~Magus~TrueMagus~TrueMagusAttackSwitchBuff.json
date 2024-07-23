@@ -1,0 +1,1 @@
+{"parents": ["Classes/Magus/TrueMagus/TrueMagusAttackAbility"], "children": ["Classes/Magus/SpellCombat/SpellCombatBuff", "Classes/Magus/TrueMagus/TrueMagusAttackEffectBuff"]}

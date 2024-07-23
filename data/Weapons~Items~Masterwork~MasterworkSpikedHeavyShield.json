@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-216320_SpikedShield", "Weapons/Items/Masterwork/MasterworkSpikedHeavyShieldCorrect", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/SpikedHeavyShield", "Weapons/Enchantments/Masterwork"]}

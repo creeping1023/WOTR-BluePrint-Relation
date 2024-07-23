@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Brain/Jeslyn_FalseLifeAIAction", "Brain/Actions/FalseLifeAiAction"], "children": ["Spells/Level2/FalseLifeBuff"]}

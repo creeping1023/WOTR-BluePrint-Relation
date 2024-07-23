@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/DLC6BonusItems/MetamagicRodNormalPiercingToggleAbility"]}

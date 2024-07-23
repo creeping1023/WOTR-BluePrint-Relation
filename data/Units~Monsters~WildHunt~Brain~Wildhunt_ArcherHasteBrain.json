@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/Monsters/WildHunt/CR13_WildHunt_ArcherHaste"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/HasteAiAction"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Areas/DLC3_RogueLike/DLC3_AlushinyrraPort/Presets/DLC3_AlushinyrraPort_Default_Preset"], "children": ["Player Character", "Player Character", "Player Character", "Classes/Basic/Deities/ForbiddenDeityFeature", "Items/LootTables/ContainerTrashLoot/DLC3_StartingGold", "Factions/Player", "Brain/Companions/Character_Brain", "WeaponEmptyHand"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/IvorySanctum/JerribethGreetings/Cue_0023"], "children": ["World/Cutscenes/IvorySanctum/JerribethDisappear/CommandIgnoreCombat", "World/Cutscenes/IvorySanctum/JerribethDisappear/gate", "World/Cutscenes/IvorySanctum/JerribethDisappear/CommandUnitCastSpell", "World/Cutscenes/IvorySanctum/JerribethDisappear/gate"]}

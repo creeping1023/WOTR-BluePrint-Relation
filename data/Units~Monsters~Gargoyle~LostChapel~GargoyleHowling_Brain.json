@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Gargoyle/LostChapel/GargoyleHOwling"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleHowling_GoodHopeAIAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleHowling_HasteAIAction"]}

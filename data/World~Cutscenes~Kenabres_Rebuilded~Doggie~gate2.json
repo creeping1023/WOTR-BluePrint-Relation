@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Kenabres_Rebuilded/Doggie/gate1", "World/Cutscenes/Kenabres_Rebuilded/Doggie/gate5"], "children": ["World/Cutscenes/Kenabres_Rebuilded/Doggie/CommandMoveUnit2", "World/Cutscenes/Kenabres_Rebuilded/Doggie/CommandUnitPlayCutsceneAnimation2", "World/Cutscenes/Kenabres_Rebuilded/Doggie/CommandDelay3", "World/Cutscenes/Kenabres_Rebuilded/Doggie/gate3"]}

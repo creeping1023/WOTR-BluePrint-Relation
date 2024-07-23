@@ -1,0 +1,1 @@
+{"parents": ["Classes/Alchemist/Discoveries/FrostBombs/FrostBomb", "Armies/Leaders/Abilities/RangerAbilities/RangerIceBombAbility", "Armies/Abilities/ArmyAlchemistAttack", "Classes/Wizard/Archetypes/ArcaneBomber/ArcaneBomberBombs/ArcaneBombsColdAbility"], "children": ["FX/Abilities/AlchemistFireBomb00_Trajectory"]}

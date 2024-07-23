@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Daeran/MidEvent01_HolyCarpet/Answer_0019", "World/Dialogs/Companions/CompanionRomances/Daeran/MidEvent01_HolyCarpet/Answer_0008"], "children": ["World/UnlockableFlags/Companions/Daeran/DaeranRomanceBlocker_Counter", "World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranRomance/DaeranRomance_Active"]}

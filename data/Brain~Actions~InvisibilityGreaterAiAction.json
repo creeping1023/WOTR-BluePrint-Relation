@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/IllusionistBrain/BanditIllusionistBrain"], "children": ["Brain/Considerations/NoBuffInvisibilityGreater", "Spells/Level4/InvisibilityGreater"]}

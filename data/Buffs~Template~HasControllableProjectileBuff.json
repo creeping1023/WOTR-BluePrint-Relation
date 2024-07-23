@@ -1,0 +1,1 @@
+{"parents": ["Buffs/Template/KillAndSpawnControllableProjectileBuff", "Spells/Template/ShootControllableProjectile"], "children": ["Spells/Template/ShootControllableProjectile"]}

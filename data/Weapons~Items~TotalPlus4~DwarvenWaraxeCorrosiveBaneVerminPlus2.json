@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/C3_VendorTableSmall", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/ExoticOneHanded/DwarvenWaraxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive", "Weapons/Enchantments/BaneVermin"]}

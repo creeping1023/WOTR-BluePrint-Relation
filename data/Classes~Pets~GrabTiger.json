@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/AnimalCompanionUpgradeSmilodon"], "children": ["Classes/Pets/SmilodonGrabActivatableAbility", "Classes/Pets/SmilodonReleaseGrappleAbility"]}

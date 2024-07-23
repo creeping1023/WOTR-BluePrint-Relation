@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c4/FleshMarket/ObsidianMask_dialogue/ObsidianMask_dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskSlaveTrader", "World/Dialogs/c4/FleshMarket/ObsidianMask_dialogue/AnswersList_0002", "World/Dialogs/c4/FleshMarket/ObsidianMask_dialogue/CueSequence_0031"]}

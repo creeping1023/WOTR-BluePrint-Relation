@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/ChooseBlood", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/ChooseGrave"], "children": ["Units/Monsters/Invisible_Kitten/Ziggurat/SkullPillar", "World/Quests/c3/UndeadRiot/Obj2_DestroyUnwantedServants", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0042"]}

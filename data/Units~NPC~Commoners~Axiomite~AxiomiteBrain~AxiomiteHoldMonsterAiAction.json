@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Axiomite/AxiomiteBrain/AxiomiteBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHoldMonster", "Units/NPC/Commoners/Axiomite/AxiomiteBrain/NoImmunityToCompulsionConsideration", "Spells/Level5/HoldMonster"]}

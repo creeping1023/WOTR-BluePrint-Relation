@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/GoblinShamanBoss/GoblinShadowShamanBossBrain"], "children": ["Brain/Considerations/IsThreatedConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AttackTargetsPriority", "Spells/DLC4NewSpells/TidalSurge", "Spells/DLC4NewSpells/TidalSurgeCone"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/CursedElementalResistanceDragonBoss", "Mythic/DLC5ShardsAbilities/CursedElementalResistance"], "children": ["Root/WeatherMechanics/SnowHeavyBuff", "Root/WeatherMechanics/SnowLightBuff", "Root/WeatherMechanics/RainHeavyBuff", "Root/WeatherMechanics/RainLightBuff"]}

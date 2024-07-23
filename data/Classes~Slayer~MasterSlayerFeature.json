@@ -1,0 +1,1 @@
+{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/BloodseekerArchetype", "Root/Upgraders/Player/PF-518659_ImitatorMasterSlayer", "Classes/Slayer/Archetypes/Imitator/ImitatorArchetype", "Classes/Slayer/SlayerProgression"], "children": ["Classes/Slayer/MasterSlayerAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Items/Vendors/Chapter5/Quartermaster_Chapter5VendorTable", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["DLC/DLC6/Dlc6Reward", "Weapons/Types/ExoticLight/SawtoothSabre", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Holy"]}

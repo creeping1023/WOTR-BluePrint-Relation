@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch3/PathStone_Enchanting_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Headband_HeadbandCrownHolyAzata", "Equipment/Headgear/UniquePF2/CrusadeRelics/PortalStone/PortalStoneStanceHeadbandEnchantment", "Equipment/CommonEnchantments/Wisdom2"]}

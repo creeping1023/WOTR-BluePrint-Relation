@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Common/ActionHolders/DretchTalking_SpawnerActions"], "children": ["World/Cutscenes/AlushinyrraLowerCity/DretchTalkingOnSpawner/CommandDelay", "World/Cutscenes/AlushinyrraLowerCity/DretchTalkingOnSpawner/CommandUnitPlayCutsceneAnimation"]}

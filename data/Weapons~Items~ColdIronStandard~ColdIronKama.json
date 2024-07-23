@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Feats/WeaponFocus/WeaponFocusColdIronStarting", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Feats/Proficiencies/KamaProficiency"], "children": ["Weapons/Types/ExoticLight/Kama", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

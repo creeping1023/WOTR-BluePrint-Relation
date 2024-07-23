@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monster/MonsterMythic/MOnsterMythicChangeMythicToWorseEffectBuff", "Mythic/Aeon/AeonDemythicationBuff", "Classes/Monster/MonsterMythic/MonsterMythic5ReviveBadBuff", "Classes/Monster/MonsterMythic/MonsterMythicFeature5Bad"], "children": ["Classes/Monster/MonsterMythic/MonsterMythic5ReviveBadBuffMiddle"]}

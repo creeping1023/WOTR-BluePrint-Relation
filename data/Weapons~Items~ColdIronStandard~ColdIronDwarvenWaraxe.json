@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Feats/WeaponFocus/WeaponFocusColdIronStarting"], "children": ["Weapons/Types/ExoticOneHanded/DwarvenWaraxe", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

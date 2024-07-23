@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/IvorySanctum/PaperChewerScene/gate 10", "World/Cutscenes/IvorySanctum/PaperChewerScene/PaperChewerScene"], "children": ["World/Cutscenes/IvorySanctum/PaperChewerScene/CommandAction", "World/Cutscenes/IvorySanctum/PaperChewerScene/CommandDelay 1", "World/Cutscenes/IvorySanctum/PaperChewerScene/CommandMoveUnit"]}

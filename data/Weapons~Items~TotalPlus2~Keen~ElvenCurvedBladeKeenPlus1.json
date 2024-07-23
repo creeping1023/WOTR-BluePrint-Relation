@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/EnneoVendorTable"], "children": ["Weapons/Types/ExoticTwoHanded/ElvenCurvedBlade", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Keen"]}

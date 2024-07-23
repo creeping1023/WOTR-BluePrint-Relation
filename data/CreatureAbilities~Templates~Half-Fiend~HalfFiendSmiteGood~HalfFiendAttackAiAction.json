@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyle_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "CreatureAbilities/Templates/Half-Fiend/HalfFiendSmiteGood/HasHalfFiendSmiteGoodConsideration"]}

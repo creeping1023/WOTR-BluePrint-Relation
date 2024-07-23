@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Labyrinth/Hosilla_Brain/Hosilla_Brain"], "children": ["Brain/Considerations/NoBuffDivineFavor", "Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level1/DivineFavor"]}

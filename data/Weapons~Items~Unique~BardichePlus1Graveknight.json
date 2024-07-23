@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/DLC3_Mobs/DLC3_Tir1_Armies/DLC3_CultistsDemonsUndead-0cr-17cr/DLC3_CR11_Graveknight", "Units/NPC/Commoners/Skeleton/CR11_GraveknightSummoned"], "children": ["Weapons/Types/MartialTwoHanded/Bardiche", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Unholy"]}

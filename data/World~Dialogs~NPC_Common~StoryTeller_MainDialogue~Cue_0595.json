@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0190"], "children": ["World/Quests/c1/Errands/StorytellerPages/Objective_0001", "World/Encounters/DrezenCapital/UnlockableFlags/LexCounter", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0597", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0596"]}

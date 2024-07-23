@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/C3_VendorTableSmall", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Items/TotalPlus3/BucklerArmor4ACagainstVerminItemPlus2"]}

@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonMammothFeature"], "children": ["Armies/UnitBlueprints/ArmyMammoth", "Buffs/SummonedCreatureSpawnAllyIV-VI", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/BonusFactsForArmy/ArmySummonMammothResource"]}

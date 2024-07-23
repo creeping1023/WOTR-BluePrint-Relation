@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Lann/LannTestLevel20"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level7/PrismaticSpray", "Equipment/CommonEnchantments/Resistance5"]}

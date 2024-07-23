@@ -1,0 +1,1 @@
+{"parents": ["Spells/CutsceneSpells/LostlarnKeep/LostlarnKeepSpecialWisp3Helper", "Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeRanged", "Root/BlueprintRoot", "Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeMelee"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}

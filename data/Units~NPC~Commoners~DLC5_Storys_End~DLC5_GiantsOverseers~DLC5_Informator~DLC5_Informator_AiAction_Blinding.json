@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_Informator/DLC5_Informator_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AoE_ChooseMoreEnemies", "Classes/Warpriest/Archetypes/Shieldbearer/SacredShieldArmorBlindingAbility"]}

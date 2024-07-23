@@ -1,0 +1,1 @@
+{"parents": ["Units/MountedCombatDummies/Mounts/AnimalCompanionUnitHorse_Large", "Classes/Cavalier/Archetypes/GhostRider/GhostRiderAnimalCompanionUnitHorse"], "children": ["Classes/Monster/Animal/AnimalCompanionClass", "Classes/Pets/AnimalCompanionNotUpgradedHorse", "Classes/Monster/Animal/AnimalCompanionClass", "Classes/Pets/AnimalCompanionUpgradeHorse"]}

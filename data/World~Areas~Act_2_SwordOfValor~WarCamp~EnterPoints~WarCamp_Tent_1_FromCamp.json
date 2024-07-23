@@ -1,0 +1,1 @@
+{"parents": ["QA/Arbiter/Scenario/Act_2_SwordOfValor/WarCamp", "World/Areas/Act_2_SwordOfValor/WarCamp/AreaTransitions/WarCamp_DefaultPeaceful_toTent_1", "World/Areas/Act_2_SwordOfValor/WarCamp/AreaTransitions/WarCamp_EarlyBeginning_toTent_1"], "children": ["World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp", "World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp_Tent_1"]}

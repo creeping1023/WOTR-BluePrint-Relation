@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/ShrineOfThree/Brains/Shrine_Succubus_Brain"], "children": ["Brain/Considerations/IsThreatedConsideration", "Brain/Considerations/SwiftActionOffCooldown", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/ShrineOfThree/Brains/Shrine_Ability_QuickenedGreaterTeleport"]}

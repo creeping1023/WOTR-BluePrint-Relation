@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/HostessSharedVendorTable", "Items/Vendors/PF2_DLC2/DLC2_NaumVendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/PeacefullTrollExteriorVendorTable"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

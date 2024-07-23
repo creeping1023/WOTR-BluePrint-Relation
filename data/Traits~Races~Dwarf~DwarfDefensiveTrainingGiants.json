@@ -1,0 +1,1 @@
+{"parents": ["Traits/Races/Dwarf/UnstoppableDwarf", "Races/DwarfRace", "Traits/Races/Dwarf/BarrowDwarf", "Races/GnomeRace", "Traits/Races/Gnome/TravellerGnome"], "children": ["Traits/Races/Common/GiantSubtype"]}

@@ -1,0 +1,1 @@
+{"parents": ["Spells/CutsceneSpells/DLC5/GoblinsPartyInTheTower/BalefulPolymorphFrog", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_GoblinsParty/DLC5_GoblinsParty_AreaEtude"], "children": ["Sound/Barks/NPC/Monsters/Dog_Barks", "Classes/Shifter/ShifterClaws/ShifterClawVisualBuff", "Factions/TrueNeutrals"]}

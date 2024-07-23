@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/KenabresGraveyard/SosielKillsBuriedAlive/CommandUnitCastSpell", "Armies/Rituals/RitualCureWounds"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

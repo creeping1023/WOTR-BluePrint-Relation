@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/StartGame/StartGameSorcererPregenUnitLevel20"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/Artisan/AmuletOfFourElementsEnchantment"]}

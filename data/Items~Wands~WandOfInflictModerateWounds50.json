@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/DruidMaze/HiddenDemon/Cue_0026", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level2/InflictModerateWoundsCast"]}

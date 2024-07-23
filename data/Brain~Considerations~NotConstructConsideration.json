@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Kakuen-taka/Brains/DLC4_BhogaRaise_AiAction", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossCorpseBlastAction", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossCorpseFirstBlastAction"], "children": ["Classes/Monster/Construct/ConstructClass", "Classes/Monster/Construct/ConstructClass"]}

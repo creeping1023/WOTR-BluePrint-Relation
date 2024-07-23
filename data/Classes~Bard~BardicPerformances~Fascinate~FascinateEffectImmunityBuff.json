@@ -1,0 +1,1 @@
+{"parents": ["Buffs/FascinateCommonBuff", "Classes/Bard/BardicPerformances/Fascinate/FascinateEffectBuff", "Classes/Bard/BardicPerformances/Fascinate/FascinateArea"], "children": ["Classes/Bard/BardicPerformances/DirgeOfDoom/DirgeOfDoomEffectImmunityBuff"]}

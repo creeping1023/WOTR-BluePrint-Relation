@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/AnimalCompanionUnitCentipede"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Units/Monsters/Giant Centipede/GiantCentipedePoisonBuff", "Units/Monsters/Giant Centipede/CentipedePoisonImmunity"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLoot_VendorRare_Grade3", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootRare"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "EquipmentEntities/Capes/KEE_CapeWolfNormal", "Equipment/Cloaks/PF2/Chapter3/HermitsCloakEnchantment"]}

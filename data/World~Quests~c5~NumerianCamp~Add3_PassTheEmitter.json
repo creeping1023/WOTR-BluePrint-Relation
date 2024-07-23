@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/KohhDungeon/ScriptZones/CutscenePsyZone", "World/Quests/c5/NumerianCamp/NumerianCamp_quest", "World/Quests/c5/NumerianCamp/Obj2_GoToFinalRoom", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Encounters/KohhDungeon/ActionsHolders/PsyTowersOff_CheckPassedActions"], "children": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest"]}

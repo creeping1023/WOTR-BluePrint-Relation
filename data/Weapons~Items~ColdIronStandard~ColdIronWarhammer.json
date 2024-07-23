@@ -1,0 +1,1 @@
+{"parents": ["Classes/Basic/Deities/ToragFeature", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Feats/WeaponFocus/WeaponFocusColdIronStarting"], "children": ["Weapons/Types/MartialOneHanded/Warhammer", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

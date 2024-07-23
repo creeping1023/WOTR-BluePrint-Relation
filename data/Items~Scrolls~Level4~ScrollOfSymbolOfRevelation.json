@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/PaperShardItem", "Spells/Level4/SymbolOfRevelation"]}

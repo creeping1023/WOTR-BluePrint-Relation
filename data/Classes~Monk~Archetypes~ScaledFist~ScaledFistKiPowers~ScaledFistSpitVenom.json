@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistSpitVenomFeature"], "children": ["Spells/Level3/SpitVenomBlindBuff", "Classes/Monk/KiPowers/KiSpitVenomBuff", "Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistPowerResource", "FX/Spell Level 2/PoisonArrow00", "Weapons/Types/Special/RayItem", "Classes/Monk/MonkClass"]}

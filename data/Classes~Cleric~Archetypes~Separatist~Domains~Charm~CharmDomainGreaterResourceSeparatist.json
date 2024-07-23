@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Charm/CharmDomainGreaterFeatureSeparatist", "Classes/Cleric/Archetypes/Separatist/Domains/Charm/CharmDomainGreaterAbilitySeparatist"], "children": ["Classes/Inquisitor/InquisitorClass", "Classes/Hunter/HunterClass", "Classes/Hunter/Archetypes/DivineHunter/DivineHunterArchetype", "Classes/Cleric/ClericClass"]}

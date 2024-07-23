@@ -1,0 +1,1 @@
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_0_Prologue/Prologue_Labyrinth/Prologue_Labyrinth", "World/Etudes/Common/WrathOfTheRighteous/0Prologue/Labyrinth", "Units/Companions/Lann/Lann_Companion", "Buffs/NPC_Immortality", "Units/Companions/Wenduag/Wenduag_Companion", "Buffs/NPC_Immortality"]}

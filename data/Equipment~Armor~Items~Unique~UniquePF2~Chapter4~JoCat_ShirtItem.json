@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "World/Dialogs/c4/JoCat/Jeocot_Final/Cue_0016", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["EquipmentEntities/Robe/KEE_Robe_ShirtCommon", "Equipment/Armor/Items/Unique/UniquePF2/Chapter4/JoCat_ShirtEnchantment"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Iz/Iz_AngelDeskariRing/gate18"], "children": ["Buffs/NPC_HealthGuard10", "Factions/Mobs", "Buffs/Areas/Act_4_MidnightIsles/RewardsAndDebuffs/HeavensDistressDebuff", "World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/Chapter05_AreasDefault/Iz_Default/DeskariWillNotRunaway", "World/Quests/MythicQuests/Angel/C5_IAmTheLight/05_KillDeskari"]}

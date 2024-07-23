@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleSword", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Keen", "Weapons/Items/TotalPlus3/Keen/StandardDoubleSwordSecondKeenPlus2"]}

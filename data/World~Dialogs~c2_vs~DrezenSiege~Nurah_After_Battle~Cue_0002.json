@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Nurah_After_Battle/Nurah_After_Battle_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Encounters/DrezenCitadel_Level2/UnlockableFlags/NurahIsOurFriendNow", "World/Dialogs/c2_vs/DrezenSiege/Nurah_After_Battle/AnswersList_0003", "World/Dialogs/c2_vs/DrezenSiege/Nurah_After_Battle/CueSequence_0068"]}

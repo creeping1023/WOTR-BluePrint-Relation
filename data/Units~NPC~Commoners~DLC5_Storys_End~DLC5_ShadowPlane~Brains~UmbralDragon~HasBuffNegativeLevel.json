@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/UmbralDragon/DLC5_UmbralDragon_Enervation_AiAction"], "children": ["Buffs/TemporaryNegativeLevel", "Root/SystemMechanics/Conditions/NegativeLevelsBuff"]}

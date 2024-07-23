@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyDivineFavorFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_DivineFavor"], "children": ["Spells/Level1/DivineFavorBuff", "Armies/Abilities/ArmyDivineFavorResource"]}

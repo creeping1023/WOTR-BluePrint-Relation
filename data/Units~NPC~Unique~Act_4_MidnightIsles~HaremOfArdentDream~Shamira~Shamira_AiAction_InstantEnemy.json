@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/HaremOfArdentDream/Shamira/Shamira_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Units/NPC/Unique/Act_4_MidnightIsles/HaremOfArdentDream/Shamira/Shamira_Consideration_NoBuffInstantEnemy", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/InstantEnemy"]}

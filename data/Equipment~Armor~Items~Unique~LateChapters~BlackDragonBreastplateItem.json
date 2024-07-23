@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "EquipmentEntities/Armor/KEE_Armor_BreastplateKnight", "Equipment/Armor/Types/BreastplateType", "Equipment/Armor/Enchantments/AcidResistance30Enchant", "Equipment/Armor/Enchantments/ArmorEnhancementBonus5"]}

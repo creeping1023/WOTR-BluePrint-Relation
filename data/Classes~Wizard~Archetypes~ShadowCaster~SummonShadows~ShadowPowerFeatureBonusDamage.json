@@ -1,0 +1,1 @@
+{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/SummonShadows/Shadow"], "children": ["Weapons/Types/Special/IncoporealTouchType", "Spells/Level4/DeathWardBuff", "Units/NPC/Commoners/Shadow/ShadowBrains/Shadow_IgnoreTargetBuff", "Classes/Wizard/Archetypes/ShadowCaster/SummonShadows/ShadowPowerBuff"]}

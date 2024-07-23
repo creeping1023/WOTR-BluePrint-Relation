@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_GoblinsPartyInTheTower_FinalDialog/Cue_3", "Loot/Good/CR10/PF2_CoolDemons_ActsOfIomedae"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/ActsOfIomedaeFeature", "Items/DestructibleItemsShards/PaperShardItem"]}

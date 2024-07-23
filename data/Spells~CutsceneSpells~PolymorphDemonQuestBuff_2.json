@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/MoltenScar/CrusadersTurnNormal/CommandAction", "World/Cutscenes/MoltenScar/IntroCutscene/CommandAction1"], "children": ["Units/Monsters/Fire Elemental/FireElementalSlam_Large", "Units/Monsters/Fire Elemental/FireElementalSlam_Large", "Spells/Level5/PolymorphTurnBackAbility"]}

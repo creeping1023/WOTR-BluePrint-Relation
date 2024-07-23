@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AreshkagalDungeon/AreshkagalFight_stage2_scene/gate2"], "children": ["Buffs/Areas/Act_1_WorldwoundIncursion/DefendersHeart/FadeOutBuff", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBoss/AreshkaFeats/Traps/AreshkagalTrapImmunityBuff", "CreatureAbilities/Unlootable"]}

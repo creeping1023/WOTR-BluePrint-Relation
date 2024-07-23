@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/CR4_Human_Sorcerer_Brain_DogSummoner"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/SummonMonsterIIBase", "Spells/Level2/SummonMonsterIId3"]}

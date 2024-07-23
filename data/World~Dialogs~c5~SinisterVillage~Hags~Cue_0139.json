@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0138"], "children": ["World/Cutscenes/SinisterVillage/MarkyllHydra/MarkyllHydra", "World/Encounters/SinisterVillage/UnlockableFlags/MarkyllDead", "World/Encounters/SinisterVillage/SummonPools/Hags", "World/Encounters/SinisterVillage/ActionsHolders/StartCombatWithHags"]}

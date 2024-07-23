@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_SwordOfSithhudItem"], "children": ["Weapons/Enchantments/Bleed", "CreatureAbilities/Bleed/BleedConst1d4Buff"]}

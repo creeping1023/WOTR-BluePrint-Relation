@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudBrain3Seal"], "children": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/SithhudConditionConsideration", "Units/Monsters/DLC5_Sithhud/TrueSithhud/SithhudUnlockableFlag", "Spells/Level8/CreateUndeadGreaterDevourerSithhud"]}

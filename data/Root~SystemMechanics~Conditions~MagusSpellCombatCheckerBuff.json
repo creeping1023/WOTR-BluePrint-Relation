@@ -1,0 +1,1 @@
+{"parents": ["Root/BlueprintRoot"], "children": ["Classes/Magus/SpellCombat/SpellCombatFeature", "Root/SystemMechanics/Conditions/MagusSpellCombatBuff", "Root/SystemMechanics/Conditions/MagusEldritchArcherSpellCombatBuff", "Root/SystemMechanics/Conditions/MagusSpellCombatBuff", "Root/SystemMechanics/Conditions/MagusEldritchArcherSpellCombatBuff"]}

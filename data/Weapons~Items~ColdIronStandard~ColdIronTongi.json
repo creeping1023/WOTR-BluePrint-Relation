@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Feats/Proficiencies/TongiProficiency", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Feats/WeaponFocus/WeaponFocusColdIronStarting"], "children": ["Weapons/Types/ExoticOneHanded/Tongi", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

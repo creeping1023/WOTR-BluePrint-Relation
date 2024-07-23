@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyBard"], "children": ["Armies/Abilities/ArmyStatBonus2AuraAbility", "Armies/Abilities/ArmySavesBonus4AuraAbility", "Armies/Abilities/ArmyAttackBonus3AuraAbility", "Armies/Abilities/ArmyACBonus3AuraAbility", "Armies/Abilities/ArmyBardAurasResources"]}

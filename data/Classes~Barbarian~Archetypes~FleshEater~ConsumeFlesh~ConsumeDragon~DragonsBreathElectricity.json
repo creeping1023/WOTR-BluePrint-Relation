@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/Archetypes/FleshEater/ConsumeFlesh/ConsumeDragon/ConsumeFleshDragonBuffEffectElectricity"], "children": ["FX/Abilities/LightningBolt00Breath", "Classes/Barbarian/BarbarianClass", "Classes/Barbarian/Archetypes/FleshEater/EssenceAbilityResource", "Classes/Barbarian/Archetypes/FleshEater/FleshEaterDCProperty", "Spells/Level4/DragonsBreath"]}

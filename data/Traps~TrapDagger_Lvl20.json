@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Traps/TrapActor_Lvl20", "Traps/CustomTraps/IvoryLabyrinth/GateScreamAbility_TrapActor", "Traps/CustomTraps/IvoryLabyrinth/HeraldSecondPhase_TrapActor"], "children": ["Weapons/Types/SimpleLight/Dagger"]}

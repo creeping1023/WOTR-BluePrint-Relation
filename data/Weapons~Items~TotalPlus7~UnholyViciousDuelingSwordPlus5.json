@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "World/Crusade/Events/CrusadeEvents/CrusadeEvent66", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/ExoticOneHanded/DuelingSword", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/ViciousEnchantment", "Weapons/Enchantments/Unholy"]}

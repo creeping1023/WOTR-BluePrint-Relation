@@ -1,0 +1,1 @@
+{"parents": ["Recipes/AcornPieRecipe", "Recipes/CremeSoupWithaSnoutRecipe"], "children": ["Spells/Level1/CureLightWoundsCast", "Spells/Level2/CureModerateWoundsCast", "Spells/Level3/CureSeriousWoundsCast", "Spells/Level4/CureCriticalWoundsCast"]}

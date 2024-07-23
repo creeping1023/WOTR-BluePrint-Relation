@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AreshkagalDungeon/FakeLootScene/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/Chapter05_AreasDefault/AreshkagalDungeon/TresasuryBoss", "Spells/CutsceneSpells/AreshkagalDungeon/GreedStackBuff", "World/Encounters/AreshkagalDungeon/UnlockableFlags/FakeLootFlag"]}

@@ -1,0 +1,1 @@
+{"parents": ["Spells/CutsceneSpells/YozzPolymorfBuff", "Spells/CutsceneSpells/Alushinyrra/EcorchePolymorfBuff", "World/Encounters/AlushinyrraLowerCity/ActionsHolders/Ecorche1_SpawnActions"], "children": ["Units/NPC/Commoners/Act_4_MidnightIsles/Citizens/AlushinyrraTieflingCommoner4", "Spells/Level5/PolymorphTurnBackAbility"]}

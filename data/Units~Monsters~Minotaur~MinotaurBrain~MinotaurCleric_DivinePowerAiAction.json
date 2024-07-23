@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/MinotaurCleric_Brain_FrontLiner", "Units/Monsters/Minotaur/MinotaurBrain/MinotaurCleric_Brain_Standard"], "children": ["Brain/Considerations/NoBuffDivinePower", "Spells/Level4/DivinePower"]}

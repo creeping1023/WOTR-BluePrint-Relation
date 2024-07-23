@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/NocticulaPreistess/NocticulaPriestess_AiAction_CombatInstantPrecast", "Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/NocticulaPreistess/MidnightFane_NocticulaPriestess"], "children": ["Spells/Level4/InvisibilityGreaterBuff", "Spells/Level4/DivinePowerBuff", "Spells/Level2/SenseVitalsBuff"]}

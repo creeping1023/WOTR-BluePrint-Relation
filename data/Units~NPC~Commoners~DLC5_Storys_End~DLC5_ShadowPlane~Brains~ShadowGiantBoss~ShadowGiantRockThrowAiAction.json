@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/ShadowGiantBoss/DLC5_ShadowGiantBossBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/ShadowGiantRockThrowAbility"]}

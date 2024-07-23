@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/FirstVendorTable", "Dugeons/Loot/DungeonLootExclude", "Units/Monsters/RuinsRaidPlaceMobs/CR24_RuinsRaid_Gallu_Boss"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/EternalHunter"]}

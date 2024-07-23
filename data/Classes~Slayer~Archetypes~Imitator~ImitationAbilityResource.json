@@ -1,0 +1,1 @@
+{"parents": ["Classes/Slayer/Archetypes/Imitator/ImitationRogueAbility", "Classes/Slayer/Archetypes/Imitator/ImitationFighterAbility", "Classes/Slayer/Archetypes/Imitator/ImitationFeature", "Classes/Slayer/Archetypes/Imitator/ImitationBarbarianAbility", "Classes/Slayer/Archetypes/Imitator/ImitationMonkAbility"], "children": ["Classes/Slayer/SlayerClass"]}

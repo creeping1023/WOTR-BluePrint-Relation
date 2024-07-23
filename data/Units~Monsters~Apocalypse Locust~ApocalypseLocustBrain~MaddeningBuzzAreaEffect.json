@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/MaddeningBuzzEffectBuff"], "children": ["Buffs/Confusion", "Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/ConfusionSpellLocust", "Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/MaddeningBuzzCountBuff"]}

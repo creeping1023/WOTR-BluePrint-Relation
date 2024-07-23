@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/LostChapel/ComponentsLists/LC_Story"], "children": ["World/Cutscenes/LostChapel/RegillDialogue/CommandLockControls", "World/Cutscenes/LostChapel/RegillDialogue/gate", "World/Cutscenes/LostChapel/RegillDialogue/CommandEndCombat", "World/Cutscenes/LostChapel/RegillDialogue/gate"]}

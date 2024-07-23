@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableBelts_Headgear_Cloaks", "Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC3_RogueLike/Tier1/DLC3_Tier1VendorTableBelts_Headgear_Cloaks"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level3/LightningBolt", "Equipment/CommonEnchantments/Intelligence4"]}

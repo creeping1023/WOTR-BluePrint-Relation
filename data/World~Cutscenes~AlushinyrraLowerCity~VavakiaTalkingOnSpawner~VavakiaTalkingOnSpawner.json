@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/VavakiaTalkingOnSpawner/CommandActivateGate", "World/Encounters/Common/ActionHolders/VavakiaTalking_SpawnerActions"], "children": ["World/Cutscenes/AlushinyrraLowerCity/VavakiaTalkingOnSpawner/CommandDelay", "World/Cutscenes/AlushinyrraLowerCity/VavakiaTalkingOnSpawner/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Magus/MagusProgression", "Classes/MagusEldritchScion/EldritchScionProgression", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArchetype"], "children": ["Classes/Magus/SpellCombat/SpellCombatBuff"]}

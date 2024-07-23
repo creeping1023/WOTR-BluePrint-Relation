@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Encounters/DLC1_AzataIsland/ActionsHolders/TrashAzata_QuestItemsList_slotcheck_Action", "Loot/Trash/CR26/Forest_Loot_1", "World/Encounters/DLC1_AzataIsland/ItemsList/TrashAzata_QuestItemsList"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/WarpriestFervorPositiveAbilityCast"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Weapons/Types/Special/TouchItem", "Classes/Warpriest/WarpriestFervorHealDamageSelection", "Classes/Warpriest/WarpriestFervorHealDamageRank"]}

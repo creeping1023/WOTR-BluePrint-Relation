@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Daeran_Q3_Autodafe/Daeran_Q3_StartDialog/gate 4"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranStates/Daeran_Q3_SuperHardFight", "Units/Companions/Daeran/Daeran_Companion", "Factions/CutsceneNeutrals"]}

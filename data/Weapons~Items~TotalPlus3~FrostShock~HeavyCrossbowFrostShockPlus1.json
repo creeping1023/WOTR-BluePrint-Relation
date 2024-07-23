@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/Chapter3/Quartermaster_Chapter3VendorTable"], "children": ["Weapons/Types/SimpleRanged/HeavyCrossbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock", "Weapons/Enchantments/Frost"]}

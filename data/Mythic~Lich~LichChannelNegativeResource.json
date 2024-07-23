@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Lich/LichChannelNegativeFeature", "Mythic/Lich/LichChannelNegativeHarm", "Mythic/Lich/LichChannelNegativeHeal"], "children": ["Mythic/Aeon/AeonMythicClass", "Mythic/MythicStartingClass", "Mythic/Lich/LichMythicClass", "Mythic/Angel/AngelMythicClass", "Mythic/Trickster/TricksterMythicClass", "Mythic/Azata/AzataMythicClass", "Mythic/Demon/DemonMythicClass"]}

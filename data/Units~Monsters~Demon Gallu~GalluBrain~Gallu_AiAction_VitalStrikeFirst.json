@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Gallu/GalluBrain/Gallu_Brain_MassHoldMonster", "Units/Monsters/Demon Gallu/GalluBrain/Gallu_Brain_Standard", "Units/Monsters/Demon Gallu/GalluBrain/Gallu_Brain_WordOfChaos"], "children": ["Brain/Considerations/AttackTargetsPriority", "Feats/VitalStrike/VitalStrikeAbilityImproved"]}

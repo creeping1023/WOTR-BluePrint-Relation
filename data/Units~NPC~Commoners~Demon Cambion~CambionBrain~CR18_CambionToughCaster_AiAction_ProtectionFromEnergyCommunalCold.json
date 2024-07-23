@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_CR18_CambionToughCaster"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AoE_ChooseMoreFriends", "Spells/Level4/ProtectionFromEnergyCommunal", "Spells/Level4/ProtectionFromColdCommunal"]}

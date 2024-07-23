@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5", "Loot/Quest/DLC5_GiantsOverseers/TranslatorsReward", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_Translator"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "EquipmentEntities/Boots/KEE_Boots_BootsSkald", "Items/DLC5/DLC5_GiantsOverseers/BootsOfTheRat_Enchantment"]}

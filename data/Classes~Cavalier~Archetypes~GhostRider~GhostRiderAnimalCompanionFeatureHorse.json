@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cavalier/Archetypes/GhostRider/GhostRiderGhostMountSelection"], "children": ["Classes/Cavalier/Archetypes/GhostRider/GhostRiderAnimalCompanionUnitHorse", "Classes/Pets/AnimalCompanionRank", "Units/Abilities/Mounts/MountedBuff", "Classes/Pets/AnimalCompanionFeatureHorseBuff"]}

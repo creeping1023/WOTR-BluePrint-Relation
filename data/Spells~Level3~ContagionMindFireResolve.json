@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level3/ContagionMindFire"], "children": ["Classes/Shaman/Archetypes/ProphetOfPestilence/PlagueHexFeatures/PlagueHexPhysicalWeaknesses/PlagueHexConstitutionWeaknesses/PlagueHexConstitutionDamagefromDiseasesBuff", "Spells/Level3/ContagionMindFireBuff", "Spells/Level3/ContagionMindFireBuff", "Weapons/Types/Special/TouchItem"]}

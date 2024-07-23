@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Irabeth_F2_route02/CommandAction", "World/Encounters/GrayGarrison/ScriptZones/Minagho_First"], "children": ["World/Cutscenes/GrayGarrison/IrabethSquadMovesNextFloor/CommandDelay", "World/Cutscenes/GrayGarrison/IrabethSquadMovesNextFloor/CommandMoveUnit", "World/Cutscenes/GrayGarrison/IrabethSquadMovesNextFloor/CommandAction"]}

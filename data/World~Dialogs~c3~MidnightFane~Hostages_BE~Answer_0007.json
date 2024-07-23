@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/MidnightFane/Hostages_BE/Cue_0013", "World/Dialogs/c3/MidnightFane/Hostages_BE/Cue_0012", "World/Dialogs/c3/MidnightFane/Hostages_BE/BookPage_0001"], "children": ["World/Dialogs/c3/MidnightFane/Hostages_BE/BookPage_0010", "Spells/Level5/BreakEnchantment", "Spells/Level3/RemoveCurse", "Spells/Level3/RemoveCurse", "Spells/Level5/BreakEnchantment"]}

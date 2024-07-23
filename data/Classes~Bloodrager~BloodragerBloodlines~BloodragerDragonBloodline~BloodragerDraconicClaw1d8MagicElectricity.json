@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Bloodrager/BloodragerBloodlines/BloodragerDragonBloodline/BloodragerDraconicClawBuff12Electricity"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Weapons/Enchantments/MagicWeapon", "Weapons/Enchantments/Shock"]}

@@ -1,0 +1,1 @@
+{"parents": ["Root/CraftRoot", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotions", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/BE_Manor/Cue_0269"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level5/DisruptingWeaponCast"]}

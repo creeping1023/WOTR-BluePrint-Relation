@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombat_SuccubusBrain", "Armies/Brains/TacticalCombat_LilituBrain", "Armies/Brains/TacticalCombat_AsmodeanClericBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Brain/Considerations/NoBuffDominateArmy", "Armies/Abilities/ArmyDominate"]}

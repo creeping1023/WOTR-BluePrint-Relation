@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/Rushlight_SmithVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Scimitar", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Mageblade", "Weapons/Enchantments/Shock"]}

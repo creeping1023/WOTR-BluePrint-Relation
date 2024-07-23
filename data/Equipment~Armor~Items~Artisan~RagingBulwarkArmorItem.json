@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Spells/Level3/Rage", "EquipmentEntities/Armor/KEE_Armor_ScalemailArmy", "Equipment/Armor/Types/ScalemailType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus3", "Equipment/Armor/Enchantments/FireResistance10Enchant"]}

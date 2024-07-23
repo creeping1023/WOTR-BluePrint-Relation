@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Shadow/HellknightsCamp/HellknightCamp_GreaterShadowDemonMiniboss2Brain/GreaterShadowDemonMiniboss2Brain"], "children": ["Brain/Considerations/NoCaster", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffConfusion", "Brain/Considerations/NoBuffInsanity", "Spells/Level7/Insanity"]}

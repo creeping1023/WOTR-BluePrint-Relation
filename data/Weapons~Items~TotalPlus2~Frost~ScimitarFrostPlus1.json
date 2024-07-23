@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Armies/UnitBlueprints/ArmyMagus", "Dugeons/Loot/DungeonLootMagic", "Armies/UnitBlueprints/KTC_ArmyMagus", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialOneHanded/Scimitar", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Frost"]}

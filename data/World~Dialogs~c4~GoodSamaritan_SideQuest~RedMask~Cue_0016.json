@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c4/GoodSamaritan_SideQuest/RedMask/Answer_0019", "World/Dialogs/c4/GoodSamaritan_SideQuest/RedMask/Answer_0014"], "children": ["World/Quests/c4/GoodSamaritan/Obj3_KillRedMask", "World/Quests/c4/GoodSamaritan/Obj4_TalkWithEvilLatverk", "World/Cutscenes/Common/UnitAnimationsSittingNoTalking/UnitAnimationsSittingNoTalking", "Factions/Mobs"]}

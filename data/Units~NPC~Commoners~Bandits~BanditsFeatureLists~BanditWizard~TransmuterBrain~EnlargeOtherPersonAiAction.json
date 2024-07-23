@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/TransmuterBrain/BanditTransmuterBrain"], "children": ["Brain/Considerations/TargetOther", "Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/TransmuterBrain/ClassEnlargeConsideration", "Brain/Considerations/NoBuffEnlargePerson", "Spells/Level1/EnlargePerson"]}

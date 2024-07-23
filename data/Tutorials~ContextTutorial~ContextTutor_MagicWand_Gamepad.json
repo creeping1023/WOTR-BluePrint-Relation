@@ -1,0 +1,1 @@
+{"parents": ["Tutorials/ContextTutorial/ContextTutor_MagicWand"], "children": ["Spells/Level1/CureLightWoundsCast", "Spells/Level2/CureModerateWoundsCast", "Spells/Level3/CureSeriousWoundsCast", "Spells/Level4/CureCriticalWoundsCast", "Spells/Level1/BlessWeaponCast"]}

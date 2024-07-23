@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Duergars/DuergarKineticistBrain/DuergarKineticist_Brain"], "children": ["Brain/Considerations/NoBuffFleshOfStone", "Classes/Kineticist/ElementalFocus/Earth/FleshOfStoneAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/Archetypes/ChildOfManticore/Spikes/GrowingSpikesBuffLevel19", "Classes/Shifter/Archetypes/ChildOfManticore/Spikes/GrowingSpikesBuffLevel17", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/SpikeType", "Weapons/Enchantments/CriticalMultiplierIncrease", "Weapons/Types/MartialRanged/StrengthThrown"]}

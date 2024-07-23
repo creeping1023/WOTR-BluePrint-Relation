@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/StauntonVane_GG_Duel"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/StauntonVaneBrain/StauntonVane_AiAction_DivineBond"]}

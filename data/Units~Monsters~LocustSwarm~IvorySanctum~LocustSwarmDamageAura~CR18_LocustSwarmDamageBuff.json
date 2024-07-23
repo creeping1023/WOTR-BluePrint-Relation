@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/CR18_LocustSwarmDamageFeature"], "children": ["Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/CR18_LocustSwarmDamageArea", "Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/LocustSwarmDamageEffectImmunity", "Buffs/Nauseated"]}

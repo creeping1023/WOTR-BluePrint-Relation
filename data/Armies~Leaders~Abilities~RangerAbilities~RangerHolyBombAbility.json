@@ -1,0 +1,1 @@
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerHolyBomb"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombArea", "Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombResource", "FX/Abilities/AlchemistHolyBomb00", "Weapons/Types/Special/BombItem"]}

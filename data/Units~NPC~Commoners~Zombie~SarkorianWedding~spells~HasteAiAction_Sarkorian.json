@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain"], "children": ["Brain/Considerations/NoBuffHaste", "Brain/Considerations/TargetSelf", "Spells/Level3/Haste"]}

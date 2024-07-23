@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyCultistLifestock"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_SacrificeForSwarmHeal"]}

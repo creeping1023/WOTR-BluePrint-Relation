@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/Archetypes/FleshEater/FleshEaterBarbarianArchetype", "Classes/Barbarian/BarbarianProgression"], "children": ["Classes/Barbarian/Archetypes/FleshEater/EssenceAbilityResource", "Classes/Barbarian/Archetypes/FleshEater/UnboundRageBuff", "Classes/Barbarian/Archetypes/FleshEater/UnboundFormBuff"]}

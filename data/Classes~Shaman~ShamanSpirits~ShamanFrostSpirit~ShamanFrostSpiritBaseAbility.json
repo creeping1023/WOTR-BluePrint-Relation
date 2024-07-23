@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shaman/ShamanSpirits/ShamanFrostSpirit/ShamanFrostSpiritBaseFeature"], "children": ["Classes/Shaman/ShamanSpirits/ShamanFrostSpirit/ShamanFrostSpiritBaseResource", "Classes/Shaman/ShamanClass", "Classes/WinterWitch/WinterWitchClass", "FX/Abilities/Kinetic_Ice00_Projectile", "Weapons/Types/Special/RayItem"]}

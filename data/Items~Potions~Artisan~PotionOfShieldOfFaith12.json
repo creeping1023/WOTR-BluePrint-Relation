@@ -1,0 +1,1 @@
+{"parents": ["Loot/Good/CR45/PF2_DemonWorld_DarknessIngredientsShelf_2", "Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level1/ShieldOfFaith"]}

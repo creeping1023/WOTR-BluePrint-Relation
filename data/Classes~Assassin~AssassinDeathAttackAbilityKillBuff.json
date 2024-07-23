@@ -1,0 +1,1 @@
+{"parents": ["Classes/Assassin/AssassinDeathAttackAbilityKillStandard", "Classes/Assassin/AssassinDeathAttackAbilityKill"], "children": ["Classes/Assassin/AssassinDeathAttackAbilityKillBuffEffect", "Classes/Assassin/AssassinMarkOfDeathPenaltyBuff", "Classes/Assassin/AssassinClass"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/KenabresBurning/NabasuPromo/gate 4"], "children": ["World/Cutscenes/KenabresBurning/NabasuPromo/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/KenabresBurning/NabasuPromo/CommandDelay 10", "World/Cutscenes/KenabresBurning/NabasuPromo/CommandAction 9", "World/Cutscenes/KenabresBurning/NabasuPromo/gate 5"]}

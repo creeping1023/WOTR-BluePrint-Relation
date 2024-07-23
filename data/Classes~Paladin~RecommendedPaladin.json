@@ -1,0 +1,1 @@
+{"parents": ["Units/Pregens/StartGame/Prebuilds/PrebuildMonkFeatureList", "Units/Pregens/StartGame/StartGamePregenPaladinFeatureList", "Units/Pregens/StartGame/Prebuilds/PrebuildPaladinFeatureList"], "children": ["Classes/Paladin/PaladinClass"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss_Brain/AlushinyrraCasterMiniboss_BrainPhaseIII"], "children": ["Brain/Considerations/NoBuffTransformation", "Brain/Considerations/TargetSelf", "Spells/Level6/Transformation"]}

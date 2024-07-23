@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/ReturnToDrezen/MinagoDead/MinagoDead"], "children": ["World/Cutscenes/ReturnToDrezen/MinagoDead/CommandAction", "World/Cutscenes/ReturnToDrezen/MinagoDead/CommandMoveCamera", "World/Cutscenes/ReturnToDrezen/MinagoDead/CommandUnitPlayCutsceneAnimation"]}

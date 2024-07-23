@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLoot_VendorRare_Grade5", "World/Dialogs/c4/Nocticula_main/Cue_0015", "Dugeons/Loot/DungeonLootRare", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/UniquePF2/Chapter4/AspectOfTheAspEnchantment"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/ReturnToDrezen/ScriptZones/HilorDialog", "World/Cutscenes/ReturnToDrezen/HilorKyadoNoWardstone/CommandStartDialog", "World/Encounters/ReturnToDrezen/ScriptZones/HilorNearPrisonDialog"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/HilorDangerousPrison/Cue_0001", "World/Dialogs/c5/Drezen_Under_Siedge/HilorDangerousPrison/Cue_0002"]}

@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level6/BeastShapeIVShamblingMoundBuff", "Spells/Level7/PolymorphGreaterShamblingMoundBuff", "Brain/Considerations/HasPoison"], "children": ["Weapons/Types/NaturalWeapon/SlamType", "Units/Monsters/ShamblingMound/ShumblingMoundPoisonAuraBuff"]}

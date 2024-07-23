@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/RottenGutting/Torlek", "Classes/Witch/Archetypes/HexChannelerWitch/HexChannelerChannelFeature", "Classes/Witch/WitchClass", "Units/NPC/Commoners/Act_4_MidnightIsles/NamedEliteMercenaryCaster"], "children": ["Classes/Witch/Archetypes/HexChannelerWitch/HexChannelerChannelSelection", "Classes/Witch/WitchHexes/WitchHexSelection"]}

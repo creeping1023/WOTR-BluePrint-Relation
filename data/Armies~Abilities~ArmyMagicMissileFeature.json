@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyLich", "Armies/UnitBlueprints/ArmySorcerer", "Armies/UnitBlueprints/ArmyWizard", "Armies/UnitBlueprints/ArmyHellknightSignifer", "Armies/UnitBlueprints/ArmyArcanist"], "children": ["Armies/Abilities/ArmyMagicMissile", "Armies/Abilities/ArmyMagicMissileFact"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistStandardBrain", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistStandardCasterBrain"], "children": ["Brain/Considerations/InjuryMedium", "Spells/Level4/CureCriticalWounds"]}

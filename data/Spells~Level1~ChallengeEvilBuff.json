@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level1/ChallengeEvil"], "children": ["Spells/Level1/ChallengeEvilCasterBuff", "Spells/Level1/ChallengeEvilCasterBuff", "Spells/Level1/ChallengeEvilAttackBuff", "Buffs/Sickened", "Classes/Paladin/SmiteEvil/SmiteEvilBuff"]}

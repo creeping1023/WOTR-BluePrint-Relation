@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Ghoul/TheIvoryLabyrinth/ArcaneBonepowderGhoul18_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Root/SystemMechanics/Abilities/CoupDeGraceAbility"]}

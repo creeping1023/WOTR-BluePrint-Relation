@@ -1,0 +1,1 @@
+{"parents": ["Classes/Wizard/Evocation/SpecialisationSchoolEvocationProgression"], "children": ["Classes/Wizard/Evocation/ElementalWallAcidAbility", "Classes/Wizard/Evocation/ElementalWallColdAbility", "Classes/Wizard/Evocation/ElementalWallElectricityAbility", "Classes/Wizard/Evocation/ElementalWallFireAbility", "Classes/Wizard/Evocation/ElementalWallResource"]}

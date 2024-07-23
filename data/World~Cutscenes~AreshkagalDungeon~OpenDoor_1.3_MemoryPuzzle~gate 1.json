@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AreshkagalDungeon/OpenDoor_1.3_MemoryPuzzle/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/OpenDoor_1.3_MemoryPuzzle/CommandAction", "World/Cutscenes/AreshkagalDungeon/OpenDoor_1.3_MemoryPuzzle/CommandDelay 2", "World/Cutscenes/AreshkagalDungeon/OpenDoor_1.3_MemoryPuzzle/gate 2"]}

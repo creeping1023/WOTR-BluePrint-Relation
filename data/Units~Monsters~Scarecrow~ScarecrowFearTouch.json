@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Scarecrow/ScarecrowSlam"], "children": ["Weapons/Types/NaturalWeapon/SlamType", "Buffs/Shaken", "Units/Monsters/Scarecrow/ScarecrowCowering", "Classes/Monster/Construct/ConstructClass"]}

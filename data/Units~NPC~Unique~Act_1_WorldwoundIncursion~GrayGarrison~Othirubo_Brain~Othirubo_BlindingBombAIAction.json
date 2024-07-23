@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Othirubo_Brain/Othirubo_Brain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/InRangeConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AttackTargetsPriority", "Classes/Alchemist/Discoveries/BlindingBombs/BlindingBomb"]}

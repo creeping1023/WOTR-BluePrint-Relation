@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Loot/Good/CR22/PF2_DemonWorld_Areshkagal_GoodLoot_CruelBaneLivingSicklePlus5", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleLight/Sickle", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/BaneLiving", "Weapons/Enchantments/CruelEnchantment"]}

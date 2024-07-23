@@ -1,0 +1,1 @@
+{"children": ["Classes/Fighter/FighterClass", "Races/HumanRace", "Units/Portraits/Pet/PetUndeadSkeleton_Portrait", "Sound/Barks/NPC/Monsters/Skeleton_Barks", "Factions/Neutrals", "Brain/Companions/Character_Brain", "WeaponEmptyHand", "Traits/Races/Common/UndeadType", "CreatureAbilities/DamageReduction/DRBludgeoning5"]}

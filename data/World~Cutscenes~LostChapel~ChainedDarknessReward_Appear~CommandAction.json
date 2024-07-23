@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/ChainedDarknessReward_Appear/gate"], "children": ["World/Encounters/LostChapel/UnlockableFlags/ChainedDarknessReward_ReadyToDisappear", "World/Encounters/LostChapel/UnlockableFlags/ChainedDarknessReward_ReadyToAppear"]}

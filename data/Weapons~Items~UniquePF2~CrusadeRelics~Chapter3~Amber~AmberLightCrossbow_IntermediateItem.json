@@ -1,0 +1,1 @@
+{"parents": ["Kingdom/CrusadeProjects/RelicProjects/Chapter3/Amber/AmberCrossbowProject_Enchanting", "World/Crusade/Events/Relics/Ch3/AttractiveImpulse_Reforge_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleRanged/LightCrossbow", "Weapons/Enchantments/Enhancement3"]}

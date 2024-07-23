@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Artifice/ArtificeDomainBaseFeature", "Classes/Cleric/Archetypes/Separatist/Domains/Artifice/ArtificeDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Artifice/ArtificeDomainSpellList"]}

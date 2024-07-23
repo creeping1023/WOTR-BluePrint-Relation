@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/Alushinyrra_StopEavesdropping/CambionFlameShaman_Brain/CambionFlameShaman_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffDivinePower", "Spells/Level4/DivinePower"]}

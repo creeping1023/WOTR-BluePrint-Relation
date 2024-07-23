@@ -1,0 +1,1 @@
+{"parents": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusProgression", "Classes/Magus/Archetypes/Hexcrafter/HexcrafterArchetype", "Classes/Magus/Archetypes/Arcane Rider/ArcaneRiderArchetype"], "children": ["Classes/Magus/SpellRecall/MagusSpellRecall"]}

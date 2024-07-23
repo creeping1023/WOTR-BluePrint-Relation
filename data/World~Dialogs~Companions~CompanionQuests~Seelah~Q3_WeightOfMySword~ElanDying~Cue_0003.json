@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/ElanDying/Cue_0002"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR5_KnightElan", "World/Cutscenes/Seelah_Q3_JewelerHideout/Elan_Dies/Elan_Dies", "World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/ElanDying/Cue_0004"]}

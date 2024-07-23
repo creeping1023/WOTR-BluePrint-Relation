@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/AslynnChild/Brain/DLC6_AslynnChildBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/AslynnChild/Brain/HasNoEvasion_Consideration", "Spells/Level6/ChainLightning"]}

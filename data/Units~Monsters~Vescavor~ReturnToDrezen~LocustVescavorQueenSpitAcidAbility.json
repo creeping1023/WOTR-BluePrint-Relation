@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Vescavor/ReturnToDrezen/LocustVescavorQueen", "Units/Monsters/Vescavor/ReturnToDrezen/LocustVescavorQueenSpitAcidAiAction"], "children": ["FX/Spell Level None/AcidCommonProjectile00", "FX/Spell Level None/AcidCommonProjectile00", "Weapons/Types/Special/RayItem", "Units/Monsters/Vescavor/VescavorQueenBrain/VescavorAttractorBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineDenOfSpidersSpiderSwarmDamageBuff"], "children": ["Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineDenOfSpidersSpiderSwarmDamageEffectBuff", "Root/SystemMechanics/Conditions/EntangledBuff", "Root/SystemMechanics/Conditions/EntangledBuff"]}

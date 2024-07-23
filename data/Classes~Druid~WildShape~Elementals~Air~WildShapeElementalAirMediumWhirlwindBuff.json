@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/AirElemental/AirElementalBrain/AirElementalMediumWhirlwindAbility", "Classes/Druid/WildShape/Elementals/Air/WildShapeElementalAirMediumWhirlwindAbility"], "children": ["Classes/Druid/WildShape/Elementals/Air/WildShapeElementalAirMediumWhirlwindArea", "Units/Monsters/AirElemental/AirElementalBrain/AirElementalInWhirlwind"]}

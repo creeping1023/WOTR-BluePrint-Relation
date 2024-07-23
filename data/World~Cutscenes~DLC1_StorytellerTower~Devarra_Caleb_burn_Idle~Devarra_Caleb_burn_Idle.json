@@ -1,0 +1,1 @@
+{"parents": ["World/Etudes/Common/DLC1_StorytellerTower", "World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/DLC1_Chaleb_dialogue"], "children": ["World/Cutscenes/DLC1_StorytellerTower/Devarra_Caleb_burn_Idle/CommandAction", "World/Cutscenes/DLC1_StorytellerTower/Devarra_Caleb_burn_Idle/WaitFlag", "World/Cutscenes/DLC1_StorytellerTower/Devarra_Caleb_burn_Idle/gate1"]}

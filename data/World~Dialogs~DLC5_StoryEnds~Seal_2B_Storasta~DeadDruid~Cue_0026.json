@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/DeadDruid/Answer_0023"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DLC5_CR10_Druid_Caster", "Spells/Level6/DLC5_CorpseAgroBuff", "World/Encounters/DLC5_Storasta/UnlockableFlags/DLC5_DruidCorpseFlag"]}

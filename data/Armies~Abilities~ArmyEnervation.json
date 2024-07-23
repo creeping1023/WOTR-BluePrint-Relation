@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyEnervationFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_Enervation"], "children": ["Armies/Abilities/ArmyEnervationEnemyBuff", "Armies/Abilities/ArmyEnervationResource"]}

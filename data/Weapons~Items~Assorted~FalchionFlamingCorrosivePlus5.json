@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_TreverEnemy"], "children": ["Weapons/Types/MartialTwoHanded/Falchion", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Corrosive"]}

@@ -1,0 +1,1 @@
+{"parents": ["Traits/Races/Elf/ElvenHeritageSelection"], "children": ["Traits/Races/Elf/ElvenMagic", "Traits/Races/Elf/ElvenImmunities", "Classes/Ranger/FavoriteEnemy/DemonOfSlaughterFeature", "Classes/Ranger/FavoriteEnemy/DemonOfMagicFeature", "Classes/Ranger/FavoriteEnemy/DemonOfStrengthFeature"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC2_RichQuarter/ScriptZones/Quazit_spawn", "World/Encounters/DLC2_RichQuarter/ScriptZones/Dretch_SZ"], "children": ["World/Cutscenes/DLC2_RichQuarter/Dretch_summon/CommandSpawnUnits", "World/Cutscenes/DLC2_RichQuarter/Dretch_summon/gate"]}

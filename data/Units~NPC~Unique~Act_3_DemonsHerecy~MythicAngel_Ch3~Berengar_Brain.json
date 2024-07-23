@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAngel_Ch3/Berengar"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAngel_Ch3/Berengar_AiAction_SmiteEvil", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAngel_Ch3/Berengar_AiAction_LayOnHands"]}

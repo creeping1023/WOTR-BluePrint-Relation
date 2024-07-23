@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Golem Gold/GoldGolem_Features/GoldGolemDLC1_Feature_Special", "Units/Monsters/Golem Gold/GoldGolem_Features/GoldGolem_Feature_Special"], "children": ["Weapons/Types/NaturalWeapon/SlamType", "Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgePoisonBuff", "Root/SystemMechanics/Conditions/PetrifiedBuff", "Spells/Level7/InsanityBuff"]}

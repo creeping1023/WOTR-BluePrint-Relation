@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "World/Crusade/Events/CrusadeEvents/CrusadeEvent48"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/BrilliantEnergy", "Weapons/Enchantments/BaneMagicalBeast"]}

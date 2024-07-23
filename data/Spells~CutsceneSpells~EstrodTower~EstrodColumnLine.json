@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/EstrodTower/ActionsHolders/DamagedColumn02_CheckPassedActions", "World/Cutscenes/EstrodTower/Column02_Roll/CommandAction 2"], "children": ["World/UnlockableFlags/Achievements/Achievement_DeathColumn", "Buffs/Prone", "Spells/CutsceneSpells/EstrodTower/ColumnProjectile"]}

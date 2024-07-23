@@ -1,0 +1,1 @@
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/LannThankYou/LannThankYou_dialogue", "World/Encounters/Lann_Q3_SavamelekhLair/UnlockableFlags/LannTrusted", "Units/Companions/Lann/Lann_Companion", "Units/Companions/Lann/LannPoisonEaterFeature"]}

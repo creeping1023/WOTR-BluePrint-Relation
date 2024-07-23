@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Prologue_Kenabres/ActionsHolders/Owlcat_Spawner_interaction_CheckPassedActions", "Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra"], "children": ["DLC/Preorder/DlcPreorderReward", "Items/NewTrashLoot/TrashTrashLoot/PetrifiedEgg", "Items/Familiars/Owlcat/Owlcat_Ability"]}

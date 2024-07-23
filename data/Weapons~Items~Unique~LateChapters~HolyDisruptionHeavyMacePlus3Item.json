@@ -1,0 +1,1 @@
+{"parents": ["World/Crusade/Events/CrusadeEvents/CrusadeEvent02", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Unique/DisruptingWeapon"]}

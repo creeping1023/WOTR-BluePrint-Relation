@@ -1,0 +1,1 @@
+{"parents": ["Mythic/DLC5ShardsAbilities/ShardsAbilitiesSelection"], "children": ["CreatureAbilities/Immunities/ImmunityToCritical", "Units/NPC/Commoners/DLC2_LowFantasy/cr3gelatinous_Cube/DRImmune_PrecisionDamage", "CreatureAbilities/DamageReduction/DREvil5", "CreatureAbilities/DamageReduction/DREvil5", "CreatureAbilities/DamageReduction/DRChaotic5"]}

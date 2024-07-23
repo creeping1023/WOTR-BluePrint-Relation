@@ -1,0 +1,1 @@
+{"parents": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/Presets/KohhDungeon_Default_Preset", "Dugeons/Loot/DungeonLootExclude", "Items/LootTables/FullList"], "children": ["Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock", "Weapons/Items/Unique/Chapter2/LightningDuelistEnchant"]}

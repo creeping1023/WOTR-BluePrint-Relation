@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/C4_VendorTableLarge"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level4/DeathWard"]}

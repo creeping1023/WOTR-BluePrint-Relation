@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/DLC3_VendorSecondTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialLight/LightPick", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock"]}

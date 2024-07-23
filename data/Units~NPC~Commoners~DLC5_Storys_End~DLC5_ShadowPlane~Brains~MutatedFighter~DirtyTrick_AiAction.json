@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MutatedFighter/DLC5_FetchlingMutatedFighterBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffBlindness", "Feats/Maneuvers/DirtyTrick/DirtyTrickBlindnessAction"]}

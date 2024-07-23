@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/PaperShardItem", "Spells/Level4/HolySword"]}

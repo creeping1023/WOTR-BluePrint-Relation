@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level3/ContagionCackleFeverResolve", "Spells/Level6/PlagueStormCackleFeverArea"], "children": ["Classes/Shaman/Archetypes/ProphetOfPestilence/PlagueHexFeatures/PlagueHexPhysicalWeaknesses/PlagueHexConstitutionWeaknesses/PlagueHexConstitutionDamagefromDiseasesBuff", "Spells/Level6/PlagueStormBuff"]}

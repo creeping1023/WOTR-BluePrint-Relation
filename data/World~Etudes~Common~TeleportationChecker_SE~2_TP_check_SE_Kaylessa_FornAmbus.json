@@ -1,0 +1,1 @@
+{"parents": ["World/Areas/Random_Encounters/Special_Encounters/Chapter_3/SE_Kaylessa_FornAmbus", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "Kingdom/GlobalMapRituals/GlobalSpellTeleportParty"], "children": ["World/Etudes/Common/TeleportationChecker_SE/TeleportationChecker_Group"]}

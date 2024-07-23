@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombatGiantSpiderBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_WebConsideration", "Armies/Brains/Considerations/TacticalConsideration_ClosestButNotInMelee", "Brain/Considerations/NoBuffWeb", "Armies/Abilities/ArmySpiderWebCast"]}

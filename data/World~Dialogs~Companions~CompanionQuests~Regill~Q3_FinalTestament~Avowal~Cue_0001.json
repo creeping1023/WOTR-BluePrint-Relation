@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/Avowal_RegillQ3_dialog"], "children": ["Units/Companions/Regill/Regill_Companion", "Buffs/NPC_HealthGuard10", "Units/Companions/Regill/Regill_Companion", "World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/AnswersList_0002"]}

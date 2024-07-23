@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/Brains/Shadow_Aeon_Brain/MythicShadow_Aeon_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/Slow"]}

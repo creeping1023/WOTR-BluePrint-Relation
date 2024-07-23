@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/CR5_BlizzardElemental_Large", "Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/CR8_BlizzardElemental_Huge"], "children": ["Buffs/Staggered", "Classes/Druid/Archetypes/WinterChild/BlizzardServant/NumbingColdDCProperty"]}

@@ -1,0 +1,1 @@
+{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Archetypes/Separatist/Domains/Weather/WeatherDomainGreaterFeatureSeparatist", "Classes/Cleric/Domains/Weather/WeatherDomainGreaterFeature"], "children": ["Spells/Level3/InsideTheStormBuff", "Spells/Level3/CallLightningBuff", "Classes/Cleric/Domains/Weather/WeatherDomainGreaterResource"]}

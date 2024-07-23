@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Axiomite/AxiomiteMeleeMiniboss_Features/AxiomiteMeleeMiniboss_Brain"], "children": ["Brain/Considerations/NoBuffTrueStrike", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level1/TrueStrike"]}

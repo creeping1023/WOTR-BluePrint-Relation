@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/ImmunityToMagic/IronGolemImmunity"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/HasteBuff", "Spells/Level3/SlowBuff"]}

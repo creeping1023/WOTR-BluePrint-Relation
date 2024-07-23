@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/Brain/CR8_Test_Sorcerer_Brain_Abyss"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/DLC2_Consideration_NoBuffsAround_FX4Buff", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/Buff_for_FX/DLC2_Wizard_TestHeal_Spell1"]}

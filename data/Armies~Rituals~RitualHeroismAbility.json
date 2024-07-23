@@ -1,0 +1,1 @@
+{"parents": ["Armies/Rituals/RitualHeroism"], "children": ["Armies/Leaders/LeaderManaResource", "Spells/Level3/ArmyHeroismBuff", "Armies/Rituals/RitualHeroismMoraleProperty", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraBandits/MercenaryBrain/CR17_Mercenary_Dwarf_Ranged_Brain_Standart"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffHaste", "Spells/Level3/Haste"]}

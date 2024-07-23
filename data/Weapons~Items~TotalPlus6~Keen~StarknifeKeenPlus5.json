@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Armies/Leaders/Warlords/WarlordUnits/Warlord_6_Ranger", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialLight/Starknife", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Keen"]}

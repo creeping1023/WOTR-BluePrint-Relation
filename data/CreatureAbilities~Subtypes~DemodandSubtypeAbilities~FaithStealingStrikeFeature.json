@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/Subtypes/SubtypeDemodand"], "children": ["Classes/Monster/Outsider/OutsiderClass", "CreatureAbilities/Subtypes/DemodandSubtypeAbilities/FaithStealingStrikeCooldownBuff", "CreatureAbilities/Subtypes/DemodandSubtypeAbilities/FaithStealingStrikeCooldownBuff", "CreatureAbilities/Subtypes/DemodandSubtypeAbilities/FaithStealingStrikeBuff"]}

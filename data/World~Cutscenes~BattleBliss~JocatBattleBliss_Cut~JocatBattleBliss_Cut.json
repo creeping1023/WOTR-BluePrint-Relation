@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/BattleBliss/ScriptZones/JocatHealerChat"], "children": ["World/Cutscenes/BattleBliss/JocatBattleBliss_Cut/CommandLockControls", "World/Cutscenes/BattleBliss/JocatBattleBliss_Cut/gate1", "World/Cutscenes/BattleBliss/JocatBattleBliss_Cut/CommandMoveCamera", "World/Cutscenes/BattleBliss/JocatBattleBliss_Cut/gate1"]}

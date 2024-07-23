@@ -1,0 +1,1 @@
+{"parents": ["Loot/Good/CR2/PF2_NaturalCaves_SpiderCaveRecipe", "Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC3_RogueLike/Tier1/VendorPortScrollsAndPotions/DLC3_Tier1VendorTableCooking"], "children": ["Recipes/DLC2_SpicyPastryRecipe", "Items/DestructibleItemsShards/DustShardItem"]}

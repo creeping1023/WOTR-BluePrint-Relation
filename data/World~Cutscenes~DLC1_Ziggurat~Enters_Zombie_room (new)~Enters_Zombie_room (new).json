@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC1_Ziggurat/ScriptZones/DLC1_Ziggurat_Enters_Zombie_room"], "children": ["World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/CommandLockControls", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate4", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/CommandDelay", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/NPC_Common/Venture_Captain_Hilor/Hilor_MainDialogue/TeleportZoey"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/SilkShadow/SilkShadowNoLoot", "World/Quests/c5/HuntingSilkShadow/Obj2B_TeleportZoeyToHilor", "World/Dialogs/NPC_Common/Venture_Captain_Hilor/Hilor_MainDialogue/Cue_0079"]}

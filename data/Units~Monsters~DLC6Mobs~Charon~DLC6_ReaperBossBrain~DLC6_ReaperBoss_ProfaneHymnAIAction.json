@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC6Mobs/Charon/DLC6_ReaperBossBrain/DLC6_ReaperBossBrain"], "children": ["Units/Monsters/Demon Balor/BalorMythicBloodragerBrain/BalorMythic_ProfaneHymnAIAction", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/DLC6Mobs/Charon/DLC6_ReaperBossBrain/DLC6_ReaperBossTargetsPriority", "Mythic/Demon/DemonSpells/ProfaneHymn"]}

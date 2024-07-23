@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/KerzBrain/KerzBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Ranger/Archetypes/Freebooter/FreebootersBaneAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain_Alternative"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level5/ShadowEvocation", "Spells/Level4/VolcanicStorm"]}

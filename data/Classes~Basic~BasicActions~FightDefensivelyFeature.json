@@ -1,0 +1,1 @@
+{"parents": ["Classes/Basic/BasicFeatsProgression"], "children": ["Classes/Basic/BasicActions/FightDefensivelyToggleAbility", "Classes/Basic/BasicActions/CoupDeGraceFeature", "Classes/Basic/BasicActions/RecentlyDeadBuff"]}

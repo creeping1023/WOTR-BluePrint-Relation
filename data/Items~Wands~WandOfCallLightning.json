@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/C2_VendorTableLarge", "Dugeons/Loot/DungeonLootScrollsAndWands", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Trash/CR15/Forest_LightningWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level3/CallLightning"]}

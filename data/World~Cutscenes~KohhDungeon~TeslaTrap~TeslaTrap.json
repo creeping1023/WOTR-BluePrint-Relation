@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/KohhDungeon/FirstArenaCloseDoor/CommandAction5", "Traps/CustomTraps/KohhDungeon/Tesla_Trap2", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/ArenaFinished", "Traps/CustomTraps/KohhDungeon/Tesla_Trap"], "children": ["World/Cutscenes/KohhDungeon/TeslaTrap/CommandDelay", "World/Cutscenes/KohhDungeon/TeslaTrap/gate"]}

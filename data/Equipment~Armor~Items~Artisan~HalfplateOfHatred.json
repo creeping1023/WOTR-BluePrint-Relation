@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "EquipmentEntities/Armor/KEE_Armor_HalfplateKnightNormal", "Equipment/Armor/Types/HalfplateType", "Equipment/Armor/Items/Artisan/HalfplateOfHatredEnchantment", "Equipment/Armor/Enchantments/ArmorEnhancementBonus2"]}

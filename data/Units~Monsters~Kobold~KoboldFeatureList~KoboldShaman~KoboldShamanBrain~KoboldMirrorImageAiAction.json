@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Kobold/KoboldFeatureList/KoboldShamanNecromancer/KoboldShamanNecromancerBrain/KoboldShamanNecromancerBrain", "Units/Monsters/Kobold/KoboldFeatureList/KoboldShaman/KoboldShamanBrain/KoboldShamanBrain"], "children": ["Brain/Considerations/NoBuffMirrorImage", "Spells/Level2/MirrorImage"]}

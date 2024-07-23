@@ -1,0 +1,1 @@
+{"parents": ["World/Crusade/Events/Relics/Ch3/DirtySquealer_Enchanting_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Belts/UniquePF2/CrusadeRelics/Chapter3/OldEarth/OldEarthShriekBeltEnchantment", "Equipment/CommonEnchantments/Strength2"]}

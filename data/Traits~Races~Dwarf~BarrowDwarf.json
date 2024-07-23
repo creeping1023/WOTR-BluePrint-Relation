@@ -1,0 +1,1 @@
+{"parents": ["Traits/Races/Dwarf/DwarfHeritageSelection", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Slayer_FeatureList"], "children": ["Traits/Races/Common/UndeadType", "Traits/Races/Common/UndeadType", "Traits/Races/Common/KeenSenses", "Traits/Races/Dwarf/HatredGoblinoidOrc", "Traits/Races/Dwarf/DwarfDefensiveTrainingGiants"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Jealousy/CueSequence_0006"], "children": ["World/Dialogs/Companions/CompanionRomances/Jealousy/Cue_0003", "World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranRomance/DaeranRomance_Active", "Units/Companions/Daeran/Daeran_Companion", "World/Encounters/DrezenCapital/UnlockableFlags/Jealousy_Daeran"]}

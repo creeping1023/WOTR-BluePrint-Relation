@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Aeon/AeonFirstAscensionAbility", "Mythic/Aeon/AeonFirstAscension", "Mythic/Aeon/AeonSecondLevelAbility"], "children": ["Mythic/Aeon/AeonMythicClass", "Mythic/MythicStartingClass", "Mythic/Angel/AngelMythicClass", "Mythic/Azata/AzataMythicClass", "Mythic/Demon/DemonMythicClass", "Mythic/Lich/LichMythicClass", "Mythic/Trickster/TricksterMythicClass"]}

@@ -1,0 +1,1 @@
+{"parents": ["Items/Scrolls/Level6/ScrollOfSummonElementalHugeEarth", "Spells/Level6/SummonElementalHugeBase"], "children": ["Units/Monsters/EarthElemental/SummonedEarthElementalHuge", "Buffs/SummonedCreatureSpawnMonsterIV-VI", "Spells/CutsceneSpells/SummonMonsterPool", "Spells/Level6/SummonElementalHugeBase"]}

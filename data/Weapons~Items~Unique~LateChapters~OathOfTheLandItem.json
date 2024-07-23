@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/C61_IssiliVendorTable", "Items/Vendors/C71_GoblinVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/Sickle", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/LateChapters/OathOfTheLandEnchantment"]}

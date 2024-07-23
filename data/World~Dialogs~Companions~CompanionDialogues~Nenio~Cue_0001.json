@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Nenio/NenioCompanion_dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/Companions/Nenio/MoreThanNothing/obj1_TalkToNenio", "World/Quests/Companions/Nenio/MoreThanNothing/obj2_BringNenioToPortal", "World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0002"]}

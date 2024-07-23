@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/ShifterMajorForms/Lizard/LizardGrabActivatableAbility"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Classes/Shifter/ShifterMajorForms/Lizard/LizardGrappledInitiatorBuff", "Classes/Shifter/ShifterMajorForms/Lizard/LizardGrappledTargetBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/C4_VendorTableSmall", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleLight/Sickle", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/BanePlant"]}

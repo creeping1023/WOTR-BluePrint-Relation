@@ -1,0 +1,1 @@
+{"parents": ["Feats/SelectiveChannel", "Classes/Oracle/OracleRevelations/OracleRevelationChannel"], "children": ["Classes/Oracle/OracleRevelations/OracleRevelationChannelAbility", "Classes/Oracle/OracleRevelations/OracleRevelationChannelFact", "Classes/Oracle/OracleRevelations/OracleRevelationChannelHarmAbility", "Feats/SelectiveChannel"]}

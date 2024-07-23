@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Prologue_Labyrinth/HosillaVsVenduagParty/CommandUnitCastSpell", "World/Cutscenes/Prologue_Labyrinth/HosillaVsVenduagAlly/CommandUnitCastSpell"], "children": ["Spells/Level4/DivinePowerBuff", "Classes/Witch/WitchPatrons/PatronShadow/WitchShadowPatronProgression", "Classes/Witch/WitchPatrons/PatronStrength/WitchStrengthPatronProgression"]}

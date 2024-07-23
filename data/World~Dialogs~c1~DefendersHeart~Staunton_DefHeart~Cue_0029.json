@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/Cue_0028", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["GlobalMaps/KenabresMap/Points/Location_BlackWingRuins", "World/Quests/c1/C1_MainQuest/Add2BW_GotoBlackwing", "World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/AnswersList_0003"]}

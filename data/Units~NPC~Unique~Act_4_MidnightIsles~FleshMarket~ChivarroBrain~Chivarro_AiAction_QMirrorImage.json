@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/ChivarroBrain/ChivarroBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffMirrorImage", "Spells/Level2/MirrorImage"]}

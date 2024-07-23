@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/EstrodTower/ScriptZones/MythicGhostsAfterBattle"], "children": ["World/Cutscenes/EstrodTower/TargonaStartDialog/CommandDelay", "World/Cutscenes/EstrodTower/TargonaStartDialog/CommandStartDialog"]}

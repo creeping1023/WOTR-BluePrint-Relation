@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Zombie/ZombieFeatureList/ZombieClericBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Classes/Cleric/ChannelNegativeEnergy"]}

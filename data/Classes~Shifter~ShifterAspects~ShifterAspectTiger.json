@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/ShifterAspectSelectionFeature", "Classes/Shifter/ShifterMajorForms/MajorFormFeature", "Feats/WeaponFocus/WeaponFocus", "Units/Pregens/StartGame/Prebuilds/PrebuildShifterFeatureList"], "children": ["Classes/Shifter/ShifterAspects/ShifterAspectTigerAbility", "Classes/Shifter/ShifterAspectResource"]}

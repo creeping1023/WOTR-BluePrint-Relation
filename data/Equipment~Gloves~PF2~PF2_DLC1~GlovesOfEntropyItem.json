@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/InevitableOverseer/Cue_6", "Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR26/PF2_MagicLaboratory_MiniBossLoot"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "EquipmentEntities/Gloves/KEE_Gloves_GlovesDueling", "Equipment/Gloves/PF2/PF2_DLC1/GlovesOfEntropyEnchant"]}

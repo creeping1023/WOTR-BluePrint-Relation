@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/NPC/Commoners/Guards/CR5_GuardFighterMeleeLevel6"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/BullsStrengthPotionAiAction", "Brain/Actions/HasteScrollAiAction", "Brain/Actions/EnlargePotionAiAction"]}

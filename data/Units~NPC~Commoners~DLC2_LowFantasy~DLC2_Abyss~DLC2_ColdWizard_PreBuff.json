@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_RichQuarter/CR8_Human_RQ_ColdWizard", "World/Cutscenes/DLC2_Abyss/DLC2_Abyss_EndDLC2/CommandAction3", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/CR8_Human_Abyss_ColdWizard"], "children": ["Spells/Level1/MageArmorBuff", "Spells/Level2/FalseLifeBuff", "Spells/Level4/FalseLifeGreaterBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Mephit/MephitFireBrain/MephitFireBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/ScorchingRay"]}

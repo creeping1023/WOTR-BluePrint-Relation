@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/FalseCommander/Brain/EnchantmentSchoolAuraOfDespairActivate", "Classes/Wizard/Enchantment/EnchantmentSchoolGreaterToggleAbility"], "children": ["Classes/Wizard/Enchantment/EnchantmentSchoolGreaterAura", "Spells/Level1/EnlargePersonBuff"]}

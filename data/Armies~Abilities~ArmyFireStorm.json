@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_FireStorm", "Armies/Abilities/ArmyFireStormFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerTriple", "Armies/Abilities/ArmyBurnOnHitBuff", "Armies/Abilities/ArmyFireStormResource"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/NPC_Common/Irabeth/AnswersList_0009", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Irabeth/Cue_0151", "World/Quests/c1/Errands/Scabbard/Objective_0001", "Items/Areas/Act_1_WorldwoundIncursion/GreyGarrison/IrabethScabbard", "World/Quests/c1/Errands/Scabbard/Objective_0001"]}

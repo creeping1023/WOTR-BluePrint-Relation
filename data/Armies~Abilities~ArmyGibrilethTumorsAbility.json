@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_GibrilethAttack", "Armies/UnitBlueprints/ArmyGibrilethStandard"], "children": ["FX/Spell Level None/AcidCommonProjectile00", "Weapons/Types/Special/RayItem", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyGibrilethTumorsAbilityBuff"]}

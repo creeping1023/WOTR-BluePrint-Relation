@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Prologue_Kenabres/Darts_scene/CommandActivateGate", "World/Cutscenes/Prologue_Kenabres/Darts_scene/Darts_scene"], "children": ["World/Cutscenes/Prologue_Kenabres/Darts_scene/CommandDelay 3", "World/Cutscenes/Prologue_Kenabres/Darts_scene/gate 1", "World/Cutscenes/Prologue_Kenabres/Darts_scene/CommandAction 1"]}

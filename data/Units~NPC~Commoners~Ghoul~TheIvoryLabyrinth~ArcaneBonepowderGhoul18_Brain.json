@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Ghoul/TheIvoryLabyrinth/ArcaneBonepowderGhoul18", "Units/Monsters/DLC3_Mobs/DLC3_Tir1_Armies/DLC3_CultistsDemonsUndead-0cr-17cr/DLC3_CR18_ArcaneBonepowderGhoul"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/DrezenCitadelLevel2/StauntonVaneBrain/StauntonVane_CoupDeGraceAIAction", "Brain/Actions/AttackAiAction"]}

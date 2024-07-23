@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLoot_VendorRare_Grade4", "Dugeons/Loot/DungeonLootRare", "Units/NPC/Commoners/DLC3_RogueLike/Scroll_Chapter3VendorTable1", "Items/Vendors/Chapter3/Scroll_Chapter3VendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/UniquePF2/HalfOfPairedPendantEnchantment"]}

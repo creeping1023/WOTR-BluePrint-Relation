@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/IngerMaggor/IngerMaggorBrain/IngerMaggor_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level5/FlameStrike"]}

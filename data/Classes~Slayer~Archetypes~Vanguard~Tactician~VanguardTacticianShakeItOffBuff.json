@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidTactitianShakeHiddenAreaEffect", "Classes/Hunter/Archetypes/Forester/ForesterTactician/ForesterTacticianShakeItOffAbility", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianShakeItOffAbility"], "children": ["Feats/Teamwork/ShakeItOff"]}

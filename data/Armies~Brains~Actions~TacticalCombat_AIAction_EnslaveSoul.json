@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombat_KalavakusBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_MediumRange", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Brain/Considerations/NoBuffEnslaveSoul", "Brain/Considerations/NoBuffEnslaveSoulImmunity", "Armies/Abilities/ArmyEnslaveSoul"]}

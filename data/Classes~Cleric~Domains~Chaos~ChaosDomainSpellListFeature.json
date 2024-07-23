@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Chaos/ChaosDomainSpellListFeatureDruid", "Classes/Cleric/Domains/Madness/MadnessDomainSpellListFeature", "Classes/Cleric/Domains/Chaos/ChaosDomainBaseFeature", "Classes/Cleric/Archetypes/Separatist/Domains/Chaos/ChaosDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Chaos/ChaosDomainSpellList"]}

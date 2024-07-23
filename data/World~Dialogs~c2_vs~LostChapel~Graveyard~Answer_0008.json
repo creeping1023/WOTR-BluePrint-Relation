@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Graveyard/AnswersList_0005"], "children": ["World/Encounters/LostChapel/UnlockableFlags/GraveyardGhoulsNotAttacked", "World/Encounters/LostChapel/SummonPools/GhoulsAtGraveyard", "Factions/Mobs"]}

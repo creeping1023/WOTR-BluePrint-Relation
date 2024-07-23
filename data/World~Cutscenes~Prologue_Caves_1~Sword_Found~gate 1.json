@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Prologue_Caves_1/Sword_Found/Sword_Found", "World/Cutscenes/Prologue_Caves_1/Sword_Found/gate"], "children": ["World/Cutscenes/Prologue_Caves_1/Sword_Found/CommandAction 1", "World/Cutscenes/Prologue_Caves_1/Sword_Found/CommandDelay 5", "World/Cutscenes/Prologue_Caves_1/Sword_Found/CommandControlCamera 7"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Golem Adamantine/CR23_GolemAdamantine_DLC1"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Golem Adamantine/DLC1_GolemFeature/Golem_AiAction_GreatCleave"]}

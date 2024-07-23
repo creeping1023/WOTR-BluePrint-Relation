@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Woljif_Q3/Ygefeles_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/NotUndeadConsideration", "Brain/Considerations/NoBuffFreedomOfMovement", "Spells/Level7/HoldPersonMass"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Gargoyle/Regill_HellknightsVsGargoyles/GargoyleMinibossBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Gargoyle/Regill_HellknightsVsGargoyles/GargoyleMinibossBraon_SpitVenomConsideration", "Spells/Level3/SpitVenom"]}

@@ -1,0 +1,1 @@
+{"parents": ["Feats/DLC5/BoarShredBuff"], "children": ["Classes/Basic/BasicActions/Skills/PersuasionUseAbility", "Classes/Basic/BasicActions/Skills/PersuasionUseAbility", "Buffs/Shaken", "Buffs/Frightened", "Classes/Swordlord/DisplayWeaponProwess", "Mythic/Trickster/Persuasion/TricksterPersuasionDebuff", "Classes/Basic/BasicActions/Skills/PersuasionUseAbility"]}

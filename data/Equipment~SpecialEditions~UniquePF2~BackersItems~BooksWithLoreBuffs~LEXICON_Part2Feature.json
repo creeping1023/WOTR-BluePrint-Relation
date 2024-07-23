@@ -1,0 +1,1 @@
+{"parents": ["Items/Books/UniqueBooks/LEXICON_Part2", "World/Encounters/VaultOfGraves/Items/LexiconHalf2"], "children": ["Classes/Ranger/FavoriteEnemy/DemonOfMagicFeature", "Classes/Ranger/FavoriteEnemy/DemonOfSlaughterFeature", "Classes/Ranger/FavoriteEnemy/DemonOfStrengthFeature"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/TheIvoryLabyrinth/Prisoners/Prisoners", "World/Cutscenes/TheIvoryLabyrinth/Prisoners/CommandActivateGate"], "children": ["World/Cutscenes/TheIvoryLabyrinth/Prisoners/CommandDelay 1", "World/Cutscenes/TheIvoryLabyrinth/Prisoners/CommandAction", "World/Cutscenes/TheIvoryLabyrinth/Prisoners/gate"]}

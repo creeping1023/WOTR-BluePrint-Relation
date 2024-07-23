@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5", "Items/Vendors/PF2_DLC5/DLC5_ShadowPlanePotionsScrollsVendorTable", "Loot/Quest/LostChapel/DLC5_ChainedDarknessReward"], "children": ["DLC/DLC5/Dlc5RewardCampaign", "Items/UsableSlotItem/DLC5/DLC5_VoidShardUsableItemAbility"]}

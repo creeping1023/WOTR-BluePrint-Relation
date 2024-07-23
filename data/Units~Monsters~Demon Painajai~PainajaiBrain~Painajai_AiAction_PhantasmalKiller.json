@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Brain_Caster"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHeroismGreater", "Brain/Considerations/NoBuffHeroicInvocation", "Spells/Level4/PhantasmalKiller"]}

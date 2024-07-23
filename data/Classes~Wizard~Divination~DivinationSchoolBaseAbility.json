@@ -1,0 +1,1 @@
+{"parents": ["Classes/Wizard/Divination/DivinationSchoolBaseAbilityCast"], "children": ["Weapons/Types/Special/TouchItem", "Classes/Wizard/Divination/DivinationSchoolBaseBuff", "Classes/Wizard/WizardClass"]}

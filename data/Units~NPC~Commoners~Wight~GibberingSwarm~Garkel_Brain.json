@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Wight/GibberingSwarm/CR8_Garkel"], "children": ["Units/NPC/Commoners/Wight/GibberingSwarm/Garkel_FreebooterBane", "Units/NPC/Commoners/Wight/GibberingSwarm/Garkel_FreebooterBond", "Brain/Actions/AttackAiAction"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Magic/MagicDomainGreaterFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Magic/MagicDomainGreaterResource", "Weapons/Types/Special/TouchItem"]}

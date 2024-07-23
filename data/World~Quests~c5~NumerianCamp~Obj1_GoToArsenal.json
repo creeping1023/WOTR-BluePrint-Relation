@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/KohhDungeon/FirstArenaCloseDoor/CommandAction5", "World/Dialogs/c5/NumerianCamp/KTC_KellidInDisg/Cue_0016", "World/Quests/c5/NumerianCamp/NumerianCamp_quest"], "children": ["GlobalMaps/WorldWoundGM/Points/Location_NumerianLab", "World/Quests/c5/NumerianCamp/NumerianCamp_quest"]}

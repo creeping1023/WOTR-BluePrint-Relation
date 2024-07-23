@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/VaultOfGraves/NoctaOpensPortal/NoctaOpensPortal"], "children": ["World/Cutscenes/VaultOfGraves/NoctaOpensPortal/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/VaultOfGraves/NoctaOpensPortal/CommandDelay", "World/Cutscenes/VaultOfGraves/NoctaOpensPortal/gate2"]}

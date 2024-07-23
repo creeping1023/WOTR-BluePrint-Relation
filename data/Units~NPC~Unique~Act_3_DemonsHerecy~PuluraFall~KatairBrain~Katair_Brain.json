@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair"], "children": ["Brain/Actions/AttackAiActionInstantEnemy", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/KatairBrain/Katair_CSWAIAction", "Brain/Actions/InstantEnemyAiAction"]}

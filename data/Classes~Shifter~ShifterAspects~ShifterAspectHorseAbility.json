@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/ChimeraAspect/ShifterAspectChimeraHorseBuff", "Classes/Shifter/ShifterAspects/ShifterAspectHorse"], "children": ["Classes/Shifter/ShifterAspectResource", "Classes/Shifter/FinalShifterAspectFeature", "Classes/Shifter/ShifterAspects/ShifterAspectHorseBuff"]}

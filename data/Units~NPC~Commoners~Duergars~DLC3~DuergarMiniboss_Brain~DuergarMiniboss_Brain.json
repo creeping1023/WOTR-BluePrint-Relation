@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/NPC/Commoners/Duergars/DLC3/CR15_DuergarMiniboss"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/TouchSpellAiAction", "Units/NPC/Commoners/Duergars/DLC3/DuergarMiniboss_Brain/DuergarMiniboss_TransformationAiAction", "Units/NPC/Commoners/Duergars/DLC3/DuergarMiniboss_Brain/DuergarMiniboss_AcidBombAiAction"]}

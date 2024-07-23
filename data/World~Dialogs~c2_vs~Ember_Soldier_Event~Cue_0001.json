@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Ember/Answer_0058", "World/Dialogs/c2_vs/Ember_Soldier_Event/Ember_Soldier_Event_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/c2_vs/Ember_Soldier_Event/Cue_0002"]}

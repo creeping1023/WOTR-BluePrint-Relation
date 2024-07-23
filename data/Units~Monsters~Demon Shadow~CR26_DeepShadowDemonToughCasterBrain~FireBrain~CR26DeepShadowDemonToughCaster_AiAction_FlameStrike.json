@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Shadow/CR26_DeepShadowDemonToughCasterBrain/FireBrain/CR26DeepShadowDemonToughCaster_FireBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Spells/Level5/FlameStrike", "Spells/Level8/PolarRay", "Spells/Level8/Sunburst", "Spells/Level8/Stormbolts"]}

@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/Monsters/Owlbear/CR11_OwlbearNecromancy"], "children": ["CreatureAbilities/EnergyResistance/ColdResistance10", "CreatureAbilities/EnergyResistance/ElectricityResistance10", "CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerNecromancy/DweomerNecromancyBuff"]}

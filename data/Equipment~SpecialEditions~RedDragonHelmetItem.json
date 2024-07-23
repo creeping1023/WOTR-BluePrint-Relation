@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/SpecialEditions/RedDragonHelmetAbility", "EquipmentEntities/Helmet/KEE_Helmet_HelmetFullplateDragonscale", "Equipment/SpecialEditions/RedDragonHelmetEnchantment"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/EarthElemental/EarthElementalBrain/FiendishGreaterEarthElementalBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffSunder", "Brain/Considerations/HeavyArmorConsideration", "CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/HasFiendishSmiteGoodConsideration", "Feats/Maneuvers/SunderArmor/SunderAction"]}

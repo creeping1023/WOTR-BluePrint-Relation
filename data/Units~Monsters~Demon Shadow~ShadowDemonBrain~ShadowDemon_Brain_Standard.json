@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Shadow/CR8_ShadowDemonAdvanced", "Equipment/Belts/UniquePF2/Chapter3/BeltOfDemonicShadowDemon", "QA/Unused/Units/Monsters/Demon Shadow/MidnightFane/MidnightFane_ShadowDemonNocticula", "Units/Monsters/Demon Shadow/CR7_ShadowDemonStandard"], "children": ["Brain/Actions/AttackAiAction"]}

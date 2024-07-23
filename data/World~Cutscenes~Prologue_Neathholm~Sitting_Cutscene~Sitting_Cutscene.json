@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Prologue_Neathholm/ActionsHolders/Sitting_SpawnActions", "World/Cutscenes/Prologue_Neathholm/Sitting_Cutscene/CommandActivateGate"], "children": ["World/Cutscenes/Prologue_Neathholm/Sitting_Cutscene/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Prologue_Neathholm/Sitting_Cutscene/gate"]}

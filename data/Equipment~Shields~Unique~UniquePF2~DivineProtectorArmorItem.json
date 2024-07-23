@@ -1,0 +1,1 @@
+{"parents": ["Equipment/Shields/Unique/UniquePF2/DivineProtectorShieldItem"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/HeavyShieldType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus2", "Equipment/Shields/Unique/UniquePF2/DivineProtectorArmorEnchantment", "Equipment/Armor/Enchantments/MithralArmorEnchant"]}

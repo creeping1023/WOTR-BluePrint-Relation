@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskSlaveTrader"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Items/Consumables/StinkyBombAbility"]}

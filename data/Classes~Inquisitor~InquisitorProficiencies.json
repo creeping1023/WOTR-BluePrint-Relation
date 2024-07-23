@@ -1,0 +1,1 @@
+{"parents": ["Classes/Inquisitor/InquisitorProgression", "Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency", "Classes/Basic/Proficiencies/ShieldsProficiency", "Classes/Basic/Proficiencies/MediumArmorProficiency"]}

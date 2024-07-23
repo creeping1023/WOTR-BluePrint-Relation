@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Oolioddroo/OolioddrooBrain/OolioddrooMythic_Caster_Brain"], "children": ["Brain/Considerations/Caster", "Brain/Considerations/NoBuffHeroismGreater", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHeroicInvocation", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level9/Weird"]}

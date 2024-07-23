@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyNecromancer", "Armies/UnitBlueprints/ArmyCultist_Baphomet_Melee"], "children": ["Armies/Abilities/ArmyChannelNegativeEnergyDamageAbility", "Armies/Abilities/ArmyChannelNegativeEnergyDamageFact"]}

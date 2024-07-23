@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/KohhDungeon/ChemicalLabFire/gate"], "children": ["World/Cutscenes/KohhDungeon/ChemicalLabFire/CommandFadeout", "World/Cutscenes/KohhDungeon/ChemicalLabFire/gate2", "World/Cutscenes/KohhDungeon/ChemicalLabFire/CommandDelay2", "World/Cutscenes/KohhDungeon/ChemicalLabFire/CommandAction2", "World/Cutscenes/KohhDungeon/ChemicalLabFire/gate2"]}

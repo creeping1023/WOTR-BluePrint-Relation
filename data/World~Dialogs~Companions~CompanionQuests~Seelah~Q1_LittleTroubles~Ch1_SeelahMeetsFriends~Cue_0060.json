@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/Ch1_SeelahMeetsFriends/Cue_0031"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/DH_SeelasFriend_DeserterJanna", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/Ch1_SeelahMeetsFriends/Cue_0052"]}

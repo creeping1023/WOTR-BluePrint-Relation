@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/gate"], "children": ["World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/CommandUnitPlayCutsceneAnimation 1", "World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/gate 2", "World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/CommandDelay 2", "World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/gate 2"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/BaphometBrain/Baphomet_Brain_Basic"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/UnholyBlight"]}

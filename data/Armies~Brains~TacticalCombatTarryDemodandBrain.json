@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyDemodandTarryStandard"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_ChaosHammer"]}

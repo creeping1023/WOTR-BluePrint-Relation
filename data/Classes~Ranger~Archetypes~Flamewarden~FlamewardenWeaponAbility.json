@@ -1,0 +1,1 @@
+{"parents": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponFeature"], "children": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponBuff", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponBurstBuff", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponResource", "Classes/Ranger/RangerClass"]}

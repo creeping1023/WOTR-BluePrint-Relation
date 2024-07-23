@@ -1,0 +1,1 @@
+{"parents": ["Items/Scrolls/Level5/ScrollOfPolymorphElementalFire", "Spells/Level5/PolymorphBase"], "children": ["Spells/Level5/PolymorphElementalFireBuff", "Spells/Level5/PolymorphElementalFireBuff", "Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Spells/Level5/BalefulPolymorphBuff", "Spells/Level5/PolymorphBase"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/WintersunDragon_Features/DLC1_WintersunDragon_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/NPC/Unique/DLC1_Megaepic/WintersunDragon_Features/DLC1_WintersunDragon_Ability_BreathWeapon"]}

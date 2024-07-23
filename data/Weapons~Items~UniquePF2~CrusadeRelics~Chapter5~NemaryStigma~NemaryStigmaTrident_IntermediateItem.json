@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch4/NemaryStigma_Reforge_event", "Kingdom/CrusadeProjects/RelicProjects/Chapter4/NemaryStigma/NemaryStigmaTridentProject_Enchanting"], "children": ["Weapons/Types/SimpleTwoHanded/Trident", "Weapons/Enchantments/Enhancement5"]}

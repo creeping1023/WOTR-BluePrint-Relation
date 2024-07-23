@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/AzataLillend/AzataLillendBrain/AzataLillendBrain_Summoned"], "children": ["Brain/Considerations/TargetOther", "Brain/Considerations/InjuryMedium", "Spells/Level3/CureSeriousWounds"]}

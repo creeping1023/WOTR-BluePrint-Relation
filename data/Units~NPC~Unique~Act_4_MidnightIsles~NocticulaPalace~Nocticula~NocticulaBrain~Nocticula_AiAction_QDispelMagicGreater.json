@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/NocticulaBrain/Nocticula_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AoE_AvoidSelf", "Spells/Level6/DispelMagicGreater", "Spells/Level6/DispelMagicGreaterArea"]}

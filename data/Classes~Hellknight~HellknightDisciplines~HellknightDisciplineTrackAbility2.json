@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/HellknightsCamp/HellKnightsBrain/HellKnightSummonHellHoundAiAction", "Classes/Hellknight/HellknightDisciplines/HellknightDisciplineTrackFeature2"], "children": ["Units/Monsters/Hellhound/HellhoundSummoned", "Classes/Hellknight/HellknightDisciplines/HellknightDisciplineTrackResource"]}

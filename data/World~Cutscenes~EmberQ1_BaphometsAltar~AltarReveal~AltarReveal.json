@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/EmberQ3_ZoneStart_Dialogue"], "children": ["World/Cutscenes/EmberQ1_BaphometsAltar/AltarReveal/CommandAddFogOfWarRevealer", "World/Cutscenes/EmberQ1_BaphometsAltar/AltarReveal/CommandControlCamera"]}

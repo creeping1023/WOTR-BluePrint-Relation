@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5_Sithhud/Ichor_InsectPlagueAIAction", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Brain/Jeslyn_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Brain/Jeslyn_InsectPlagueAbility"]}

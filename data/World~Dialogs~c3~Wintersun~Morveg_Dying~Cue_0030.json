@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0013", "World/Dialogs/c3/Wintersun/Morveg_Dying/SequenceExit_0025", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0012", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0032"], "children": ["Buffs/NPC_Protection"]}

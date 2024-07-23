@@ -1,0 +1,1 @@
+{"parents": ["Armies/CrusadeGlobalBuffs/NarrativeBuffs/QuatermasterErrandTracker_buff", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0082"], "children": ["Armies/UnitBlueprints/ArmyBalorStandard", "Armies/UnitBlueprints/ArmyGallu", "Armies/UnitBlueprints/ArmyPainajaiRanged", "Armies/UnitBlueprints/ArmyVrolikai"]}

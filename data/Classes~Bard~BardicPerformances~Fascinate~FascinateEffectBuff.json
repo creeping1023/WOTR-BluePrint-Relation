@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Nereid/NereidBrain/NereidBeguilingAuraAreaEffect", "Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment", "Classes/Bard/BardicPerformances/Fascinate/FascinateArea"], "children": ["Classes/Bard/BardicPerformances/Fascinate/FascinateEffectImmunityBuff"]}

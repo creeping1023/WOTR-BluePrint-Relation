@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyLayOnHandsFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyLayOnHandsResource", "Armies/Abilities/ArmyLayOnHandsSelfCooldownBuff"]}

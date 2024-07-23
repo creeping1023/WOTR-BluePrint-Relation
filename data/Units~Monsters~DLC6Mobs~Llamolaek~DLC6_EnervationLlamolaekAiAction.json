@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC6Mobs/Llamolaek/DLC6_LlamolaekBrain"], "children": ["Brain/Actions/EnervationAiAction", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level4/Enervation"]}

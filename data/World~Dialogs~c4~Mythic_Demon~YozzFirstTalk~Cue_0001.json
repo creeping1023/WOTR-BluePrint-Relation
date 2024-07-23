@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c4/Mythic_Demon/YozzFirstTalk/Cue_0013"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicDemon_Ch3/Yozz", "World/Quests/c4/MidnightIsles/Add_ShamiraPing", "World/Quests/MythicQuests/Demon/Errands/C4_TalkToYozz/Objective_0001", "World/Dialogs/c4/Mythic_Demon/YozzFirstTalk/AnswersList_0018"]}

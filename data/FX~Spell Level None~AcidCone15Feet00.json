@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/Templates/AbyssalCreature/Acid/AbyssalCreatureAcidSpecialAttackAbility", "Units/Monsters/Mephit/MephitEarthBrain/MephitEarthBreathWeapon", "Units/Monsters/MimicChest/MimicChestAcidWeapon", "Classes/Sorcerer/ElementalBloodline/Earth/BurningHandsAcid"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

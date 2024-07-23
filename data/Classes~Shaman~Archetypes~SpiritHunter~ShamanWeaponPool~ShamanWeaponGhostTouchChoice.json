@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shaman/Archetypes/SpiritHunter/ShamanWeaponPool/ShamanWeaponPoolFeature"], "children": ["Units/Companions/Camelia/Camelia_Companion", "Units/Pregens/PartyPregenTests/Camelia/CameliaPregenLevel3", "Classes/Shaman/Archetypes/SpiritHunter/ShamanWeaponPool/ShamanWeaponGhostTouchBuff"]}

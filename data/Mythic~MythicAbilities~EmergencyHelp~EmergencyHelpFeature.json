@@ -1,0 +1,1 @@
+{"parents": ["Mythic/MythicAbilitySelection", "Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenClericFeatureList"], "children": ["Mythic/MythicAbilities/EmergencyHelp/EmergencyHelpAbility", "Mythic/MythicAbilities/EmergencyHelp/EmergencyHelpResource"]}

@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombat_NalfeshneeBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ClosestButNotInMelee", "Brain/Considerations/NoBuffSlowArmy", "Armies/Abilities/ArmySlow"]}

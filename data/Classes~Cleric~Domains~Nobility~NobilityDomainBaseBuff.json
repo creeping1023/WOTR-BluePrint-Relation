@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Nobility/NobilityDomainBaseAbility", "Classes/Cleric/Archetypes/Separatist/Domains/Nobility/NobilityDomainBaseAbilitySeparatist"], "children": ["Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]}

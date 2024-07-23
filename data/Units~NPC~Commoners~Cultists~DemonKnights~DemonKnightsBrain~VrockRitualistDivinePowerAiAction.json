@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/VrockRitualistBrain_FrontLiner"], "children": ["Brain/Considerations/NoBuffDivinePower", "Spells/Level4/DivinePower"]}

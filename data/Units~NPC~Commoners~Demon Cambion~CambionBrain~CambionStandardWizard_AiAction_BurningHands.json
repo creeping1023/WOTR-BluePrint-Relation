@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_StandardWizard"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level1/BurningHands"]}

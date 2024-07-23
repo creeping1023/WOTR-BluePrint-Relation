@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cavalier/CavalierMightyCharge"], "children": ["Root/SystemMechanics/Conditions/ChargeBuff", "Classes/Cavalier/CavalierMightyChargeEffectBuff"]}

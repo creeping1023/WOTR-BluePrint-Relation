@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AlushinyrraHigherCity/VellexiaStartsCombat/CommandAction 1", "World/Encounters/Common/ActionHolders/UnitStandingCool_SpawnerActions"], "children": ["World/Cutscenes/Common/UnitAnimationsStandingCool/CommandMarkUnitControlled", "World/Cutscenes/Common/UnitAnimationsStandingCool/CommandDelay", "World/Cutscenes/Common/UnitAnimationsStandingCool/gate"]}

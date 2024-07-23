@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Loot/Good/CR20/PF2_CoolDemons_TreshLoot09_order", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Rods/MetamagicRodMasterpiece/MetamagicRodMasterpieceExtraChargesToggleAbility"]}

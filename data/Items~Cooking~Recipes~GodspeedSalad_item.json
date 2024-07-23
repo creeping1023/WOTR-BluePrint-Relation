@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootCookingRecipes", "Loot/Good/CR26/PF2_Worldwound_LootCart", "Units/NPC/Commoners/DLC3_RogueLike/Tier1/VendorPortScrollsAndPotions/DLC3_Tier1VendorTableCooking", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Cooking/SinisterVillage/TrashLoot06"], "children": ["Recipes/GodspeedSaladRecipe", "Items/DestructibleItemsShards/DustShardItem"]}

@@ -1,0 +1,1 @@
+{"parents": ["Brain/NPC/PotionFighterBrain"], "children": ["Brain/Considerations/TargetSelf", "Units/NPC/Commoners/Bandits/EnlargeSelf"]}

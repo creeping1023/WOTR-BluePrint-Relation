@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/LivingArmor/CR11_LivingArmorTank", "Dugeons/Loot/DungeonLootExclude", "Units/Monsters/LivingArmor/LivingArmorTankSummoned"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/FullplateType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus1"]}

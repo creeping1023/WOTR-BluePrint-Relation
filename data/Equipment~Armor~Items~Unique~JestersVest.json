@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/PaddedType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus1", "Equipment/Armor/Enchantments/JestersVestEnchant"]}

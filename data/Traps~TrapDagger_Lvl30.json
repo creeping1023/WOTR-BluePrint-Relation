@@ -1,0 +1,1 @@
+{"parents": ["Root/WeatherMechanics/CorruptionActor", "Dugeons/Loot/DungeonLootExclude", "Root/WeatherMechanics/RainActor", "Root/WeatherMechanics/HeatActor", "Traps/TrapActor_Lvl30", "Root/WeatherMechanics/SnowActor"], "children": ["Weapons/Types/SimpleLight/Dagger"]}

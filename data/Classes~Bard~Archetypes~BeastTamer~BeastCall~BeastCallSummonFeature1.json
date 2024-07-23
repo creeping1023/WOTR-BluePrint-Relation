@@ -1,0 +1,1 @@
+{"parents": ["Classes/Bard/Archetypes/BeastTamer/BeastTamerArchetype", "Classes/Bard/BardProgression", "Classes/Bard/DLC3_BardProgression_BOON", "Units/NPC/Commoners/DLC5_Storys_End/Penta_Facts/BardProgression_Penta"], "children": ["Classes/Bard/BardClass", "Classes/Bard/Archetypes/BeastTamer/BeastCall/BeastCallSummonAddition1"]}

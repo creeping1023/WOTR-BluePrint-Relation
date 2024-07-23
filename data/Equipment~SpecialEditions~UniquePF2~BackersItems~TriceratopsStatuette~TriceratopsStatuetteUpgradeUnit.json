@@ -1,0 +1,1 @@
+{"parents": ["Equipment/SpecialEditions/UniquePF2/BackersItems/TriceratopsStatuette/TriceratopsStatuetteFeature", "Equipment/SpecialEditions/UniquePF2/BackersItems/TriceratopsStatuette/TriceratopsStatuetteCorrectFeature"], "children": ["CreatureAbilities/ReducedReach", "Classes/Pets/Triceratops_Feature_PowerfulChargeFeature"]}

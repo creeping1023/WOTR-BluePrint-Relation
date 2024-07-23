@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Oracle_spells/Ghost_Oracle_Wounds_Brain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/NotUndeadConsideration", "Spells/Level6/InflictModerateWoundsMass"]}

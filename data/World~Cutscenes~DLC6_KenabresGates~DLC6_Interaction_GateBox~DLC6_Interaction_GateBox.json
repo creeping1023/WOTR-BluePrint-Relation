@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC6_KenabresGates/ActionsHolders/DLC6_Interaction_GateBox"], "children": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Interaction_GateBox/CutsceneCommandFadeout", "World/Cutscenes/DLC6_KenabresGates/DLC6_Interaction_GateBox/CommandDelay", "World/Cutscenes/DLC6_KenabresGates/DLC6_Interaction_GateBox/CommandAction"]}

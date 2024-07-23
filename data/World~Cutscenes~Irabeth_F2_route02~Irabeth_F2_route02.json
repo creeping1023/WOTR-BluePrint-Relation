@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GrayGarrison/ScriptZones/IrabethF2_route2"], "children": ["World/Cutscenes/Irabeth_F2_route02/CommandDelay 1", "World/Cutscenes/Irabeth_F2_route02/CommandMoveUnit 1", "World/Cutscenes/Irabeth_F2_route02/CommandAction", "World/Cutscenes/Irabeth_F2_route02/CommandMoveUnit", "World/Cutscenes/Irabeth_F2_route02/CommandBark"]}

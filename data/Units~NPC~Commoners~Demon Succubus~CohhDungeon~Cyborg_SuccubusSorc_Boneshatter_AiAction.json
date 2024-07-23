@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Succubus/CohhDungeon/Cyborg_SuccubusSorc_Brain_Boneshatter"], "children": ["Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level4/Boneshatter"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/NPC/Commoners/Act_4_MidnightIsles/Guests/AlushinyrraGuest_WarriorHuman2"], "children": ["Weapons/Types/MartialOneHanded/Battleaxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming"]}

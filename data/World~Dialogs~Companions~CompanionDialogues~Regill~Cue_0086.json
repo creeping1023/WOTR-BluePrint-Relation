@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Regill/Regill_Main_dialog"], "children": ["World/Quests/Companions/Regill/Q2_WatchYourStep/WatchYourStep_RegillQ2_quest", "World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/Q2_RegillDispleased", "World/Dialogs/Companions/CompanionDialogues/Regill/AnswersList_0002"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Iz/CommonDialog1/CommandActivateGate", "World/Cutscenes/Iz/CommonDialog1/CommonDialog1"], "children": ["World/Cutscenes/Iz/CommonDialog1/CommandDelay1", "World/Cutscenes/Iz/CommonDialog1/gate1"]}

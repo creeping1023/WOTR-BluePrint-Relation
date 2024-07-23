@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneEquipmentVendorTable", "Dugeons/Loot/DungeonLootDLC5"], "children": ["DLC/DLC5/Dlc5RewardCampaign", "Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Belts/DLC5/DLC5_BeltOfLesserShadowformActivatableAbility", "Equipment/CommonEnchantments/Dexterity2"]}

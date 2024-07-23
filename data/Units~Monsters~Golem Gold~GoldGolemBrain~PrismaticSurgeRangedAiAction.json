@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemBrain"], "children": ["Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeRangeTargetConsideration", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeRanged"]}

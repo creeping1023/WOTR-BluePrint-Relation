@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistBaphometCasterBrain/CultistBaphometMeleeCaster_Brain_Unholy"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level3/MagicWeaponGreater/MagicWeaponGreater", "Spells/Level3/MagicWeaponGreater/MagicWeaponGreaterPrimary"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Blessings/Death/DeathBlessingMajorFeature"], "children": ["Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWarBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisBuff", "Weapons/Types/Special/TouchItem"]}

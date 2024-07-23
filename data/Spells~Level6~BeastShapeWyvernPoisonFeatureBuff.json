@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level6/BeastShapeIVWyvernBuff", "Spells/Level7/PolymorphGreaterWyvernBuff", "Brain/Considerations/HasPoison"], "children": ["Weapons/Types/NaturalWeapon/StingType", "Units/Monsters/Wyvern/WyvernPoisonBuff", "Units/Monsters/Wyvern/WyvernPoisonBuff"]}

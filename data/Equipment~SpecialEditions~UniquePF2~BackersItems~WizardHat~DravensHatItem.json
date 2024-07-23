@@ -1,0 +1,1 @@
+{"parents": ["Loot/Good/CR10/RichHuman_GoodHidden", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/SpecialEditions/UniquePF2/BackersItems/WizardHat/DravensHatToggleAbility", "EquipmentEntities/Helmet/KEE_Helmet_HatWitch", "Equipment/SpecialEditions/UniquePF2/BackersItems/WizardHat/DravensHatEnchantment"]}

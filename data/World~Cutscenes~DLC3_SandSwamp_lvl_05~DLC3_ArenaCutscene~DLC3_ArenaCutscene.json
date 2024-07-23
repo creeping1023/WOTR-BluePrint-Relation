@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC3_SandSwamp_lvl_05/ScriptZones/DLC3_FuryArenas_StartCutscene"], "children": ["World/Cutscenes/DLC3_SandSwamp_lvl_05/DLC3_ArenaCutscene/CommandMoveUnit", "World/Cutscenes/DLC3_SandSwamp_lvl_05/DLC3_ArenaCutscene/CommandAddFogOfWarRevealer"]}

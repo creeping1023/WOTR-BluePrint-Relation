@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MythicLich_Ch3/Brain/UrgathoaPatrols_ClericBrain", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_FullCasterBoss/FullCasterBoss_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level8/Soulreaver"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_NoBuff_Blindness", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_NoFact_Undead", "Spells/Level2/Blindness"]}

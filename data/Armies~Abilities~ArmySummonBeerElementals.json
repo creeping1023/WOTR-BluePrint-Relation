@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmySummonBeerElementalsFeature"], "children": ["Armies/UnitBlueprints/ArmyBeerElemental", "Buffs/SummonedCreatureSpawnMonsterI-III", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/ArmySummonBeerElementalsResource"]}

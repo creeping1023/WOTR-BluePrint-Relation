@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/CueSequence_0004"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/MythicLich_NalfeshneePunishment", "World/Encounters/Ziggurat/UnlockableFlags/Demons_Talk", "Units/Monsters/Demon Nalfeshnee/LichZiggurat/CR20_MythicNalfeshneeShaman"]}

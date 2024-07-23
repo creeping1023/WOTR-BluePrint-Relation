@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Root/Upgraders/Player/PF-208084_LensesOfProlonguedGazeItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/UniquePF2/Chapter3/LensesOfProlonguedGazeEnchantment"]}

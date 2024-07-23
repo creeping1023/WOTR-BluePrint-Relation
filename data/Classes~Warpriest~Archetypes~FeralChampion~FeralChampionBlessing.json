@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Archetypes/FeralChampion/FeralChampionArchetype", "Feats/WeaponFocus/WeaponFocus"], "children": ["Classes/Warpriest/Blessings/Animal/AnimalBlessingFeature", "Classes/Warpriest/Blessings/BlessingResource"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneEquipmentVendorTable", "Loot/Good/CR0/Forest_DLC6_FKLoot_09", "Loot/Good/CR6/PF2_Demons_MeltedExplorer_3"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Gloves/DLC3/GlovesNumerianEnchantment"]}

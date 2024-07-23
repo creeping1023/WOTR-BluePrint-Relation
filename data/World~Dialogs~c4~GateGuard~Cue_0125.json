@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/GateGuard/Answer_0021"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/GateGuards/GateGuard_LowerToMedium", "World/Encounters/AlushinyrraCity/UnlockableFlags/GateRenown", "World/Encounters/AlushinyrraMediumCity/ActionsHolders/Gate_UnlockLowerToMedium"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Hunter/Archetypes/Forester/ForesterBreathOfLifeFeature"], "children": ["Spells/Level5/BreathOfLifeTouch", "Classes/Basic/BasicActions/RecentlyDeadBuff", "CreatureAbilities/NegativeEnergyAffinity", "Classes/Hunter/Archetypes/Forester/ForesterBreathOfLifeResource"]}

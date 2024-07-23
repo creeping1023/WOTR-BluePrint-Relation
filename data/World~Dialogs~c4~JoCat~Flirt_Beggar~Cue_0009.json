@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c4/JoCat/Flirt_Beggar/Answer_0006", "World/Dialogs/c4/JoCat/Flirt_Beggar/Cue_0008", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/JoCatCameo/BeggarAbrikandiluJocatChat", "World/Dialogs/c4/JoCat/Flirt_Beggar/Cue_2"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/Act_2_SwordOfValor/WarCamp_QuartermasterVendorTable"], "children": ["Weapons/Types/SimpleLight/PunchingDagger", "Weapons/Enchantments/Axiomatic", "Weapons/Enchantments/Enhancement1"]}

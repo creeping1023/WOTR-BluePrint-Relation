@@ -1,0 +1,1 @@
+{"parents": ["Feats/WeaponFocus/WeaponFocus", "Classes/Druid/Archetypes/ElementalRampager/ElementalRampagerArchetype", "Mythic/MythicAbilities/LimitlessRage"], "children": ["Classes/Druid/Archetypes/ElementalRampager/ElementalRampagerRampageResource", "Classes/Druid/Archetypes/ElementalRampager/ElementalRampagerRampageAbility"]}

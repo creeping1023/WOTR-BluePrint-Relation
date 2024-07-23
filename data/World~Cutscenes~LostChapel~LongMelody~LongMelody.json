@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/ShortMelody3/CommandAction"], "children": ["World/Cutscenes/LostChapel/LongMelody/CommandAction", "World/Cutscenes/LostChapel/LongMelody/CommandDelay", "World/Cutscenes/LostChapel/LongMelody/gate", "World/Cutscenes/LostChapel/LongMelody/CommandLockControls", "World/Cutscenes/LostChapel/LongMelody/gate"]}

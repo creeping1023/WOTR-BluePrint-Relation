@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCaster19_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level5/ConstrictingCoils"]}

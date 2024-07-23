@@ -1,0 +1,1 @@
+{"parents": ["Classes/Magus/MagusProgression", "Classes/MagusEldritchScion/EldritchScionProgression", "Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype"], "children": ["Classes/Magus/TrueMagus/TrueMagusAttackAbility", "Classes/Magus/TrueMagus/TrueMagusDCAbility", "Classes/Magus/TrueMagus/TrueMagusPenetrationAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Mongrelman/AlushinyrraHigherCity/Mighty_CorruptedMongrelmanRangedRanger"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/SwitchToRangedAiAcition", "Brain/Actions/SwitchToMeleeAiAcition"]}

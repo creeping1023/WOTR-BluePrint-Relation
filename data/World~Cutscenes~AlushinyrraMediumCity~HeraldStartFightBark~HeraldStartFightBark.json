@@ -1,0 +1,1 @@
+{"parents": ["Spells/CutsceneSpells/Alushinyrra/InvisibleHeraldBuff"], "children": ["World/Cutscenes/AlushinyrraMediumCity/HeraldStartFightBark/CommandDelay", "World/Cutscenes/AlushinyrraMediumCity/HeraldStartFightBark/CommandAction", "World/Cutscenes/AlushinyrraMediumCity/HeraldStartFightBark/gate"]}

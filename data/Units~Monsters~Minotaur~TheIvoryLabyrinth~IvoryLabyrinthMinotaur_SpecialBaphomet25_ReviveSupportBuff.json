@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaur_SpecialBaphomet25_ReviveSupport"], "children": ["CreatureAbilities/Unlootable", "Buffs/NPC_Untargetable"]}

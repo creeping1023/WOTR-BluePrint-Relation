@@ -1,0 +1,1 @@
+{"parents": ["Kingdom/CrusadeProjects/RelicProjects/Chapter5/BaphometFire/BaphometFireGlovesProject_Enchanting", "World/Crusade/Events/Relics/Ch5/BaphometFire_Reforge_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "EquipmentEntities/Gloves/KEE_Gloves_GlovesDueling"]}

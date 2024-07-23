@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmySupportAurasFeature", "Armies/Abilities/ArmyBardAurasFeature", "Armies/UnitBlueprints/ArmyBard"], "children": ["Armies/Abilities/ArmyAttackBonus3AuraEffectBuff", "Armies/Abilities/ArmyBardAurasCooldownBuff", "Armies/Abilities/ArmyBardAurasResources", "Armies/Abilities/ArmyBardAurasCooldownBuff"]}

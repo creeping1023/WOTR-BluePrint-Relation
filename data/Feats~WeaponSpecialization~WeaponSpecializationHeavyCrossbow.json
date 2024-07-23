@@ -1,0 +1,1 @@
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterHeavyCrossbow", "Feats/PontBlankMaster/PointBlankMasterHeavyCrossbow"], "children": ["Weapons/Types/SimpleRanged/HeavyCrossbow", "Classes/Fighter/FighterClass", "Feats/PontBlankMaster/PointBlankMasterHeavyCrossbow", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterHeavyCrossbow"]}

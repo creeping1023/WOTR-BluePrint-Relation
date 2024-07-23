@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/WintersunOutdoor/PlayerKillMarhevok_scene/CommandAction", "World/Encounters/WintersunOutdoor/ScriptZones/JerribethPortalHideWeapon", "World/Dialogs/c3/Wintersun/JerribethReveal/Cue_0036"], "children": ["World/Cutscenes/WintersunOutdoor/Marhevok_wounded_scene/CommandDelay", "World/Cutscenes/WintersunOutdoor/Marhevok_wounded_scene/gate"]}

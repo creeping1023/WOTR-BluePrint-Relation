@@ -1,0 +1,1 @@
+{"parents": ["Equipment/Amulets/UniquePF2/PF2_DLC1/DragonsHeirloomEnchantment"], "children": ["Traits/Races/Common/DragonType", "Traits/Races/Common/DragonType", "Buffs/Stunned", "Root/SystemMechanics/Conditions/PetrifiedBuff"]}

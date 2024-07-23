@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Items/Vendors/Chapter5/Quartermaster_Chapter5VendorTable", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleLight/LightMace", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Radiant", "Weapons/Enchantments/ElderFlaming"]}

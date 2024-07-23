@@ -1,0 +1,1 @@
+{"parents": ["Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/SableMarine/SableMarineArchetype"], "children": ["Units/Abilities/Mounts/MountedBuff", "Classes/Ranger/Archetypes/SableMarine/FeatheredConfusion/SableMarineFeatheredConfusionBuff", "Classes/Ranger/Archetypes/SableMarine/FeatheredConfusion/SableMarineFeatheredConfusionPetFeature"]}

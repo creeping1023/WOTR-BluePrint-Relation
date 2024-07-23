@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_FrozenTemple/DevaBrainAbility/DLC5_MovanicDevaBrain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/HolySmite"]}

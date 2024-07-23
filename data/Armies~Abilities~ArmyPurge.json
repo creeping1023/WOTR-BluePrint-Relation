@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyPurgeFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_Purge"], "children": ["Armies/Abilities/ArmyPurgeResource"]}

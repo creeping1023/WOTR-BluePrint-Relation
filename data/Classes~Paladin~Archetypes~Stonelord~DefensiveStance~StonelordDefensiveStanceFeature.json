@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-354992_DefensiveStance", "Root/Upgraders/Player/PF-485023", "Classes/Paladin/Archetypes/Stonelord/StonelordArchetype"], "children": ["Classes/Paladin/Archetypes/Stonelord/DefensiveStance/StonelordDefensiveStanceActivateableAbility", "Classes/Paladin/Archetypes/Stonelord/DefensiveStance/StonelordDefensiveStanceFact"]}

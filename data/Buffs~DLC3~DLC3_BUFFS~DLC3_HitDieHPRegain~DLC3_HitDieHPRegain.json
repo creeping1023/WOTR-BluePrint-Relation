@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Boons/DungeonBoon_HPRegain", "World/Encounters/DLC3_SandSwamp_lvl_01/ScriptZones/DLC3_SandSwamp_lvl_01_EnterScriptZone"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_HitDieHPRegain/DLC3_HitDieHPRegainBuff", "Buffs/DLC3/DLC3_BUFFS/DLC3_HitDieHPRegain/DLC3_HitDieHPRegainBuff"]}

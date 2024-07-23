@@ -1,0 +1,1 @@
+{"parents": ["Classes/Inquisitor/InquisitorProgression", "Mythic/Aeon/AeonBane/AeonBaneBuff", "Classes/Inquisitor/Archetypes/LivingGrimoire/LivingGrimoireArchetype", "Mythic/MythicAbilities/AbundantBane", "Classes/Inquisitor/Archetypes/Judge/JudgeArchetype"], "children": ["Classes/Inquisitor/Bane/InquisitorGreaterBaneAbility", "Mythic/MythicAbilities/AbundantBane"]}

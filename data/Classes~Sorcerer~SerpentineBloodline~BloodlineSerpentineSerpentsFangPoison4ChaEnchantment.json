@@ -1,0 +1,1 @@
+{"parents": ["Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSerpentsFangBite1d4Poison4Cha"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSerpentsFangPoisonBuffLevel4Cha", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Sorcerer/SorcererClass", "Classes/Magus/MagusClass"]}

@@ -1,0 +1,1 @@
+{"parents": ["Items/DLC5/DLC5_Storasta/DLC5_Storasta_WildFlower"], "children": ["Buffs/Nauseated", "Buffs/Sickened", "Spells/Level3/RageSpellBuff", "Spells/Level3/HasteBuff", "Classes/Cleric/Domains/Plant/PlantDomainGreaterBuff", "Spells/Level7/LegendaryProportionsBuff"]}

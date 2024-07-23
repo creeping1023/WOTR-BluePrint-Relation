@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/Alushinyrra_StopEavesdropping/AngryIncubusRanger/AngryIncubusRanger_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/InstantEnemy"]}

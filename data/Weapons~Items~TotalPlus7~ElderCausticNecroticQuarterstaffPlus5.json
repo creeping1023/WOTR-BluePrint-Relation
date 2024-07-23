@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Kingdom/CrusadeProjects/MilitaryProjects/Event52SpiritHunt"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Necrotic", "Weapons/Enchantments/ElderCorrosive2d6"]}

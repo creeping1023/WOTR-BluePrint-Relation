@@ -1,0 +1,1 @@
+{"parents": ["Items/Wands/WandOfSummonMonsterZero", "Spells/Level1/SummonSpecialSpell"], "children": ["Units/Monsters/Pony/PonySummoned", "Buffs/SummonedCreatureSpawnMonsterI-III", "Buffs/SummonMonsterZeroBuff", "Spells/CutsceneSpells/SummonMonsterPool"]}

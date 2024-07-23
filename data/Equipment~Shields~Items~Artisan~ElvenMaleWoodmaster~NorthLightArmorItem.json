@@ -1,0 +1,1 @@
+{"parents": ["Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/NorthLightShieldItem"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/LightShieldType", "Equipment/CommonEnchantments/ColdResistance10Enchantment", "Equipment/Shields/Enchantments/ShieldEnhancementBonus1", "Equipment/CommonEnchantments/Fortitude1"]}

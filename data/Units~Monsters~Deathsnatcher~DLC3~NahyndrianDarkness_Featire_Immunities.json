@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Deathsnatcher/DLC3/NahyndrianDarknessDeathsnatcher"], "children": ["Units/Monsters/Deathsnatcher/DLC3/SpellImmunity", "Mythic/Trickster/Persuasion/ImmunityToTricksterPersuasionTier3Feature", "CreatureAbilities/Immunities/ImmunityToDeathEffects", "CreatureAbilities/Immunities/ImmunityToFear"]}

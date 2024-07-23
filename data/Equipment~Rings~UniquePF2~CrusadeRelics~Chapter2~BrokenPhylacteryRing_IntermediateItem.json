@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch2/BrokenPhylactery_Reforging_event", "Kingdom/CrusadeProjects/RelicProjects/Chapter2/BrokenPhylactery/BrokenPhylacteryRingProject_Enchanting"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}

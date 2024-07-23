@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Ecorche/Threshold/CR27_EcorcheTorturer_Feature_CombatTrigger"], "children": ["Spells/Level3/DisplacementBuff", "Spells/Level3/HasteBuff", "Spells/Level4/DivinePowerBuff"]}

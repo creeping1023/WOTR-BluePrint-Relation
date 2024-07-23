@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootVendorExclude", "Armies/Leaders/Warlords/WarlordUnits/Warlord_13_Ranger"], "children": ["Weapons/Types/MartialRanged/Shortbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Flaming"]}

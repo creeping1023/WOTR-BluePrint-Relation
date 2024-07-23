@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q03_Prisoner/MeetTrever/Answer_0006"], "children": ["Factions/Bosses", "Buffs/NPC_HealthGuard10", "Factions/CutsceneNeutrals", "World/Cutscenes/BattleBliss/SosielDialogAfterCombat/SosielDialogAfterCombat", "World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielInParty/Sosiel_Q3"]}

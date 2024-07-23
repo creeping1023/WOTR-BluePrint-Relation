@@ -1,0 +1,1 @@
+{"parents": ["World/Quests/c3/DruidMaze/Obj_03_TakeLoot", "World/Quests/c3/DruidMaze/Obj_02_KillSomeone", "World/Quests/c3/DruidMaze/Obj_01_SolveMaze"], "children": ["World/Quests/c3/DruidMaze/Obj_01_SolveMaze", "World/Quests/c3/DruidMaze/Obj_02_KillSomeone", "World/Quests/c3/DruidMaze/Obj_03_TakeLoot"]}

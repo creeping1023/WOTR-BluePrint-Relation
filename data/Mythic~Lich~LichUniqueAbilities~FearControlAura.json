@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Lich/LichUniqueAbilities/FearControlBuff"], "children": ["Mythic/Lich/LichUniqueAbilities/FearControlCooldown", "Mythic/Aeon/AeonGaze/AeonGazeDCProperty", "Mythic/Aeon/AeonGaze/AeonGazeDCProperty", "Mythic/Lich/LichUniqueAbilities/FearControlCooldown", "Mythic/Lich/LichUniqueAbilities/FearControlEffectBuff"]}

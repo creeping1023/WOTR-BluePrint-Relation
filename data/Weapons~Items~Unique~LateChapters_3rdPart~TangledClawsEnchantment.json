@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/Unique/LateChapters_3rdPart/TangledClawsItem"], "children": ["Root/SystemMechanics/Conditions/EntangledBuff", "Spells/Level1/EntangleBuffDifficultTerrain"]}

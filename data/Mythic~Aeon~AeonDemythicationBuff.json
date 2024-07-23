@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Aeon/AeonDemythicationAbility"], "children": ["Classes/Monster/MonsterMythic/MonsterMythicFeature1Buff", "Classes/Monster/MonsterMythic/MonsterMythicFeature2Buff", "Classes/Monster/MonsterMythic/MonsterMythicFeature3Buff", "Classes/Monster/MonsterMythic/MonsterMythic5HealthTriggerBadBuff"]}

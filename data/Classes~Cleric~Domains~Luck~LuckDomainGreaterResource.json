@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Luck/LuckDomainGreaterFeature", "Mythic/Trickster/LoreReligion/TricksterLoreReligionDomain/TricksterLoreReligionLuckDomainFeature", "Classes/Cleric/Domains/Luck/LuckDomainGreaterAbility"], "children": ["Classes/Cleric/ClericClass", "Classes/Inquisitor/InquisitorClass", "Classes/Hunter/HunterClass", "Classes/Arcanist/ArcanistClass"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/ReturnToDrezen/ScriptZones/AneviaDialog"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/AneviaStopYou/Cue_0001", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/ReturnToDrezen/EnterPoints/ReturnToDrezen_ToTempleFromAneviaDialog", "World/Dialogs/c5/Drezen_Under_Siedge/AneviaDrezenPartisans/AneviaDrezenPartisans_dialogue"]}

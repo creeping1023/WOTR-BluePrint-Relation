@@ -1,0 +1,1 @@
+{"parents": ["Classes/Bard/Archetypes/Thundercaller/ThundercallerArchetype"], "children": ["Classes/Bard/Archetypes/Thundercaller/InciteRageEnemies/InciteRageEnemiesToggleAbility", "Classes/Bard/Archetypes/Thundercaller/InciteRageAllies/InciteRageAlliesToggleAbility", "Classes/Bard/Archetypes/Thundercaller/InciteRageAll/InciteRageAllToggleAbility"]}

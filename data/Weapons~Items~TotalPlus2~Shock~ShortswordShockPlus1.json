@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/Anoriel_MVP_VendorTable", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/PF2_DLC2/DLC2_QuartermasterBaseTable"], "children": ["Weapons/Types/MartialLight/Shortsword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock"]}

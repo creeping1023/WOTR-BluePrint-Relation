@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/Colyphyr/Colyphyr_MinotaurSlave"], "children": ["CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/FiendishSmiteGoodAiAction", "CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/FiendishAttackAiAction", "Units/Monsters/Minotaur/MinotaurBrain/FiendishMinotaurTwoAxes_AiAction_Charge"]}

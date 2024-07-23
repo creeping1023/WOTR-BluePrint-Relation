@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Nalfeshnee/LichZiggurat/CR20_MythicNalfeshneeShamanBrain", "Units/Monsters/Demon Nalfeshnee/Iz/MythicNalfeshneeShamanBrain/MythicNalfeshneeShamanBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Shaman/ShamanSpirits/ShamanBonesSpirit/ShamanHexFearfulGazeAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/Brains/DLC5_FrostWightGiantBarbarianBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Feats/VitalStrike/VitalStrikeAbility"]}

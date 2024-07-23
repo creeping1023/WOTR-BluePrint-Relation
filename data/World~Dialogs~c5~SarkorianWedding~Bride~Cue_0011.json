@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/SarkorianWedding/Bride/Cue_0002"], "children": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss", "Equipment/Rings/UniquePF2/Chapter5/SarkorianWeddingSignetItem", "World/Quests/c5/SarkorianWedding/Obj_01_TalkGroom", "World/Cutscenes/SarkorianWedding/BrideWalking/BrideWalking", "World/Quests/c5/SarkorianWedding/Add_1_1_lightFire"]}

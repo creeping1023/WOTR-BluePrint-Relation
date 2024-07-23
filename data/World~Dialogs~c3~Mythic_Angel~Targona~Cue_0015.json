@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/Mythic_Angel/Targona/Cue_0014"], "children": ["World/Quests/MythicQuests/Angel/C3_SpreadYourWings/02_FindTargona", "World/Quests/MythicQuests/Angel/C3_SpreadYourWings/04_TalkAngels", "World/Dialogs/c3/Mythic_Angel/Targona/AnswersList_0002"]}

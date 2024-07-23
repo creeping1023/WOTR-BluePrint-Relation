@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/WarpriestFervorNegativeAbilityCast", "Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Weapons/Types/Special/TouchItem", "Classes/Warpriest/WarpriestFervorHealDamageSelection", "Classes/Warpriest/WarpriestFervorHealDamageRank"]}

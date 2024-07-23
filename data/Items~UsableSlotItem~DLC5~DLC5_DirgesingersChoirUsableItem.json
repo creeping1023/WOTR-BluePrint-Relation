@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_Level11_optimized", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneEquipmentVendorTable", "Dugeons/Loot/DungeonLootDLC5"], "children": ["DLC/DLC5/Dlc5RewardCampaign", "Items/UsableSlotItem/DLC5/DLC5_DirgesingersChoirActivatableAbility"]}

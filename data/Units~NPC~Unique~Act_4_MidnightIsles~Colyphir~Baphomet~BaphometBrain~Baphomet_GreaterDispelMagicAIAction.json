@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/BaphometBrain/Baphomet_Brain_TE"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Spells/Level6/DispelMagicGreater", "Spells/Level6/DispelMagicGreaterTarget"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q3WoljifAbyssMoonRising/Q3WoljifAfterBattle/Answer_0005", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/WoljifCompanion/WoljifStates/WoljifHumanEndingGood", "Units/Companions/Woljif/Woljif_Companion", "Units/Companions/Woljif/Woljif_Companion"]}

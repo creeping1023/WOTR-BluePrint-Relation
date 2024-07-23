@@ -1,0 +1,1 @@
+{"parents": ["Armies/Rituals/RitualTrueStrike"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/Bonus/Dragon5ManaConsumptionFact", "Armies/Rituals/RitualTrueStrikeBuff", "Armies/Rituals/RitualTrueStrikeDurationProperty", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

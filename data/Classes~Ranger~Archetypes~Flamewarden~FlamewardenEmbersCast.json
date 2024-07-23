@@ -1,0 +1,1 @@
+{"parents": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenEmbersFeature"], "children": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenEmbersTouch", "Classes/Basic/BasicActions/RecentlyDeadBuff", "CreatureAbilities/NegativeEnergyAffinity", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenEmbersResource"]}

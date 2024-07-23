@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/PuluraFall/ScriptZones/PuluraFall_EliandraKatairAngryBarks", "World/Dialogs/c3/Pulura_C3/Pulura_C3_main/PuluraCouncil/Cue_0012"], "children": ["World/Cutscenes/PuluraFall/PuluraFall_EliandraKatairAngryTalk/CommandDelay", "World/Cutscenes/PuluraFall/PuluraFall_EliandraKatairAngryTalk/gate"]}

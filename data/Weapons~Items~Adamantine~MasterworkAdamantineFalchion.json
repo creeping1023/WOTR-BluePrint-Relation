@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Good/CR22/PF2_Crusaders_LocustCh5_AdamantineFalchion"], "children": ["Weapons/Types/MartialTwoHanded/Falchion", "Weapons/Enchantments/Masterwork", "Weapons/Enchantments/AdamantineWeaponEnchantment"]}

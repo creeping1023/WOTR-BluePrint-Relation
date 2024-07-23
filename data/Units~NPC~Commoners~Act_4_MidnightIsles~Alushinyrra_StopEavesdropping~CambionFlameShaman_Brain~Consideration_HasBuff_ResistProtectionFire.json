@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/Alushinyrra_StopEavesdropping/CambionFlameShaman_Brain/CambionFlameShaman_AiAction_DispelGreater", "Units/NPC/Commoners/Act_4_MidnightIsles/Alushinyrra_StopEavesdropping/CambionFlameShaman_Brain/CambionFlameShaman_AiAction_QDispelMagic"], "children": ["Spells/Level2/ResistFireBuff", "Spells/Level3/ProtectionFromFireBuff"]}

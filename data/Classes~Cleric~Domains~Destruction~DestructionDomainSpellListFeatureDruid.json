@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Destruction/DestructionDomainProgressionDruid"], "children": ["Classes/Druid/DruidClass", "Classes/Cleric/Domains/Destruction/DestructionDomainSpellList", "Classes/Cleric/Domains/Destruction/DestructionDomainSpellListFeature", "Classes/Cleric/Domains/Destruction/DestructionDomainSpellListFeature"]}

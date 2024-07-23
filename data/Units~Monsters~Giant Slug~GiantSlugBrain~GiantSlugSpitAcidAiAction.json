@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Giant Slug/GiantSlugBrain/GiantSlugBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Giant Slug/GiantSlugBrain/GiantSlugSpitAcid"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/BattleWithTheAssasins/BattleWithTheAssasins_dialogue"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/AssassinsGuild/TigerOfSin", "Buffs/NPC_Immortality", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/BattleWithTheAssasins/Cue_0019"]}

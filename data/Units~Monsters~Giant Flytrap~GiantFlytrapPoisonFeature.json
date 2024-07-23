@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/Monsters/Giant Flytrap/CR16_GiantFlytrapPoisonous", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_ElementalsFeyMagiccalBeasts/DLC3_CR16_GiantFlytrapPoisonous"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Units/Monsters/Giant Flytrap/GiantFlytrapPoisonBuff"]}

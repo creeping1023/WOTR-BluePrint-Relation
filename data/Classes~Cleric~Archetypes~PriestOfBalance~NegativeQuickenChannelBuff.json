@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/PriestOfBalance/NegativeQuickenBuff"], "children": ["Classes/Cleric/ChannelNegativeEnergy", "Classes/Cleric/ChannelNegativeHeal", "Mythic/Lich/LichChannelNegativeHeal", "Mythic/Lich/LichChannelNegativeHarm"]}

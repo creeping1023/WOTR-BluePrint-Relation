@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/LostChapel/GhoulCrafters/AnswersList_0004"], "children": ["World/Encounters/LostChapel/UnlockableFlags/WorkshopGhoulsNotAttacked", "World/Encounters/LostChapel/SummonPools/GhoulsAtWorkshop", "Factions/Mobs"]}

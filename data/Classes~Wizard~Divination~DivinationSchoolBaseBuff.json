@@ -1,0 +1,1 @@
+{"parents": ["Classes/Wizard/Divination/DivinationSchoolBaseAbility", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/FalseCommander/Brain/HasNoBuffDivinersFortune_Consideration"], "children": ["Classes/Wizard/WizardClass", "Classes/Wizard/Transmutation/TransmutationSchoolDexterityBuff"]}

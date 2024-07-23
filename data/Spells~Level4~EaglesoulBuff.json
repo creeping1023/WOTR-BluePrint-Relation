@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/Cayden_Prebuff", "Brain/Considerations/NoBuffEaglesoul", "Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/DeskariPriestess/MidnightFane_DeskariPriestess_Prebuff", "Spells/Level4/Eaglesoul"], "children": ["Buffs/Staggered", "Buffs/Sickened"]}

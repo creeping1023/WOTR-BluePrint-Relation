@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/ArchpriestGolemCR23"], "children": ["Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/GolemBrain/Golem_AiPush", "Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/GolemBrain/Golem_AiPull", "Brain/Actions/AttackAiAction"]}

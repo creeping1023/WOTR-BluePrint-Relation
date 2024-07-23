@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0080", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0061"], "children": ["Units/Monsters/Hag/SinisterVillage/Hag_Letinda", "World/Encounters/SinisterVillage/UnlockableFlags/MarkyllDead", "World/Encounters/SinisterVillage/SummonPools/Hags", "World/Encounters/SinisterVillage/ActionsHolders/StartCombatWithHags"]}

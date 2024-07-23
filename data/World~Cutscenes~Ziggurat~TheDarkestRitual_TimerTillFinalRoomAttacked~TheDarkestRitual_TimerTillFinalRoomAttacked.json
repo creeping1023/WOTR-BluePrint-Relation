@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Ziggurat/TheDarkestRitual_AttackAfterRitual/CommandAction 7", "World/Encounters/Ziggurat/ActionsHolders/To2BF_AreaTransition"], "children": ["World/Cutscenes/Ziggurat/TheDarkestRitual_TimerTillFinalRoomAttacked/CommandDelay", "World/Cutscenes/Ziggurat/TheDarkestRitual_TimerTillFinalRoomAttacked/gate"]}

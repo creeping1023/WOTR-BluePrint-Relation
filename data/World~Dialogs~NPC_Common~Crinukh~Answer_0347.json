@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/NPC_Common/Crinukh/Answer_0109", "World/Dialogs/NPC_Common/Crinukh/AnswersList_0342"], "children": ["World/Dialogs/NPC_Common/Crinukh/Cue_0354", "World/Dialogs/NPC_Common/Crinukh/Cue_0098_FifthRiddle", "World/Quests/c5/Iz/Obj4_FightDeskari", "World/Encounters/CrinukhCamp/UnlockableFlags/Crinukh_Doubts"]}

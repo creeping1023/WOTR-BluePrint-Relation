@@ -1,0 +1,1 @@
+{"parents": ["Classes/Paladin/DivineBond/PaladinDivineMount11Feature", "Units/Monsters/DLC5Mobs/WizardsTower/DLC5_CR5_BearCelestial"], "children": ["CreatureAbilities/ImmunityToMagic/SpellResistance5plusCR", "Classes/Paladin/SmiteEvil/SmiteEvilCeleatialAbility", "Classes/Paladin/SmiteEvil/SmiteEvilResource"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Shadow/AreeluLab/AreeluLab_ShadowDemon_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AvoidMainCharacterConsideration", "Brain/Considerations/NotUndeadConsideration", "Brain/Considerations/NoBuffDominate", "Spells/Level5/DominatePerson"]}

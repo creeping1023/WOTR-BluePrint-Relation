@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Hag/SinisterVillage/HagsBrain/Hag_LoredaBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/EnemiesNoBuff_ProtectionFromElectricity", "Brain/Considerations/EnemiesNoBuff_ResistElectricity", "Spells/Level8/Stormbolts"]}

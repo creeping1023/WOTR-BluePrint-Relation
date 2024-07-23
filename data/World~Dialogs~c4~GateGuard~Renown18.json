@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c4/GateGuard/GateGuard_dialogue"], "children": ["World/Quests/c4/AvengeInsults/Obj1.5_AvengeChivarro", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/ChivarroHappyEnd", "World/Dialogs/c4/GateGuard/AnswersList_0002", "World/Dialogs/c4/GateGuard/CueSequence_0109"]}

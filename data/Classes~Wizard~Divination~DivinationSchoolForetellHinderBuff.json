@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/FalseCommander/Brain/DivinationSchoolForetellHinderActivate", "Classes/Wizard/Divination/DivinationSchoolForetellHinderToggleAbility"], "children": ["Classes/Wizard/Divination/DivinationSchoolForetellHinderAura", "Spells/Level1/EnlargePersonBuff"]}

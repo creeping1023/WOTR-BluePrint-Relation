@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/PF2_DLC5/Tavern/BlacksmithWeapon/DLC5_BlacksmithWeaponVendorTable", "Loot/Quest/DLC5_GoblinsPartyInTheTower/Dagger", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Enhancement1", "Weapons/Items/Unique/Chapter2/ArcaneProtectorEnchant"]}

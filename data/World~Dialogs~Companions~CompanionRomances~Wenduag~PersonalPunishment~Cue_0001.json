@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Wenduag/PersonalPunishment/WenduRom_PersonalPunishment"], "children": ["World/Cutscenes/GenericScenes/MoveAndRotateCameraParam/MoveAndRotateCameraParam", "Units/Companions/Wenduag/Wenduag_Companion", "World/Dialogs/Companions/CompanionRomances/Wenduag/PersonalPunishment/AnswersList_0002"]}

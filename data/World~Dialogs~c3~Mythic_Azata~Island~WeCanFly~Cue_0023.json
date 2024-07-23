@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/WeCanFly/CueSequence_0018"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/AzataIsland/AzataIsland_DefaultMechanics/MimicsArrivedOnIsland_Mechanic", "World/Encounters/AzataIsland/SummonPools/Azata_WeCanFly_MImics", "World/Encounters/AzataIsland/UnlockableFlags/WeCanFly_MImicsAnim"]}

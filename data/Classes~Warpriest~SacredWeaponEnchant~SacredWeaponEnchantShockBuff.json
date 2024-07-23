@@ -1,0 +1,1 @@
+{"parents": ["Classes/Magus/Archetypes/Bladebound/BlackBlade/WarpriestEnhancementDurationBuff", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/Enchantments/HolyBookWarpriestEnhancementDurationBuff", "Classes/Warpriest/SacredWeaponEnchant/SacredWeaponEnchantShockChoice"], "children": ["Weapons/Enchantments/Shock", "Classes/Magus/ArcanePool/ArcaneWeaponShockBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/MinotaurCleric_Brain_FrontLiner"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/Prayer"]}

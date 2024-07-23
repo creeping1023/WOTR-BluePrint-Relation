@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC6Mobs/Llamolaek/DLC6_LlamolaekBrain"], "children": ["Brain/Actions/FingerOfDeathAiAction", "Brain/Considerations/AttackTargetsPriority", "Spells/Level7/FingerOfDeath"]}

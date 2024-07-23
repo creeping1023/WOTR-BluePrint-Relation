@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Sun/SunDomainGreaterToggleAbility", "Spells/Level4/SymbolOfRevelationRuneTriggered"], "children": ["Classes/Cleric/Domains/Sun/SunDomainGreaterAura", "Spells/Level1/EnlargePersonBuff"]}

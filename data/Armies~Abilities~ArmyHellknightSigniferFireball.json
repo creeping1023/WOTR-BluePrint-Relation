@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyHellknightSigniferFireballFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_HellknightFireball"], "children": ["FX/Spell Level 3/Fireball00", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Spells/Level3/Fireball", "Armies/Abilities/ArmyHellknightSigniferFireballResource"]}

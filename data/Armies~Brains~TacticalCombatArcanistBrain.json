@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyArcanist"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_ConeOfCold", "Armies/Brains/Actions/TacticalCombat_AIAction_MagicMissile"]}

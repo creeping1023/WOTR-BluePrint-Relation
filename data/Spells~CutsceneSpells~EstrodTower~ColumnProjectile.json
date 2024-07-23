@@ -1,0 +1,1 @@
+{"parents": ["Spells/CutsceneSpells/EstrodTower/EstrodColumnLine", "Spells/CutsceneSpells/EstrodTower/Log_projectile", "Spells/CutsceneSpells/EstrodTower/RQ_cart_Projectile"], "children": ["Spells/CutsceneSpells/EstrodTower/ColumnProjectile_Trajectory"]}

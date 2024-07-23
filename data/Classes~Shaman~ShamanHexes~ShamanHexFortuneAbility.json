@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shaman/ShamanHexes/ShamanHexFortuneFeature"], "children": ["Classes/Shaman/ShamanHexes/ShamanHexFortuneCooldownBuff", "Classes/Shaman/ShamanHexes/ShamanHexFortuneBuff", "Classes/Shaman/ShamanHexes/ShamanHexFortuneCooldownBuff", "Classes/Shaman/ShamanClass", "Classes/WinterWitch/WinterWitchClass"]}

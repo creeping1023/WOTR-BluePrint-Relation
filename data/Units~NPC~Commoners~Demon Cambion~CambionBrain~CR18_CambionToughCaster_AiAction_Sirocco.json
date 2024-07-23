@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Cambion/AlushynirraCity/Brains/CambionToughCaster_Brain_AoE"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AoE_AvoidFriends", "Spells/Level6/Sirocco"]}

@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyLifeGiverFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Weapons/Types/Special/TouchItem", "Traits/Races/Common/ConstructType", "Armies/Abilities/ArmyLifeGiverResource"]}

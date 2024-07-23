@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shaman/ShamanHexes/ShamanHexFuryFeature", "Units/Monsters/Demon Nalfeshnee/AreeluLab/AreeluLab_Nalfeshnee_FuryAIAction"], "children": ["Classes/Shaman/ShamanHexes/ShamanHexFuryBuff", "Classes/Shaman/ShamanHexes/ShamanHexFuryCooldownBuff", "Classes/Shaman/ShamanHexes/ShamanHexFuryCooldownBuff", "Classes/Shaman/ShamanClass"]}

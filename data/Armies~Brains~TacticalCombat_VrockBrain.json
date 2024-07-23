@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyVrockStandard"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_VrockStunningScreech", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]}

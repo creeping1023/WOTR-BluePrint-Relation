@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/NPC_Common/Crinukh/Answer_0004", "Loot/Quest/CrinukhNote/NoteLoot"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

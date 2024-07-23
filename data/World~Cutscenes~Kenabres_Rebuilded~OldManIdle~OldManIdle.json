@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-239349-2", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon/DragonsPolymorph", "World/Cutscenes/Kenabres_Rebuilded/DragonsGatherAroundHal/CommandAction2"], "children": ["World/Cutscenes/Kenabres_Rebuilded/OldManIdle/CommandDelay", "World/Cutscenes/Kenabres_Rebuilded/OldManIdle/gate"]}

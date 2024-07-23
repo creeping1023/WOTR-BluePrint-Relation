@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/StuddedType", "Equipment/Armor/Items/Unique/LateChapters/GrimArmorEnchant", "Equipment/Armor/Enchantments/ArmorEnhancementBonus3"]}

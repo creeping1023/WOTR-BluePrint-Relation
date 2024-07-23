@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyCultist_Baphomet_Melee"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegative"]}

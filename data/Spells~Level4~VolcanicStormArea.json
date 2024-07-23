@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level4/VolcanicStorm", "Spells/CutsceneSpells/CastleOfKnives/CastleOfKnivesVolcanicStorm"], "children": ["Spells/Level4/VolcanicStormBuff", "Spells/Level4/VolcanicStormDifficultTerrainBuff", "Spells/Level4/VolcanicStormBuff", "Spells/Level4/VolcanicStormDifficultTerrainBuff"]}

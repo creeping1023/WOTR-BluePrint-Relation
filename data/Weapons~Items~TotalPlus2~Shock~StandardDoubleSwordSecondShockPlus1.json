@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/TotalPlus3/Shock/StandardDoubleSwordShockPlus1", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleSword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock"]}

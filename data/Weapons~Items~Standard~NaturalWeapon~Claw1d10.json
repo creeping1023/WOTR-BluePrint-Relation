@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/ShifterClaws/ShifterClawBuffLevel13", "Classes/Druid/Archetypes/ElementalRampager/ElementalRampagerClaws1d10", "Dugeons/Loot/DungeonLootExclude", "Classes/Warpriest/Archetypes/FeralChampion/FeralChampnionClaws1d10"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}

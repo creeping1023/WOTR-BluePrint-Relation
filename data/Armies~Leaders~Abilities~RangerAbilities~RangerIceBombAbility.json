@@ -1,0 +1,1 @@
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerIceBomb"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerIceBombBuff", "Armies/Leaders/Abilities/RangerAbilities/RangerIceBombResource", "FX/Abilities/AlchemistColdBomb00", "Weapons/Types/Special/BombItem"]}

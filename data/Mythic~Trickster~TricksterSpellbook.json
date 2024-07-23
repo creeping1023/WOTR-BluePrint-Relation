@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Trickster/TricksterSpellbookCasterLevelFeature", "Mythic/Trickster/TricksterMythicClass"], "children": ["Mythic/Trickster/TricksterSpellPerDayTable", "Mythic/Trickster/TricksterSpellKnownTable", "Mythic/Trickster/TricksterSpelllist", "Mythic/Trickster/TricksterSpelllistMythic", "Mythic/Trickster/TricksterMythicClass"]}

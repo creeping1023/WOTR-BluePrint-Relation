@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level1/BlessWeapon"], "children": ["Weapons/Enchantments/MagicWeapon", "Weapons/Enchantments/GoodAligned", "Weapons/Enchantments/CritAutoconfirmAgainstEvil"]}

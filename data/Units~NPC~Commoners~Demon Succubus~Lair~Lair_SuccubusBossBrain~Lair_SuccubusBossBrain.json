@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Succubus/Lair/Lair_SuccubusBoss"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/VampiricTouchAiAction", "Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusEnergyDrainAiAction", "Units/NPC/Commoners/Demon Succubus/Lair/Lair_SuccubusBossBrain/SuccubusDominatePersonAIAction"]}

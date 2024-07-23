@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_Buff_HitByElectricity", "Brain/Considerations/SwiftActionOffCooldown", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_NoBuff_ResistElectricity", "Spells/Level2/ResistEnergy", "Spells/Level2/ResistElectricity"]}

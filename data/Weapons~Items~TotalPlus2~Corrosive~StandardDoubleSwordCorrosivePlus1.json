@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Items/Vendors/C2_VendorTableSmall", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleSword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive", "Weapons/Items/TotalPlus2/Corrosive/StandardDoubleSwordSecondCorrosivePlus1"]}

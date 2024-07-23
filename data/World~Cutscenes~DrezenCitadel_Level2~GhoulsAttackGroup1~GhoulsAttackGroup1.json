@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DrezenCitadel_Level2/ScriptZones/GhoulsAttackFromPit"], "children": ["World/Cutscenes/DrezenCitadel_Level2/GhoulsAttackGroup1/CommandAction", "World/Cutscenes/DrezenCitadel_Level2/GhoulsAttackGroup1/CommandDelay", "World/Cutscenes/DrezenCitadel_Level2/GhoulsAttackGroup1/CommandAction 1"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootScrolls", "Root/CraftRoot", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Spells/Level9/Shapechange/Shapechange", "Items/DestructibleItemsShards/PaperShardItem", "Spells/Level9/Shapechange/ShapechangeDragonRed"]}

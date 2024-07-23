@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Vescavor/VescavorSwarmBrain/RavenousVescavorSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration", "Units/Monsters/Vescavor/VescavorSwarmBrain/RavenousVescavorDamageAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLoot_VendorRare_Grade9", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootRare"], "children": ["Weapons/Types/MartialTwoHanded/HeavyFlail", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Frost2d8"]}

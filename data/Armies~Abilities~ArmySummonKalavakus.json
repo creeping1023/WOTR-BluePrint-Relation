@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmySummonKalavakusFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_SummonKalavakus"], "children": ["Armies/UnitBlueprints/ArmyKalavakus", "Buffs/SummonedCreatureSpawnMonsterVI-IX", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/ArmySummonKalavakusResource"]}

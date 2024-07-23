@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/StartBossDialogue/CommandStartDialog"], "children": ["World/Dialogs/c2_vs/LostChapel/Boss_Start/Cue_0001", "World/Etudes/Common/WrathOfTheRighteous/Chapter02/Chapter02_MainQuest/LostChapelBossBattle", "Buffs/NPC_Immortality", "Buffs/NPC_HealthGuard50"]}

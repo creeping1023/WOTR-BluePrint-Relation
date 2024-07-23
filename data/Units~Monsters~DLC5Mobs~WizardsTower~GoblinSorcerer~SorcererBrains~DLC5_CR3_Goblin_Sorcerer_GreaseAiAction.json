@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GoblinsPartyInTheTower/DLC5_Goblin_ServantBrain", "Units/Monsters/DLC5Mobs/WizardsTower/GoblinSorcerer/SorcererBrains/DLC5_CR3_GoblinSorcerer_Brain"], "children": ["Brain/Considerations/AoE_AvoidSelf", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level1/Grease"]}

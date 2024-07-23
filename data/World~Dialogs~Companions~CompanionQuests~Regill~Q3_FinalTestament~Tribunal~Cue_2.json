@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/CueSequence_0052"], "children": ["Classes/Hellknight/HellknightClass", "Classes/HellknightSignifer/HellknightSigniferClass", "Units/Companions/Regill/Regill_Companion", "World/Encounters/HellknightsCamp/UnlockableFlags/TribunalFlag"]}

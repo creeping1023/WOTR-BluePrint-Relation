@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Prologue_Kenabres/TutorWalkCountdown/CommandAction", "World/Cutscenes/Prologue_Kenabres/First_Tutorials/CommandAction 1", "World/Cutscenes/Prologue_Kenabres/TutorWalkCountdown/CommandAction2"], "children": ["Tutorials/DirectTutorial/NewTutorial_2_Camera_Gamepad", "Encyclopedia/Tutorial_2_Camera"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GrayGarrison/ScriptZones/Minagho_Second"], "children": ["World/Cutscenes/GrayGarrison/MinaghoScene02/CommandDelay", "World/Cutscenes/GrayGarrison/MinaghoScene02/gate 3", "World/Cutscenes/GrayGarrison/MinaghoScene02/CommandFadeout", "World/Cutscenes/GrayGarrison/MinaghoScene02/CommandMoveParty"]}

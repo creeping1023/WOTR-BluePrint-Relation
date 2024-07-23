@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLoot_VendorRare_Grade8", "Dugeons/Loot/DungeonLootRare"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Bracers/KEE_Bracers_BracersArcaneNormalGems", "Equipment/Bracers/PF2/Chapter6/ArmExtendersEnchantment"]}

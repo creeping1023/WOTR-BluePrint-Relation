@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombat_WizardBrain", "Armies/Brains/TacticalCombat_NalfeshneeBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Abilities/ArmyLightningBolt"]}

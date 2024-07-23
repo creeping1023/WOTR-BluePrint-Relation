@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR10/Forest_Loot (16)", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "EquipmentEntities/Armor/KEE_Armor_BreastplateHoly", "Equipment/Armor/Types/BreastplateType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus1"]}

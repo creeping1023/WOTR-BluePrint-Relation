@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/LostChapelBossfight_MythicPower/LostChapelBossfight_MythicPower"], "children": ["World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0007", "World/Encounters/LostChapel/SummonPools/CrusadersPlaza", "Spells/Level4/FearBuff", "Spells/Level3/HoldPersonBuff"]}

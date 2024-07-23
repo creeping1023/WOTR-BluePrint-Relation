@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0822", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/CueSequence_0129", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Items/Archeology/Artifacts/PF2/Artifact_Cloak-shard", "World/Quests/Crusade/Archeology/Arch_CompileCloak/Objective_0001"]}

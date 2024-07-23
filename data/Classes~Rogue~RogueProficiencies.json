@@ -1,0 +1,1 @@
+{"parents": ["Root/PlayerUpgradeActionsRoot", "Classes/Rogue/Archetypes/EldritchScoundrelArchetype", "Classes/Rogue/RogueProgression"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}

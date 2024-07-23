@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/Artisan/Half-OrcEnforcer/AcidBombsMace"], "children": ["FX/Abilities/AlchemistAcidBomb00", "Weapons/Types/Special/BombItem", "Classes/Alchemist/Discoveries/AcidBombs/AcidBombBuff", "Classes/Alchemist/Discoveries/PreciseBomb"]}

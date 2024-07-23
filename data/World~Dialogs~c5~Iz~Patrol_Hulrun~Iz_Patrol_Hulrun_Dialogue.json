@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Iz/CrusaderPatrolSpawn/CommandStartDialog", "GlobalMaps/WorldWoundGM/Points/Location_DemonicSaboteursLair"], "children": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0001", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0002", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hurlun/HurlunWasInIz"]}

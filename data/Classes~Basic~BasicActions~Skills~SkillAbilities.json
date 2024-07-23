@@ -1,0 +1,1 @@
+{"parents": ["Classes/Basic/BasicFeatsProgression"], "children": ["Classes/Basic/BasicActions/Skills/MobilityUseAbility", "Classes/Basic/BasicActions/Skills/LoreReligionUseAbility", "Classes/Basic/BasicActions/Skills/PersuasionUseAbility"]}

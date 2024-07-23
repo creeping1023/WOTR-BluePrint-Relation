@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-191269", "Classes/Sorcerer/Archetypes/Seeker/SeekerBloodline/SeekerBloodlineArcaneProgression"], "children": ["Classes/Sorcerer/SorcererClass", "Classes/Sorcerer/ArcaneBloodline/BloodlineArcaneCombatCastingAdeptFeatureLevel1", "Classes/Magus/MagusClass", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype"]}

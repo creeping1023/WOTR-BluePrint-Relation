@@ -1,0 +1,1 @@
+{"parents": ["Brain/Companions/Harrim_Brain", "Brain/Companions/ClericPregenBrain"], "children": ["Brain/Considerations/InjuryAround", "Brain/Considerations/AoE_ChooseMoreFriends", "Classes/Cleric/ChannelEnergy"]}

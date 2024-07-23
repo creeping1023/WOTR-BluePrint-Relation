@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyStinkingCloudFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_StinkingCloud"], "children": ["Armies/Abilities/ArmyStinkingCloudArea", "Armies/Abilities/ArmyStinkingCloudResource"]}

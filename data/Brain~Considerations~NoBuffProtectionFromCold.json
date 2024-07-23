@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/Greybor_Q3/AssasinKitsuneMagusBrain/AssasinKitsuneMagus_AiAction_FrigidTouch", "Brain/Actions/ProtectionFromColdAiAction"], "children": ["Spells/Level3/ProtectionFromColdBuff"]}

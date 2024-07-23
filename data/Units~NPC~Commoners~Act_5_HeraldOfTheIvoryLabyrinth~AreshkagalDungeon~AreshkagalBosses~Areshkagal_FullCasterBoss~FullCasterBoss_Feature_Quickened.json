@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/CR25_Areshkagal_FullCasterBoss"], "children": ["Spells/Level4/DimensionDoorBase", "Spells/Level4/InvisibilityGreater", "Spells/Level1/MagicMissile", "Spells/Level2/MirrorImage", "Spells/Level3/LightningBolt"]}

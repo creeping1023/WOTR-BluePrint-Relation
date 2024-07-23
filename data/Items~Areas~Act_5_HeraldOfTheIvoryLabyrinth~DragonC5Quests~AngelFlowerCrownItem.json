@@ -1,0 +1,1 @@
+{"parents": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Kenabres_Rebuilded/Presets/Kenabres_Rebuilded_Dragon_Preset", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/Mythic_Dragon/DragonsKenabres/Cue_0017"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level3/ArchonsAura", "EquipmentEntities/Helmet/KEE_Headband_HeadbandCrownHolyAzata"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/gate"], "children": ["Buffs/Shaken", "Buffs/Nauseated", "Buffs/Prone", "Spells/Level1/GreaseBuff", "Spells/Level3/StinkingCloudAfterBuff", "Root/SystemMechanics/Conditions/EntangledBuff", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff"]}

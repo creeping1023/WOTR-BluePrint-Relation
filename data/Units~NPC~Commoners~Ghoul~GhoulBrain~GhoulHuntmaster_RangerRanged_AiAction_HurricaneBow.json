@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/GhoulHuntmaster_RangerRanged_Brain_HurricaneBow"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffHurricaneBow", "Spells/Level1/HurricaneBow"]}

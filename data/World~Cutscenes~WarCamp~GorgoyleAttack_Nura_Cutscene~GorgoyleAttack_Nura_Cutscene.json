@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/WarCamp/ScriptZones/WarCamp_GorgoyleAttack_NuraDialog"], "children": ["World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/CommandLockControls", "World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/gate 4", "World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/CommandDelay", "World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/gate"]}

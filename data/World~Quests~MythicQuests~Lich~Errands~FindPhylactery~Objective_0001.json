@@ -1,0 +1,1 @@
+{"parents": ["World/Quests/MythicQuests/Lich/Errands/FindPhylactery/FindPhylactery_c5", "World/Dialogs/c5/Mythic_Lich/TalkToWand/TalkToWand_Dialogue", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_Mythic", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0126"], "children": ["World/Quests/MythicQuests/Lich/Errands/FindPhylactery/FindPhylactery_c5"]}

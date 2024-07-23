@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombatSpreadBurnBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Brains/Considerations/TacticalConsideration_InRange", "Brain/Considerations/NoBuffBurnArmy"]}

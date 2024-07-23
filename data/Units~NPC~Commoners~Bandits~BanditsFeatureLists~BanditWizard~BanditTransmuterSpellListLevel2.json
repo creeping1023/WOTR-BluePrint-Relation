@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/BanditTransmuterFeatureListLevel2"], "children": ["Classes/Wizard/WizardClass", "Spells/Level1/ReducePerson", "Spells/Level1/EnlargePerson", "Spells/Level0/AcidSplash", "Spells/Level1/MagicMissile"]}

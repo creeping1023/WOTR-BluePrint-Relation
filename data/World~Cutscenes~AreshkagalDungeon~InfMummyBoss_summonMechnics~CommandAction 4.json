@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AreshkagalDungeon/InfMummyBoss_summonMechnics/gate"], "children": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalMummys/CR13_AreshkagalMummyExplosive", "World/Encounters/AreshkagalDungeon/SummonPools/BossInfMummy", "World/Cutscenes/AreshkagalDungeon/InfMummyBoss_DigOut/InfMummyBoss_DigOut"]}

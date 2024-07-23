@@ -1,0 +1,1 @@
+{"parents": ["Classes/Basic/BasicActions/FightDefensivelyBuff", "Classes/Basic/BasicActions/FightDefensivelyToggleAbility"], "children": ["Feats/CraneStyle/CraneStyleBuff", "Feats/CautiousFighter", "Feats/CautiousFighter", "Classes/Fighter/Archetypes/Swordlord/SwordlordSteelNetFeature", "Classes/Fighter/Archetypes/Swordlord/SwordlordSteelNetFeature"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/Chapter3/Exotic_Chapter3VendorTable"], "children": ["Weapons/Types/ExoticLight/Nunchaku", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GlobalPuzzle_Red/ConditionsHolders/RedSelfSlotChecker", "World/Encounters/GlobalPuzzle_Red/ConditionsHolders/RedNextSlotChecker"], "children": ["World/Encounters/GlobalPuzzle_Red/ItemsList/Red_04_NextSlot", "World/Encounters/GlobalPuzzle_Red/ItemsList/Red_04_SelfSlot"]}

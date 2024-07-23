@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_GoblinsPartyInTheTower_SummonPlace/Check_0008"], "children": ["World/Encounters/DLC5_GoblinsPartyInTheTower/UnlockableFlags/DLC5_GoblinsPartyInTheTower_SummonPlace_Normal", "World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_SummonPlaceMonsters", "Factions/Mobs"]}

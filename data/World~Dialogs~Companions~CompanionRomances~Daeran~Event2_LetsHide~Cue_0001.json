@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/LetsHide_dialog"], "children": ["World/Quests/Companions/Daeran/C4_RomanceErrand/01_errandobdaeromance", "World/Encounters/Nexus/UnlockableFlags/DaeranRomance_LetsHide_AmbienceBreak", "World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/Cue_0002"]}

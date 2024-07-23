@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/Aslynn/Brain/AslynnDreamTheftAbility_AiAction", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/Aslynn/Brain/AslynnRestlessSlumberMass_AiAction"], "children": ["CreatureAbilities/Immunities/ImmunityToSleep", "Traits/Races/Elf/ElvenImmunities"]}

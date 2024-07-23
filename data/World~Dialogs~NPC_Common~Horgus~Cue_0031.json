@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/NPC_Common/Horgus/Answer_0023"], "children": ["GlobalMaps/KenabresMap/Points/Location_HorgusManor", "World/Quests/c1/HorgusManor/add_TalkToHorgus", "World/Quests/c1/HorgusManor/Obj01_BringHorgusToTop", "World/Quests/c1/HorgusManor/Obj02a_GoToHorgusManorMaybe"]}

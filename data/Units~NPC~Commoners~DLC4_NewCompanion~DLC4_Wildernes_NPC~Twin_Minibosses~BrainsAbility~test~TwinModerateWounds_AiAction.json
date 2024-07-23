@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Twin_Minibosses/BrainsAbility/DLC4_WarpristMinibossBrain"], "children": ["Brain/Considerations/InjuryMedium", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/TargetSelf", "Spells/Level2/InflictModerateWoundsCast"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Hunter/AnimalFocus/AnimalFocusOwlBuffEffect", "Classes/Hunter/AnimalFocus/AnimalFocusOwlBuff"], "children": ["Classes/Hunter/HunterClass", "Classes/Monster/Animal/AnimalCompanionClass", "Classes/Hunter/AnimalFocus/AnimalFocusOwlAnimalBuff", "Classes/Hunter/AnimalFocus/AnimalFocusOwlAnimalBuff"]}

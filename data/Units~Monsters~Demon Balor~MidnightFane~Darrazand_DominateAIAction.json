@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Balor/MidnightFane/Darrazand_Brain"], "children": ["Brain/Considerations/NoBuffDominate", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AvoidMainCharacterConsideration", "Brain/Considerations/NotUndeadConsideration", "Spells/Level9/DominateMonster"]}

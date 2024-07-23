@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/TempleOfDelamere/KyadoDieAgain/KyadoDieAgain"], "children": ["Units/Monsters/RatSwarm/CR2_RatSwarm", "World/Encounters/TempleOfDelamere/SummonPools/KyadoRats", "Factions/Neutrals", "Spells/Level3/GoodHopeBuff", "World/Encounters/TempleOfDelamere/UnlockableFlags/KyadoDead"]}

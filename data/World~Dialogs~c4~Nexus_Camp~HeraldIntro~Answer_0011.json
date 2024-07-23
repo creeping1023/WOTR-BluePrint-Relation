@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c4/Nexus_Camp/HeraldIntro/HeraldIntro_Nexus_c4_dialog", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/AnswersList_0032"], "children": ["World/Dialogs/c4/Nexus_Camp/HeraldIntro/Cue_0029", "World/Quests/c4/MidnightIsles/Add_KeyToHerald", "World/Encounters/Nexus/Items/PortalKey"]}

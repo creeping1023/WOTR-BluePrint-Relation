@@ -1,0 +1,1 @@
+{"parents": ["Spells/CutsceneSpells/Alushinyrra/InvisibleHeraldBuff", "Spells/CutsceneSpells/Alushinyrra/HeraldHealthTrigger_Buff", "World/Cutscenes/AlushinyrraMediumCity/HeraldLeavesIfHeIsStillHere/CommandAction"], "children": ["World/Cutscenes/AlushinyrraMediumCity/HeraldFinalFightBark/CommandDelay", "World/Cutscenes/AlushinyrraMediumCity/HeraldFinalFightBark/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Shadow/CR26_DeepShadowDemonToughCasterBrain/IllusionBrain/CR26DeepShadowDemonToughCaster_IllusionBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Spells/Level4/InvisibilityGreater", "Spells/Level8/PolarRay", "Spells/Level8/Sunburst", "Spells/Level8/Stormbolts"]}

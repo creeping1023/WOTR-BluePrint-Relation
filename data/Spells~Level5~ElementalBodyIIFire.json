@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level5/ElementalBodyIIBase", "Classes/Oracle/OracleRevelations/OracleRevelationFormOfFlameAbility2", "Items/Scrolls/Level5/ScrollOfElementalBodyIIFire"], "children": ["Spells/Level5/ElementalBodyIIFireBuff", "Classes/Druid/DruidClass", "Spells/Level5/ElementalBodyIIFireBuff", "Spells/Level5/ElementalBodyIIBase"]}

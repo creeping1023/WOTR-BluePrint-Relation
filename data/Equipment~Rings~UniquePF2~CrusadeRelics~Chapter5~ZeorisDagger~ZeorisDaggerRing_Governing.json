@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch5/ZeorisDagger_Enchanting_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/CrusadeRelics/Chapter5/ZeorisDagger/ZeorisDaggerRing_GoverningEnchantment"]}

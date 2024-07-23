@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/AfterFight/Answer_0016"], "children": ["World/Cutscenes/KenabresGraveyard/HideNecromant/HideNecromant", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra/Chapter02_AreasDefault/KenabresGraveyard/QuestFinale"]}

@@ -1,0 +1,1 @@
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Cleric/Domains/Knowledge/KnowledgeDomainBaseFeature", "Classes/Cleric/Domains/Knowledge/KnowledgeDomainProgression", "Classes/Cleric/Domains/Knowledge/KnowledgeDomainBaseFeatureUpgrader", "Classes/Cleric/Domains/Knowledge/KnowledgeDomainProgression"]}

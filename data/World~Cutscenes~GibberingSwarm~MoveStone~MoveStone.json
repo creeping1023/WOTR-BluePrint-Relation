@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Areas/Act_2_SwordOfValor/GibberingSwarm/GibberingSwarmCave_CaveDoor_CheckPassedActions"], "children": ["World/Cutscenes/GibberingSwarm/MoveStone/CommandDelay", "World/Cutscenes/GibberingSwarm/MoveStone/CommandAction", "World/Cutscenes/GibberingSwarm/MoveStone/CommandFadeout", "World/Cutscenes/GibberingSwarm/MoveStone/CommandAction 1"]}

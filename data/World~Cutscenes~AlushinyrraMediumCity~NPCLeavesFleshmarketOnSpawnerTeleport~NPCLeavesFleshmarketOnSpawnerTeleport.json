@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/AlushinyrraMediumCity/ActionsHolders/Fleshmarket_SlaveLeaveTeleport"], "children": ["World/Cutscenes/AlushinyrraMediumCity/NPCLeavesFleshmarketOnSpawnerTeleport/CommandDelay", "World/Cutscenes/AlushinyrraMediumCity/NPCLeavesFleshmarketOnSpawnerTeleport/gate"]}

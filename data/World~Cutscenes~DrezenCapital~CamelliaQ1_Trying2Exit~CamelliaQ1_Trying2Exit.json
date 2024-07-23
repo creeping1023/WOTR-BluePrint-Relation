@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DrezenCapital/ScriptZones/CamelliaQ1_Trying2Exit"], "children": ["World/Cutscenes/DrezenCapital/CamelliaQ1_Trying2Exit/CommandFadeout", "World/Cutscenes/DrezenCapital/CamelliaQ1_Trying2Exit/CommandStartDialog", "World/Cutscenes/DrezenCapital/CamelliaQ1_Trying2Exit/CommandDelay", "World/Cutscenes/DrezenCapital/CamelliaQ1_Trying2Exit/CommandAction"]}

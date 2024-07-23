@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_Facts/BardClass_Penta", "Units/NPC/Commoners/DLC5_Storys_End/Penta_UniqueBard"], "children": ["Classes/Bard/BardSpellSlotsTable", "Classes/Bard/BardSpellsKnownTable", "Classes/Bard/BardSpellList", "Classes/Bard/BardClass"]}

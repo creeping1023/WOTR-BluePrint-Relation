@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyHellknight"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_SmiteChaos"]}

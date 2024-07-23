@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level7/PolymorphGreaterBase", "Items/Scrolls/Level7/ScrollOfPolymorphGreaterSmilodon"], "children": ["Spells/Level7/PolymorphGreaterSmilodonBuff", "Spells/Level7/PolymorphGreaterSmilodonBuff", "Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Spells/Level5/BalefulPolymorphBuff", "Spells/Level7/PolymorphGreaterBase"]}

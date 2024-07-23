@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/ColyphyrDungeon/ActionsHolders/LiftGoDown"], "children": ["World/Cutscenes/ColyphyrDungeon/ColyphyrDungeon_Lift/CommandDelay", "World/Cutscenes/ColyphyrDungeon/ColyphyrDungeon_Lift/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-432584_EyesOfEagle", "Items/Vendors/FirstVendorTable", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/CommonEnchantments/Perception5"]}

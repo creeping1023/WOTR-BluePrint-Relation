@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Answer_0005"], "children": ["World/Quests/c1/HuntingKaylessa/HuntingKaylessa_quest", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/AnswersList_0013"]}

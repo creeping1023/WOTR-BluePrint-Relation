@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Good/CR0/PF2_DemonWorld_Loot_DLC3Lava_Tempel_Double1_weapon_stand1"], "children": ["Weapons/Types/MartialTwoHanded/Glaive", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Frost"]}

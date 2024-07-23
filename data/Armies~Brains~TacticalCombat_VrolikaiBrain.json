@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyVrolikai"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_EnervationAOE", "Armies/Brains/Actions/TacticalCombat_AIAction_SummonGlabrezu", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]}

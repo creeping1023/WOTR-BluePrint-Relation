@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Good/CR0/PF2_DemonWorld_Loot_DLC3_SandCave_Double02_chest2"], "children": ["Weapons/Types/MartialLight/Handaxe", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Agile", "Weapons/Enchantments/BrilliantEnergy"]}

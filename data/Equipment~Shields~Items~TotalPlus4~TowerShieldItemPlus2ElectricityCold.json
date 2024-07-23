@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/C4_VendorTableLarge"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Items/TotalPlus4/TowerShieldArmorItemPlus2ElectricityCold"]}

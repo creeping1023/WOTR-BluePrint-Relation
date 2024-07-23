@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Gargoyle/LostChapel/GargoyleWindseeker"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleWindseeker_BlindnessAIAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleWindseeker_SickeningEntanglementAIAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleWindseeker_StinkingCloudAIAction"]}

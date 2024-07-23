@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorFollowEnemyAiAction", "Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorDamageAIAction"], "children": ["Units/Monsters/Vescavor/VescavorQueenBrain/VescavorAttractorBuff", "World/Encounters/GibberingSwarm/Buffs/GibberingLure"]}

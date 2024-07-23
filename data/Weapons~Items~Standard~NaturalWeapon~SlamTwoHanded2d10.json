@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Golem Iron/CR13_GolemIron_DLC5", "Units/Monsters/Golem Iron/CR13_GolemIron", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_Golems/DLC3_CR13_GolemIron", "Units/Monsters/Golem Iron/GolemIronSummon"], "children": ["Weapons/Types/NaturalWeapon/SlamTypeTwoHanded2d10"]}

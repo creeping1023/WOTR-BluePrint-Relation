@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "World/Crusade/Events/CrusadeEvents/CrusadeEvent70", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleTwoHanded/Trident", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/ElderBrass", "Weapons/Enchantments/Axiomatic"]}

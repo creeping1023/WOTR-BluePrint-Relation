@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Spells/Level5/ConeOfCold", "EquipmentEntities/Armor/KEE_Armor_StuddedBandits", "Equipment/Armor/Types/StuddedType", "Equipment/CommonEnchantments/ColdResistance25Enchantment", "Equipment/Armor/Enchantments/ArmorEnhancementBonus4"]}

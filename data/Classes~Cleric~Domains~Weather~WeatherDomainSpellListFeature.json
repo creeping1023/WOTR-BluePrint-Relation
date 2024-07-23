@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Weather/WeatherDomainBaseFeature", "Classes/Cleric/Archetypes/Separatist/Domains/Weather/WeatherDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Weather/WeatherDomainSpellList"]}

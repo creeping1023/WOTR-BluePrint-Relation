@@ -1,0 +1,1 @@
+{"parents": ["Classes/Druid/Archetypes/ElementalRampager/FireRampage/RampageExtraEffect11Buff"], "children": ["Classes/Druid/Archetypes/ElementalRampager/FireRampage/RampageExtraEffect20DamageBuff", "Feats/EnergizedWildShape/EnergizedWildShapeFireBuff", "Feats/EnergizedWildShape/ElementalRampagerCheckWildShapeBuff", "Classes/Druid/DruidClass"]}

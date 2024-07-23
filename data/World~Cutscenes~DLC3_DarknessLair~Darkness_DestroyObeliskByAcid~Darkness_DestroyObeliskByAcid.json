@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC3_DarknessLair/ActionHolders/ObeliskDamage_Actions"], "children": ["World/Cutscenes/DLC3_DarknessLair/Darkness_DestroyObeliskByAcid/CommandAction", "World/Cutscenes/DLC3_DarknessLair/Darkness_DestroyObeliskByAcid/CommandDelay", "World/Cutscenes/DLC3_DarknessLair/Darkness_DestroyObeliskByAcid/CommandAction1"]}

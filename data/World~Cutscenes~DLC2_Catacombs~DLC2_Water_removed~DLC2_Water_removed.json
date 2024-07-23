@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC2_Catacombs/ActionsHolders/HatchButton_CheckPassedActions"], "children": ["World/Cutscenes/DLC2_Catacombs/DLC2_Water_removed/CommandFadeout", "World/Cutscenes/DLC2_Catacombs/DLC2_Water_removed/CommandAction1", "World/Cutscenes/DLC2_Catacombs/DLC2_Water_removed/CommandDelay", "World/Cutscenes/DLC2_Catacombs/DLC2_Water_removed/CommandAction"]}

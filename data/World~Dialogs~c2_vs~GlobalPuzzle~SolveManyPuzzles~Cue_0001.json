@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/SolveManyPuzzles_dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/GlobalPuzzle/MaskedGhost", "World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/CueSequence_0002", "World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/Cue_0004"]}

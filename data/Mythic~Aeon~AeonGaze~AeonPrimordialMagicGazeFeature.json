@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/BastionOfJustice/SignTheContract/CommandAction", "Mythic/Aeon/AeonGaze/AeonGazeThirdSelection", "Mythic/Aeon/AeonGaze/AeonGazeSecondSelection"], "children": ["Mythic/Aeon/AeonGaze/AeonPrimordialMagicDamageGazeAbility", "Mythic/Aeon/AeonGaze/AeonPrimordialMagicHealGazeAbility", "Mythic/Aeon/AeonGaze/AeonPrimordialMagicSupportGazeAbility"]}

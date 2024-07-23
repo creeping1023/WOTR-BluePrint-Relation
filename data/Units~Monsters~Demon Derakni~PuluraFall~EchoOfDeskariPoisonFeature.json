@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Derakni/PuluraFall/EchoOfDeskari_ForFight", "Units/Monsters/Demon Derakni/PuluraFall/EchoOfDeskari"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Units/Monsters/Demon Derakni/PuluraFall/EchoOfDeskariPoisonBuff", "Weapons/Types/NaturalWeapon/StingType", "Units/Monsters/Demon Derakni/PuluraFall/EchoOfDeskariPoisonBuff"]}

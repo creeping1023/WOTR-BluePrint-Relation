@@ -1,0 +1,1 @@
+{"parents": ["Feats/CriticalFeats/BlindingCriticalToggleAbility"], "children": ["Traits/Races/Common/UndeadType", "Spells/Level0/DazzledBuff", "Spells/Level2/BlindnessBuff", "Spells/Level0/DazzledBuff", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawBlindingCriticalBuffEffect"]}

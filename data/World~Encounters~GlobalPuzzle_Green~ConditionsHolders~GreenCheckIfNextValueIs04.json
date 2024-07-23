@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenSelfSlotChecker", "World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenNextSlotChecker"], "children": ["World/Encounters/GlobalPuzzle_Green/ItemsList/Green_04_NextSlot", "World/Encounters/GlobalPuzzle_Green/ItemsList/Green_04_SelfSlot"]}

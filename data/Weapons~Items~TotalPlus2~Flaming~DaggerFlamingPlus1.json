@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Loot/Good/CR14/PF2_Worldwound_GoodLootHidden", "Items/Vendors/PF2_DLC2/DLC2_QuartermasterImprovedTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Flaming"]}

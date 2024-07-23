@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/LeadersBrain/CultistLeader_Bane", "Armies/Brains/LeadersBrain/CultistLeader_Bless", "Armies/Rituals/RitualBane"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Rituals/RitualBlessBuff", "Armies/Rituals/RitualBlessBuff", "Armies/Rituals/RitualBaneBuff", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

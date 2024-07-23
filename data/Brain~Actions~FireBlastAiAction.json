@@ -1,0 +1,1 @@
+{"parents": ["Brain/Companions/Kanerah_Brain"], "children": ["Brain/Considerations/DisableWhenAutoCast", "Brain/Considerations/NoBuffKineticBlade", "Brain/Considerations/AttackTargetsPriority", "Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastBase", "Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastAbility"]}

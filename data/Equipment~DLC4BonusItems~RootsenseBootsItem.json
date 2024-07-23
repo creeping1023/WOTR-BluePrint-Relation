@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Loot/Good/CR13/Forest_BossLoot", "Loot/Good/CR0/Forest_Final_Wizard", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "EquipmentEntities/Boots/KEE_Boots_BootsManticore", "Equipment/DLC4BonusItems/RootsenseBootsEnchantment"]}

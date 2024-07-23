@@ -1,0 +1,1 @@
+{"parents": ["Loot/Quest/AreshkagalDungeon/FakeLoot1_vase", "Dugeons/Loot/DungeonLootExclude", "World/Encounters/AreshkagalDungeon/ConditionsHolders/Fakeloot_ItemRestriction"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

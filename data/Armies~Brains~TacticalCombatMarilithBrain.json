@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyMarilithStandard"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportantExecute", "Armies/Brains/Actions/TacticalCombat_AIAction_TeleportAtWill", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/MiniBossWizard/BrainsAbility/DLC4_MinibossWizardBrain", "Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/DeskariPriestess/MidnightFane_DeskariPriestess_Brain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AttackTargetsPriority", "Spells/Level9/PolarMidnight"]}

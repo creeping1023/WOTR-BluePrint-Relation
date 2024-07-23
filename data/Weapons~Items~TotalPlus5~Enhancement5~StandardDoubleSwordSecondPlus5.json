@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/UniquePF2/Chapter5/HavocHarbingerItem", "Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus5/Enhancement5/StandardDoubleSwordPlus5", "Weapons/Items/UniquePF2/Chapter4/WintersMarkItem"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleSword", "Weapons/Enchantments/Enhancement5"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Kineticist/WildTalents/WildTalentSelection", "Units/NPC/Commoners/Act_4_MidnightIsles/Alushinyrra_StopEavesdropping/CambionMinibossKineticist", "Feats/DLC5/ExtraWildTalentSelection"], "children": ["Classes/Kineticist/WildTalents/KineticRevificationAbility", "Classes/Kineticist/WildTalents/KineticHealerFeature", "Classes/Kineticist/KineticistClass"]}

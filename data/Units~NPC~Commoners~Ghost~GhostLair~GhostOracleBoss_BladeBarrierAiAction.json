@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Ghost/GhostLair/GhostOracleBoss_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/BladeBarrier"]}

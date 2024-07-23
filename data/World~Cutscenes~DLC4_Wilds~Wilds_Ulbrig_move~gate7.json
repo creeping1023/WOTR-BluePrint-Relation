@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/gate1", "World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/gate"], "children": ["World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/gate4", "World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/CommandStartDialog"]}

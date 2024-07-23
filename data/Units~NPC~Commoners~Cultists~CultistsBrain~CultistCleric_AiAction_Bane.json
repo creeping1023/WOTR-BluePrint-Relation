@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistCleric_Brain_Standard"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/EnemiesNoBuff_Bane", "Spells/Level1/Bane"]}

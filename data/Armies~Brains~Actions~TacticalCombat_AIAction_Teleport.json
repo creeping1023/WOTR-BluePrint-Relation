@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombat_AssassinBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Abilities/ArmyAssassinTeleportAbility"]}

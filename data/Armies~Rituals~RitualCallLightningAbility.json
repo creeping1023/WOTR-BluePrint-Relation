@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/LeadersBrain/CultistLeader_CallLightning", "Armies/Rituals/RitualCallLightning"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/Bonus/Dragon5ManaConsumptionFact", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

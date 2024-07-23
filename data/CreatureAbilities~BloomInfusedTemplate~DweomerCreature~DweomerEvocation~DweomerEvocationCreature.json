@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/Monsters/Wyvern/CR8_WyvernEvocation"], "children": ["Spells/Level6/TrueSeeingBuff", "CreatureAbilities/EnergyResistance/ColdResistance10", "CreatureAbilities/EnergyResistance/ElectricityResistance10", "CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerEvocation/DweomerEvocationBuff", "Spells/Level2/BurningArc"]}

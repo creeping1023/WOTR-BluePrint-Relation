@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/DawnOfDragons/DragonsBeforeBattle/Cue_0084", "World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/Cue_0033", "World/Dialogs/c5/DawnOfDragons/DragonsBeforeBattle/Cue_0087"], "children": ["World/Cutscenes/GenericScenes/DragonRoars_Param/CommandDelay 7", "World/Cutscenes/GenericScenes/DragonRoars_Param/CommandUnitPlayCutsceneAnimation 14"]}

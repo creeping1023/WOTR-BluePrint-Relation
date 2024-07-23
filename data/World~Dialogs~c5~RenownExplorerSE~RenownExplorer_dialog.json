@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/SE_RenownExplorer/ScriptZones/jubilost_StartDialog"], "children": ["World/Dialogs/c5/RenownExplorerSE/Cue_0001", "World/Cutscenes/SE_RenownExplorer/Jubielost_FogRev/Jubielost_FogRev", "World/Cutscenes/WarCamp/AmbienceTalking(Unit)/AmbienceTalking(Unit)", "Units/Companions/Ember/Ember_Companion"]}

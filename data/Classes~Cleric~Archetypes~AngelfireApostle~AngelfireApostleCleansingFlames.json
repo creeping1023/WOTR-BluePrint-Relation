@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleArchetype", "Root/Upgraders/Player/PF-214703"], "children": ["Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleCleansingFlamesAbility", "Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleCleansingFlamesBuff", "Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleSpellbook"]}

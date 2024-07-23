@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/MorvegBrain/Morveg_Brain"], "children": ["Brain/Considerations/SwiftActionOnCooldown", "Classes/Warpriest/SacredWeaponEnchant/SacredWeaponEnchantSwitchAbility"]}

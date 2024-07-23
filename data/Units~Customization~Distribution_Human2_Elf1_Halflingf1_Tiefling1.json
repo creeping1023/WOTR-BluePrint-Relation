@@ -1,0 +1,1 @@
+{"parents": ["Units/Customization/CustomizationPreset_BanditrsRanged_Weak", "Units/Customization/CustomizationPreset_BanditrsRanged_Strong", "Units/Customization/CustomizationPreset_BanditrsRanged_Medium"], "children": ["Races/HumanRace", "Races/ElfRace", "Races/HalflingRace", "Races/TieflingRace"]}

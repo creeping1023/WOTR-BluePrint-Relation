@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBoss/AreshkaFeats/SecondStageBuffs/5_DeathAbility_Acid"], "children": ["Root/SystemMechanics/Conditions/SunderArmorBuff", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBoss/AreshkaFeats/MasterOfIllusionSummonBuff"]}

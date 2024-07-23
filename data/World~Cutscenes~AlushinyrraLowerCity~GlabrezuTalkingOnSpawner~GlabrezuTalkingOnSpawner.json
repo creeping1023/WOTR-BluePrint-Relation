@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/GlabrezuTalkingOnSpawner/CommandActivateGate", "World/Encounters/Common/ActionHolders/GlabrezuTalking_SpawnerActions"], "children": ["World/Cutscenes/AlushinyrraLowerCity/GlabrezuTalkingOnSpawner/CommandDelay", "World/Cutscenes/AlushinyrraLowerCity/GlabrezuTalkingOnSpawner/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Azata/AzataDragon/DragonAzataArchetype"], "children": ["Mythic/Azata/AzataDragon/DragonAzataSpellsDailyTable", "Mythic/Azata/AzataDragon/DragonAzataSpellsKnownTable", "Classes/Cleric/ClericSpellList", "Classes/Monster/Dragon/DragonClass"]}

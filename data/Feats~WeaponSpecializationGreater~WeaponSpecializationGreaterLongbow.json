@@ -1,0 +1,1 @@
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationLongbow"], "children": ["Weapons/Types/MartialRanged/Longbow", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationLongbow", "Weapons/Types/MartialRanged/CompositeLongbow"]}

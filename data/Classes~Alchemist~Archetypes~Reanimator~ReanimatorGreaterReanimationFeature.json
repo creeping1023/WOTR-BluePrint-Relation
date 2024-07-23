@@ -1,0 +1,1 @@
+{"parents": ["Classes/Alchemist/Archetypes/Reanimator/ReanimatorSimpleReanimationBuff", "Classes/Alchemist/Archetypes/Reanimator/ReanimatorArchetype"], "children": ["Classes/Alchemist/AlchemistClass", "Spells/Level8/CreateUndeadGreaterBase", "Classes/Alchemist/Archetypes/Reanimator/ReanimatorArchetype"]}

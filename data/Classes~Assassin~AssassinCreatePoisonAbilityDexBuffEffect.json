@@ -1,0 +1,1 @@
+{"parents": ["Classes/Assassin/AssassinCreatePoisonAbilityDexBuff"], "children": ["Classes/Assassin/AssassinPoisonInitialDamageBuff", "Classes/Assassin/AssassinCreatePoisonIncreasedDuration", "Classes/Assassin/AssassinCreatePoisonIncreasedSavingThrows"]}

@@ -1,0 +1,1 @@
+{"parents": ["QA/Arbiter/Scenario/Act_5_HeraldOfTheIvoryLabyrinth/AreeluLabReturn", "World/Cutscenes/AreeluLabReturn/OpenCrystalDoor/CommandAction"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/AreeluLabReturn/AreeluLabReturn", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/AreeluLabReturn/ALR_SecretRoom"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Wizard/Transmutation/TransmutationSchoolDexterityAbility", "Classes/Wizard/Transmutation/TransmutationPhysicalEnhancementToggleConstitution", "Classes/Wizard/Transmutation/TransmutationSchoolStrengthAbility", "Classes/Wizard/Transmutation/TransmutationSchoolConstitutionAbility"], "children": ["Classes/Wizard/WizardClass"]}

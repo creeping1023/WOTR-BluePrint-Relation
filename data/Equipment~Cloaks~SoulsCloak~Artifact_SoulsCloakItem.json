@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Cloaks/SoulsCloak/SoulsCloakResourceFeature", "Items/DestructibleItemsShards/ClothShardItem", "Equipment/Cloaks/SoulsCloak/SoulsCloakEnchant", "Equipment/Cloaks/SoulsCloak/SoulsCloakCurseEnchant"]}

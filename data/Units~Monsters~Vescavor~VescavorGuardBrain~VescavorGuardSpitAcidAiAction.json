@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Vescavor/VescavorGuardBrain/VescavorGuardBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/LongRange", "Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Vescavor/VescavorGuardBrain/VescavorGuardSpitAcidAbility"]}

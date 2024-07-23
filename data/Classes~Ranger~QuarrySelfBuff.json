@@ -1,0 +1,1 @@
+{"parents": ["Classes/Ranger/Archetypes/Demonslayer/FiendishQuarryBuff", "Classes/Ranger/Quarry", "Classes/Ranger/Archetypes/Demonslayer/FiendishQuarryBuffImproved"], "children": ["Classes/Ranger/QuarryBuff", "Classes/Ranger/Quarry", "Classes/Ranger/ImprovedQuarry", "Classes/Ranger/RangerClass"]}

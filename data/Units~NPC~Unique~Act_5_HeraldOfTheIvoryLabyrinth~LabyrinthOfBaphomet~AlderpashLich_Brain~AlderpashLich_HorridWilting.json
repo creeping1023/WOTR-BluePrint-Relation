@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/AlderpashLich_Brain/AlderpashLich_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Spells/Level8/HorridWilting"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootExclude", "Root/Upgraders/Player/PF-439228_RobeOfEarth"], "children": ["Classes/Monster/Dragon/DragonClass", "EquipmentEntities/Robe/KEE_Robe_RobeArcane1", "Equipment/Armor/Types/ClothType", "Equipment/Armor/Items/Unique/Robes/RobeOfEarthEnchant"]}

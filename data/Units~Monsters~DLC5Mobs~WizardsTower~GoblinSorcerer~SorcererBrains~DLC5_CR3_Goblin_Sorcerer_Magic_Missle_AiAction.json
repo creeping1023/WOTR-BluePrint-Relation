@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinSorcerer/SorcererBrains/DLC5_CR5_GoblinSorcerer_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level1/MagicMissile"]}

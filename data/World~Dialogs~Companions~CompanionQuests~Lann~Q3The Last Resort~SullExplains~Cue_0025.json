@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/SullExplains/Cue_0024"], "children": ["Units/Companions/Lann/Lann_Companion", "GlobalMaps/WorldWoundGM/Points/Location_Lann_Q3_SavamelekhLair", "World/Quests/Companions/Lann/Q3TheLastResort/Obj1_TalkSull", "World/Quests/Companions/Lann/Q3TheLastResort/Obj2_FindSavamelekh"]}

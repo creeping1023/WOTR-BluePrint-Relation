@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombatMadBrain", "Armies/Brains/TacticalCombatProvokedBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_TargetsAroundConsideration"]}

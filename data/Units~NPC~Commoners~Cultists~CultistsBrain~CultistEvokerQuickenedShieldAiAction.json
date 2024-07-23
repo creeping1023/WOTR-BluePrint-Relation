@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/RazmirCultists/CultistsBrains/Razmiran4/Razmiran4BrainAbjurator", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerStandardBrain", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerHasteBrain"], "children": ["Brain/Considerations/SwiftAction", "Brain/Considerations/NoBuffShield", "Spells/Level1/MageShield"]}

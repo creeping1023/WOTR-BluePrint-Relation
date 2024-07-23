@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Derakni/AreeluLab/AreeluLab_DerakniBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/Act_3_DemonsHerecy/IvorySanctum/BlackFireAdeptVampireBrain/BlackFireAdeptVampire_StudyTargetConsideration", "Classes/Slayer/SlayerSwiftStudyTargetAbility"]}

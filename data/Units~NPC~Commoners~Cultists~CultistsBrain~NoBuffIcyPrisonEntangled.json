@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/KohhDungeon/Cyborg_IcyPrison_AiAction", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerIcyPrisonAiAction", "Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/GoblinShamanBoss/DLC5_GoblinShamanIcyPrisonAiAction"], "children": ["Spells/Level5/IcyPrisonEntangledBuff"]}

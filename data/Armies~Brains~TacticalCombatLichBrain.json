@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyLich"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_Enervation", "Armies/Brains/Actions/TacticalCombat_AIAction_MagicMissile"]}

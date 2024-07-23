@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyMassHoldPersonFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_MassHoldPerson"], "children": ["Armies/Abilities/ArmyMassHoldPersonBuff", "Armies/Abilities/ArmyMassHoldPersonResource"]}

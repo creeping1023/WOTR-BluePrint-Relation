@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0192"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/Aron_WarCamp", "World/Cutscenes/WarCamp/WarCamp_DefaultPeaceful_AronKirGoAway/WarCamp_DefaultPeaceful_AronKirGoAway", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0045"]}

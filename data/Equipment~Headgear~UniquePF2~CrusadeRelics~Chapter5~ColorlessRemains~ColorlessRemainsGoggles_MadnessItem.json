@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch4/ColorlessRemains_Enchanting_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/UniquePF2/CrusadeRelics/Chapter5/ColorlessRemains/ColorlessRemainsGoggles_MadnessAbility", "EquipmentEntities/Goggles/KEE_Goggles_GogglesEyesOfEagle"]}

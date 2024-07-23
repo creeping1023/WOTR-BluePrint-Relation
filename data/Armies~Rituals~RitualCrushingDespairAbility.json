@@ -1,0 +1,1 @@
+{"parents": ["Armies/Rituals/RitualCrushingDespair"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/Bonus/Dragon5ManaConsumptionFact", "Armies/Leaders/Feats/Bonus/Dragon5ManaConsumptionFact", "Spells/Level3/CrushingDespairBuff", "Armies/Rituals/RitualCrushingDespairMoraleProperty", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

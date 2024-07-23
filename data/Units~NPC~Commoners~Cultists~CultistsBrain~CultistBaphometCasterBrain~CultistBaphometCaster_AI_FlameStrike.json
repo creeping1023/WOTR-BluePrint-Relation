@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistBaphometCasterBrain/CultistBaphometMeleeCaster_Brain_Flame"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level5/FlameStrike"]}

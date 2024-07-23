@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/IvorySanctum/ActionsHolders/CrazyMythicVrok_Chained"], "children": ["World/Cutscenes/IvorySanctum/VrockChainAndUnchain/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/IvorySanctum/VrockChainAndUnchain/gate", "World/Cutscenes/IvorySanctum/VrockChainAndUnchain/WaitFlag", "World/Cutscenes/IvorySanctum/VrockChainAndUnchain/gate"]}

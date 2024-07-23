@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cavalier/Archetypes/DiscipleOfThePike/DiscipleOfThePikeArchetype", "Classes/Cavalier/Archetypes/StandardBearer/StandardBearerArchetype", "Classes/Cavalier/Archetypes/GhostRider/GhostRiderArchetype", "Classes/Cavalier/CavalierProgression"], "children": ["Classes/Cavalier/CavalierBannerAreaBuff", "Classes/Cavalier/CavalierBannerAreaBuff"]}

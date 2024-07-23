@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Luck/LuckDomainBaseFeatureSeparatist", "Classes/Cleric/Domains/Luck/LuckDomainBaseFeature", "Classes/Cleric/Domains/Luck/LuckDomainSpellListFeatureDruid"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Luck/LuckDomainSpellList"]}

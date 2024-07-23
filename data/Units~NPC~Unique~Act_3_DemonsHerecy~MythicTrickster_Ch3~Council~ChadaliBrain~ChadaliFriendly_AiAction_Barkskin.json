@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/ChadaliBrain/ChadaliFriendly_Brain", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/ChadaliBrain/ChadaliEnemy_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffBarkskin", "Spells/Level2/Barkskin"]}

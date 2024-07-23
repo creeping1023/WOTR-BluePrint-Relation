@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/Pregens/PartyPregenTests/Greybor/GreyborTestLevel9"], "children": ["Weapons/Types/ExoticOneHanded/DwarvenWaraxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost"]}

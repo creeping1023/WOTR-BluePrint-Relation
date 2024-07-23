@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Vampire/RavenSwarm/DLC6_DeadRavenSwarm", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Vampire/RavenSwarm/Brain/DLC6_DeadRavenSwarmDamage_AiAction"], "children": ["Buffs/Nauseated", "Spells/Level2/BlindnessBuff", "Classes/Monster/Undead/UndeadClass"]}

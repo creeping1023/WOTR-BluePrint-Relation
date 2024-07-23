@@ -1,0 +1,1 @@
+{"parents": ["Loot/Trash/CR21/PF2_DemonWorld_DimDoor", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Feats/WeaponFocus/WeaponFocusColdIronStarting"], "children": ["Weapons/Types/MartialLight/LightPick", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC2_RichQuarter/ActionsHolders/Wall_barrels"], "children": ["World/Cutscenes/DLC2_RichQuarter/Wall_barrels/CommandFadeout", "World/Cutscenes/DLC2_RichQuarter/Wall_barrels/CommandDelay", "World/Cutscenes/DLC2_RichQuarter/Wall_barrels/CommandAction", "World/Cutscenes/DLC2_RichQuarter/Wall_barrels/gate"]}

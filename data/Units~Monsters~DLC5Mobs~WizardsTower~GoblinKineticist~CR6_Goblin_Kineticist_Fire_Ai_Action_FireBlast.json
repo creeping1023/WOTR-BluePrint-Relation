@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinKineticist/CR6_Goblin_Kineticist_Fire_Brain"], "children": ["Brain/Considerations/ChaoticConsideration", "Brain/Considerations/AttackTargetsPriority", "Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastBase", "Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastAbility"]}

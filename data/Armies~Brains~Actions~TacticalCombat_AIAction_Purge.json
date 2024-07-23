@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombat_WizardBrain", "Armies/Brains/TacticalCombat_WitchBrain", "Armies/Brains/TacticalCombat_NalfeshneeBrain"], "children": ["Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/HasTastyBuff_Consideration", "Armies/Abilities/ArmyPurge"]}

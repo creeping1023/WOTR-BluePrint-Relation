@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/MinotaurCasterBlasterBrain/MinotaurCasterBlaster_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/ColdIceStrike"]}

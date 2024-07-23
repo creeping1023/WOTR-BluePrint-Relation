@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Iz/GalfreyGoesToManuscriptBasementWithPlayer/CommandAction", "World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/CommandAction"], "children": ["Buffs/NPC_HealthGuard10", "World/Encounters/Iz/SummonPools/GalfreyPool", "Buffs/NPC_HealthGuard10", "World/Encounters/Iz/SummonPools/IrabethPool"]}

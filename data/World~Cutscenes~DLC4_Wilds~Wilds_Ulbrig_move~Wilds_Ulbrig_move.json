@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DLC4_Wilds/DLC4_AfterEnd/CommandAction6", "World/Encounters/DLC4_Wilds/ActionsHolders/DLC4_Sanctum_Wolf"], "children": ["World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/CommandDelay", "World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/gate", "World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/CommandUnitCastSpell2"]}

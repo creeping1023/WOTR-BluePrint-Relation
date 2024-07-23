@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Trash/CR14/Forest_Loot "], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/DLC4BonusItems/RingOfFoeFocusAbility", "Equipment/DLC4BonusItems/RingOfFoeFocusEnchantment"]}

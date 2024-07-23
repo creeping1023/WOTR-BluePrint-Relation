@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/Monsters/Kobold/CR4_KoboldThundercallerLevel5"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/HideousLaughterAiAction", "Brain/Actions/ThundercallerSoundBurstAiAction", "Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditBard/BanditBardBrain/BardMirrorImageAiAction"]}

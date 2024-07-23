@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Treant/Wintersun/DLC1_BlightedTreantBoss", "Units/Monsters/Treant/Wintersun/BlightedTreantBoss"], "children": ["Spells/Level1/MageArmorBuff", "Spells/Level2/BarkskinBuff", "Spells/Level3/HeroismBuff", "Spells/Level9/WindsOfVengeanceBuff", "Spells/Level9/ForesightBuff", "Spells/Level6/HeroismGreaterBuff"]}

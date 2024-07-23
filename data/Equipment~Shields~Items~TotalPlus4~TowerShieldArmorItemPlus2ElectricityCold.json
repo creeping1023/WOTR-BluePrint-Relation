@@ -1,0 +1,1 @@
+{"parents": ["Equipment/Shields/Items/TotalPlus4/TowerShieldItemPlus2ElectricityCold"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/TowerShieldType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus2", "Equipment/Armor/Enchantments/ElectricityResistance15Enchant", "Equipment/Armor/Enchantments/ColdResistance15Enchant"]}

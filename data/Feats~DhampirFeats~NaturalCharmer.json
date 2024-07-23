@@ -1,0 +1,1 @@
+{"parents": ["Races/DhampirRace", "Classes/Basic/BasicFeatSelection", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["Races/DhampirRace", "Feats/DhampirFeats/NaturalCharmerResource", "Feats/DhampirFeats/NaturalCharmerAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Brain/Actions/FoxsCunningAiAction", "Brain/Actions/FoxsCunningMassAiAction"], "children": ["Spells/Level2/FoxsCunningBuff"]}

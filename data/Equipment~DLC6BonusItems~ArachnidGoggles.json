@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/Act_2_SwordOfValor/WarCamp_ScrollVendorClericTable"], "children": ["EquipmentEntities/Goggles/KEE_Goggles_GogglesEyesOfEagle", "Equipment/DLC6BonusItems/ArachnidGogglesEnchantment"]}

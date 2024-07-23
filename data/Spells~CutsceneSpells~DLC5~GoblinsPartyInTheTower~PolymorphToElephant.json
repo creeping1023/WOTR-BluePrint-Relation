@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/NoBuffPolymorphToElephantConsideration", "World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_HallParty/CommandAction11"], "children": ["Units/Monsters/Mastodon/MastodonGore", "Units/Monsters/Mastodon/MastodonSlam", "Feats/Maneuvers/Trip/TripDefenseFourLegs"]}

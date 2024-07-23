@@ -1,0 +1,1 @@
+{"parents": ["Classes/Hunter/Archetypes/Forester/ForesterArchetype", "Classes/Ranger/CamouflageAbility", "Classes/Ranger/RangerProgression", "Classes/Slayer/SlayerCamouflageAbility", "Classes/Hunter/Archetypes/Forester/ForesterCamouflageAbility"], "children": ["Classes/Ranger/RangerClass"]}

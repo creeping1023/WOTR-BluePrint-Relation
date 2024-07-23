@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level1/TargetedBombAdmixtureBuff", "Classes/Alchemist/Discoveries/BreathWeaponBomb/BreathWeaponBomb"], "children": ["Spells/Level2/MoltenOrb", "Items/Consumables/AcidFlaskAbility", "Items/Consumables/ConcentratedAcidFlaskAbility", "Items/Consumables/AlchemistsFireAbility", "Items/Consumables/HolyWaterAbility"]}

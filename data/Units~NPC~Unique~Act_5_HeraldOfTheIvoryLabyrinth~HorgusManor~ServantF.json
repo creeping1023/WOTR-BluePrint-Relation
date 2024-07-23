@@ -1,0 +1,1 @@
+{"parents": ["Units/Customization/CP_Servant_Female"], "children": ["Races/HumanRace", "Units/PortraitsGenerated/c807690bbdc6ece4bb5ed32d30a923a0_BCT_HorgusServant_Female", "Units/Customization/CP_Servant_Female", "Sound/Barks/NPC/Bandits/EnemyHumanFemale_Common_04_Barks", "Factions/CutsceneNeutrals", "Brain/Dumb Monster Brain", "WeaponEmptyHand"]}

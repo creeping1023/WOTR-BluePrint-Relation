@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Hag/GreenGate/Jarunnika"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Hag/GreenGate/Jarunnika_ChargeAIAction", "Units/Monsters/Hag/GreenGate/Jarunnika_DisplacementAIAction", "Units/Monsters/Hag/GreenGate/Jarunnika_ProtectionFromArrowsAIAction"]}

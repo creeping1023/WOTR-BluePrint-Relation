@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/AreshkagalTomb/AreshkaConfrontation/Cue_0038"], "children": ["World/Cutscenes/AreshkagalDungeon/AreshkagalDungeon_PlayerTakeMask/CommandControlCamera", "World/Cutscenes/AreshkagalDungeon/AreshkagalDungeon_PlayerTakeMask/CommandDelay", "World/Cutscenes/AreshkagalDungeon/AreshkagalDungeon_PlayerTakeMask/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_SecondStage"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_Brain", "Brain/Actions/AttackAiAction", "Brain/Actions/TouchSpellAiAction", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_SelfPolymorphAIAction"]}

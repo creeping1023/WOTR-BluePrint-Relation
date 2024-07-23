@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Loot/Good/CR0/Forest_Loot_DLC3_FireDungeon_lvl_Double04_chest1", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Quivers/JokeOfNatureArrowsQuiver/JokeOfNatureArrowsQuiverAbility"]}

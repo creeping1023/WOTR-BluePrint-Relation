@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/EmberQ1_BaphometsAltar/EmberQ3_Barks/gate1"], "children": ["World/UnlockableFlags/Companions/EmberEnding_Good", "World/UnlockableFlags/Companions/EmberEnding_Law", "World/UnlockableFlags/Companions/EmberEnding_Law", "World/UnlockableFlags/Companions/EmberEnding_Evil", "Units/Companions/Ember/Ember_Companion", "Spells/Level5/FlameStrike"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Quests/Test/BoxTrick_SideQuest/Add2_GoToDownTown", "World/Quests/Test/BoxTrick_SideQuest/Add1_TakePackage", "World/Quests/Test/BoxTrick_SideQuest/Obj1_RatTailsPackage"], "children": ["World/Quests/Test/BoxTrick_SideQuest/Obj1_RatTailsPackage", "World/Quests/Test/BoxTrick_SideQuest/Add1_TakePackage", "World/Quests/Test/BoxTrick_SideQuest/Add2_GoToDownTown"]}

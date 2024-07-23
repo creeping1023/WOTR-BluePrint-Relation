@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistArchetype", "Classes/Monk/MonkProgression"], "children": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistACBonus", "Classes/Monk/MonkStunningFists/StunningFistSickenedFeature", "Classes/Monk/Archetypes/ScaledFist/ScaledFistStunningFistSickenedFeature"]}

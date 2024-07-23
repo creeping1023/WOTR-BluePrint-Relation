@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/Archetypes/FeyformShifter/FeyAspectSelection", "Classes/Shifter/Archetypes/FeyformShifter/FinalFeyAspectSelection", "Classes/Shifter/Archetypes/FeyformShifter/GreaterShifterFeyAspectSelection"], "children": ["Classes/Shifter/Archetypes/FeyformShifter/ShifterAspectFeyBuff", "Classes/Shifter/ShifterAspects/ShifterAspectDinosaurBuff"]}

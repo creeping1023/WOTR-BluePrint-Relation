@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level7/CreepingDoomDamageArea"], "children": ["Spells/Level7/CreepingDoomPoisonBuff", "Spells/Level7/CreepingDoomDamageEffectImmunity", "Buffs/Nauseated"]}

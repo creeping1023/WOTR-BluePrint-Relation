@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AreshkagalDungeon/FinalPuzzle_AltScene/gate1"], "children": ["World/Cutscenes/AreshkagalDungeon/FinalPuzzle_AltScene/CommandControlCamera1", "World/Cutscenes/AreshkagalDungeon/FinalPuzzle_AltScene/CommandDelay3", "World/Cutscenes/AreshkagalDungeon/FinalPuzzle_AltScene/gate3", "World/Cutscenes/AreshkagalDungeon/FinalPuzzle_AltScene/CommandAction1"]}

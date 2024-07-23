@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Painajai/CR26_Painajai_DLC1_Features/CR26PainajaiDLC1_Brain_Ranged"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/HasBuffFromCasterStudyTarget", "Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Ability_ChainSpear"]}

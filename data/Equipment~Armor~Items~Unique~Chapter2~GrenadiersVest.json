@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/LeatherType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus1", "Equipment/Armor/Items/Unique/Chapter2/BombAttack2"]}

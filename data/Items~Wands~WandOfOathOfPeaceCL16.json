@@ -1,0 +1,1 @@
+{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/C4_VendorTableLarge", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level4/OathOfPeace"]}

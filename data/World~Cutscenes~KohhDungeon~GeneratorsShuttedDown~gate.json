@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/KohhDungeon/GeneratorsShuttedDown/gate1"], "children": ["World/Cutscenes/KohhDungeon/GeneratorsShuttedDown/CommandAction", "World/Cutscenes/KohhDungeon/GeneratorsShuttedDown/CommandDelay", "World/Cutscenes/KohhDungeon/GeneratorsShuttedDown/gate2"]}

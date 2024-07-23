@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Blessings/Charm/CharmBlessingMinorAbility"], "children": ["Classes/Warpriest/Blessings/Charm/CharmBlessingMinorAreaEffect", "Classes/Warpriest/Blessings/Charm/CharmBlessingMinorAuraEffectBuff", "Classes/Warpriest/Blessings/Charm/CharmBlessingMinorImmuneBuff", "Classes/Warpriest/Blessings/Charm/CharmBlessingMinorAuraEffectBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Loot/Good/CR20/PF2_DemonWorld_NextToTheSword", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootJunk"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "EquipmentEntities/Armor/KEE_Armor_HalfplateKnightNormal", "Equipment/Armor/Types/HalfplateType", "Weapons/Items/UniquePF2/DLC2/Armor/HalfplateEnhancementRusty"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Skald/RagingSong/InspiredRageEffectBuff", "Classes/Barbarian/Rage/StandartRageBuff", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic"], "children": ["Classes/Barbarian/RagePowers/ClearMindCooldownBuff"]}

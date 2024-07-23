@@ -1,0 +1,1 @@
+{"parents": ["Units/Customization/CP_HumanMaleMix"], "children": ["Races/HumanRace", "Units/PortraitsGenerated/58007b1a46d9536488ae2e914b7c305e_BCT_HorgusServant_Male", "Units/Customization/CP_HumanMaleMix", "Sound/Barks/NPC/Bandits/BanditCommon02_Barks", "Factions/CutsceneNeutrals", "Brain/Dumb Monster Brain", "WeaponEmptyHand"]}

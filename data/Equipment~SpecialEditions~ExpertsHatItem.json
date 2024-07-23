@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/DLC5Mobs/WizardsTower/GoblinBard/DLC5_CR6_Goblin_Bard_For_Fight", "Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3HuntCallerScaldPregen"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HatExperts", "Equipment/SpecialEditions/ExpertsHatEnchant"]}

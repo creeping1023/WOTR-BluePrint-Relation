@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterStart/Irabeth_FirstMeet/Cue_0027", "World/Encounters/GrayGarrison/ScriptZones/Treason"], "children": ["World/Cutscenes/GrayGarrison/IrabethToBatle/CommandUnitLookAt", "World/Cutscenes/GrayGarrison/IrabethToBatle/CommandSetCombatMode", "World/Cutscenes/GrayGarrison/IrabethToBatle/gate 2"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Armies/Leaders/Warlords/WarlordUnits/Warlord_10_Wizard", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootVendorExclude"], "children": ["Weapons/Types/MartialOneHanded/Scimitar", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Flaming"]}

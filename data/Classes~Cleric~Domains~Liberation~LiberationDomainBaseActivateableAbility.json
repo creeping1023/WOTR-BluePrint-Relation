@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Liberation/LiberationDomainBaseFeature"], "children": ["Classes/Cleric/Domains/Liberation/LiberationDomainBaseResource", "Spells/Level4/FreedomOfMovementBuff"]}

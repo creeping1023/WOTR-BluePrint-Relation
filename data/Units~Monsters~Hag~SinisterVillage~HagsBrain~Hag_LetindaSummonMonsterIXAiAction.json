@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Hag/SinisterVillage/HagsBrain/Hag_LetindaBrain", "Units/Monsters/DLC3_Mobs/DLC3_Tir2_Armies/DLC3_Demons/DLC3_VrockStandardBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level9/SummonMonsterIXBase", "Spells/Level9/SummonMonsterIXd4plus1"]}

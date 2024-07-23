@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_HospitalScene/gate 1"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Encounters/WarCamp/UnlockableFlags/WarCamp_EarlyBeginning_HospitalBreakIdle", "World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_HospitalIdleScene_2/WarCamp_EarlyBeginning_HospitalIdleScene_2"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Movanic Deva/DevilQuest/CR27_MovanicDevaSkald", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Inquisitors/KenabresDevaSkald", "Units/NPC/Commoners/Movanic Deva/DevilQuest/Brain/MovanicDevaSkald_AiAction_InspiredRage"], "children": ["Classes/Skald/RagingSong/InspiredRageBuff"]}

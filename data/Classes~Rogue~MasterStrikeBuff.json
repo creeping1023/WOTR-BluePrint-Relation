@@ -1,0 +1,1 @@
+{"parents": ["Classes/Rogue/MasterStrikeToggleAbility"], "children": ["Classes/Rogue/MasterStrikeCooldownBuff", "Traits/Races/Common/UndeadType", "Classes/Rogue/MasterStrikeDamageBuff", "Classes/Rogue/MasterStrikeCooldownBuff", "Classes/Rogue/RogueClass"]}

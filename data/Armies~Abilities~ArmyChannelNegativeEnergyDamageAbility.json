@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegative", "Armies/Abilities/ArmyChannelNegativeEnergyDamageFeature"], "children": ["Armies/Abilities/ArmyCultistChannelHalfDamage", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyChannelNegativeEnergyDamageAbilityResource"]}

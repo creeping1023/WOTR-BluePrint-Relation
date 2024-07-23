@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmBuff"], "children": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmBleedBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmDCProperty", "Classes/Witch/WitchHexCasterLevelProperty", "Classes/Witch/WitchHexSpellLevelProperty"]}

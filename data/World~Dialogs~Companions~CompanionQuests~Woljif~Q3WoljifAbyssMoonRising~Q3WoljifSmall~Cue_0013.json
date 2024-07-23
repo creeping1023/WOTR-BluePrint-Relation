@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q3WoljifAbyssMoonRising/Q3WoljifSmall/Answer_0009"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Woljif_Q3/WoljifKid", "Spells/Level1/ReducePersonBuff", "World/Cutscenes/Woljif_Q3_AbandonedMansion/WoljifKid_kills_thugs/WoljifKid_kills_thugs"]}

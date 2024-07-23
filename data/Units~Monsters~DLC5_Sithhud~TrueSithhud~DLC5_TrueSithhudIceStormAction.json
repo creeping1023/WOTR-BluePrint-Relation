@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudBrain3Seal", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AoE_AvoidSelf", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/IceStorm"]}

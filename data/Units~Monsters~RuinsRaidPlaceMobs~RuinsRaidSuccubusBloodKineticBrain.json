@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/CR18_RuinsRaidSuccubusBloodKinetic"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidBloodBlastAction", "Brain/Actions/AttackAiAction", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidWaterWrackBlastAction", "Units/NPC/Commoners/Demon Succubus/Lair/Lair_SuccubusBossBrain/SuccubusDominatePersonAIAction"]}

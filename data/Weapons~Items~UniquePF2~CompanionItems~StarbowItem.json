@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_ArueshalaeEnemy", "Dugeons/Loot/DungeonLootExclude", "Units/Companions/Arueshalae/Arueshalae_Level9"], "children": ["Weapons/Items/UniquePF2/CompanionItems/StarbowAbility", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Radiant"]}

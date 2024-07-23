@@ -1,0 +1,1 @@
+{"parents": ["Equipment/DLC4BonusItems/BracersOfMightyBoarEnchantment"], "children": ["Equipment/DLC4BonusItems/BracersOfMightyBoarBuff", "Root/SystemMechanics/Abilities/ChargeAbility", "Root/SystemMechanics/Abilities/ChargeAbility", "Classes/Shifter/Archetypes/GriffonheartShifter/GriffonDeathFromAboveAbility", "Equipment/DLC4BonusItems/BracersOfMightyBoarBuff"]}

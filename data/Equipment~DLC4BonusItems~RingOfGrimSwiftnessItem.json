@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/DLC4_NegociantTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Equipment/DLC4BonusItems/RingOfGrimSwiftnessAbility", "Equipment/CommonEnchantments/Dexterity2", "Equipment/DLC4BonusItems/RingOfGrimSwiftnessEnchantment"]}

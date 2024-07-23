@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryMaskBuffGold"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryMaskBuffGold", "EquipmentEntities/Masks/KEE_Mask_MaskRazmirGold", "Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryInfiltratorMaskEnchantment"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Druid/Archetypes/BlightDruid/BlightDruidBond"], "children": ["Classes/Druid/DruidClass", "Classes/Druid/DruidClass", "Classes/Cleric/Domains/Darkness/DarknessDomainBaseFeature", "Classes/Cleric/Domains/Darkness/DarknessDomainSpellListFeatureDruid", "Classes/Cleric/Domains/Darkness/DarknessDomainGreaterFeature"]}

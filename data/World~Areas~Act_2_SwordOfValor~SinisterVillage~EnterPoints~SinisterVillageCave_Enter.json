@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/SinisterVillage/BookEvent_Boat/BookEvent_Boat", "QA/Arbiter/Scenario/Act_2_SwordOfValor/Act2_SinisterVillageCave", "World/Encounters/SinisterVillage/ActionsHolders/Boat_Actions"], "children": ["World/Areas/Act_2_SwordOfValor/SinisterVillage/SinisterVillage", "World/Areas/Act_2_SwordOfValor/SinisterVillage/SinisterVillageCave"]}

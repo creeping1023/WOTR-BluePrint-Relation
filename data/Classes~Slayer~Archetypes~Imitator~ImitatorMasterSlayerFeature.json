@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-518659_ImitatorMasterSlayer", "Classes/Slayer/Archetypes/Imitator/ImitatorArchetype"], "children": ["Classes/Slayer/Archetypes/Imitator/ImitatorMasterSlayerAbility", "Classes/Slayer/Archetypes/Imitator/ImitatorMasterSlayertBuff"]}

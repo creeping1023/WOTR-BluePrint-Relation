@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_Arena_EnterToRoof/CommandUnitCastSpell1"], "children": ["FX/Spell Level 8/PolarRay00", "Weapons/Types/Special/RayItem", "Classes/Witch/WitchPatrons/PatronElements/WitchElementsPatronProgression", "Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"]}

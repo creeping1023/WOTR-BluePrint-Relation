@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Inquisitor_Brain/Inquisitor_Ability_JudgementProtection"], "children": ["Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/Judgments/JudgmentWatcherBuff", "Classes/Inquisitor/InquisitorClass"]}

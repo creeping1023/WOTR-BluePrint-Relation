@@ -1,0 +1,1 @@
+{"parents": ["Feats/DLC6/SpellBane", "Classes/Inquisitor/Bane/InquisitorBaneAbility", "Mythic/Aeon/AeonBane/AeonBaneFeature", "Mythic/Aeon/AeonBane/AeonBaneBuff", "Units/Monsters/Demon Oolioddroo/OolioddrooBrain/ActivateBane", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/Nulkineth_LostChapel"], "children": ["Weapons/Enchantments/BaneEverything"]}

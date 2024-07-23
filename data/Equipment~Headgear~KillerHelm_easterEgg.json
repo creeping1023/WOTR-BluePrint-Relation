@@ -1,0 +1,1 @@
+{"parents": ["Loot/Quest/KohhDungeon/KillerHelm_EeasterEgg_loot_object", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HelmetDoomGuy"]}

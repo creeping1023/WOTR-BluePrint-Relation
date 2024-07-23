@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/Archetypes/FleshEater/ConsumeFlesh/ConsumeDragon/ConsumeFleshDragonBuffEffectAcid"], "children": ["FX/Spell Level None/AcidCone30Feet00Breath", "Classes/Barbarian/BarbarianClass", "Classes/Barbarian/Archetypes/FleshEater/EssenceAbilityResource", "Classes/Barbarian/Archetypes/FleshEater/FleshEaterDCProperty"]}

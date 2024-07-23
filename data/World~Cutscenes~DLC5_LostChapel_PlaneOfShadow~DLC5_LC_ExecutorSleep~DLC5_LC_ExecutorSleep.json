@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/DLC5_StoryEnds/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Executor_dialog/Cue_2"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ExecutorSleep/CommandMoveUnit", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ExecutorSleep/gate", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ExecutorSleep/CommandMarkUnitControlled"]}

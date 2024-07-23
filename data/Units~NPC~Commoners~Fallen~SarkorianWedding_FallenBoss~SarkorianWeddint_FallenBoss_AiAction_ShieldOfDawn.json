@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Fallen/SarkorianWedding_FallenBoss/SarkorianWedding_FallenBoss_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/TargetSelf", "Spells/Level4/ShieldOfDawn"]}

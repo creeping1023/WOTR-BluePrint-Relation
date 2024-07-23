@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Vrock/IvorySanctum/IvorySanctum_MythicVrock_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Kineticist/ElementalFocus/Air/ElectricBlast/ElectricBlastBase", "Classes/Kineticist/ElementalFocus/Air/ElectricBlast/ElectricBlastAbility"]}

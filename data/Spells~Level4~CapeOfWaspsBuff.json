@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level4/CapeOfWasps", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/WintersunSiabrae_Brain/WintersunSiabrae_Prebuff", "Brain/Considerations/NoBuffCapeOfWasps", "Equipment/SpecialEditions/UniquePF2/BackersItems/HodosTorch/HodosTorchFeature"], "children": ["Spells/Level4/CapeOfWaspsPoisonBuff"]}

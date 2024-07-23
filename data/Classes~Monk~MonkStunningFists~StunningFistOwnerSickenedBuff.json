@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monk/MonkStunningFists/StunningFistSickenedAbility"], "children": ["Buffs/Sickened", "Feats/DragonStyle/DragonFerocityBuff", "Buffs/Shaken"]}

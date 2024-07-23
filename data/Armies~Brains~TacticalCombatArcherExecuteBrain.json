@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyVampireNinjaPirates", "Armies/UnitBlueprints/ArmyMongrelmanRangedStandard"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackArcherExecute"]}

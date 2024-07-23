@@ -1,0 +1,1 @@
+{"parents": ["Feats/ExtendedAspectsFeature", "Classes/Shifter/Archetypes/Weretouched/WereTouchedShifter"], "children": ["Classes/Shifter/Archetypes/Weretouched/LycanthropicAspect/ShifterAspectWereTouchedAbility", "Classes/Shifter/ShifterAspectResource", "Classes/Shifter/ShifterMajorForms/ShifterWildShapeResource"]}

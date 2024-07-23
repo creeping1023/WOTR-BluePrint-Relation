@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffHaste", "Spells/Level3/Haste"]}

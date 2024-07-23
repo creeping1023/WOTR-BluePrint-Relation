@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/War/WarDomainBaseAbilityCastSeparatist", "Classes/Cleric/Archetypes/Separatist/Domains/War/WarDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/Domains/War/WarDomainBaseBuff", "Weapons/Types/Special/TouchItem", "Classes/Cleric/Archetypes/Separatist/Domains/War/WarDomainBaseResourceSeparatist"]}

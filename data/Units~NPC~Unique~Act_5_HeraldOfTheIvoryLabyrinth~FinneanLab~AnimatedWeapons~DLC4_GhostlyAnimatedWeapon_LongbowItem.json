@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/FinneanLab/AnimatedWeapons/AnimatedWeapon_LongbowItem", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/GhostTouch"]}

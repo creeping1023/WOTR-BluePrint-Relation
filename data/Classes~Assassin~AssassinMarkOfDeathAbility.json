@@ -1,0 +1,1 @@
+{"parents": ["Classes/Assassin/AssassinMarkOfDeathFeature", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/HandMarkofDeathAiAction", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/HandAssassinateAiAction", "Classes/Assassin/AssassinMarkOfDeathSwiftFeature"], "children": ["Classes/Assassin/AssassinMarkOfDeathBuff", "Classes/Assassin/AssassinMarkOfDeathCasterBuff"]}

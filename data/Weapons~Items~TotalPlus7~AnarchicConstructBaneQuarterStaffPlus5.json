@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "World/Crusade/Events/CrusadeEvents/CrusadeEvent77"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/BaneConstruct", "Weapons/Enchantments/Anarchic"]}

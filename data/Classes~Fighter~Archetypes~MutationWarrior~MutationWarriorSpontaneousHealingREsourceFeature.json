@@ -1,0 +1,1 @@
+{"parents": ["Classes/Alchemist/Discoveries/SpontaneousHealing/SpontaneousHealingFeature"], "children": ["Classes/Alchemist/Discoveries/SpontaneousHealing/SpontaneousHealingResource", "Classes/Fighter/Archetypes/MutationWarrior/MutationWarriorSpontaneousHealingResourceProperty"]}

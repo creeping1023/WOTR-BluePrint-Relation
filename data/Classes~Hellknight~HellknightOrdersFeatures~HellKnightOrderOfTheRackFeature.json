@@ -1,0 +1,1 @@
+{"parents": ["Classes/Hellknight/HellknightOrders/HellKnightOrderOfTheRack"], "children": ["Classes/Hellknight/HellknightOrdersFeatures/HellKnightOrderOfTheRackAbility", "Classes/Hellknight/HellknightOrdersFeatures/HellKnightOrderOfTheRackBuff", "Classes/Hellknight/HellknightClass", "Classes/HellknightSignifer/HellknightSigniferClass"]}

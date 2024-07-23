@@ -1,0 +1,1 @@
+{"parents": ["Classes/Magus/Arcanas/HastedAssaultFeature", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MagusBoss/FetchlingMagus_HastedAssaultAIAction", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Zanedra_Brain/Zanedra_HastedAssaultAIAction"], "children": ["Spells/Level3/HasteBuff", "Classes/Magus/ArcanePool/ArcanePoolResourse"]}

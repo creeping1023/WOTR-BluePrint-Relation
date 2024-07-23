@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Spells/Level1/EnlargePerson", "EquipmentEntities/Robe/KEE_Robe_RobeArcane1", "Equipment/Armor/Types/ClothType", "Equipment/CommonEnchantments/Deflection2", "Equipment/Armor/Enchantments/ElectricityResistance10Enchant", "Equipment/Armor/Enchantments/ColdResistance10Enchant"]}

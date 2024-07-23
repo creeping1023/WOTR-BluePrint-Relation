@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Omox/OmoxBrain/Omox_Brain_SummonerTrasformer"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffBalefulPolymorph", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/ShortRange", "Spells/Level5/BalefulPolymorph"]}

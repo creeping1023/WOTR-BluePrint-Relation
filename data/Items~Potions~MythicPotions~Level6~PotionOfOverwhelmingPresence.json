@@ -1,0 +1,1 @@
+{"parents": ["Loot/Good/CR0/Forest_DLC3_Alushinyrra_Whorehouse_lvl_Double01_chest2", "Loot/Good/CR11/PF2_Sarkoris_Worm_Treasure", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotions", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level6/InspiringRecovery"]}

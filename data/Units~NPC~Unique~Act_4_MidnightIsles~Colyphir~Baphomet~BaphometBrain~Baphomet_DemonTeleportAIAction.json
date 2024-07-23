@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/BaphometBrain/Baphomet_Brain_TE"], "children": ["Brain/Considerations/Caster", "Brain/Considerations/AttackTargetsPriority", "Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/DemonTeleport_Free"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Artifice/ArtificeDomainBaseToggleAbility"], "children": ["Classes/Cleric/Domains/Artifice/ArtificeDomainBaseAura", "Spells/Level1/EnlargePersonBuff"]}

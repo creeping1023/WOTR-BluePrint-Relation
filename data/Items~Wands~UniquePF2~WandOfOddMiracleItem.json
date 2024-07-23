@@ -1,0 +1,1 @@
+{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/Chapter3/Azata_Chapter3VendorTable"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level2/Blur"]}

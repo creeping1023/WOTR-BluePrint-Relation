@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Deathsnatcher/AlushynirraCity/YouOnlyMortalsLeaderBrain/YouOnlyMortalsLeader_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffDivineFavor", "Spells/Level1/DivineFavor"]}

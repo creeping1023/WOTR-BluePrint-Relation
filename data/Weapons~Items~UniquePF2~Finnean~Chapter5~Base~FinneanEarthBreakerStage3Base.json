@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/EarthBreaker", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/BrilliantEnergy", "Weapons/Items/UniquePF2/Finnean/Chapter5/Enchantment/FinneanChapter5EnchantmentBase", "Weapons/Enchantments/Heartseeker"]}

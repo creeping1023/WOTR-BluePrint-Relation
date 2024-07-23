@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "QA/Unused/Units/Monsters/Scarecrow/CR4_ScarecrowStandard"], "children": ["Weapons/Types/NaturalWeapon/SlamType", "Units/Monsters/Scarecrow/ScarecrowFearTouch"]}

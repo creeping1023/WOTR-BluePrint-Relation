@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Tick Swarm/TickSwarmDamageAura/TickSwarmDamageFeature"], "children": ["Units/Monsters/Tick Swarm/TickSwarmDamageAura/TickSwarmDamageArea", "Units/Monsters/Tick Swarm/TickSwarmDamageAura/TickSwarmDamageEffectImmunity", "Units/Monsters/Tick Swarm/TickSwarmDamageAura/TickSwarmDamageFeature", "Buffs/Nauseated", "Buffs/DiseaseBubonicPlagueBuff"]}

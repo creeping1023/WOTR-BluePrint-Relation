@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/Kerz"], "children": ["Spells/Level3/LongstriderGreaterBuff", "Spells/Level2/BarkskinBuff", "Spells/Level5/LifeBubbleBuff", "Spells/Level2/DelayPoisonBuff", "Spells/Level2/SeeInvisibilitytBuff", "Spells/Level1/LeafBladesBuff", "Spells/Level2/SenseVitalsBuff", "Spells/Level2/BearsEnduranceBuff"]}

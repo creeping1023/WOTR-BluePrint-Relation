@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_Tir1_Armies/DLC3_CultistsDemonsUndead-0cr-17cr/DLC3_CR19_Siabrae_level12_MiniBoss_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/Caster", "Spells/Level9/SummonElderWorm"]}

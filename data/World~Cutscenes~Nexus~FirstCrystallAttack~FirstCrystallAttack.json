@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Nexus/ActionsHolders/QuestCrystallTaken_Action"], "children": ["World/Cutscenes/Nexus/FirstCrystallAttack/CommandDelay", "World/Cutscenes/Nexus/FirstCrystallAttack/CommandAction"]}

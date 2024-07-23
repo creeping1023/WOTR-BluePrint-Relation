@@ -1,0 +1,1 @@
+{"parents": ["Feats/Proficiencies/SaiProficiency", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Feats/WeaponFocus/WeaponFocusColdIronStarting"], "children": ["Weapons/Types/ExoticLight/Sai", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

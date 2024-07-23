@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DevastatorLair/ScriptZones/DevastatorLair_EchoScene"], "children": ["World/Cutscenes/DevastatorLair/DevastatorLair_EchoScene/CommandLockControls", "World/Cutscenes/DevastatorLair/DevastatorLair_EchoScene/gate", "World/Cutscenes/DevastatorLair/DevastatorLair_EchoScene/CommandDelay1", "World/Cutscenes/DevastatorLair/DevastatorLair_EchoScene/gate1"]}

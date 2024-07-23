@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DawnOfDragons/JarsigaxDragon", "Dugeons/Loot/DungeonLootExclude", "Classes/Bloodrager/BloodragerBloodlines/BloodragerDragonBloodline/BloodragerDraconicClawBuff12Fire"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Weapons/Enchantments/MagicWeapon", "Weapons/Enchantments/Flaming"]}

@@ -1,0 +1,1 @@
+{"parents": ["Root/BlueprintRoot", "DLC/DLC3/Dlc3Campaign"], "children": ["Root/CustomCompanion", "Root/CustomCompanion", "Root/CustomCompanion", "Classes/Basic/Deities/ForbiddenDeityFeature", "Root/CustomCompanion", "Factions/Player", "Brain/Companions/Character_Brain", "WeaponEmptyHand"]}

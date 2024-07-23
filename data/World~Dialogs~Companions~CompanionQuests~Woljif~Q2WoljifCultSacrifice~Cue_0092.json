@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultSacrifice/Cue_0041"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/WoljifCompanion/WoljifStates/CultistsKilled", "World/Cutscenes/Woljif_Q2_Rite/CultistsLetsGo/CultistsLetsGo"]}

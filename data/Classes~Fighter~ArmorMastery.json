@@ -1,0 +1,1 @@
+{"parents": ["Classes/Fighter/Archetypes/DragonheirScion/DragonheirScionArchetype", "Classes/Fighter/Archetypes/TwoHandedFighter/TwoHandedFighterArchetype", "Classes/Fighter/FighterProgression", "Classes/Fighter/Archetypes/MutationWarrior/MutationWarriorArchetype"], "children": ["Classes/Fighter/ArmorMasteryBuff"]}

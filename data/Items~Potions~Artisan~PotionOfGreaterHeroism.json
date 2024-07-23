@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot", "Loot/Good/CR15/PF2_Sarkoris_CartWithGoods", "Loot/Good/CR11/PF2_Sarkoris_Near_the_Gates"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level6/HeroismGreater"]}

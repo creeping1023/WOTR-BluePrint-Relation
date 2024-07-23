@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_LocustStart_KTC/Answer_0007"], "children": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/LocustKTCCultists/Locust_Cultist_DLC6_KTC", "CreatureAbilities/Unlootable", "GlobalMaps/KenabresMap/Points/Location_DLC6_KenabresGates", "World/Quests/DLC6_ADanceOfMasks/DLC6_SwarmPath_Quest/Obj_01_GetToKenabres"]}

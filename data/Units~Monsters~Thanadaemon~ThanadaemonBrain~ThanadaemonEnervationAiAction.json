@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Thanadaemon/ThanadaemonBrain/ThanadaemonBrain", "Units/Monsters/DLC6Mobs/Charon/DLC6_ReaperBossBrain/DLC6_ReaperBoss_EnervationAiAction", "Units/Monsters/Thanadaemon/AlushynirraCity/ThanadaemonGuardBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/Enervation"]}

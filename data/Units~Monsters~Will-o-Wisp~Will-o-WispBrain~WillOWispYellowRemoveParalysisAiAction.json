@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispYellowSummoned_cr8Brain"], "children": ["Brain/Considerations/HasuffParalyzed", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_NotSelfConsideration", "Spells/Level2/RemoveParalysis"]}

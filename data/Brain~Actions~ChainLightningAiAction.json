@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerWizardBrain", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidEvokerWithoutTarBrain", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidEvokerBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/ChainLightning"]}

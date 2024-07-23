@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Sun/SunDomainAllowed", "Classes/Warpriest/Blessings/SecondBlessingSelection", "Classes/Warpriest/Blessings/BlessingSelection"], "children": ["Classes/Warpriest/Blessings/Sun/SunBlessingMinorAbility", "Classes/Warpriest/WarpriestClass", "Classes/Warpriest/Blessings/Sun/SunBlessingMajorFeature", "Classes/Cleric/Domains/Sun/SunDomainAllowed"]}

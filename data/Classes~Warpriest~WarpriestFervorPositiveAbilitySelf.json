@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/WarpriestFervorPositiveFeature"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Classes/Warpriest/WarpriestFervorHealDamageSelection", "Classes/Warpriest/WarpriestFervorHealDamageRank", "Classes/Warpriest/WarpriestFervorResource"]}

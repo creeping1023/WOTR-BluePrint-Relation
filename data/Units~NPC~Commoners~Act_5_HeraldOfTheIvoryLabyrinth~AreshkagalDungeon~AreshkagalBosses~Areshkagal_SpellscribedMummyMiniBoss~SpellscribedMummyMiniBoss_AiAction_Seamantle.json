@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_SpellscribedMummyMiniBoss/SpellscribedMummyMiniBoss_Brain"], "children": ["Brain/Considerations/NoBuffSeamantle", "Brain/Considerations/NoBuffTransformation", "Spells/Level8/Seamantle"]}

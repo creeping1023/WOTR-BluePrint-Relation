@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Items/Vendors/FirstVendorTable", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialTwoHanded/HeavyFlail", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive"]}

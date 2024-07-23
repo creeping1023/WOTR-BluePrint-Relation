@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyZagelforntzGiants", "Armies/UnitBlueprints/ArmyAshGiantStandart"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_AshGiantROck", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Seelah/SeelahTestLevel20"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level6/HeroismGreater", "Equipment/CommonEnchantments/Charisma6"]}

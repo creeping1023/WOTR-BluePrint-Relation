@@ -1,0 +1,1 @@
+{"parents": ["Brain/Actions/ProtectionFromAcidCommunalAiAction", "Items/Scrolls/Level4/ScrollOfProtectionFromAcidCommunal", "Items/Wands/WandOfProtectionFromAcidCommunal", "Spells/Level4/ProtectionFromEnergyCommunal"], "children": ["Spells/Level3/ProtectionFromAcidBuff", "Spells/Level4/ProtectionFromEnergyCommunal"]}

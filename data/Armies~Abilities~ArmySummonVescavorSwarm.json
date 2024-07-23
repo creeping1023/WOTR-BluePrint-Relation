@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmySummonVescavorSwarmFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_SummonVescavorSwarm"], "children": ["Armies/UnitBlueprints/ArmyVescavorSwarmStandard", "Buffs/SummonedCreatureSpawnMonsterIV-VI", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/ArmySummonVescavorSwarmResource"]}

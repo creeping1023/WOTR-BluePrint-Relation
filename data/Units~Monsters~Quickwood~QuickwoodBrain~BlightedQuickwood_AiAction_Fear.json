@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Quickwood/QuickwoodBrain/BlightedQuickwood_Brain_Standard"], "children": ["Units/Monsters/Quickwood/QuickwoodBrain/BlightedQuickwood_Consideration_HasBuffFearAvailable", "Units/Monsters/Quickwood/QuickwoodBrain/BlightedQuickwood_Ability_FearAura"]}

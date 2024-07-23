@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/VrockRitualistBrain_Standart", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/VrockRitualistBrain", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/VrockRitualistBrain_DamageDealer"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level6/BladeBarrier"]}

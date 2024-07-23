@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/CR2_SkeletonMage2_DLC"], "children": ["Brain/Actions/TouchSpellAiAction", "Brain/Actions/AttackAiAction", "Brain/Actions/AttackAiAction", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/DLC2_Sorcerer_SkeletonMage_HypnotismAIAction"]}

@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level5/PolymorphBase", "Items/Scrolls/Level5/ScrollOfPolymorphAnimal"], "children": ["Spells/Level5/PolymorphAnimalBuff", "Spells/Level5/PolymorphAnimalBuff", "Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Spells/Level5/BalefulPolymorphBuff", "Spells/Level5/PolymorphBase"]}

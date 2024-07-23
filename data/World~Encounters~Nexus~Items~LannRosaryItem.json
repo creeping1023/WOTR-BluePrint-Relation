@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_4/Cue_0010", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_4/Cue_0011"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "World/Encounters/Nexus/Items/LannRosaryEnchantment"]}

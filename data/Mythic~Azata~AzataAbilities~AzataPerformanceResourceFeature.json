@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Azata/AzataProgression", "Mythic/Azata/AzataAbilities/SongOfHeroicResolve/SongOfHeroicResolveFeature"], "children": ["Mythic/Azata/AzataAbilities/AzataPerformanceResource", "Mythic/Azata/AzataAbilities/AzataPerformanceResource", "Mythic/Azata/AzataMythicClass", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]}

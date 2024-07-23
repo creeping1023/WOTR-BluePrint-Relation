@@ -1,0 +1,1 @@
+{"parents": ["Backgrounds/BackgroundsSelection/Noble/BackgroundsNobleSelection", "Units/Pregens/StartGame/Prebuilds/PrebuildSorcererFeatureList", "Units/Pregens/PartyPregenTests/Daeran/DaeranPregenTestFeature"], "children": ["Feats/Proficiencies/RapierProficiency", "Classes/Basic/Proficiencies/BucklerProficiency"]}

@@ -1,0 +1,1 @@
+{"parents": ["Traps/CustomTraps/DrezenCitadelLevel2/FakeBannerTrap", "Root/TrapSettings/TrapSettings_CR19", "Root/TrapSettings/TrapSettings_CR20", "Root/TrapSettings/TrapSettings_CR18"], "children": ["Traps/TrapActor_Lvl03", "Traps/TrapActor_Lvl03", "Classes/Monster/Dragon/DragonClass", "Factions/Traps", "WeaponEmptyHand", "Traps/TrapDagger_Lvl20", "Traps/TrapActorFeature"]}

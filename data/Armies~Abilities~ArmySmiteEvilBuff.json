@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmySmiteEvilOnAttackRanged", "Armies/Abilities/ArmySmiteEvilOnAttack", "Armies/Abilities/ArmySmiteEvil"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/ArodensWrath/Scabbard_ArodensWrathFeature", "Classes/Paladin/SmiteEvil/SmiteEvilBuff_Scabbard", "Classes/Paladin/SmiteEvil/SmiteEvilBuff_NoScabbard"]}

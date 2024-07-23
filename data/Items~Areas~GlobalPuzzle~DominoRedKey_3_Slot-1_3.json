@@ -1,0 +1,1 @@
+{"parents": ["World/Areas/Act_3_DemonsHerecy/GlobalPuzzle_Red/Presets/GlobalPuzzle_Red_Default_Preset", "Dugeons/Loot/DungeonLootExclude", "World/Encounters/GlobalPuzzle_Red/ConditionsHolders/Slot_-1_3_ItemRestriction", "Loot/Quest/DemonicSaboteurs_Lair/GlobalPuzzleRedDominos"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

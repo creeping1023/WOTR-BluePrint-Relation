@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level7/CircleOfClarityTarget"], "children": ["Spells/Level7/CircleOfClarityAreaEffect", "Classes/Paladin/AuraOfCourage/AuraOfCourageBuff"]}

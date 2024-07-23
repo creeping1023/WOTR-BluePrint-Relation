@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Test_Level/ScriptZones/TestLevel_SpawnScriptZone"], "children": ["World/Encounters/Test_Level/SummonPools/TestLevel_SpawnedBabaus", "World/Cutscenes/Test_Level/TestLevel_BabauAmbush/TestLevel_BabauAmbush", "World/Etudes/Common/WrathOfTheRighteous/TestLevel_Mechanics"]}

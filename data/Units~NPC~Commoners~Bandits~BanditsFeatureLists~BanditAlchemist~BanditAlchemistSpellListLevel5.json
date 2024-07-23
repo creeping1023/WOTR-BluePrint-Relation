@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditAlchemist/BanditAlchemistFeatureListLevel5"], "children": ["Classes/Alchemist/AlchemistClass", "Spells/Level1/CureLightWoundsCast", "Spells/Level1/ReducePerson", "Spells/Level1/TrueStrike", "Spells/Level2/Blur"]}

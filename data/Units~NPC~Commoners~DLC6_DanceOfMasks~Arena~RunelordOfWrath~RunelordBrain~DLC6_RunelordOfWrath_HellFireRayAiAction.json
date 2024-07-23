@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/RunelordOfWrath/RunelordBrain/DLC6_RunelordOfWrathBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoCaster", "Spells/Level6/HellfireRay"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/SoldierParty_Kayden", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/Brains/Cayden_AiAction_BreathWeapon"], "children": ["FX/Spell Level None/AcidCone50Feet00", "Buffs/Sickened", "Buffs/Nauseated"]}

@@ -1,0 +1,1 @@
+{"parents": ["Buffs/DLC3/DLC3_BUFFS/DLC3_BarbarianBloodragerBuff/DLC3_BarbarrianBloodragerHPBuffBuff"], "children": ["Classes/Barbarian/BarbarianClass", "Classes/Bloodrager/BloodragerClass", "Classes/Skald/SkaldClass", "Classes/Skald/Archetypes/BattleScion/BattleScionArchetype", "Classes/Druid/DruidClass", "Classes/Druid/Archetypes/GoliathDruid/PrimalDruidArchetype"]}

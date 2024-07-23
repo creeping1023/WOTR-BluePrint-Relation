@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Shifter/Archetypes/ChildOfManticore/Spikes/GrowingSpikesBuffLevel7"], "children": ["Weapons/Types/NaturalWeapon/SpikeType", "Weapons/Types/MartialRanged/StrengthThrown"]}

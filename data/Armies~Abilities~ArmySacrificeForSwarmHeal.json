@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_SacrificeForSwarmHeal", "Armies/Abilities/ArmySacrificeForSwarmHealFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerTriple", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmySacrificeForSwarmHealResource", "Armies/Abilities/ArmySwarmFeature"]}

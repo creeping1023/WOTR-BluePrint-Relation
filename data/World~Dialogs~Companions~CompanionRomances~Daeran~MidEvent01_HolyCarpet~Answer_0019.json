@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/DaeranUnlockRomance(wip)", "World/Dialogs/Companions/CompanionRomances/Daeran/MidEvent01_HolyCarpet/AnswersList_0015"], "children": ["World/Dialogs/Companions/CompanionRomances/Daeran/MidEvent01_HolyCarpet/Cue_0009", "World/UnlockableFlags/Companions/Daeran/DaeranRomanceBlocker_Counter"]}

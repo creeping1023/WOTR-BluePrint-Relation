@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GlobalPuzzle_Start/ConditionsHolders/Slot_-2_2_ItemRestriction", "Dugeons/Loot/DungeonLootExclude", "World/Areas/Act_2_SwordOfValor/GlobalPuzzle_Start/Presets/GlobalPuzzle_Start_Default_Preset"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

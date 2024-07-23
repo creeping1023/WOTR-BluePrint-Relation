@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Greybor_Q2/VillodusBrain", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_OutOfCombatBrain 3"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffBalefulPolymorph", "Spells/Level5/BalefulPolymorph"]}

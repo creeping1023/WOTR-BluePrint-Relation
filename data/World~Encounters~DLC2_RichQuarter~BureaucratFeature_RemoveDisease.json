@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Bureaucrat"], "children": ["World/Encounters/DLC2_RichQuarter/RemoveDiseaseBuff_Bureaucrat", "Spells/Level3/RemoveDisease"]}

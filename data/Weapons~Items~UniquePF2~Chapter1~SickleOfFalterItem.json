@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Loot/Good/CR4/PF2_RichHuman_GoodLoot01", "Dugeons/Loot/DungeonLootRare", "Dugeons/Loot/DungeonLoot_VendorRare_Grade1", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleLight/Sickle", "Weapons/Enchantments/Enhancement1", "Weapons/Items/UniquePF2/Chapter1/SickleOfFalterEnchantment"]}

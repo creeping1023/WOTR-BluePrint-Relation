@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Woljif/Q3WoljifAbyssMoonRising/Q3WoljifDouble/Cue_0001"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Woljif_Q3/Ygefeles_Player", "World/Dialogs/Companions/CompanionQuests/Woljif/Q3WoljifAbyssMoonRising/Q3WoljifDouble/Cue_0003"]}

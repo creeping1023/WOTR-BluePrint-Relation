@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrabActivatableAbility"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Classes/Shifter/Archetypes/GriffonheartShifter/ShifterGriffonRend", "Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrappledInitiatorBuff", "Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrappledTargetBuff"]}

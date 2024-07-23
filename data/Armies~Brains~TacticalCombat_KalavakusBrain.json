@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyKalavakus"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_TeleportAtWill", "Armies/Brains/Actions/TacticalCombat_AIAction_EnslaveSoul"]}

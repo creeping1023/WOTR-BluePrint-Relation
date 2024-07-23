@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyChaosHammerFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_ChaosHammer"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyChaosHammerBuff", "Armies/Abilities/ArmyChaosHammerResource"]}

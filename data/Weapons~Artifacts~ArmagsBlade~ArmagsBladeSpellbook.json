@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Artifacts/ArmagsBlade/ArmagsBladeSpellsEnchant"], "children": ["Classes/Bard/BardSpellSlotsTable", "Weapons/Artifacts/ArmagsBlade/ArmagsBladeSpellList", "Classes/Monster/Construct/ConstructClass"]}

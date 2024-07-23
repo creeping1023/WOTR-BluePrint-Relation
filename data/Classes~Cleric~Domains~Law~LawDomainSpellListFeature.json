@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Law/LawDomainBaseFeature", "Classes/Cleric/Domains/Law/LawDomainSpellListFeatureDruid", "Classes/Cleric/Archetypes/Separatist/Domains/Law/LawDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Law/LawDomainSpellList"]}

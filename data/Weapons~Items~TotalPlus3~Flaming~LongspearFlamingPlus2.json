@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_FrozenTemple/Hermit/DLC5_Hermit"], "children": ["Weapons/Types/SimpleTwoHanded/Longspear", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming"]}

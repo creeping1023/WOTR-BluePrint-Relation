@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditBard/BanditBardFeatureListLevel2"], "children": ["Classes/Bard/BardClass", "Spells/Level2/HideousLaughter", "Spells/Level1/EarPiercingScream", "Spells/Level1/CureLightWoundsCast"]}

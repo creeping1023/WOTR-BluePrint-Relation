@@ -1,0 +1,1 @@
+{"parents": ["Classes/Paladin/WeaponBond/WeaponBondDisruptionChoice", "Weapons/Items/Standard/Special/StandardTorch_NPC", "Weapons/Items/Standard/Special/StandardTorch"], "children": ["Weapons/Types/Special/TorchFireDamage", "Items/DestructibleItemsShards/MetalShardItem"]}

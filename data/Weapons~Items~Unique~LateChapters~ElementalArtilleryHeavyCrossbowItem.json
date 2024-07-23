@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/C61_IssiliVendorTable", "Items/Vendors/C71_GoblinVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleRanged/HeavyCrossbow", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Corrosive", "Weapons/Enchantments/Shock", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Frost"]}

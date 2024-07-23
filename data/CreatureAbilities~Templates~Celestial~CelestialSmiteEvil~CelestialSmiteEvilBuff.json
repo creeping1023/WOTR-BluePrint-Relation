@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/NoCelestialSmiteEvilConsideration", "Classes/Hunter/Archetypes/DivineHunter/OtherworldlyCompanionCelestialAbility", "CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/CelestialSmiteEvilAbility"], "children": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff"]}

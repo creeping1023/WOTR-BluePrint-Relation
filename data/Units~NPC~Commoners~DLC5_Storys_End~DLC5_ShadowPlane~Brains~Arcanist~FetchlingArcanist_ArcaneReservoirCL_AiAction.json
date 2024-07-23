@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/Arcanist/DLC5_FetchlingArcanistBrain"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/Arcanist/NoBuffArcanistArcaneReservoirCLBuff", "Classes/Arcanist/ArcanistArcaneReservoirBaseAbility", "Classes/Arcanist/ArcanistArcaneReservoirCLAbility"]}

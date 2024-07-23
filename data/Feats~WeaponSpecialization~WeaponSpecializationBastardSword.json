@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyPaidBlade", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterBastardSword"], "children": ["Weapons/Types/ExoticOneHanded/BastardSword", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterBastardSword"]}

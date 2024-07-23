@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "Spells/Level0/Daze", "EquipmentEntities/Armor/KEE_Armor_BreastplateKnight", "Equipment/Armor/Types/BreastplateType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus1", "Equipment/Armor/Items/Artisan/EnergyResistance10n10Enchant"]}

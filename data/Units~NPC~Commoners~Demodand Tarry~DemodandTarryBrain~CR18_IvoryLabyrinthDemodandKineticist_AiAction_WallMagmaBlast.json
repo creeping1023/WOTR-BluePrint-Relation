@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demodand Tarry/DemodandTarryBrain/CR18_IvoryLabyrinthDemodandKineticist_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Kineticist/ElementalFocus/CompositeBlasts/MagmaBlast/MagmaBlastBase", "Classes/Kineticist/ElementalFocus/CompositeBlasts/MagmaBlast/MagmaBlastInfused/WallMagmaBlastAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GlobalPuzzle_Red/ConditionsHolders/RedCheckIfNextValueIs01", "World/Encounters/GlobalPuzzle_Red/ConditionsHolders/RedNextSlotChecker"], "children": ["Items/Areas/GlobalPuzzle/DominoRed1x1"]}

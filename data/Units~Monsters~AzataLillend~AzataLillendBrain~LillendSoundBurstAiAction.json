@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/AzataLillend/AzataLillendBrain/AzataLillendBrain", "Units/Monsters/AzataLillend/AzataLillendBrain/AzataLillendBrain_Summoned"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level2/SoundBurst"]}

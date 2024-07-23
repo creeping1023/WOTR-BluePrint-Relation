@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/NumerianCamp/AutomaticDoor/AutomaticDoor_dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c5/NumerianCamp/Add1_FindCode", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/AnswersList_0002"]}

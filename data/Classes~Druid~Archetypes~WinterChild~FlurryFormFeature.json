@@ -1,0 +1,1 @@
+{"parents": ["Classes/Druid/Archetypes/WinterChild/WinterChildArchetype"], "children": ["Traits/Races/Common/OutsiderType", "CreatureAbilities/Subtypes/SubtypeElemental", "CreatureAbilities/Subtypes/Airborne"]}

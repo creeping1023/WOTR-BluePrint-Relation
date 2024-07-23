@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootScrolls", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Spells/Level8/CreateUndeadGreaterBase", "DLC/DLC5/Dlc5RewardCampaign", "Items/DestructibleItemsShards/PaperShardItem", "Spells/Level7/CreateUndeadGraveknight"]}

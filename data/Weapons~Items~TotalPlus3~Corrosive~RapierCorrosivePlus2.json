@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Units/Monsters/DLC3_Mobs/DLC3_BesmarianPirates/DLC3_CR19_BesmaraMelee20Fighter_FemaleHalfOrc1", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialOneHanded/Rapier", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monk/Archetypes/ZenArcher/ZenArcherArchetype", "Classes/Monk/Archetypes/Sensei/SenseiArchetype", "Feats/PummelingStyle", "Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype", "Classes/Monk/MonkProgression", "Classes/Monk/Archetypes/Sohei/SoheiArchetype"], "children": ["Classes/Monk/FlurryOfBlows", "Feats/PummelingStyle"]}

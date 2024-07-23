@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerEnchantment/DweomerEnchantmentBrain"], "children": ["Brain/Considerations/NoBuffHoldMonster", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffFreedomOfMovement", "Spells/Level5/HoldMonster"]}

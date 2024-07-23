@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q1WoljifShopOwner/Answer_0029", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Cutscenes/Woljif_Q1_Shop/Woljif_Shadow_Shop/Woljif_Shadow_Shop", "World/Dialogs/Companions/CompanionQuests/Woljif/Q1WoljifShopOwner/Cue_0038"]}

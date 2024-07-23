@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/Svendack/Svendack_AttackBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/Svendack/Svendack_Consideration_Health", "Spells/Level6/HealCast"]}

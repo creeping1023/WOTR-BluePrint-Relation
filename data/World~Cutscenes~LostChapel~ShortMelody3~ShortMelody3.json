@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/LostChapel/ActionsHolders/DesnaHarpObject_CheckPassedActions"], "children": ["World/Cutscenes/LostChapel/ShortMelody3/CommandAction 1", "World/Cutscenes/LostChapel/ShortMelody3/CommandDelay", "World/Cutscenes/LostChapel/ShortMelody3/gate", "World/Cutscenes/LostChapel/ShortMelody3/CommandLockControls", "World/Cutscenes/LostChapel/ShortMelody3/gate"]}

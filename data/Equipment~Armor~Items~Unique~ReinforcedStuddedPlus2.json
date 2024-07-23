@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Spells/Level2/Barkskin", "Equipment/Armor/Types/StuddedType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus2"]}

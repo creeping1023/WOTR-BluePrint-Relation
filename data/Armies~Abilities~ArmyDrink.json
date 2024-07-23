@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingBreweryBuff"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Spells/Level2/CureModerateWoundsDamage", "Weapons/Types/Special/TouchItem", "Traits/Races/Common/ConstructType"]}

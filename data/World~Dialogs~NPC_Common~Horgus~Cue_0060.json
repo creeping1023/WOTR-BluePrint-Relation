@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/NPC_Common/Horgus/Horgus_Dialogue"], "children": ["World/Quests/Companions/Camellia/Q1_ANobleIntent/Q1_NobleIntent", "World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaStates/CamelliaState_Killed", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra"]}

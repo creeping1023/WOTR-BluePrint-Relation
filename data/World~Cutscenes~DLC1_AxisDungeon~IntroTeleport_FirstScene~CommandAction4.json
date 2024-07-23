@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FirstScene/gate1"], "children": ["Factions/Mobs", "World/Encounters/DLC1_AxisDungeon/SummonPools/IntroTeleport_Pack1_pool", "Buffs/SummonedCreatureVisual"]}

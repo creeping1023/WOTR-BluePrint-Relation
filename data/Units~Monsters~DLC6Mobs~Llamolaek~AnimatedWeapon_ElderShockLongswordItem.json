@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/DLC6Mobs/Llamolaek/DLC6_AnimatedWeapon_ElderShockLongsword"], "children": ["Units/Monsters/DLC6Mobs/Llamolaek/AnimatedWeapon_FrostLongswordItem", "Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/ElderShock2d6", "Weapons/Enchantments/Frost"]}

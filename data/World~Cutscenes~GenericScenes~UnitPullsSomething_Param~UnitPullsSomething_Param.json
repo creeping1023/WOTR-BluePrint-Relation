@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/RuinsRaidPlace/Crusaders_within/CommandAction1", "World/Encounters/RuinsRaidPlace/ScriptZones/Devil_Crusaders_go_inside"], "children": ["World/Cutscenes/GenericScenes/UnitPullsSomething_Param/CommandDelay 6", "World/Cutscenes/GenericScenes/UnitPullsSomething_Param/CommandUnitPlayCutsceneAnimation21"]}

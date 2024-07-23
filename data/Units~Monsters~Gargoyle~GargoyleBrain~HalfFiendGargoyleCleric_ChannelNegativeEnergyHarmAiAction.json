@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainStandard", "Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainBless"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Classes/Cleric/ChannelNegativeEnergy"]}

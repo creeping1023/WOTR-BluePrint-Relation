@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5", "Loot/Quest/DLC5_GoblinsPartyInTheTower/DLC5_TowerOfGoblins_Loot_54_MagicItem"], "children": ["Classes/Monster/Animal/AnimalCompanionClass", "Items/UsableSlotItem/DLC5/DLC5_SuccubusCandleAbility"]}

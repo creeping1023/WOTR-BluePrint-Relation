@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Oracle_spells/Ghost_Oracle_PlagueStorm_Brain", "Units/NPC/Commoners/Zombie/SarkorianWedding/Oracle_spells/Ghost_Oracle_Wounds_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffBlindness", "Spells/Level2/Blindness"]}

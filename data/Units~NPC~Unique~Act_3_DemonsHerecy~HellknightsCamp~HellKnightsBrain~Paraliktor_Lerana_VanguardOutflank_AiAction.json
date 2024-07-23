@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/HellknightsCamp/HellKnightsBrain/Paraliktor_Lerana_Brain"], "children": ["Brain/Considerations/SwiftAction", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianBaseAbility", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianOutflankAbility"]}

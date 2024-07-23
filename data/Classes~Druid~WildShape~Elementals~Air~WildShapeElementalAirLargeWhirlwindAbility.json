@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level7/PolymorphGreaterElementalAirBuff", "Spells/Level7/ElementalBodyIVAirBuff", "Spells/Level6/ElementalBodyIIIAirBuff", "Classes/Druid/WildShape/Elementals/Air/WildShapeElementalAirLargeBuff"], "children": ["Classes/Druid/WildShape/Elementals/Air/WildShapeElementalAirLargeWhirlwindBuff"]}

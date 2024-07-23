@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/GhoulDiseaseFeature", "World/Dialogs/c2_vs/LostChapel/Graveyard/Cue_0017"], "children": ["Classes/Shaman/Archetypes/ProphetOfPestilence/PlagueHexFeatures/PlagueHexPhysicalWeaknesses/PlagueHexConstitutionWeaknesses/PlagueHexConstitutionDamagefromDiseasesBuff", "Units/NPC/Commoners/Ghoul/GhoulBrain/GhoulFeverProperty"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Daeran/Q2_WhileWorldBurns/Park_FirstVision/Park_FirstVision_DaeranQ2_dialog", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Daeran_Q2/GhostFigure_Countess", "World/Dialogs/Companions/CompanionQuests/Daeran/Q2_WhileWorldBurns/Park_FirstVision/Cue_0003"]}

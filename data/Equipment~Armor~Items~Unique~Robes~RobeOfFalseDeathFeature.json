@@ -1,0 +1,1 @@
+{"parents": ["Equipment/Armor/Items/Unique/Robes/RobeOfFalseDeathEnchantment", "Root/SystemMechanics/Abilities/CoupDeGraceSelfAbility", "Root/SystemMechanics/Abilities/CoupDeGraceAbility", "Classes/Slayer/Archetypes/Executioner/ExecutionerAssassinateAbility"], "children": ["Equipment/Armor/Enchantments/FireResistance10Feature"]}

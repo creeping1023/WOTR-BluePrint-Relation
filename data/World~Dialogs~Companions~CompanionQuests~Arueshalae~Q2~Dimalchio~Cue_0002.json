@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/Dimalchio/Cue_0001"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Arueshalae/Dimalchio", "Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/Dimalchio/AnswersList_0003"]}

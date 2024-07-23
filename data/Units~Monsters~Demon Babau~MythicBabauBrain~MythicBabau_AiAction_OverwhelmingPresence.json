@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Babau/MythicBabauBrain/MythicBabau_Brain_Control"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/OverwhelmingPresence"]}

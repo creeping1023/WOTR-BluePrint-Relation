@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Twin_Minibosses/BrainsAbility/DLC4_WarpristMinibossBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/ColdIceStrike"]}

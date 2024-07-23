@@ -1,0 +1,1 @@
+{"parents": ["Armies/Presets/ProjectSummon/LocustStartEnemy", "World/Crusade/Events/CrusadeEvents/CrusadeEvent04"], "children": ["Units/Portraits/DhampirFemaleBard", "Armies/Leaders/Progression/WarlordWarriorProgression", "Armies/Leaders/Warlords/WarlordUnits/Warlord_event_4_4_Wizard", "Armies/Leaders/Abilities/FighterAbilities/FighterCommand"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/EliandraBrain/Eliandra_Brain"], "children": ["Brain/Considerations/InjuryAround", "Brain/Considerations/InjuryCritical", "Spells/Level8/CureCriticalWoundsMass"]}

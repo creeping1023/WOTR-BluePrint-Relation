@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyHellknightSignifer"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_HellknightFireball", "Armies/Brains/Actions/TacticalCombat_AIAction_MagicMissile"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FermentedBeerElemental/DLC5_CR8_FermentedBeerElementalLarge"], "children": ["Units/Monsters/Water Elemental/BeerElemental/CR3_BeerElementalMediumSummon", "Factions/Mobs", "Units/Monsters/DLC5Mobs/WizardsTower/FermentedBeerElemental/FermentedBeerFeature", "Spells/DLC5NewSpells/LivingPlague/LivingPlagueSummonPool"]}

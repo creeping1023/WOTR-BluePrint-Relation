@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level9/EnergyDrain", "Classes/Oracle/OracleRevelations/OracleRevelationSoulSiphonAbility", "Spells/Level4/Enervation", "Armies/Rituals/RitualEnervationAbility", "Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodEnervationAbility"], "children": ["FX/Spell Level 4/Enervation00_Trajectory_Projectile"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Oracle/OracleCurses/BlackenedCurse/BlackenedCurseProgression", "Classes/Oracle/OracleCurses/BlackenedCurse/BlackenedCurseNoPenaltyProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level5/FireSnake", "Classes/Witch/Archetypes/AccursedWitch/AccursedWitchArchetype", "Classes/Oracle/OracleClass", "Spells/Level5/FireSnake"]}

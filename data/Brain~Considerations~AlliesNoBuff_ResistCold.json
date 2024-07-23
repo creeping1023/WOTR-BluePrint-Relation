@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBoss/AreshkaBrains/1_Areshkagal_First_ShadowColdIceStrike_AiAction", "Brain/Actions/ResistColdCommunalAiAction"], "children": ["Spells/Level2/ResistColdBuff"]}

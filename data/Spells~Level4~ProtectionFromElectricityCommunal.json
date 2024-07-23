@@ -1,0 +1,1 @@
+{"parents": ["Items/Wands/WandOfProtectionFromElectricityCommunal", "Brain/Actions/ProtectionFromElectricityCommunalAiAction", "Spells/Level4/ProtectionFromEnergyCommunal", "Items/Scrolls/Level4/ScrollOfProtectionFromElectricityCommunal"], "children": ["Spells/Level3/ProtectionFromElectricityBuff", "Spells/Level4/ProtectionFromEnergyCommunal"]}

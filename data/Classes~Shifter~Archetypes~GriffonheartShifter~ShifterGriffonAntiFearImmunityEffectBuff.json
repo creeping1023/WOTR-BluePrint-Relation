@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/Archetypes/GriffonheartShifter/ShifterGriffonAntiFearImmunityAreaEffect"], "children": ["Classes/Shifter/ShifterClass", "CreatureAbilities/Immunities/ImmunityToFear"]}

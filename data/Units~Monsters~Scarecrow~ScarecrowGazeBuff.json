@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Scarecrow/ScarecrowFascinatingGaze"], "children": ["Units/Monsters/Scarecrow/ScarecrowGazeAreaEffect", "Classes/Monster/Construct/ConstructClass"]}

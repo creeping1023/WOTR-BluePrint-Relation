@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/MegidiahBrain/Megidiah_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderFeatShareAbility"]}

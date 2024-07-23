@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Balor/DrezenCitadel_Level1/DrezenBBDBrain"], "children": ["Brain/Considerations/PowerWordStunConsideration", "Brain/Considerations/LightArmorConsideration", "Spells/Level8/PowerWordStun"]}

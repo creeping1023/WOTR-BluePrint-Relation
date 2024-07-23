@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/HorgusManor/ScriptZones/HorgusStartDialogue"], "children": ["World/Dialogs/c1/HorgusManor/HorgusManor/Cue_0001", "World/Dialogs/c1/HorgusManor/HorgusManor/Cue_0002", "World/Quests/c1/HorgusManor/Obj03_ClearManor", "World/Cutscenes/LostChapel/UnitGoAwayParam/UnitGoAwayParam"]}

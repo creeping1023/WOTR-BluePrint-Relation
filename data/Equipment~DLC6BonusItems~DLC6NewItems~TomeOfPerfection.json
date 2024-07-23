@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Good/CR0/Forest_5"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Equipment/DLC6BonusItems/DLC6NewItems/TomeOfPerfection_Ability"]}

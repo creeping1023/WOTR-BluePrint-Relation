@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/SosielBattle/gate"], "children": ["World/Encounters/LostChapel/SummonPools/SosielGhouls", "World/Cutscenes/LostChapel/GhoulHitParam/GhoulHitParam", "Units/Companions/SosielVaenic/SosielVaenic_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLoot_VendorRare_Grade7", "Dugeons/Loot/DungeonLootRare"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/Chapter5/RingOfDecadenceEnchantment"]}

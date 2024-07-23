@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Daeran_Q3/DaeranAlienSwarmBrain/DaeranAlienSwarmBrain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Spells/Level6/DispelMagicGreater", "Spells/Level6/DispelMagicGreaterTarget"]}

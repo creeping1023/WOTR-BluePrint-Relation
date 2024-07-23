@@ -1,0 +1,1 @@
+{"parents": ["Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype"], "children": ["Classes/Ranger/RangerClass", "Spells/Level1/Firebelly", "Classes/Ranger/RangerClass", "Spells/Level2/SummonElementalSmallFire"]}

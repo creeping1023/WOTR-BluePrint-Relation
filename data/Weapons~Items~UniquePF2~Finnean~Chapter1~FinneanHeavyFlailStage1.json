@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/HeavyFlail", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Enchantments/GhostTouch"]}

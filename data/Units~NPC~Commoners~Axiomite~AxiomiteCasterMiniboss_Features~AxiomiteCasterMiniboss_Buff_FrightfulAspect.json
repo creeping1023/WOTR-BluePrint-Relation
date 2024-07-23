@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Axiomite/AxiomiteCasterMiniboss_Features/AxiomiteCasterMiniboss_Feature_Prebuff"], "children": ["Spells/Level8/FrightfulAspectArea", "Spells/Level8/FrightfulAspectShakenBuff", "Spells/Level8/FrightfulAspectFrightenedBuff", "Spells/Level8/FrightfulAspectCooldownBuff", "Spells/Level8/FrightfulAspectShakenBuff"]}

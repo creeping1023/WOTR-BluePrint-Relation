@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC4_RuinedVillage/ActionsHolders/DLC4_CorpseOnATree_DialogStart"], "children": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CorpseOnATree/Cue_0001", "Classes/Shifter/ShifterCutsceneBuff", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/DLC4_WarlordsWizardEvokerStandardBrain"], "children": ["Brain/Actions/HasteAiAction", "Brain/Considerations/NoBuffHaste", "Brain/Considerations/NoBuffHaste", "Brain/Considerations/AlliesNoBuff_Haste", "Spells/Level3/Haste"]}

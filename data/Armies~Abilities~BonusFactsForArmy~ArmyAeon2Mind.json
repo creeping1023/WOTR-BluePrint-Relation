@@ -1,0 +1,1 @@
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagAeon2Mind", "Armies/CrusadeGlobalBuffs/FlagLegend5Ability"], "children": ["CreatureAbilities/Immunities/ImmunityToFear", "CreatureAbilities/Immunities/ImmunityToSleep", "CreatureAbilities/Immunities/ImmunityToMindAffecting"]}

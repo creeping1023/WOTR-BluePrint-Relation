@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/SilkShadow/SilkShadowBrains/SilkShadow_Brain", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/SilkShadow/SilkShadowBrains/DLC1_SilkShadow_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Spells/Level9/Weird"]}

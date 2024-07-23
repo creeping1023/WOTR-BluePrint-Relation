@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/DragonDisciple/DragonDiscipleBiteFeatureFire"], "children": ["Weapons/Types/NaturalWeapon/BiteDragonType", "Weapons/Enchantments/Flaming"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Rangers/Brains_Ability_Customisation/DLC4_HumanRangerBrain_Captain", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Rangers/Brains_Ability_Customisation/DLC4_ElvenRangerBrain_CallStones"], "children": ["Brain/Considerations/NoBuffHurricaneBow", "Spells/Level1/HurricaneBow"]}

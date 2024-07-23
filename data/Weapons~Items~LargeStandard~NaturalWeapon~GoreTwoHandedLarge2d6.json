@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Boar/CR5_DireBoarAdvanced", "Units/Monsters/Boar/HogOfDesolation/SummonedHogOfDesolation", "Units/Monsters/Boar/DireBoarPlantSummoned", "Units/Monsters/Boar/CR10_DireBoarElite", "Units/Monsters/Boar/CR4_DireBoar", "Units/Monsters/Boar/DireBoarSummoned"], "children": ["Weapons/Types/NaturalWeapon/GoreTwoHandedType"]}

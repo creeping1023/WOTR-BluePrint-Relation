@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Units/NPC/Commoners/DLC3_RogueLike/Tier3/DLC3_Tier3VendorTableWeapons_All", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Enhancement5"]}

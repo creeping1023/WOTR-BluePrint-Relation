@@ -1,0 +1,1 @@
+{"parents": ["Root/Kingdom/KingdomRoot", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Kingdom/CrusadeProjects/Angel/Angel2MovanicCooldown", "Kingdom/CrusadeProjects/Angel/AngelFlags/FlagAngel2Movanic", "Kingdom/CrusadeProjects/Angel/Angel6MonadicCooldown", "Armies/Presets/ProjectSummon/AngelMovanic", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}

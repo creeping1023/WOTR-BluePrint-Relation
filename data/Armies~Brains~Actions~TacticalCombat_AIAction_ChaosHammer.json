@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombatTarryDemodandBrain", "Armies/Brains/TacticalCombat_GlabrezuBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AoE_AvoidFriends", "Armies/Abilities/ArmyChaosHammer"]}

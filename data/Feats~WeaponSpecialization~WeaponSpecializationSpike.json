@@ -1,0 +1,1 @@
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterSpike", "Feats/PontBlankMaster/PointBlankMasterSpike"], "children": ["Weapons/Types/NaturalWeapon/SpikeType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterSpike", "Feats/PontBlankMaster/PointBlankMasterSpike"]}

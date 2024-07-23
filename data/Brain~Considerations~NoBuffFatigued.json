@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Drow/DrowMagusBrain/DrowMagus_RayOfExhaustionAiAction", "Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/Brains/DLC5_FrostWightGiantSorcerer_RayOfExhaustionAiAction"], "children": ["Buffs/Fatigued"]}

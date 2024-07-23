@@ -1,0 +1,1 @@
+{"parents": ["Classes/Alchemist/AlchemistProgression", "Classes/Alchemist/Archetypes/Grenadier/GrenadierArchetype", "Classes/Alchemist/Archetypes/Grenadier/GrenadierAlchemicalWeaponFeature2"], "children": ["Classes/Alchemist/AlchemistClass", "Classes/Alchemist/Archetypes/Grenadier/GrenadierAlchemicalWeaponMove"]}

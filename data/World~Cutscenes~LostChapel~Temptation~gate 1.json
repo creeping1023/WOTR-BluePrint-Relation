@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/Temptation/gate"], "children": ["World/Cutscenes/LostChapel/Temptation/CommandDelay 5", "World/Cutscenes/LostChapel/Temptation/CommandUnitCastSpell", "World/Cutscenes/LostChapel/Temptation/CommandAction", "World/Cutscenes/LostChapel/Temptation/gate 2", "World/Cutscenes/LostChapel/Temptation/CommandBark 1"]}

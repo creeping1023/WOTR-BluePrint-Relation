@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/PF2_DLC2/DLC2_QuartermasterImprovedTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive"]}

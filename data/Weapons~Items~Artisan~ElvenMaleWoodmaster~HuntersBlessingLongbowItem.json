@@ -1,0 +1,1 @@
+{"parents": ["Units/Pregens/PartyPregenTests/Lann/LannTestLevel19", "Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Lann/LannTestLevel20"], "children": ["Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Holy", "Weapons/Items/Artisan/ElvenMaleWoodmaster/HuntersBlessingLongbowDex2"]}

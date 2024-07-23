@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootJunk", "Items/Vendors/BarbarianCampVendorTable", "Items/Vendors/PF2_DLC2/DLC2_NaumVendorTable", "Loot/Cooking/Daeran_Q1_KenabresMansion/Poor_Kitchen_Loot_3", "Items/Vendors/FirstVendorTable", "Items/Vendors/C11_OlegVendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

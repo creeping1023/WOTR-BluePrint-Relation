@@ -1,0 +1,1 @@
+{"parents": ["Classes/Bard/Archetypes/TranquilWhisperer/TranquilWhispererArchetype"], "children": ["Traits/Races/Common/OutsiderType", "CreatureAbilities/Immunities/ImmunityToConfusion", "CreatureAbilities/Immunities/ImmunityToMindAffecting", "Classes/Ranger/FavoriteEnemy/NotADemonFeature"]}

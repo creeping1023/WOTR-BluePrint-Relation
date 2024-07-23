@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Items/Vendors/BanditConspiratorVendorTable", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleRanged/Javelin", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Frost"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Council/Answer_0065", "World/Dialogs/c2_vs/DrezenSiege/Council/SequenceExit_0111", "QA/Clockwork/Scenario/Act_2_SwordOfValor/Drezen_MainEntrance_Preset"], "children": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Neathholm/AneviaTirabade", "World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0071"]}

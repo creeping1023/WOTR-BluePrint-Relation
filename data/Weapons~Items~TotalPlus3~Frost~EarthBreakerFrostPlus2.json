@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialTwoHanded/EarthBreaker", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost"]}

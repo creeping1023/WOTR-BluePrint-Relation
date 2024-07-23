@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/CR24_Areshkagal_CultistLeaderMiniBoss"], "children": ["Spells/Level4/DivinePower", "Spells/Level6/HealCast", "Spells/Level6/Heal", "Spells/Level4/InvisibilityGreater"]}

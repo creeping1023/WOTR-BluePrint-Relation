@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Cambion/CR1415CambionsBrain/CambionBardInvisibleDominator_Brain"], "children": ["Brain/Considerations/NoBuffInvisibilityGreater", "Spells/Level4/InvisibilityGreater"]}

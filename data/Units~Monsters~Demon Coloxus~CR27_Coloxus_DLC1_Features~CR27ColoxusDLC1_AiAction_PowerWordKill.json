@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerWizardBrain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/InjuryCritical", "Spells/Level9/PowerWordKill"]}

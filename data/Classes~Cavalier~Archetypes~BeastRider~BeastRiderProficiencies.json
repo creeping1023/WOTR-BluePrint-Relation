@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cavalier/Archetypes/BeastRider/BeastRiderArchetype"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/MediumArmorProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency", "Classes/Basic/Proficiencies/MartialWeaponProficiency", "Classes/Basic/Proficiencies/ShieldsProficiency"]}

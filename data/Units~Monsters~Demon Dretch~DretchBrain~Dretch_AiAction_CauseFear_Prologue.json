@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Dretch/DretchBrain/Dretch_Brain_CauseFear_Prologue"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffShaken", "Brain/Considerations/NoBuffFrightened", "Spells/Level1/CauseFear"]}

@@ -1,0 +1,1 @@
+{"parents": ["Traits/Races/Dwarf/DwarfHeritageSelection", "Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerFighter"], "children": ["Traits/Races/Common/KeenSenses", "Traits/Races/Dwarf/Stability", "Traits/Races/Dwarf/DwarfDefensiveTrainingGiants", "Feats/Endurance"]}

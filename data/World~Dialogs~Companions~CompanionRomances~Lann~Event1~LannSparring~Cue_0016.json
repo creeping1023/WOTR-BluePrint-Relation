@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/Answer_0010", "World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/Answer_0012"], "children": ["World/Encounters/DrezenCapital/UnlockableFlags/LannRomance_OnKneesFinish", "World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/AnswersList_0018"]}

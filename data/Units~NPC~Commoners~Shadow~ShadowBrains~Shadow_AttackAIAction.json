@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Shadow/ShadowBrains/Shadow_Brain_Standard"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/Shadow/ShadowBrains/Shadow_AttackConsideration"]}

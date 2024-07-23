@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GlobalPuzzle_Start/ConditionsHolders/OrangeSelfSlotChecker", "World/Encounters/GlobalPuzzle_Start/ConditionsHolders/OrangeNextSlotChecker"], "children": ["World/Encounters/GlobalPuzzle_Start/ItemsList/Orange_01_OtherSlotDirect", "World/Encounters/GlobalPuzzle_Start/ItemsList/Orange_01_OtherSlotReverse"]}

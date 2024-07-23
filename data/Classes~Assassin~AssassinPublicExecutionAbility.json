@@ -1,0 +1,1 @@
+{"parents": ["Classes/Assassin/AssassinPublicExecutionBuff", "Classes/Assassin/AssassinPublicExecutionFeature"], "children": ["Buffs/Shaken", "Buffs/Frightened", "Root/SystemMechanics/Abilities/CoupDeGraceSelfAbility"]}

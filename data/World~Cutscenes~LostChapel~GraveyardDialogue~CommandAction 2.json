@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/GraveyardDialogue/gate 2"], "children": ["World/Encounters/LostChapel/UnlockableFlags/GraveyardGhoulsCombat", "World/Encounters/LostChapel/SummonPools/GhoulsAtGraveyard", "Factions/Mobs"]}

@@ -1,0 +1,1 @@
+{"parents": ["Loot/Good/CR13/PF2_Crusaders_Loot", "Dugeons/Loot/DungeonLootVendorExclude", "Loot/Good/CR13/PF2_OldCrusaders_Loot_Jarunnica", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Quivers/CursedThornArrowsQuiver/CursedThornArrowsQuiverAbility"]}

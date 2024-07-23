@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerMonk"], "children": ["Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Axiomatic"]}

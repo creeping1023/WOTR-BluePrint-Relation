@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Vrolikai/MongrelQuest/CR25_SavamelehMythic"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Vrolikai/VrolikaiBrain/Vrolikai_AiAction_MassHoldMonster", "Units/Monsters/Demon Vrolikai/MongrelQuest/Savameleh_AiAction_MythicAbility", "Units/Monsters/Demon Vrolikai/MongrelQuest/Savameleh_AiAction_WavesOfExhaustion"]}

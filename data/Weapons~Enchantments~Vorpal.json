@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Balor/BalorBrain/BalorVorpalStrikeBuff", "Equipment/DLC6BonusItems/DLC6NewItems/CrimsonMoonItem", "Weapons/Items/TotalPlus7/UnholyLongswordPlus5", "Items/Weapons/DLC3/DLC3_NahyndrianVorpalBladeWeaponItem"], "children": ["Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Traits/Races/Common/AberrationType"]}

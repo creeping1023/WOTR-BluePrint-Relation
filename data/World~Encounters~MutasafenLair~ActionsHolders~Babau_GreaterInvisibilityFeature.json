@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/MutasafenLair/ActionsHolders/Babau_SpawnActions"], "children": ["Spells/Level4/InvisibilityGreaterBuff", "Spells/Level2/BlurBuff", "Spells/Level3/HeroismBuff", "Spells/Level2/BarkskinBuff"]}

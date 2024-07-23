@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Incubus/IncubusBandLair/IncubusBandLair_IncubusBoss_Brain"], "children": ["Brain/Considerations/NoBuffRighteousMight", "Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level5/RighteousMight"]}

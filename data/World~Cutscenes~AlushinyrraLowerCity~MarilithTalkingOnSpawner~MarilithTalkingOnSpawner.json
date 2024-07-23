@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Common/ActionHolders/MarilithTalking_SpawnerActions", "World/Cutscenes/AlushinyrraLowerCity/MarilithTalkingOnSpawner/CommandActivateGate"], "children": ["World/Cutscenes/AlushinyrraLowerCity/MarilithTalkingOnSpawner/CommandDelay", "World/Cutscenes/AlushinyrraLowerCity/MarilithTalkingOnSpawner/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Mutasafen/MutasafenBrain/Mutasafen_BrainThird"], "children": ["Brain/Considerations/InjuryCritical", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffWyvernPolymorph", "Spells/Level6/BeastShapeIVBase", "Spells/Level6/BeastShapeIVWyvern"]}

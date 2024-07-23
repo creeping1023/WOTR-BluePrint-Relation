@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula_Feature", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/NocticulaBrain/Nocticula_AiAction_CombatInstantPrecast"], "children": ["Spells/Level2/MirrorImageBuff", "Spells/Level3/DisplacementBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/WintersunOutdoor/MorvegAxe_scene/gate"], "children": ["World/Cutscenes/WintersunOutdoor/MorvegAxe_scene/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/WintersunOutdoor/MorvegAxe_scene/CommandDelay 3", "World/Cutscenes/WintersunOutdoor/MorvegAxe_scene/gate 2"]}

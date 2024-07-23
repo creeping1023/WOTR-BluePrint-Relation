@@ -1,0 +1,1 @@
+{"parents": ["Mythic/GoldenDragon/GoldenDragonProgression", "Mythic/GoldenDragon/DragonLevel2Immunities"], "children": ["CreatureAbilities/EnergyImmunity/ColdImmunity", "CreatureAbilities/EnergyImmunity/FireImmunity", "CreatureAbilities/EnergyImmunity/AcidImmunity", "CreatureAbilities/EnergyImmunity/ElectricityImmunity", "CreatureAbilities/Immunities/ImmunityToEnergyDrain"]}

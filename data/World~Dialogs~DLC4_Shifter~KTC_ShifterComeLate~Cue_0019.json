@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/DLC4_Shifter/KTC_ShifterComeLate/Cue_0018", "World/Etudes/Common/WrathOfTheRighteous/Companions/UlbrigCompanion/UlbrigStates/Ulbrig_KTC_JoiningInDrezen"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Quests/DLC4_Shifter/Shifter_Q1/Obj_01_GoVillage", "GlobalMaps/WorldWoundGM/Points/Location_Ulbrig_Q1_RuinedVillage"]}

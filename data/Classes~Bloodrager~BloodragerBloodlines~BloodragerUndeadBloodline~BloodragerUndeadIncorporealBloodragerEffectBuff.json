@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/MiniBossFighter/DLC4_DhampirBloodrager", "Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadBloodlineBaseBuff", "Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadIncorporealBloodragerAbility"], "children": ["CreatureAbilities/Incorporeal"]}

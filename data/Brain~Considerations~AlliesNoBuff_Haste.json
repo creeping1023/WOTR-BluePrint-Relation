@@ -1,0 +1,1 @@
+{"parents": ["Brain/Actions/DLC4_WarlordsWizardEvokerHasteAiAction", "Units/Monsters/Demon Kalavakus/KalavakusBrain/Kalavakus_AiAction_Haste"], "children": ["Spells/Level3/HasteBuff"]}

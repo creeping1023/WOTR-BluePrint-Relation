@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraBandits/MercenaryBrain/CR15_MercenarySupportCasterBrain"], "children": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditCleric/PositiveClericBrain/BanditInjuryAround", "Classes/Shaman/Archetypes/WitchDoctor/WitchDoctorChannelEnergy"]}

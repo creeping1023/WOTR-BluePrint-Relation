@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Ghost/GhostBrain/GhostlyGuardianCasterBrain"], "children": ["Brain/Considerations/LongRange", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level4/Enervation"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR9_GundrunNecromant/CR9_GundrunNecromantBrain"], "children": ["Brain/Considerations/NoBuffVampiricShadowShield", "Brain/Considerations/IsThreatedConsideration", "Spells/Level5/VampiricShadowShield"]}

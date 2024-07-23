@@ -1,0 +1,1 @@
+{"parents": ["Armies/Leaders/Warlords/WarlordUnits/Warlord_15_Fighter", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Good/CR11/PF2_Sarkoris_Worm_Treasure"], "children": ["Weapons/Types/MartialOneHanded/Rapier", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Flaming"]}

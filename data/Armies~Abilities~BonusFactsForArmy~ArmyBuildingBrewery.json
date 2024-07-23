@@ -1,0 +1,1 @@
+{"parents": ["Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBreweryClerics", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBreweryWizards", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBrewerySoldiers"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingBreweryBuff", "Armies/Abilities/ArmyDrunkBuff"]}

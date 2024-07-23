@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain"], "children": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/NoBuffPhantasmalPutrefaction", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/NotUndeadConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/PhantasmalPutrefaction"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/FinneanLab/FinneanArmourerBrain/FinneanArmourerBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level3/VampiricTouchCast"]}

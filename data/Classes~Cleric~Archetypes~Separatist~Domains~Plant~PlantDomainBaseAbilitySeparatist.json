@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Plant/PlantDomainBaseFeatureSeparatist"], "children": ["Spells/Level1/ReducePersonBuff", "Spells/Level1/ReducePersonBuff", "Classes/Cleric/Domains/Plant/PlantDomainBaseBuff", "Classes/Cleric/Domains/Plant/PlantDomainBaseBuff", "Classes/Cleric/Archetypes/Separatist/Domains/Plant/PlantDomainBaseResourceSeparatist"]}

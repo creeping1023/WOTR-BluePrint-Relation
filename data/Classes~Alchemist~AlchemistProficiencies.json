@@ -1,0 +1,1 @@
+{"parents": ["Classes/Alchemist/AlchemistProgression", "Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}

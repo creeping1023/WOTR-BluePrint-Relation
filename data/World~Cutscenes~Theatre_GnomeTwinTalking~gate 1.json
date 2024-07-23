@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Theatre_GnomeTwinTalking/Theatre_GnomeTwinTalking", "World/Cutscenes/Theatre_GnomeTwinTalking/CommandActivateGate"], "children": ["World/Cutscenes/Theatre_GnomeTwinTalking/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Theatre_GnomeTwinTalking/gate"]}

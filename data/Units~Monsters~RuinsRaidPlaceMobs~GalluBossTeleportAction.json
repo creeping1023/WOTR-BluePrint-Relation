@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossBrain", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossSecondTeleportAction"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/GalluBossDemonTeleportAbility"]}

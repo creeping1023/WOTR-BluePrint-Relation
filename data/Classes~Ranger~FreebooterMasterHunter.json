@@ -1,0 +1,1 @@
+{"parents": ["Classes/Ranger/Archetypes/Freebooter/FreebooterArchetype", "Root/Upgraders/Player/PF-472203_FreebooterMasterHunter"], "children": ["Classes/Ranger/RangerClass", "Classes/Ranger/MasterHunter/FreebooterMasterHunterAbility", "Classes/Ranger/MasterHunter/FreebooterMasterHunterResource"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/MidnightFane/FaneEntrance/Entrance_MidnightFane_dialog"], "children": ["World/Cutscenes/MidnightFane/MidnightFane_EntranceMain/CommandLockControls", "World/Cutscenes/MidnightFane/MidnightFane_EntranceMain/gate 21", "World/Cutscenes/MidnightFane/MidnightFane_EntranceMain/CommandDelay", "World/Cutscenes/MidnightFane/MidnightFane_EntranceMain/gate"]}

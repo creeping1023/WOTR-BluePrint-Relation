@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/ShadowClones/ShadowMonk/Brain/DLC6_ShadowMonkBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/Shadow/ShadowBrains/Shadow_AttackConsideration", "Units/NPC/Commoners/Movanic Deva/DevilQuest/Brain/NoLastStandConsideration"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/DLC4_WarlordsWizardEvokerStandardBrain", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerStandardBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffShield", "Spells/Level1/MagicMissile"]}

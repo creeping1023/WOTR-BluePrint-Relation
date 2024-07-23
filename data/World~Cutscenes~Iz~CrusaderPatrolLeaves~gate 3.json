@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Iz/CrusaderPatrolLeaves/gate 1"], "children": ["World/Cutscenes/Iz/CrusaderPatrolLeaves/CommandFadeout", "World/Cutscenes/Iz/CrusaderPatrolLeaves/CommandDelay 2", "World/Cutscenes/Iz/CrusaderPatrolLeaves/CommandAction", "World/Cutscenes/Iz/CrusaderPatrolLeaves/gate 4"]}

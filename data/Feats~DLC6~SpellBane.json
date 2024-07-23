@@ -1,0 +1,1 @@
+{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["Classes/Inquisitor/Bane/InquisitorBaneBuff", "Classes/Inquisitor/Bane/InquisitorBaneNormalFeatureAdd", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordFeature", "DLC/DLC6/Dlc6Reward"]}

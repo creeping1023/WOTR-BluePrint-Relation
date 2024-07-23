@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Spells/CutsceneSpells/IvorySanctum/Glabrezu_PolymorfBaphometMelee", "Classes/Monk/MonkUnarmedStrikeLevel1", "Spells/CutsceneSpells/IvorySanctum/Glabrezu_PolymorfDeskariMelee", "Classes/Monk/MonkUnarmedStrike", "Spells/Level8/IronBodyBuff"], "children": ["Weapons/Types/Special/Unarmed"]}

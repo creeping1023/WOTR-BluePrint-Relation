@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Spells/Level2/SeeInvisibility", "Equipment/CommonEnchantments/Fortitude3", "Equipment/CommonEnchantments/Will3", "Equipment/CommonEnchantments/Deflection3"]}

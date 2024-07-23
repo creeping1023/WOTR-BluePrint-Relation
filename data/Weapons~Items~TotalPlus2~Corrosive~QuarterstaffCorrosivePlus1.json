@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/TowerInTheBody/DLC5_CR9_Tower_In_The_Body"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive"]}

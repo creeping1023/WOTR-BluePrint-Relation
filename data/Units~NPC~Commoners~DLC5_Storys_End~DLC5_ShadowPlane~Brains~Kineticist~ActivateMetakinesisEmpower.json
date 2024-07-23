@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/Kineticist/ActivateMetakinesisEmpower_AIAction", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_CR7_FetchlingKineticist"], "children": ["Classes/Kineticist/Metakinesis/MetakinesisEmpowerBuff"]}

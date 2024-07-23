@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditCleric/NegativeClericBrain/NegativeClericLivedBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Classes/Cleric/ChannelNegativeEnergy"]}

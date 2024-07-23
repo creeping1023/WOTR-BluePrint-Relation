@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Azata/AzataSpells/UnbreakableBondArea", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Evacuation/Brain/NoImmunityToCharm"], "children": ["CreatureAbilities/Immunities/IgnoreImmunityToFear", "CreatureAbilities/Immunities/IgnoreImmunityToFear"]}

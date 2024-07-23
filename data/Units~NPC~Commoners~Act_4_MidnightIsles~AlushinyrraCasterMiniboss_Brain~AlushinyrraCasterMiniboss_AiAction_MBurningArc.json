@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss_Brain/AlushinyrraCasterMiniboss_BrainPhaseII"], "children": ["Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level2/BurningArc"]}

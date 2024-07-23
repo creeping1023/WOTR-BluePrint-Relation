@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Sun/SunDomainProgressionSecondary", "Classes/Cleric/Domains/Sun/SunDomainProgression", "Spells/Level4/SymbolOfRevelationRuneTriggered"], "children": ["Classes/Cleric/Domains/Sun/SunDomainGreaterResource", "Classes/Cleric/Domains/Sun/SunDomainGreaterToggleAbility"]}

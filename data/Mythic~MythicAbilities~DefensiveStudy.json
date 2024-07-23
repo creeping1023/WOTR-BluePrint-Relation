@@ -1,0 +1,1 @@
+{"parents": ["Classes/Slayer/SlayerStudyTargetFeature", "Mythic/Feats/ExtraMythicAbilityMythicFeat", "Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenSlayerFeatureList", "Units/Pregens/PartyPregenTests/Greybor/GreyborPregenTestFeatureList", "Classes/Slayer/SlayerStudyTargetBuff", "Mythic/MythicAbilitySelection"], "children": ["Classes/Slayer/SlayerStudyTargetFeature"]}

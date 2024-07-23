@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Church/Cue_0004"], "children": ["World/Cutscenes/LostChapel/GhoulPriestAttack/CommandDelay", "World/Cutscenes/LostChapel/GhoulPriestAttack/CommandUnitAttack", "World/Cutscenes/LostChapel/GhoulPriestAttack/gate", "World/Cutscenes/LostChapel/GhoulPriestAttack/CommandLockControls", "World/Cutscenes/LostChapel/GhoulPriestAttack/gate"]}

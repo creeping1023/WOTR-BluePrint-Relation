@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/AreeluLab/ActionsHolders/FromALR_BlueprintAreaTransition", "World/Encounters/AreeluLab/ActionsHolders/2ALR_BlueprintAreaTransition", "World/Quests/c5/EmptyMemories/EmptyMemories_c5_quest", "World/Cutscenes/AreeluLabReturn/ChildDeath/CommandAction 4"], "children": ["World/Quests/c5/EmptyMemories/EmptyMemories_c5_quest"]}

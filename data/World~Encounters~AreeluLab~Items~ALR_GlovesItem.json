@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/AreeluLabReturn/ALR_TE_Gloves"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "EquipmentEntities/Gloves/KEE_Gloves_GlovesManticore", "World/Encounters/AreeluLab/Items/ALR_GlovesEnchantment"]}

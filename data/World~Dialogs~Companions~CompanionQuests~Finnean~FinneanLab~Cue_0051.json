@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0050"], "children": ["World/Encounters/FinneanLab/UnlockableFlags/GiveFinneanArmourer_flag", "World/Quests/Companions/Finnean/FinneanWakesUp/Obj2_KillArmorer", "World/Etudes/Common/WrathOfTheRighteous/FinneanInParty", "Weapons/Items/UniquePF2/Finnean/FinneanBaseItem"]}

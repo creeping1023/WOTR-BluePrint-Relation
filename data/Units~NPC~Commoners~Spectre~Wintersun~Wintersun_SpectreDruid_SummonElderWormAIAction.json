@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainMain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/Caster", "Spells/Level9/SummonElderWorm"]}

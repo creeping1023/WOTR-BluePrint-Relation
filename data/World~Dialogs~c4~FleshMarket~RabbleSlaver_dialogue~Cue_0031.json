@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Answer_0023_TakeThisGladiators"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/GolarionSlaveLeader", "Items/Utility/GoldCoins", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/AnswersList_0034", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/CueSequence_0075"]}

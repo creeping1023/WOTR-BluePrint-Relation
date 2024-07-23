@@ -1,0 +1,1 @@
+{"parents": ["Classes/Arcanist/ArcanistArcaneReservoirFeature", "Mythic/MythicAbilitySelection", "Mythic/Feats/ExtraMythicAbilityMythicFeat", "Classes/Arcanist/ArcanistArcaneReservoirResourceBuff"], "children": ["Classes/Arcanist/ArcanistArcaneReservoirFeature", "Classes/Slayer/Archetypes/ArcaneEnforcer/ArcaneEnforcerArcaneReservoirFeature"]}

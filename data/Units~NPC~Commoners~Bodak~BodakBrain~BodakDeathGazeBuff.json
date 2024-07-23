@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bodak/BodakBrain/BodakDeathGazeAbility", "Test/Blueprints/TutorialTestGazeAttack"], "children": ["Units/NPC/Commoners/Bodak/BodakBrain/BodakDeathGazeAreaEffect"]}

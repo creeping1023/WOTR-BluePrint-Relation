@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-386989_GrenadierHolyWater", "Classes/Alchemist/Archetypes/Grenadier/GrenadierAlchemicalWeaponFeature2"], "children": ["Classes/Alchemist/Archetypes/Grenadier/GrenadierAcidFlaskSwift", "Classes/Alchemist/Archetypes/Grenadier/GrenadierAlchemistFireSwift", "Classes/Alchemist/Archetypes/Grenadier/GrenadierHolyWaterSwift"]}

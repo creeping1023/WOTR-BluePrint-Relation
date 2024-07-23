@@ -1,0 +1,1 @@
+{"parents": ["Root/Kingdom/CrusadeEventTimeline", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Weapons/Items/Unique/LateChapters/HolyDisruptionHeavyMacePlus3Item", "Armies/CrusadeGlobalBuffs/Event02GrowthBlissfulAlly", "Units/Companions/Arueshalae/Arueshalae_Companion", "Armies/CrusadeGlobalBuffs/Event02ArueshalaeReductionOfLosses"]}

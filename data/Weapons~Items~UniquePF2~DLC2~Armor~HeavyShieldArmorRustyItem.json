@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/UniquePF2/DLC2/Armor/HeavyShieldRusty", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/HeavyShieldType", "Weapons/Items/UniquePF2/DLC2/Armor/HeavyShieldEnhancementRusty"]}

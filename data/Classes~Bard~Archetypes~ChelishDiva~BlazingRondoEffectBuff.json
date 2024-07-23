@@ -1,0 +1,1 @@
+{"parents": ["Classes/Bard/Archetypes/ChelishDiva/BlazingRondoAreaEffect"], "children": ["Classes/Bard/BardClass", "Mythic/Lich/LichSpells/SiphonTimeVisualAllyBuff", "Spells/Level3/HasteBuff", "Mythic/Azata/AzataAbilities/SupersonicSpeed/SupersonicSpeedHasteBuff"]}

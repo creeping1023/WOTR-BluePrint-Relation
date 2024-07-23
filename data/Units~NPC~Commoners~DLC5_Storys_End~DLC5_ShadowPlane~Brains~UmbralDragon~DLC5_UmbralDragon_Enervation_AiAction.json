@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/UmbralDragon/DLC5_UmbralDragonBrain"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/UmbralDragon/HasBuffNegativeLevel", "Brain/Considerations/ChaoticBehaviour", "Spells/Level4/Enervation"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/IngerMaggor/IngerMaggorBrain/IngerMaggor_AiAction_BurstOfGlory", "Brain/Actions/BurstOfGloryAiAction"], "children": ["Spells/Level5/BurstOfGloryBuff"]}

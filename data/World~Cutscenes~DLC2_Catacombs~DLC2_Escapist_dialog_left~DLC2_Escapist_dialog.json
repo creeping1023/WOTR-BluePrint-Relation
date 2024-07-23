@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC2_Catacombs/ScriptZones/DLC2_Catacombs_CubeIntroduction_SZ", "World/Encounters/DLC2_Catacombs/ScriptZones/DLC2_Catacombs_RefugeeSaved_SZ"], "children": ["World/Cutscenes/DLC2_Catacombs/DLC2_Escapist_dialog_left/CommandDelay", "World/Cutscenes/DLC2_Catacombs/DLC2_Escapist_dialog_left/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinMutated/MutatedGoblinBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/DLC5Mobs/WizardsTower/GoblinMutated/MutatedTemplateFireBreathAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/ProteanKeketar/CR23_ProteanKeketarCasterBrain/CR23ProteanKeketarCaster_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Spells/Level5/ShadowEvocation", "Spells/Level3/LightningBolt", "Spells/Level8/PolarRay", "Spells/Level8/Sunburst", "Spells/Level8/Stormbolts"]}

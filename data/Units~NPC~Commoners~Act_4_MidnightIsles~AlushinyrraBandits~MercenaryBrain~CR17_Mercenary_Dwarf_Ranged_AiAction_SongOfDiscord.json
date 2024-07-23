@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraBandits/MercenaryBrain/CR17_Mercenary_Dwarf_Ranged_Brain_MindDamage"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AoE_AvoidFriendsAlways", "Spells/Level5/SongOfDiscord"]}

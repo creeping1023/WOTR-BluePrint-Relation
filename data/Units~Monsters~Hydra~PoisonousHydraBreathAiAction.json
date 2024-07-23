@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Hydra/PoisonousHydraBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseAtLeastOneEnemy", "Units/Monsters/Hydra/PoisonousHydraBreathWeapon"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monster/Animal/AnimalCompanionClass"], "children": ["Feats/Mobility", "Classes/Pets/AnimalCompanionArchetypes/Daredevil/DaredevilFlank", "Classes/Pets/AnimalCompanionArchetypes/Daredevil/DaredevilMobilityBOnus", "CreatureAbilities/Multiattack", "Classes/Pets/AnimalCompanionDevotion"]}

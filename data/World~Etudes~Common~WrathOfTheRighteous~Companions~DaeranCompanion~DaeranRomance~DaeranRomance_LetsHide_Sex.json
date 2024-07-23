@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/Answer_0013", "World/Cutscenes/Nexus/Nexus_DaeranRomance_LetsHideEnd/CommandFadeout1", "World/Cutscenes/Nexus/Nexus_DaeranRomance_LetsHideEnd/CommandDelay 2"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranStates"]}

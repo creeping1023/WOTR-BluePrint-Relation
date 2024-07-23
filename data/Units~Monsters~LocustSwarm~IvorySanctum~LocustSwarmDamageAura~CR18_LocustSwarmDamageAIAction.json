@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/CR18_LocustSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration", "Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/CR18_LocustSwarmDamageAbility"]}

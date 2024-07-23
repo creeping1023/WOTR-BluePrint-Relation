@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Coloxus/CR21ColoxusBrain/CR21Coloxus_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AvoidMainCharacterConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Brain/Considerations/NoBuffDominate", "Spells/Level9/DominateMonster"]}

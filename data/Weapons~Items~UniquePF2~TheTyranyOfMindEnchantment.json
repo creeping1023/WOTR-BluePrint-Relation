@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/UniquePF2/TheTyranyOfMindItem"], "children": ["Weapons/Items/UniquePF2/TheTyranyOfMindCurseBuff", "CreatureAbilities/Subtypes/SubtypeGood", "Spells/Level5/DominatePersonBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusRangedFighter_Brain_FocusArchers"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss_Brain/AlushinyrraCasterMIniboss_Consideration_AntiArcher"]}

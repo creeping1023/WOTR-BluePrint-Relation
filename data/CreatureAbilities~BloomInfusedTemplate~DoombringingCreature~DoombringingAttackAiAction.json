@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/BloomInfusedTemplate/DoombringingCreature/DoombringingCreatureBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "CreatureAbilities/BloomInfusedTemplate/DoombringingCreature/DoombringingCreatureTargetConsideration"]}

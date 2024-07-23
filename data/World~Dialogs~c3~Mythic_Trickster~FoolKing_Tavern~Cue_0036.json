@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-359926", "World/Dialogs/c3/Mythic_Trickster/FoolKing_Tavern/Answer_0035"], "children": ["World/Quests/MythicQuests/Trickster/C3_FoolKing/Obj_00_Fail", "World/Cutscenes/DrezenCapital/FoolKingInTavern/FoolKingInTavern", "World/Cutscenes/DrezenCapital/FoolKingRunsAway/FoolKingRunsAway"]}

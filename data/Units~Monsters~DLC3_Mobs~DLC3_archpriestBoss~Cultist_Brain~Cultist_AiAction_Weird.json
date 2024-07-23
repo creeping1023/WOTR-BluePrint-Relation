@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/Cultist_Brain/Cultist_FullCasterBrain_Alternative", "Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/Cultist_Brain/Cultist_FullCasterBrain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/NoBuffHeroismGreater", "Spells/Level9/Weird"]}

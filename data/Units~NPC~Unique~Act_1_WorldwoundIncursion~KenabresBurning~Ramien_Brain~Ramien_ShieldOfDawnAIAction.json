@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien_Brain/Ramien_Brain"], "children": ["Brain/Considerations/NoBuffShieldOfDawn", "Brain/Considerations/TargetSelf", "Spells/Level4/ShieldOfDawn"]}

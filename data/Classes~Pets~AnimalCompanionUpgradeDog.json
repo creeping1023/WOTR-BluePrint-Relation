@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/AnimalCompanionFeatureDog", "Classes/Pets/DogGoodBoyFeature"], "children": ["CreatureAbilities/ReducedReach", "Classes/Pets/IterativeNaturalAttacksBuff"]}

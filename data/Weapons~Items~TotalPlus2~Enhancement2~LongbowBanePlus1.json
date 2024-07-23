@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Units/NPC/Commoners/Demon Succubus/CR27_SuccubusRangedFighter_DLC1"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/BaneEverything"]}

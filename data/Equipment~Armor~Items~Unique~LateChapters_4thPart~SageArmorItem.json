@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/C61_IssiliVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/LeatherType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Items/Unique/LateChapters_4thPart/SageArmorEnchant"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianRangerImproved_Brain_Standard", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianRanger_Brain_Standard"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffAspectOfTheFalcon", "Spells/Level1/AspectOfTheFalcon"]}

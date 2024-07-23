@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Common/UnitAnimationsCorpseLooting/gate"], "children": ["World/Cutscenes/Common/UnitAnimationsCorpseLooting/CommandDelay 4", "World/Cutscenes/Common/UnitAnimationsCorpseLooting/CommandActivateGate"]}

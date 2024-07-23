@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Items/Vendors/Act_2_SwordOfValor/WarCamp_StreetRatVendorTable", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialLight/LightHammer", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive"]}

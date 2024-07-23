@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Hamadryad/Hamadryad_Brain/DLC3_Hamadryad_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/DLC3_Mobs/DLC3_Tir2_Armies/DLC3_SummonNaturesAllyVIII", "Spells/Level8/SummonNaturesAllyVIIISingle"]}

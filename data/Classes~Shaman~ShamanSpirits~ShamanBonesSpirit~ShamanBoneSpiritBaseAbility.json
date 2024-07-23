@@ -1,0 +1,1 @@
+{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity", "Classes/Shaman/ShamanSpirits/ShamanBonesSpirit/ShamanBoneSpiritBaseFeature"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Classes/Shaman/ShamanSpirits/ShamanBonesSpirit/ShamanBoneSpiritBaseResource", "Classes/Shaman/ShamanClass", "Weapons/Types/Special/TouchItem"]}

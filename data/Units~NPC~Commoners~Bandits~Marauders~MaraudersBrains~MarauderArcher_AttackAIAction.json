@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/Marauders/MaraudersBrains/MarauderArcher_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/LightArmorConsideration"]}

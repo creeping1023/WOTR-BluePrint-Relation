@@ -1,0 +1,1 @@
+{"parents": ["Races/ElfRace", "Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerWizard"], "children": ["Traits/Races/BaseRaceFeature", "Traits/Races/Elf/BlightbornElf", "Traits/Races/Elf/LoremasterElf", "Traits/Races/BaseRaceFeature", "Traits/Races/Elf/BlightbornElf", "Traits/Races/Elf/LoremasterElf"]}

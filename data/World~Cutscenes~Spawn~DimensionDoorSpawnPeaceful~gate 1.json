@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Spawn/DimensionDoorSpawnPeaceful/DimensionDoorSpawnPeaceful"], "children": ["World/Cutscenes/Spawn/DimensionDoorSpawnPeaceful/CommandAction", "World/Cutscenes/Spawn/DimensionDoorSpawnPeaceful/CommandDelay", "World/Cutscenes/Spawn/DimensionDoorSpawnPeaceful/gate"]}

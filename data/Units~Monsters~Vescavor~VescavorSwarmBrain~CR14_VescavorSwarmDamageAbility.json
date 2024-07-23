@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Vescavor/ReturnToDrezen/CR14_VescavorSwarm", "Units/Monsters/Vescavor/VescavorSwarmBrain/CR14_VescavorSwarmDamageAIAction"], "children": ["Equipment/Amulets/DLC4/SwarmbaneClaspFeature", "Equipment/Amulets/DLC4/SwarmbaneClaspSavingThrowBuff", "Buffs/Nauseated"]}

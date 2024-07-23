@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmySummonPetHunterFeature"], "children": ["Armies/UnitBlueprints/ArmyWolf", "Buffs/SummonedCreatureSpawnMonsterI-III", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/ArmySummonPetHunterResource"]}

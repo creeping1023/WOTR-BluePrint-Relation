@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level6/EyebiteBuff", "Units/NPC/Unique/Act_4_MidnightIsles/Mutasafen/MutasafenBrain/Mutasafen_EyebiteBombAIAction"], "children": ["Buffs/Sickened", "Buffs/Frightened", "Buffs/Paralyzed", "Spells/Level6/EyebiteCooldownBuff"]}

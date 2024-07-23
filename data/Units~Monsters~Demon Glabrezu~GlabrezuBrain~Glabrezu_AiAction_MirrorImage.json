@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Glabrezu/GlabrezuBrain/Glabrezu_Brain_PowerWord", "Units/Monsters/Demon Glabrezu/GlabrezuBrain/Glabrezu_Brain_Standard", "Units/Monsters/Demon Glabrezu/GlabrezuBrain/Glabrezu_Brain_Confusion"], "children": ["Brain/Considerations/NoBuffMirrorImage", "Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level2/MirrorImage"]}

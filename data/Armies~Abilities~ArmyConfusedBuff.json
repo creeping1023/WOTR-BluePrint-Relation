@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyMagusTouchOfMadnessBuff", "Armies/Leaders/Abilities/RangerAbilities/RangerFlareAbility", "Armies/Abilities/ArmyDerakniDroneAura", "Armies/Abilities/ArmyConfuseOnHit", "Armies/Abilities/ArmyEarPiercingScream"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackNearest"]}

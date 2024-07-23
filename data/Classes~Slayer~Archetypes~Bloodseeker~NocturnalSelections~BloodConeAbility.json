@@ -1,0 +1,1 @@
+{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodConeFeature", "Classes/Slayer/Archetypes/Bloodseeker/MasterOfBloodFeature"], "children": ["FX/Abilities/Kinetic_BloodBlastCone00_30Feet_Aoe", "Weapons/Types/Special/KineticBlastPhysicalWeapon", "Classes/Slayer/Archetypes/Bloodseeker/BloodPoolResource"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/MythicLichSkeletonPets/MythicLichSkeletonArcherProgression", "Classes/Monster/Undead/UndeadClass", "Equipment/Amulets/UniquePF2/Chapter2/GuardianOfLifeBuff"], "children": ["Classes/Monster/Undead/UndeadClass", "Traits/Races/Common/UndeadType"]}

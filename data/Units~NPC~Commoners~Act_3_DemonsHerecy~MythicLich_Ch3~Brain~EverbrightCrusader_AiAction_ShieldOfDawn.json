@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MythicLich_Ch3/Brain/EverbrightCrusader_Brain_ShieldOfDawn"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffShieldOfDawn", "Spells/Level4/ShieldOfDawn"]}

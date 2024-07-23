@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskGolemLarge/MaskGolemBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskGolemLarge/HasSilencedBuffConsideration", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskGolemLarge/MaskGolemThrowMaskAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level9/ElementalSwarmAirSecondWaveBuff"], "children": ["Units/Monsters/AirElemental/SummonedAirElementalGreater", "Buffs/SummonedCreatureSpawnAllyVI-IX", "Spells/CutsceneSpells/SummonMonsterPool"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLoot_VendorRare_Grade6", "Dugeons/Loot/DungeonLootRare", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0043", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/Chapter4/NahRingEnchantment"]}

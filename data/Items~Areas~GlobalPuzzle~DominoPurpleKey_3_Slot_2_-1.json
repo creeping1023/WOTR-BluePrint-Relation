@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Encounters/GlobalPuzzle_Purple/ConditionsHolders/Slot_2_-1_ItemRestriction", "Loot/Quest/DemonicCommando_Lair/PurplePuzzle", "World/Areas/Act_3_DemonsHerecy/GlobalPuzzle_Purple/Presets/GlobalPuzzle_Purple_Default_Preset"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

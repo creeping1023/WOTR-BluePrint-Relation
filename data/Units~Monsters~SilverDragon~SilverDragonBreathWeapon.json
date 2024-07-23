@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/SilverDragon/SilverDragon_BreathWeaponAiAction", "Units/NPC/Unique/Act_0_Prologue/Prologue_Kenabres/TerendelevDragon", "Units/Monsters/SilverDragon/SilverDragon_Battle"], "children": ["FX/Spell Level None/ColdCone50Feet00", "Classes/Monster/Dragon/DragonClass"]}

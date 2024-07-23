@@ -1,0 +1,1 @@
+{"parents": ["Brain/Actions/FrigidTouchAiAction", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/RunelordOfWrath/DLC6_RunelordsDevastatorAbilities/DLC6_InsanedLillendAzata__WavesOfEctasy_AiAction", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/MephistophelesFeatures/Mephisto_AiAction_WavesOfEctasy"], "children": ["Buffs/Staggered"]}

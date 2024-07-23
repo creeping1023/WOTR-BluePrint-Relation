@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/C4_VendorTableLarge"], "children": ["Weapons/Types/SimpleOneHanded/Club", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Corrosive"]}

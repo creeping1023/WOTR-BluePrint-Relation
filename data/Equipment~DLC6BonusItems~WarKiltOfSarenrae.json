@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/Act_2_SwordOfValor/WarCamp_ScrollVendorClericTable"], "children": ["EquipmentEntities/NPCCloth/KEE_Belt_Common", "Equipment/DLC6BonusItems/WarKiltOfSarenraeEnchantment"]}

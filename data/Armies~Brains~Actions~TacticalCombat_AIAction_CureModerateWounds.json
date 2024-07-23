@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombatArcherCureBrain", "Armies/Brains/TacticalCombatWarpriestBrain", "Armies/Brains/TacticalCombatAzataYamahBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_HalfHealth", "Spells/Level2/CureModerateWounds"]}

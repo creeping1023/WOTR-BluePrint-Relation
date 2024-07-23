@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DefendersHeart/ActionsHolders/GenericHumanSittingOnGround_Cutscene"], "children": ["World/Cutscenes/DefendersHeart/GenericHumanSeittingOnGround_scene/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DefendersHeart/GenericHumanSeittingOnGround_scene/CommandMarkUnitControlled"]}

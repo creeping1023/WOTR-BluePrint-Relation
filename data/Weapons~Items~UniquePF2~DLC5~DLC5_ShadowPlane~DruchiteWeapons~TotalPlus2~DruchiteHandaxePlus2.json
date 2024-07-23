@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneWeaponVendorTable", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"], "children": ["DLC/DLC5/Dlc5RewardCampaign", "Weapons/Types/MartialLight/Handaxe", "Weapons/Enchantments/Enhancement2", "Items/DLC5/DLC5_ShadowPlane/DruchiteWeaponEnchantment"]}

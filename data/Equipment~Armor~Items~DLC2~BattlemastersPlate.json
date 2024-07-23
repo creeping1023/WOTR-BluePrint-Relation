@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "Spells/Level6/HeroismGreater", "EquipmentEntities/Armor/KEE_Armor_FullplateKnight", "Equipment/Armor/Types/FullplateType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus4", "Equipment/Armor/Enchantments/MithralArmorEnchant"]}

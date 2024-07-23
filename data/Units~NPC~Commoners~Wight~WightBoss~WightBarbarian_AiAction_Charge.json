@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Wight/WightBoss/WightBarbarian_Brain"], "children": ["Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianBarbarian_AiAction_Charge", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/Caster", "Root/SystemMechanics/Abilities/ChargeAbility"]}

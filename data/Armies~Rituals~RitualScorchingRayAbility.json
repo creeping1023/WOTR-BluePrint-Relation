@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/LeadersBrain/CultistLeader_ScorchingRay", "Armies/Rituals/RitualScorchingRay"], "children": ["FX/Spell Level 2/Scorching Ray00", "Weapons/Types/Special/RayItem", "Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

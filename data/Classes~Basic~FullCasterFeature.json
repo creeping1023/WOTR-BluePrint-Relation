@@ -1,0 +1,1 @@
+{"parents": ["Classes/Wizard/WizardProgression", "Classes/Prototype/PrototypeProgression", "Brain/Considerations/Caster", "Classes/Cleric/ClericProgression", "Brain/Considerations/NoCaster", "Classes/Druid/DruidProgression", "Classes/Sorcerer/SorcererProgression", "Feats/SpellFocus/SpellFocus"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MidnightFane/DarrazandHealer/DarrazandHealerBrain"], "children": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MidnightFane/DarrazandHealer/IsStartWarConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/Blasphemy"]}

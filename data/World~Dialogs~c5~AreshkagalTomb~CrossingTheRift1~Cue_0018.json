@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/AreshkagalTomb/CrossingTheRift1/Cue_0016"], "children": ["Spells/CutsceneSpells/AreshkagalDungeon/EnygmaDebuff", "Buffs/Fatigued", "World/Encounters/AreshkagalDungeon/UnlockableFlags/CrossTheRift_EnygmaFlag", "World/Encounters/AreshkagalDungeon/UnlockableFlags/EnygmaDebuff_flag"]}

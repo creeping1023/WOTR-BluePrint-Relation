@@ -1,0 +1,1 @@
+{"parents": ["Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIBuff"], "children": ["Spells/Level3/BeastShapeIBuff", "Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastToggleSwitchActivateBuff", "Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastToggleSwitchActivateBuff", "Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIEffectBuff"]}

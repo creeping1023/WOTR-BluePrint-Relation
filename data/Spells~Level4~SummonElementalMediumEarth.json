@@ -1,0 +1,1 @@
+{"parents": ["Items/Scrolls/Level4/ScrollOfSummonElementalMediumEarth", "Spells/Level4/SummonElementalMediumBase", "Items/Wands/NewWands/WandOfSummonElementalMediumEarth"], "children": ["Units/Monsters/EarthElemental/SummonedEarthElementalMedium", "Buffs/SummonedCreatureSpawnMonsterI-III", "Spells/CutsceneSpells/SummonMonsterPool", "Spells/Level4/SummonElementalMediumBase"]}

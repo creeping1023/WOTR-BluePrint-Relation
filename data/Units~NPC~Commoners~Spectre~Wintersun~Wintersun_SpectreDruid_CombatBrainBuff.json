@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid"], "children": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_BullsStrengthAIAction", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CatsGraceAIAction", "Brain/Actions/AttackAiAction"]}

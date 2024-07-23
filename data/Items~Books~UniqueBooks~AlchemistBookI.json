@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/WitchVendorTable", "Items/Vendors/SadistVendorTable"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

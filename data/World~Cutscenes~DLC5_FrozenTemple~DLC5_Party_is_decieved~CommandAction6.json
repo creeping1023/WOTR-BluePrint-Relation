@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Party_is_decieved/gate4"], "children": ["World/Encounters/DLC5_FrozenTemple/SummonPools/DLC5_WatchersSecondWave_pool", "World/Cutscenes/LostChapel/InGameMovementParam/InGameMovementParam", "Buffs/FakeDeath", "World/Cutscenes/KenabresBurning/CombatStateOff/CombatStateOff"]}

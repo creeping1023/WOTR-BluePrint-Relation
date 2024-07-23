@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Classes/Barbarian/Rage/ResourcelessRageActivateableAbility", "Equipment/CommonEnchantments/Strength6", "Equipment/Belts/Intimidate5", "Equipment/Belts/DiplomacyPenalty3"]}

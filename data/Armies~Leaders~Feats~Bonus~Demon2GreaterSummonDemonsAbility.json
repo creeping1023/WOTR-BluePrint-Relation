@@ -1,0 +1,1 @@
+{"parents": ["Armies/Leaders/Feats/Bonus/Demon2GreaterSummonDemons"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/UnitBlueprints/ArmyBabauStandard", "Armies/Leaders/Feats/Bonus/SummonPropertyGetterTwicePower", "Buffs/SummonedCreatureSpawnMonsterIV-VI", "Buffs/ArmySummonedCreatureVisual", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}

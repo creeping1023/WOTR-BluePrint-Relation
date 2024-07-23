@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudBreathofFliesAction", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhud"], "children": ["Classes/Druid/DruidSpellList", "Classes/Shaman/Archetypes/ProphetOfPestilence/PestilenceSpirit/PestilenceSpiritSpellList", "DLC/DLC5/Dlc5RewardCampaign", "Spells/DLC5NewSpells/BreathOfFlies/BreathofFliesAbility"]}

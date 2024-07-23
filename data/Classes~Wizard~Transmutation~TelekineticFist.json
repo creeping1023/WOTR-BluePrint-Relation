@@ -1,0 +1,1 @@
+{"parents": ["Items/Scrolls/Level1/ScrollOfTelekineticFist", "Classes/Wizard/Transmutation/TelekineticFistFeature"], "children": ["Classes/Wizard/Transmutation/TelekineticFistResource", "FX/Abilities/TelekineticFist", "Weapons/Types/Special/RayItem", "Classes/Wizard/WizardClass"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/Seelah_Q2/DarekBrain/DarekBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Deathsnatcher/DeathsnatcherBrain/NotLastStandConsideration", "Units/Monsters/Deathsnatcher/DeathsnatcherBrain/NotSummonedConsideration", "Spells/Level1/ShockingGraspCast"]}

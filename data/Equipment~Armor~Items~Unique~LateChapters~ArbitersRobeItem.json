@@ -1,0 +1,1 @@
+{"parents": ["Units/Pregens/PartyPregenTests/Lann/LannTestLevel19", "Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Lann/LannTestLevel20"], "children": ["Classes/Monk/MonkClass", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/ClothType", "Equipment/Armor/Items/Unique/LateChapters/ArbitersRobeEnchant", "Equipment/Amulets/UnarmedEnhancement3"]}

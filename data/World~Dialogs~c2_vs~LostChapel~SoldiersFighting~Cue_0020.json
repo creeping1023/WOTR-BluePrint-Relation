@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/LostChapel/SoldiersFighting/Answer_0019"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/CrusadeSoldier2", "World/Cutscenes/LostChapel/ExecutionMultiple/ExecutionMultiple", "World/Encounters/LostChapel/UnlockableFlags/TotalLosses", "World/Dialogs/c2_vs/LostChapel/SoldiersFighting/Cue_0024"]}

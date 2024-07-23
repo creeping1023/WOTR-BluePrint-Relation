@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Sarcorians_Warriors/CR14_Sarcorian_Ranger_Ranged_female"], "children": ["Brain/Actions/AttackAiActionSniper", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianRanger_AiAction_AspectOfTheFalcon", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianRanger_AiAction_InstantEnemy"]}

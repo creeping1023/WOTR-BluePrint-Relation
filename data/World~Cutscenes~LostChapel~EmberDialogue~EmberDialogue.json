@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/LostChapel/ScriptZones/EmberDialogue"], "children": ["World/Cutscenes/LostChapel/EmberDialogue/CommandControlCamera", "World/Cutscenes/LostChapel/EmberDialogue/gate", "World/Cutscenes/LostChapel/EmberDialogue/CommandLockControls", "World/Cutscenes/LostChapel/EmberDialogue/gate"]}

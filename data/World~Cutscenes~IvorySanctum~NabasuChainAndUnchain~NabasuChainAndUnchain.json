@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/IvorySanctum/ActionsHolders/MythicNabasuChained"], "children": ["World/Cutscenes/IvorySanctum/NabasuChainAndUnchain/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/IvorySanctum/NabasuChainAndUnchain/gate", "World/Cutscenes/IvorySanctum/NabasuChainAndUnchain/WaitFlag", "World/Cutscenes/IvorySanctum/NabasuChainAndUnchain/gate"]}

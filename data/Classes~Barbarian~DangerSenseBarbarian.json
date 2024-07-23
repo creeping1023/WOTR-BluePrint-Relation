@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/Archetypes/ArmoredHulk/ArmoredHulkArchetype", "Classes/Barbarian/Archetypes/FleshEater/FleshEaterBarbarianArchetype", "Classes/Barbarian/BarbarianProgression", "Classes/Barbarian/Archetypes/InvulnerableRager/InvulnerableRagerArchetype"], "children": ["Traps/TrapActorFeature", "Traps/TrapActorFeature"]}

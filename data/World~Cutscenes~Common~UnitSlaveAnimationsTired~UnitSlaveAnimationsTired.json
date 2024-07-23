@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Common/ActionHolders/UnitSlaveTired_SpawnerActions"], "children": ["World/Cutscenes/Common/UnitSlaveAnimationsTired/CommandMarkUnitControlled", "World/Cutscenes/Common/UnitSlaveAnimationsTired/CommandDelay", "World/Cutscenes/Common/UnitSlaveAnimationsTired/gate"]}

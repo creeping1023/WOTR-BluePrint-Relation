@@ -1,0 +1,1 @@
+{"parents": ["Classes/Basic/BasicActions/Skills/SkillAbilities", "Classes/Basic/BasicActions/Skills/PersuasionUseAbilityMove"], "children": ["Buffs/Shaken", "Buffs/Frightened", "Classes/Swordlord/DisplayWeaponProwess", "Mythic/Trickster/Persuasion/TricksterPersuasionDebuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/LivingArmor/CR11_LivingArmorTank", "Dugeons/Loot/DungeonLootExclude", "Units/Monsters/LivingArmor/LivingArmorTankSummoned"], "children": ["Weapons/Types/MartialLight/LightPick", "Weapons/Enchantments/Enhancement1"]}

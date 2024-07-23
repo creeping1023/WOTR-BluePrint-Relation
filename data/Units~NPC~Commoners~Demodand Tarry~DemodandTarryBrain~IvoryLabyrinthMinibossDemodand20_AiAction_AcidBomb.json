@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demodand Tarry/DemodandTarryBrain/IvoryLabyrinthMinibossDemodand20_Brain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/AoE_ChooseMoreEnemies", "Classes/Alchemist/Discoveries/AcidBombs/AcidBomb"]}

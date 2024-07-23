@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Items/Vendors/Chapter3/Quartermaster_Chapter3VendorTable", "Items/Vendors/Chapter3/HellKnight_Chapter3VendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost"]}

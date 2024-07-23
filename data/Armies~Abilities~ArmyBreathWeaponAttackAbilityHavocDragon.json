@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_BreathDragonHavoc", "Armies/Abilities/ArmyBreathWeaponAttackAbilityHavocDragonFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerTwice", "Armies/Abilities/ArmyRandomSpellHavoc", "FX/Spell Level None/SonicCone30Feet00", "Armies/Abilities/ArmyBreathWeaponAttackAbilityHavocDragonResource"]}

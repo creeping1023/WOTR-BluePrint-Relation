@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyCultistMagic"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_CultistCurse", "Armies/Brains/Actions/TacticalCombat_AIAction_AcidArrowAttack"]}

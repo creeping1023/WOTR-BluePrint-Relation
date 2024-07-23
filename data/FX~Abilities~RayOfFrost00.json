@@ -1,0 +1,1 @@
+{"parents": ["Classes/Sorcerer/ElementalBloodline/Water/ScorchingRayCold", "Classes/Cleric/Archetypes/Separatist/Domains/Water/WaterDomainBaseAbilitySeparatist", "Classes/Cleric/Domains/Water/WaterDomainBaseAbility", "Backgrounds/BackgroundsSpellLikes/RayOfFrostBackgrounds", "Spells/Level0/RayOfFrost"], "children": ["FX/Abilities/RayOfFrost00_Trajectory"]}

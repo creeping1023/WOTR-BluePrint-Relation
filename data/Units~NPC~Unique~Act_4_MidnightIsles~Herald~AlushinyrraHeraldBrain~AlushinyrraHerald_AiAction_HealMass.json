@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Herald/AlushinyrraHeraldBrain/AlushinyrraHeraldBrain"], "children": ["Brain/Considerations/InjuryMedium", "Brain/Considerations/NotUndeadConsideration", "Spells/Level9/HealMass"]}

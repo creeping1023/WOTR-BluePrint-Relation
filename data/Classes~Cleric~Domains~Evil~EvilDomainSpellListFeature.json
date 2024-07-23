@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Evil/EvilDomainBaseFeature", "Classes/Cleric/Archetypes/Separatist/Domains/Evil/EvilDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Evil/EvilDomainSpellList", "Classes/Cleric/Domains/Death/DeathDomainSpellListFeature", "Classes/Cleric/Domains/Death/DeathDomainSpellListFeature"]}

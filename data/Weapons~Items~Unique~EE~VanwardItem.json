@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/PF2_DLC5/Tavern/BlacksmithWeapon/DLC5_BlacksmithWeaponVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/HeavyFlail", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive", "Weapons/Items/Unique/EE/VanwardEnchantment"]}

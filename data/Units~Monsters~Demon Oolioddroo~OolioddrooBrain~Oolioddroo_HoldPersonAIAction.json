@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Oolioddroo/OolioddrooBrain/Oolioddroo_Caster_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHoldPerson", "Brain/Considerations/NotAnimalCompanionConsideration", "Brain/Considerations/NoBuffFreedomOfMovement", "Spells/Level3/HoldPerson"]}

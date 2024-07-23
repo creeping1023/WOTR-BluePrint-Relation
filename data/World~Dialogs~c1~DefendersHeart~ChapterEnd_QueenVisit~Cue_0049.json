@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c1/DefendersHeart/ChapterEnd_QueenVisit/Cue_0048"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/QueenGalfrey_DH", "World/Dialogs/c1/DefendersHeart/ChapterEnd_QueenVisit/Cue_0050"]}

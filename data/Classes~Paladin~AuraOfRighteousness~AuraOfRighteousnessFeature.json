@@ -1,0 +1,1 @@
+{"parents": ["Classes/Paladin/Archetypes/TorturedCrusader/TorturedCrusader", "Classes/Paladin/PaladinProgression", "Brain/Considerations/NoFactAuraOfRighteousness", "Classes/Paladin/Archetypes/Martyr/MartyrArchetype"], "children": ["Classes/Paladin/AuraOfRighteousness/AuraOfRighteousnessBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/DrezenCitadelLevel2/MinaghoBrain/MinaghoDrezenCitadelBrain"], "children": ["Brain/Considerations/NoBuffDivinePower", "Spells/Level4/DivinePower"]}

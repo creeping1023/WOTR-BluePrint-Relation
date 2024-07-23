@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/RagePowers/RenewedVigorFeature"], "children": ["Classes/Barbarian/RagePowers/RenewedVigorResource", "Classes/Barbarian/RagePowers/RenewedVigorCooldownBuff", "Classes/Barbarian/BarbarianClass", "Classes/Barbarian/RagePowers/RenewedVigorCooldownBuff"]}

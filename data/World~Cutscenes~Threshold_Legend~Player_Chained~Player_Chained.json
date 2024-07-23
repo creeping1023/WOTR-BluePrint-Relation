@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/ThresholdIndoor/LegendFinale_Redemtion/CommandAction1", "World/Cutscenes/ThresholdIndoor/LegendFinale_Intro/CommandAction"], "children": ["World/Cutscenes/Threshold_Legend/Player_Chained/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Threshold_Legend/Player_Chained/CommandDismountSpan"]}

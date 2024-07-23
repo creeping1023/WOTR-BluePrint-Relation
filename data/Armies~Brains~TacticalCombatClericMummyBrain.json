@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyClericMummy"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_GreaterHealUndead"]}

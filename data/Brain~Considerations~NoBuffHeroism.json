@@ -1,0 +1,1 @@
+{"parents": ["Brain/Actions/HeroismAiAction", "Units/NPC/Commoners/Act_3_DemonsHerecy/KohhDungeon/CyborgBrains/CR7_CyborgCrusader_Heroism_AiAction"], "children": ["Spells/Level3/HeroismBuff"]}

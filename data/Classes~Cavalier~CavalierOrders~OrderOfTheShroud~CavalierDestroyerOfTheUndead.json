@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cavalier/CavalierOrders/OrderOfTheShroud/CavalierOrderOfTheShroudProgression"], "children": ["Traits/Races/Common/UndeadType", "Classes/Cavalier/CavalierOrders/OrderOfTheShroud/CavalierDestroyerOfTheUndeadBuff", "Classes/Cavalier/CavalierChallengeAbility"]}

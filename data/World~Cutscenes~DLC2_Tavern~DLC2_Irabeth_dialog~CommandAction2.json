@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DLC2_Tavern/DLC2_Irabeth_dialog/gate1"], "children": ["World/Quests/DLC2_LowFantasy/Tavern/Obj_01_TalkToPeople", "World/Quests/DLC2_LowFantasy/Tavern/Obj_02_GetReady", "World/Encounters/DLC2_Tavern/UnlockableFlags/DLC2_Survivors_amount", "Achievements/DLC2_06_GuardianAngel"]}

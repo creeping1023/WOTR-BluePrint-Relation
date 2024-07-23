@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Gallu/GalluBrain/Gallu_Buff_AuraOfHavoc"], "children": ["Units/Monsters/Demon Gallu/GalluBrain/Gallu_Buff_AuraOfHavocEffect", "Root/SystemMechanics/Conditions/SummonedUnitBuff", "Buffs/Confusion", "Units/Monsters/Demon Gallu/GalluBrain/Gallu_Buff_AuraOfHavocEffect", "Classes/Paladin/PaladinClass", "Buffs/Nauseated"]}

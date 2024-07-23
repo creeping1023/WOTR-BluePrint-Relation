@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/GreyborQ3/HorzalahBrain/HorzalahBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffShield", "Classes/Arcanist/ArcanistExploits/ArcanistExploitForceStrikeAbility"]}

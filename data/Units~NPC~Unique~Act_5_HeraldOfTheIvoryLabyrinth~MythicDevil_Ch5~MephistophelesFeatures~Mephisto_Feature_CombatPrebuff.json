@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/MephistophelesFeatures/Mephisto_Feature_CombatTrigger"], "children": ["Spells/Level3/HasteBuff", "Spells/Level4/DivinePowerBuff", "Spells/Level8/SeamantleBuff", "Spells/Level1/ShieldOfFaithBuff"]}

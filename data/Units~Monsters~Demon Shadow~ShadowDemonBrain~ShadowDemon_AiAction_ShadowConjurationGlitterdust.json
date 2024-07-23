@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Shadow/ShadowDemonBrain/ShadowDemon_Brain_Conjuration"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/LongRange", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/ShadowConjuration", "Spells/Level2/Glitterdust"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Blessings/Madness/MadnessBlessingFeature"], "children": ["Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWar", "Classes/Warpriest/Blessings/Madness/MadnessBlessingMinorAbilityBuff", "Buffs/Paralyzed", "Spells/Level4/CoweringCommonBuff", "Buffs/Frightened"]}

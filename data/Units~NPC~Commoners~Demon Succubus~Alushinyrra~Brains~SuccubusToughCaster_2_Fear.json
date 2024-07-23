@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Demon Succubus/Alushinyrra/Brains/SuccubusToughCaster_2_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffFrightenedOrShaken", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AoE_AvoidFriends", "Spells/Level4/Fear"]}

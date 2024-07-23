@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC5_GiantsOverseers/ScriptZones/DLC5_GroupSeparation_SZ", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/DLC5_a1_FirstMeet_dialogue"], "children": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_BraveSonRun_BeforeSeparation/CommandMoveUnit", "World/Cutscenes/DLC5_GiantsOverseers/DLC5_BraveSonRun_BeforeSeparation/gate"]}

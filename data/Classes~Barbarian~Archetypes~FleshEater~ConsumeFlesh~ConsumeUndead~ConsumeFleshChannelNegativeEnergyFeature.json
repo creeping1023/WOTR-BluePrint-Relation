@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/Archetypes/FleshEater/ConsumeFlesh/ConsumeUndead/ConsumeFleshUndeadBuffEffect"], "children": ["Classes/Barbarian/Archetypes/FleshEater/ConsumeFlesh/ConsumeUndead/ConsumeFleshChannelNegativeEnergy", "Classes/Barbarian/Archetypes/FleshEater/ConsumeFlesh/ConsumeUndead/ConsumeFleshChannelNegativeEnergyHeal"]}

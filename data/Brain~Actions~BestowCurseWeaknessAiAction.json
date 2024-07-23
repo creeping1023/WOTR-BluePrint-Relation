@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/ClericBrain/GhoulClericStandardBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffBestowCurseWeakness", "Spells/Level3/BestowCurseWeakness"]}

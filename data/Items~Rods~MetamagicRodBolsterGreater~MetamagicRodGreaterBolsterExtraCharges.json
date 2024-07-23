@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Trash/CR26/PF2_Sarkoris_LootChest (5)"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Rods/MetamagicRodBolsterGreater/MetamagicRodGreaterBolsterExtraChargesToggleAbility"]}

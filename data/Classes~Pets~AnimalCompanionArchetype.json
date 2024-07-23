@@ -1,0 +1,1 @@
+{"parents": ["Equipment/SpecialEditions/UniquePF2/BackersItems/TriceratopsStatuette/TriceratopsStatuetteUnit", "Classes/Monster/Animal/AnimalClass"], "children": ["Classes/Pets/AnimalCompanionEvasion", "Classes/Ranger/ShareFavoredEnemyPet", "Classes/Pets/AnimalCompanionDevotion", "Classes/Pets/AnimalCompanionImprovedEvasion"]}

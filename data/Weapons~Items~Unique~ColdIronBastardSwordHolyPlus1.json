@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_RewardsTier1_VendorTableExotic", "Items/Vendors/Act_2_SwordOfValor/WarCamp_REVendorTableExotic"], "children": ["Weapons/Types/ExoticOneHanded/BastardSword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Holy", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

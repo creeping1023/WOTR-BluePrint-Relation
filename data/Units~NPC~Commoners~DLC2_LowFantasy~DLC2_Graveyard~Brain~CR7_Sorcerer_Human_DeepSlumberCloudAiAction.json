@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/CR7_Undead_HumanSorcerer_Brain", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/CR7_Human_Sorcerer_Brain_SkeletonSummoner", "Units/NPC/Unique/Act_4_MidnightIsles/Greybor_Q2/VillodusBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level3/DeepSlumber"]}

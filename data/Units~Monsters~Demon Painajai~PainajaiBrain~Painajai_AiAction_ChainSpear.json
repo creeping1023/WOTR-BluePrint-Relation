@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Brain_Ranged", "Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Brain_Caster"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/LongRange", "Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Ability_ChainSpear"]}

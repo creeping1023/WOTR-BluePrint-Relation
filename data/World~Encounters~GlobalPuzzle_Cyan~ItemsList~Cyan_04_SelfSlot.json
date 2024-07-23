@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanSelfSlotChecker", "World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanCheckIfNextValueIs04"], "children": ["Items/Areas/GlobalPuzzle/DominoCyan4x4", "Items/Areas/GlobalPuzzle/DominoCyan4x5"]}

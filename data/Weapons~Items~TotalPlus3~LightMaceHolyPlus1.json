@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/C2_VendorTableLarge", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Loot/Good/CR0/PF2_CoolDemons_DLC3_Alushinyrra_Whorehouse_lvl_Double01_chest", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleLight/LightMace", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Holy"]}

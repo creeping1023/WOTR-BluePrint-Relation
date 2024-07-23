@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCasterFinal2_20"], "children": ["Spells/Level6/HealCast", "Spells/Level6/Heal", "Spells/Level4/CureCriticalWoundsCast", "Spells/Level4/CureCriticalWounds", "Spells/Level2/BullsStrength", "Spells/Level2/BearsEndurance", "Spells/Level1/ShieldOfFaith"]}

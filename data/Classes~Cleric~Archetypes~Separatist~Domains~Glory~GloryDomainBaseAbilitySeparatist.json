@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainBaseBuffSeparatist", "Weapons/Types/Special/TouchItem", "Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainBaseResourceSeparatist"]}

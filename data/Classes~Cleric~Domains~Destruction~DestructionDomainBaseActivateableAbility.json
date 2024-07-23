@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Destruction/DestructionDomainBaseFeature"], "children": ["Classes/Cleric/Domains/Destruction/DestructionDomainBaseResource", "Classes/Cleric/Domains/Destruction/DestructionDomainBaseBuff"]}

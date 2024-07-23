@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisBuff"], "children": ["Classes/Basic/BasicActions/RecentlyDeadBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotTeleportToEnemyAbility", "Classes/Basic/BasicActions/RecentlyDeadBuff", "Weapons/Types/ExoticLight/SawtoothSabre"]}

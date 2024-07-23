@@ -1,0 +1,1 @@
+{"parents": ["World/Etudes/Common/DLC1_AxisDungeon_mechanics"], "children": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FirstScene/CommandLockControls", "World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FirstScene/gate1", "World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FirstScene/CommandDelay", "World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FirstScene/gate"]}

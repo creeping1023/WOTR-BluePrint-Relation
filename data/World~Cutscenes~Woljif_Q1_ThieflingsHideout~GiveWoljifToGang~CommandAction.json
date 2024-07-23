@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Woljif_Q1_ThieflingsHideout/GiveWoljifToGang/GiveWoljifToGang"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/WoljifCompanion/WoljifNotInParty_KickedOut", "GlobalMaps/KenabresMap/Area/KenabresMapAreaEnterPoint", "GlobalMaps/KenabresMap/Points/Location_WoljifQ1_ThieflingsHideout"]}

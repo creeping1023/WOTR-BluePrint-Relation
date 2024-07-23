@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Items/Vendors/DLC4_NegociantTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Equipment/DLC4BonusItems/StaffOfLocustWeaponAbility", "Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement2", "Equipment/DLC4BonusItems/StaffOfLocustWeaponEnchantment"]}

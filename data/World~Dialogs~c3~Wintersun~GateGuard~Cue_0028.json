@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/Wintersun/GateGuard/Cue_0027", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Encounters/WintersunOutdoor/UnlockableFlags/GateGuard_WaitFlag_FxSpawn3", "World/Dialogs/c3/Wintersun/GateGuard/Cue_0012"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaAfterQuest/Answer_0022"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Cutscenes/WintersunOutdoor/CutsceneCamellia_killSoana/CutsceneCamellia_killSoana", "World/Encounters/DrezenCapital/UnlockableFlags/Camellia_MurderCounter", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/SoanaKilledByCamellia"]}

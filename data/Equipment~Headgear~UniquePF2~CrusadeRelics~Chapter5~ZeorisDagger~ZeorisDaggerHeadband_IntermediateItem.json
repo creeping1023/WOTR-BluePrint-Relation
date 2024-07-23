@@ -1,0 +1,1 @@
+{"parents": ["Kingdom/CrusadeProjects/RelicProjects/Chapter5/Zeoris/ZeorisDaggerHeadbandProject_Enchanting", "Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch5/ZeorisDagger_Reforge_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Headband_HeadbandCrownHolyAzata"]}

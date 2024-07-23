@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/SummonTrial/DLC5_CR10_RagedNymphStorasta", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedFaction"], "children": ["Factions/Player", "Factions/HelpingPlayer", "Factions/Neutrals", "Factions/CutsceneNeutrals", "Factions/Mobs"]}

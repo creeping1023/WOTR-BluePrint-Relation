@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleVersatileChannelBaseAbility"], "children": ["Spells/Level6/Heal", "Classes/Cleric/ChannelEnergyResource", "Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleVersatileChannel13", "Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleVersatileChannelBaseAbility"]}

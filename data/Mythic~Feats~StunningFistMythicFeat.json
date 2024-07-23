@@ -1,0 +1,1 @@
+{"parents": ["Feats/StunningFist/StunningFist", "Mythic/MythicFeatSelection"], "children": ["Feats/StunningFist/StunningFist", "Feats/StunningFist/StunningFistAbility", "Classes/Monk/MonkStunningFists/StunningFistFatigueAbility", "Classes/Monk/MonkStunningFists/StunningFistSickenedAbility"]}

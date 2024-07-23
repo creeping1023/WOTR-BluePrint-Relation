@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Arueshalae/CR18_RiftDrakeFried"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Drake Rift/RiftDrakeBrain/RiftDrake_AiAction_Charge", "Units/NPC/Unique/Act_4_MidnightIsles/Arueshalae/RiftDrakeFriedBrain/RiftDrakeFriedClingingCorrosionFireAiAction"]}

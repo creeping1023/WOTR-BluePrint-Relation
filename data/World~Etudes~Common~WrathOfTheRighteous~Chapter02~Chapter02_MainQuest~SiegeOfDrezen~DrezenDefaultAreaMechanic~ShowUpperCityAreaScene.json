@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DrezenCitadel_Level1/ScriptZones/UpperCityZone", "World/Cutscenes/DrezenCitadel_Level1/ShowUpperCity/CommandAction"], "children": ["World/Cutscenes/DrezenCitadel_Level1/ShowUpperCity/ShowUpperCity", "World/Etudes/Common/WrathOfTheRighteous/Chapter02/Chapter02_MainQuest/SiegeOfDrezen/DrezenDefaultAreaMechanic"]}

@@ -1,0 +1,1 @@
+{"parents": ["Brain/Actions/ReducePersonSelfAiAction", "Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/TransmuterBrain/ReduceOtherPersonAiAction", "Brain/Actions/ReducePersonAiAction"], "children": ["Spells/Level1/ReducePersonBuff"]}

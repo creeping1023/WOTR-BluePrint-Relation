@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainControl"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AoE_AvoidSelf", "Spells/Level6/Sirocco"]}

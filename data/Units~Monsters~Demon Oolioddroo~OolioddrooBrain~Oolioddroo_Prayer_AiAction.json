@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Oolioddroo/OolioddrooBrain/Oolioddroo_Brain_Inquisitor"], "children": ["Brain/Considerations/NoBuffPrayer", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/Prayer"]}

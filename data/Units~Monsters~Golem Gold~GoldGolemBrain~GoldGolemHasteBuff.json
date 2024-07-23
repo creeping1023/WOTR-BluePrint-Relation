@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemHasteTriggerBuff", "Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemSlowBuff"], "children": ["Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemAdditionalDR", "Spells/Level3/HasteBuffEffect", "Spells/Level3/HasteBuff"]}

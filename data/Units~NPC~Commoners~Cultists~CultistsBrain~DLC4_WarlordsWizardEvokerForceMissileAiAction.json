@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/DLC4_WarlordsWizardEvokerStandardBrain"], "children": ["Brain/Considerations/DisableWhenAutoCast", "Brain/Considerations/AttackTargetsPriority", "Classes/Wizard/Evocation/ForceMissileAbility"]}

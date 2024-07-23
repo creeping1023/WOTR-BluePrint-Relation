@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskSlaveTrader"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskBrain/BlackMask_AiAction_StinkiBomb", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskBrain/BlackMask_AiAction_ConcentratedAcidFlask", "Brain/Actions/AttackAiActionAssassination"]}

@@ -1,0 +1,1 @@
+{"parents": ["Weapons/Items/ColdIronMasterwork/ColdIronMasterworkStandardDoubleAxe", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Masterwork", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

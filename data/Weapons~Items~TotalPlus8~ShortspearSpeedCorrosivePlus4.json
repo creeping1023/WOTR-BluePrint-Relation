@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Good/CR14/PF2_Worldwound_ShortspearSpeedCorrosivePlus4"], "children": ["Weapons/Types/SimpleOneHanded/Shortspear", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Corrosive"]}

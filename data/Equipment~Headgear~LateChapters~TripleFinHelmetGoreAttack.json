@@ -1,0 +1,1 @@
+{"parents": ["Equipment/Headgear/LateChapters/TripleFinHelmetFeature", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Types/NaturalWeapon/GoreType", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

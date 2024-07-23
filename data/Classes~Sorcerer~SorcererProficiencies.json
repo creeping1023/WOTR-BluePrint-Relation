@@ -1,0 +1,1 @@
+{"parents": ["Root/PlayerUpgradeActionsRoot", "Classes/Prototype/PrototypeProgression", "Classes/Sorcerer/SorcererProgression"], "children": ["Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}

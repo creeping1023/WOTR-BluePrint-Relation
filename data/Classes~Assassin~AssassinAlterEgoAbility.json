@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/HandAlterEgoAiAction", "Classes/Assassin/AssassinAlterEgoFeature"], "children": ["Classes/Assassin/AssassinAlterEgoBuff", "Classes/Cleric/Domains/Trickery/TrickeryDomainBaseBuff", "Spells/Level2/MirrorImageBuff", "Classes/Assassin/AssassinClass", "Classes/Assassin/AssassinAlterEgoAbilityResource"]}

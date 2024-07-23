@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/PF2_DLC5/Storasta/DLC5_StorastaWeaponVendorTable"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Frost"]}

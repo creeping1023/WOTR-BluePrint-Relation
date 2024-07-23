@@ -1,0 +1,1 @@
+{"parents": ["Items/Scrolls/Level2/ScrollOfAnimalAspectMonkey", "Spells/Level2/AnimalAspectBase"], "children": ["Spells/Level2/AnimalAspectMonkeyBuff", "Spells/Level2/AnimalAspectBase"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/BaphometStatue/BaphometStatueAnimanted_Might"], "children": ["Buffs/Staggered", "Buffs/Stunned", "Buffs/Staggered", "Classes/Monster/Construct/ConstructClass"]}

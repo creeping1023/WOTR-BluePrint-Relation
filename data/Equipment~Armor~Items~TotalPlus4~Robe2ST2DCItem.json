@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-229647_Robe", "Root/Upgraders/Units/UpgradeUnitRobe2ST2DC", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/C4_VendorTableLarge"], "children": ["Classes/Monster/Dragon/DragonClass", "EquipmentEntities/Robe/KEE_Robe_RobeArcane1", "Equipment/Armor/Types/ClothType", "Equipment/Armor/Items/TotalPlus4/2THEvocation2DCTransmEnchant"]}

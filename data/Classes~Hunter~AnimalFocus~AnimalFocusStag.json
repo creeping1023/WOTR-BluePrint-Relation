@@ -1,0 +1,1 @@
+{"parents": ["Classes/Hunter/AnimalFocus/HunterAnimalFocusFeature", "Classes/Hunter/AnimalFocus/AnimalFocusHunterActivatable", "Classes/Hunter/Archetypes/Forester/ForesterAnimalFocusFeature"], "children": ["Classes/Hunter/HunterClass", "Classes/Hunter/AnimalFocus/AnimalFocusStagBuff"]}

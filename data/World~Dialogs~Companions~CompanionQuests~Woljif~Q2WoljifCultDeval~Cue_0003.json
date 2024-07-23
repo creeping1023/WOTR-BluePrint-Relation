@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultDeval/Cue_0002"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/DevalArmed", "Units/Companions/Woljif/Woljif_Companion"]}

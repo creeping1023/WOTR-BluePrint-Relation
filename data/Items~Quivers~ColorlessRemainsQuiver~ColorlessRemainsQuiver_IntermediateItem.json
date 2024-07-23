@@ -1,0 +1,1 @@
+{"parents": ["Kingdom/CrusadeProjects/RelicProjects/Chapter4/ColorlessRemains/ColorlessRemainsArrowsProject_Enchanting", "World/Crusade/Events/Relics/Ch4/ColorlessRemains_Reforge_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Quivers/HolyArrowsQuiver/HolyArrowsQuiverAbility"]}

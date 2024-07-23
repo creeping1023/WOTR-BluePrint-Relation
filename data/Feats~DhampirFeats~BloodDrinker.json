@@ -1,0 +1,1 @@
+{"parents": ["Mythic/GoldenDragon/DragonLevel2FeatSelection", "Races/DhampirRace", "Feats/DhampirFeats/BloodFeaster", "Mythic/Feats/ExtraFeatMythicFeat", "Classes/Basic/BasicFeatSelection"], "children": ["Races/DhampirRace", "Feats/DhampirFeats/BloodDrinkerAbility", "Feats/DhampirFeats/BloodDrinkerResource", "Feats/DhampirFeats/BloodFeaster"]}

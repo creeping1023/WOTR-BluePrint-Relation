@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/Daeran_Q3_Autodafe/Daeran_Q3_StartDialog/CommandAction 2"], "children": ["Spells/Level2/ResistFireBuff", "Spells/Level2/ResistColdBuff", "Spells/Level2/ResistAcidBuff", "Spells/Level2/ResistElectricityBuff", "Spells/Level2/ResistSonicBuff", "Spells/Level1/MageArmorBuff", "Spells/Level3/HasteBuff"]}

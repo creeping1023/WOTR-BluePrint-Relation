@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level7/SummonElementalGreaterBase", "Items/Scrolls/Level7/ScrollOfSummonElementalGreaterEarth"], "children": ["Units/Monsters/EarthElemental/SummonedEarthElementalGreater", "Buffs/SummonedCreatureSpawnMonsterVI-IX", "Spells/CutsceneSpells/SummonMonsterPool", "Spells/Level7/SummonElementalGreaterBase"]}

@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Items/Vendors/C3_VendorTableLarge", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/ExoticOneHanded/Tongi", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive"]}

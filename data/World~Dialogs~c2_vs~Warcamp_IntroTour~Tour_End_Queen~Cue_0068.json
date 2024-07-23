@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/Cue_0067", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Daeran_Q2/Inquisitor_Liotr", "World/Quests/Companions/Daeran/Q2_WhileWorldBurns/01_InqusitorInquiry", "World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/Cue_0022"]}

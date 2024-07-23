@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level3/HolyWhisper", "Classes/Warpriest/Archetypes/Shieldbearer/WarpriestShieldbearerChannelNegativeHeal", "Classes/Warpriest/Archetypes/Shieldbearer/WarpriestShieldbearerChannelPositiveHarm", "Spells/Level7/WavesOfEctasy"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

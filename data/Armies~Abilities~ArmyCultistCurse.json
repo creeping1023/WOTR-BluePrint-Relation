@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyCultistCurseFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_CultistCurse"], "children": ["Armies/Abilities/ArmyCultistCurseBuff", "Armies/Abilities/ArmyCultistCurseResource"]}

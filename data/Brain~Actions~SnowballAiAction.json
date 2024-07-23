@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/ConjurerBrain/BanditConjurerBrain", "Brain/Companions/Octavia_Brain", "Units/NPC/Commoners/Cultists/CultistsBrain/DLC3_CultistConjurerBrain_6level"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level1/Snowball"]}

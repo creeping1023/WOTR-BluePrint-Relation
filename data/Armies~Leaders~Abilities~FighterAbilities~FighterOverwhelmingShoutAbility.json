@@ -1,0 +1,1 @@
+{"parents": ["Armies/Leaders/Abilities/FighterAbilities/FighterOverwhelmingShout"], "children": ["Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower", "Buffs/Stunned", "Armies/Leaders/Abilities/FighterAbilities/FighterOverwhelmingShoutResource", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}

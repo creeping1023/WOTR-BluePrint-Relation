@@ -1,0 +1,1 @@
+{"parents": ["Classes/Slayer/Archetypes/Imitator/ImitatorMasterSlayerFeature"], "children": ["Classes/Slayer/MasterSlayerBuff", "Classes/Slayer/MasterSlayerAttackAbility", "Classes/Slayer/Archetypes/Imitator/ImitatorMasterSlayertBuff", "Classes/Slayer/MasterSlayerImmunityBuff"]}

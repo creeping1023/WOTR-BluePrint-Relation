@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Cue_0024"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR5_KnightElan", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Cue_0040"]}

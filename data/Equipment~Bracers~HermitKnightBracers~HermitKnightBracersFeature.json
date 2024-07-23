@@ -1,0 +1,1 @@
+{"parents": ["Equipment/Bracers/HermitKnightBracers/HermitKnightBracersEnchant"], "children": ["Buffs/Shaken", "Equipment/Bracers/HermitKnightBracers/HermitKnightBracersShakenBuff", "Buffs/Frightened", "Spells/Level2/HideousLaughterBuff", "Buffs/Confusion", "Spells/Level2/HideousLaughterBuff", "Traits/Races/Common/FeyType", "Buffs/Frightened"]}

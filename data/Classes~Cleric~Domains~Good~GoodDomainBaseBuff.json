@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Good/GoodDomainBaseAbility"], "children": ["Mythic/Trickster/LoreReligion/TricksterLoreReligionDomain/TricksterLoreReligionGoodDomainRankFeature", "Classes/Hunter/Archetypes/DivineHunter/DivineHunterArchetype", "Classes/Cleric/ClericClass", "Classes/Inquisitor/InquisitorClass", "Classes/Hunter/HunterClass"]}

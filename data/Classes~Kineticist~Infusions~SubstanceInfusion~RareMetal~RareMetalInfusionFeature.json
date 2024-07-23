@@ -1,0 +1,1 @@
+{"parents": ["Classes/Kineticist/Infusions/InfusionSelection"], "children": ["Classes/Kineticist/Infusions/SubstanceInfusion/RareMetal/RareMetalInfusionAbility", "Classes/Kineticist/ElementalFocus/CompositeBlasts/MetalBlast/MetalBlastFeature", "Classes/Kineticist/KineticistClass"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Basic/BasicActions/FightDefensivelyBuff", "Feats/CraneStyle/CraneStyleBaseEffectBuff", "Feats/CraneStyle/CraneStyleBuff", "Units/NPC/Unique/Act_4_MidnightIsles/AssassinsGuild/TigerOfSinBrain/TigerOfSin_Feature", "Feats/PummelingBullyBuff"], "children": ["Feats/CraneStyle/CraneStyleRiposteFeat"]}

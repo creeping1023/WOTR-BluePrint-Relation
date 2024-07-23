@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Brains/DLC1_LichGalfrey_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Classes/Bard/Archetypes/Thundercaller/ThundercallerSoundBurst"]}

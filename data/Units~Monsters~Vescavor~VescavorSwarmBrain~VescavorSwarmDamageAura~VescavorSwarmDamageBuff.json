@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorSwarmDamageAura/VescavorSwarmDamageFeature"], "children": ["Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorSwarmDamageAura/VescavorSwarmDamageArea", "Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorSwarmDamageAura/VescavorSwarmDamageEffectImmunity", "Buffs/Nauseated"]}

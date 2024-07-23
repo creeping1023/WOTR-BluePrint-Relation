@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/GoblinShamanBoss/GoblinShadowShamanBossBrain"], "children": ["Brain/Considerations/InjuryMedium", "Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/GoblinShamanBoss/SecondPhaseBuffConsideration", "Spells/Level4/InflictCriticalWoundsCast"]}

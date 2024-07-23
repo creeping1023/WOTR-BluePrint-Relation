@@ -1,0 +1,1 @@
+{"parents": ["Classes/Bard/Archetypes/FlameDancer/FlameDancerPerformance/FlameDancerPerformanceBuff"], "children": ["Classes/Bard/BardClass", "Classes/Bard/Archetypes/FlameDancer/FlameDancerPerformance/FlameDancerPerformanceEffectBuff", "Feats/DLC6/DiscordantVoice", "Feats/DLC6/DiscordantVoiceBuff"]}

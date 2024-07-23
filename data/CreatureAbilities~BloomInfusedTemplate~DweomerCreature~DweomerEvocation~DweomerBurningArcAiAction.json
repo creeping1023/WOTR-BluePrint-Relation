@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerEvocation/DweomerEvocationBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/BurningArc"]}

@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyBloodrager"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_TempestStrike"]}

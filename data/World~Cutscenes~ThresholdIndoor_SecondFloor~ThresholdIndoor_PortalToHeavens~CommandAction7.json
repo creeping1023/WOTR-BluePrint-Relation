@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/ThresholdIndoor_PortalToHeavens/gate6"], "children": ["World/Areas/Act_6_Threshold/PharasmasCourt/EnterPoints/PharasmasCourt_Enter", "World/Cutscenes/PharasmasCourt/EpiloguesStart/EpiloguesStart", "Buffs/FadeInOut", "Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph"]}

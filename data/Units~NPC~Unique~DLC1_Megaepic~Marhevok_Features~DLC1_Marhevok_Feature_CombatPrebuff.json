@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Marhevok_Features/DLC1_MarhevokMelee_Feature_CombatTrigger", "Units/NPC/Unique/DLC1_Megaepic/Marhevok_Features/DLC1_Marhevok_Feature_CombatTrigger"], "children": ["Spells/Level4/DivinePowerBuff", "Spells/Level3/HasteBuff", "Spells/Level9/WindsOfVengeanceBuff"]}

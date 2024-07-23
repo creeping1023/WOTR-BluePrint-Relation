@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Daeran_AlienBossfight/ActionsHolders/DaeranAlienSwarm_ExitInteraction"], "children": ["World/Cutscenes/WarCamp/AlienKillDaeran/CommandLockControls", "World/Cutscenes/WarCamp/AlienKillDaeran/gate1", "World/Cutscenes/WarCamp/AlienKillDaeran/CommandDelay", "World/Cutscenes/WarCamp/AlienKillDaeran/gate"]}

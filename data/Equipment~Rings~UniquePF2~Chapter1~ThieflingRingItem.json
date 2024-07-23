@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "World/Dialogs/Companions/CompanionQuests/Woljif/Q1WoljifAfterTraitor/Cue_0010", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootRare"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/Chapter1/ThieflingRingEnchantment"]}

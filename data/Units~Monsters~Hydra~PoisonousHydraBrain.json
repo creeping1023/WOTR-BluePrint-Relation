@@ -1,0 +1,1 @@
+{"parents": ["QA/Unused/Units/Monsters/Hydra/CR12_HydraPoisonous", "QA/Unused/Units/Monsters/Hydra/CR14_HydraPoisonousBloomInfused"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Hydra/PoisonousHydraBreathAiAction", "Units/Monsters/Hydra/PoisonousHydraBreathCloudAiAction"]}

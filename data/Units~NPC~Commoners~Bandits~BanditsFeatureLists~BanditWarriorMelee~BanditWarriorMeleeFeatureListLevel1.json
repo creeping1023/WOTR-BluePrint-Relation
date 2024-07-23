@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWarriorMelee/BanditWarriorMeleeFeatureListLevel2", "Units/NPC/Commoners/Bandits/Melee_Bandits/CR0.5_Bandit_Human_FighterMelee_Male"], "children": ["Classes/NPC/Warrior/WarriorClass", "Classes/Basic/BasicFeatSelection", "Feats/PowerAttack/PowerAttackFeature", "Feats/Toughness", "Feats/Cleave/CleaveFeature"]}

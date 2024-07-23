@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Omox/OmoxBrain/Omox_Brain_Caster", "Units/Monsters/Demon Omox/OmoxBrain/CR20_OmoxShaman_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/AcidFog"]}

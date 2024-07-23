@@ -1,0 +1,1 @@
+{"parents": ["Mythic/MythicAbilitySelection", "Mythic/Feats/ExtraMythicAbilityMythicFeat"], "children": ["Mythic/MythicAbilities/DimensionalRetribution/DimensionalRetributionAbility", "Mythic/MythicAbilities/DimensionalRetribution/DimensionalRetributionTrigger"]}

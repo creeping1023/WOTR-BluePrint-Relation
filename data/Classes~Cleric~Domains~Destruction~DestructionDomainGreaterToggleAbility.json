@@ -1,0 +1,1 @@
+{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Destruction/DestructionDomainGreaterFeature"], "children": ["Classes/Cleric/Domains/Destruction/DestructionDomainGreaterResource", "Classes/Cleric/Domains/Destruction/DestructionDomainGreaterBuff"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerWizardBrain", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/Brain/CR8_Human_Sorcerer_Brain_Abyss"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/BatteringBlast"]}

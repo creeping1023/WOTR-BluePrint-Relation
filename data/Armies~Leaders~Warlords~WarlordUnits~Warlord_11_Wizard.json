@@ -1,0 +1,1 @@
+{"parents": ["Armies/Leaders/Warlords/WarlordLeaderMage3"], "children": ["Classes/Monster/Humanoid/HumanoidClass", "Classes/Basic/BasicFeatSelection", "Feats/Toughness", "Races/OreadRace", "Units/Portraits/Player/OreadMonkMale_Portrait", "Sound/Barks/NPC/Bandits/BanditCommon01_Barks", "Factions/Civilians", "Brain/Dumb Monster Brain", "Weapons/Items/Artisan/StaffOfTheCallItem"]}

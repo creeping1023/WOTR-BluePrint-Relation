@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AreeluLab/MagicProjectorEx3/MagicProjectorEx3"], "children": ["Units/NPC/Unique/Areelu/AreeluLab/AreeluHumanHologram", "World/Encounters/AreeluLab/SummonPools/AreeluHologram_MPEx03", "Factions/CutsceneNeutrals", "Spells/CutsceneSpells/ProjectionBuff"]}

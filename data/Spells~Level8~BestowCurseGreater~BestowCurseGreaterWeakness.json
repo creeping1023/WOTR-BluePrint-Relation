@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Traps/TrapSpellsDefault", "Spells/Level8/BestowCurseGreater/BestowCurseGreaterWeaknessCast"], "children": ["Spells/Level8/BestowCurseGreater/BestowCurseGreaterWeaknessBuff", "Weapons/Types/Special/TouchItem"]}

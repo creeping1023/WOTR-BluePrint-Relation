@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC3_Mobs/NahyndryAbilityBrain/DLC3_Nahyndri_Golemlike_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/DLC3_Mobs/NahyndryAbilityBrain/DLC3_DirectionConsideration_Front_180", "World/Encounters/DLC3_DemonsHeart/UnlockableFlags/DLC3_Final_NahyndriWalkFlag"]}

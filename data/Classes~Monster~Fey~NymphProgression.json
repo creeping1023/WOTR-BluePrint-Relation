@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monster/Fey/NymphClass"], "children": ["Classes/Monster/Fey/FeyProgression", "Classes/Monster/Fey/FeyClass", "Traits/Races/Common/FeyType", "Classes/Basic/BasicFeatSelection", "Classes/Basic/BasicFeatSelection", "Classes/Basic/BasicFeatSelection", "Classes/Basic/BasicFeatSelection", "Classes/Basic/BasicFeatSelection"]}

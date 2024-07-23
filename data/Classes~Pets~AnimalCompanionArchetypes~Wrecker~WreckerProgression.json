@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/AnimalCompanionArchetypes/AnimalCompanionArchetypeWreckerFeature"], "children": ["Classes/Monster/Animal/AnimalClass", "Classes/Pets/AnimalCompanionEvasion", "Classes/Pets/AnimalCompanionDevotion", "Classes/Pets/AnimalCompanionArchetypes/Wrecker/WreckerDR", "Classes/Rogue/ImprovedEvasion", "Feats/Maneuvers/SunderArmor/ImprovedSunder"]}

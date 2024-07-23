@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain_Alternative"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level1/MagicMissile"]}

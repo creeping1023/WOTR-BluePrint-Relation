@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/ChainshirtType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Enchantments/MithralArmorEnchant", "Equipment/Armor/Items/Unique/LateChapters/HeavenlyVestEnchant"]}

@@ -1,0 +1,1 @@
+{"parents": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerConjuration/DweomerConjurationBrain"], "children": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerConjuration/DweomerAcidArrowConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level2/AcidArrow"]}

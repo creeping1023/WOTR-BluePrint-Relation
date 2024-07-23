@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_SacrificeForSwarmHeal", "Armies/Brains/Actions/TacticalCombat_AIAction_GreaterHealUndead", "Armies/Brains/Actions/TacticalCombat_AIAction_CureModerateWounds", "Armies/Brains/Actions/TacticalCombat_AIAction_CureSeriousWounds", "Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegativeHeal"]}

@@ -1,0 +1,1 @@
+{"parents": ["Brain/Actions/MageArmorAiAction", "Units/NPC/Commoners/Demon Succubus/Lair/Lair_SuccubusBossBrain/SuccubusDominateMageArmorAIAction"], "children": ["Spells/Level1/MageArmorBuff"]}

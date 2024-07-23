@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MythicLich_Ch3/EverbrightCrusader"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Act_3_DemonsHerecy/MythicLich_Ch3/Brain/EverbrightCrusader_AiAction_ArchonsAura"]}

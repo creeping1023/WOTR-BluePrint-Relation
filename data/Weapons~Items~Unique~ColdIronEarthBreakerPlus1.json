@@ -1,0 +1,1 @@
+{"parents": ["Loot/Good/CR15/PF2_Sarkoris_Buried_Chest", "Items/Vendors/SmithVendorTable", "Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR21/PF2_DemonWorld_Good_4"], "children": ["Weapons/Types/MartialTwoHanded/EarthBreaker", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

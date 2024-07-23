@@ -1,0 +1,1 @@
+{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrsMercySuppressAuraOfHealthBuff", "Classes/Paladin/Archetypes/Martyr/AuraOfHealth/MartyrAuraOfHealthFeature"], "children": ["Classes/Paladin/Archetypes/Martyr/AuraOfHealth/MartyrAuraOfHealthArea", "Classes/Paladin/AuraOfCourage/AuraOfCourageBuff", "Classes/Paladin/AuraOfCourage/AuraOfCourageBuff"]}

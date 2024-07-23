@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/FinneanLab/ActionsHolders/SkullDestroy_Actions"], "children": ["World/Cutscenes/FinneanLab/DestroySkulls_scene/CommandLockControls", "World/Cutscenes/FinneanLab/DestroySkulls_scene/gate 7", "World/Cutscenes/FinneanLab/DestroySkulls_scene/CommandDelay", "World/Cutscenes/FinneanLab/DestroySkulls_scene/gate"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/Archetypes/FleshEater/DevourEssenceFeature", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_HillGiantButcher/DLC5_HillGiant_Butcher_DevourEssence_AI_Action"], "children": ["Classes/Barbarian/BarbarianClass", "Classes/Barbarian/Archetypes/FleshEater/EssenceAbilityResource"]}

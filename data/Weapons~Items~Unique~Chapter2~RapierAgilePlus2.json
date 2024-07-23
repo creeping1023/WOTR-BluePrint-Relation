@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/FirstVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Rapier", "Weapons/Enchantments/Agile", "Weapons/Enchantments/Enhancement2"]}

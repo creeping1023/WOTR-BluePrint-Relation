@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/TacticalCombat_MagusBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_MediumRange", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Abilities/ArmyMagusTouchOfMadness"]}

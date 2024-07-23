@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/KenabresMansion_Brain_Enemy_StinkingCloud", "Units/Monsters/Demon Dretch/DretchBrain/Dretch_Brain_StinkingCloud"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/StinkingCloud"]}

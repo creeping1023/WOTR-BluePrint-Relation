@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mAeonUnlock", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0034", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Answer_0029", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Answer_0030"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

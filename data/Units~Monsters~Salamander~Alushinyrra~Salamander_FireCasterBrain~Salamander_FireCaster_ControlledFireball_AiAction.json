@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Salamander/Alushinyrra/Salamander_FireCasterBrain/Salamander_FireCasterBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/ControlledFireball"]}

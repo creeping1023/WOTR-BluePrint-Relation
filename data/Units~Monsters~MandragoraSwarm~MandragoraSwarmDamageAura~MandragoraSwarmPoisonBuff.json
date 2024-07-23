@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/MandragoraSwarm/MandragoraSwarmDamageAura/MandragoraSwarmDamageAbility", "Units/Monsters/MandragoraSwarm/MandragoraSwarmDamageAura/MandragoraSwarmDamageBuff", "Brain/Considerations/HasPoison"], "children": ["Buffs/Confusion"]}

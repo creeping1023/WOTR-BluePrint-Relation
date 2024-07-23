@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Root/TrashLootSettings_DLC3", "Root/CraftRoot"], "children": ["DLC/DLC5/Dlc5RewardCampaign", "Items/DestructibleItemsShards/PaperShardItem", "Spells/Level3/AnimateDeadLesser"]}

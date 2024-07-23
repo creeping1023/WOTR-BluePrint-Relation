@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AzataIsland/AzataIsland_C5_FirstVisit/gate 2"], "children": ["World/Cutscenes/AzataIsland/AzataIsland_C5_FirstVisit/CommandUnitPlayCutsceneAnimation 2", "World/Cutscenes/AzataIsland/AzataIsland_C5_FirstVisit/CommandDelay 5", "World/Cutscenes/AzataIsland/AzataIsland_C5_FirstVisit/gate 16"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/Iz/ScriptZones/Azata_start"], "children": ["World/Cutscenes/Iz/Azata_start/CommandControlCamera", "World/Cutscenes/Iz/Azata_start/gate", "World/Cutscenes/Iz/Azata_start/CommandLockControls", "World/Cutscenes/Iz/Azata_start/gate 3"]}

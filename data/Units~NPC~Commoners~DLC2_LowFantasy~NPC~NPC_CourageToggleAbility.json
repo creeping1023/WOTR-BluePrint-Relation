@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/DLC2_CourageFeature", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/NPC_CourageFeature"], "children": ["Classes/Bard/BardicPerformances/BardicPerformanceResource", "Classes/Bard/BardicPerformances/InspireCourage/InspireCourageBuff"]}

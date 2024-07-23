@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Items/Standard/MartialOneHanded/StandardWeaponHeavyShield", "Equipment/Shields/Unique/LateChapters/BlazingCavalierArmorItem"]}

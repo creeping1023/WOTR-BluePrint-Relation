@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmySummonIllusionFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_SummonIllusion"], "children": ["Armies/UnitBlueprints/ArmyShadowdancerCopy", "Buffs/SummonedCreatureSpawnAllyVI-IX", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/ArmySummonIllusionResource"]}

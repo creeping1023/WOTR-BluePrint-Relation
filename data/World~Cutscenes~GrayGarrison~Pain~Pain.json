@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/GrayGarrison/LightsOut/CommandAction", "World/Dialogs/c1/GreyGarrison_ChapterStart/Minagho_LightsOut/Cue_0002"], "children": ["World/Cutscenes/GrayGarrison/Pain/CommandDelay", "World/Cutscenes/GrayGarrison/Pain/gate"]}

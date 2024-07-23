@@ -1,0 +1,1 @@
+{"parents": ["Armies/UnitBlueprints/ArmyPlaguedMastodon"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackNearest", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]}

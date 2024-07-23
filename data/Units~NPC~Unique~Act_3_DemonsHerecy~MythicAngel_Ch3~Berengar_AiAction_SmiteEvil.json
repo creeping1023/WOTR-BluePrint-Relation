@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAngel_Ch3/Berengar_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Classes/Paladin/SmiteEvil/NoSmiteConsideration", "Brain/Considerations/UnconsciousPenalty", "Brain/Considerations/EvilConsideration", "Brain/Considerations/AttackTargetsPriority", "Classes/Paladin/SmiteEvil/SmiteEvilAbility"]}

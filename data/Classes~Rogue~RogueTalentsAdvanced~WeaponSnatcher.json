@@ -1,0 +1,1 @@
+{"parents": ["Classes/Rogue/RogueTalents/RogueTalentSelection", "Classes/Loremaster/LoremasterSecrets/LoremasterRogueTalentSelection", "Classes/Rogue/Archetypes/DarkLurker/DarkLurkerRogueTalentSelection", "Classes/Rogue/AdvanceTalents", "Feats/DLC5/ExtraRogueTalentSelection"], "children": ["Classes/Rogue/AdvanceTalents"]}

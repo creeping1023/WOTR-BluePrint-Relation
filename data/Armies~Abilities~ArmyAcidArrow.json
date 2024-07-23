@@ -1,0 +1,1 @@
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_AcidArrowAttack", "Armies/Abilities/ArmyAcidArrowFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyAcidArrowResource", "FX/Spell Level 2/AcidArrow00"]}

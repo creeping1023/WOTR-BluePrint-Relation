@@ -1,0 +1,1 @@
+{"parents": ["World/Crusade/Events/Relics/Ch3/AttractiveImpulse_Reforge_event", "Kingdom/CrusadeProjects/RelicProjects/Chapter3/Amber/AmberGlovesProject_Enchanting", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "EquipmentEntities/Gloves/KEE_Gloves_GlovesManticore"]}

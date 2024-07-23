@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerClericBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level8/SummonElementalElderBase", "Spells/Level8/SummonElementalElderEarth"]}

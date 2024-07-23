@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q2_HeartsDesire/EnterRoom/Camellia_EnterRoom_dialogue"], "children": ["World/Cutscenes/AreeluLab/LockControlMoveParam/LockControlMoveParam", "Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/Companions/CompanionQuests/Camellia/Q2_HeartsDesire/EnterRoom/AnswersList_0003"]}

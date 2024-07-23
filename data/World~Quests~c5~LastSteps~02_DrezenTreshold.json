@@ -1,0 +1,1 @@
+{"parents": ["World/Quests/c5/LastSteps/LastSteps_c5_quest", "World/Dialogs/Interchapters/c5-c6/c5-c6_interchapter", "GlobalMaps/WorldWoundGM/Edges/Edge_Crossroads_Chapter05_20_Threshold", "World/Dialogs/c5/DrezenMain_C5/Coronation/Coronation_Dialogue"], "children": ["GlobalMaps/WorldWoundGM/Points/Location_Threshold", "World/Quests/c5/LastSteps/LastSteps_c5_quest"]}

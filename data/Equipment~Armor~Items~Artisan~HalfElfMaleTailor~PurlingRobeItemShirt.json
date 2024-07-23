@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/Upgraders/Player/PF-440108_PurlingRobeItem"], "children": ["Classes/Monster/Dragon/DragonClass", "Spells/Level3/DispelMagicTarget", "EquipmentEntities/Robe/KEE_Robe_RobeArcane2Red", "Equipment/Armor/Items/Unique/LateChapters/EnchantDodge2"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Axiomite/AxiomiteBrain/AxiomiteHoldMonsterAiAction", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/Aslynn/Brain/AslynnRestlessSlumberMass_AiAction", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/Aslynn/Brain/AslynnDreamTheftAbility_AiAction"], "children": ["CreatureAbilities/Immunities/ImmunityToCompulsion"]}

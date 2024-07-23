@@ -1,0 +1,1 @@
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02/Chapter02_MainQuest/SiegeOfDrezen/DrezenDefaultAreaMechanic/StartAreaPacks", "Buffs/Areas/Act_2_SwordOfValor/DrezenCitadel_Level1/StopCutscenOnCombat"], "children": ["World/Cutscenes/GenericScenes/TwoVsOne/CommandDelay", "World/Cutscenes/GenericScenes/TwoVsOne/gate"]}

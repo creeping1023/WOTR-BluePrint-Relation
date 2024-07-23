@@ -1,0 +1,1 @@
+{"parents": ["Classes/Druid/Archetypes/WinterChild/WinterChildArchetype"], "children": ["Classes/Druid/Archetypes/WinterChild/BlizzardServant/BlizzardServantUnit", "Classes/Pets/AnimalCompanionRank", "Classes/Druid/AnimalCompanionSelectionDruid", "Classes/Druid/Archetypes/WinterChild/WinterChildAnimalCompanionProgression"]}

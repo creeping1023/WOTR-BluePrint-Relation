@@ -1,0 +1,1 @@
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Answer_0017"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/Yaker_WarCamp", "World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/HellknightsUnderAttack"]}

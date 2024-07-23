@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Aeon/AeonProgression", "Mythic/Aeon/AeonThirdLevelImmunitiesBuff"], "children": ["CreatureAbilities/Immunities/ImmunityToPoison", "CreatureAbilities/Immunities/ImmunityToDisease", "CreatureAbilities/Immunities/ImmunityToConfusion"]}

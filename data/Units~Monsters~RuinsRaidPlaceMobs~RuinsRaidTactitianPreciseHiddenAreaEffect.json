@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidTactitianPreciseHiddenAreaBuff", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidTactitianShakeHiddenAreaEffect"], "children": ["Feats/Teamwork/PreciseStrike", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianPreciseStrikeBuff"]}

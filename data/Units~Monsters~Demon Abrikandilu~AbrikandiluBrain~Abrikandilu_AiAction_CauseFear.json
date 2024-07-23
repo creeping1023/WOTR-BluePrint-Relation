@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Abrikandilu/AbrikandiluBrain/Abrikandilu_Brain_Fear"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level1/CauseFear"]}

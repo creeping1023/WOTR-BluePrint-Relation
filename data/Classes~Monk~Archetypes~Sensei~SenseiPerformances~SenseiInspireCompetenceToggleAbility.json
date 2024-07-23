@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiPerformances/SenseiInspireCompetenceFeature"], "children": ["Classes/Bard/BardicPerformances/BardicPerformanceResource", "Feats/DLC6/DivaStyleBuff", "Feats/DLC6/DivaStyleFreeFaintBuff", "Classes/Bard/BardicPerformances/InspireCompetence/InspireCompetenceBuff"]}

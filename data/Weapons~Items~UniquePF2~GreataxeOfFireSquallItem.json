@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLoot_VendorRare_Grade3", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Good/CR11/PF2_Crusaders_GreataxeOfFireSquallItem", "Dugeons/Loot/DungeonLootRare"], "children": ["Weapons/Types/MartialTwoHanded/Greataxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Thundering", "Weapons/Items/UniquePF2/GreataxeOfFireSquallEnchantment"]}

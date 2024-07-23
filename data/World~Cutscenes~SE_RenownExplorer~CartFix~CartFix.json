@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c5/RenownExplorerSE/Answer_0063"], "children": ["World/Cutscenes/SE_RenownExplorer/CartFix/CommandMoveCamera", "World/Cutscenes/SE_RenownExplorer/CartFix/CommandDelay1", "World/Cutscenes/SE_RenownExplorer/CartFix/gate", "World/Cutscenes/SE_RenownExplorer/CartFix/CommandLockControls", "World/Cutscenes/SE_RenownExplorer/CartFix/gate1"]}

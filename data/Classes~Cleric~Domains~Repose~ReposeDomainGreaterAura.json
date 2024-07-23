@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Repose/ReposeDomainGreaterBuff", "Classes/Cleric/Archetypes/Separatist/Domains/Repose/ReposeDomainGreaterBuffSeparatist"], "children": ["Traits/Races/Common/UndeadType", "Classes/Cleric/Domains/Repose/ReposeDomainGreaterEffect"]}

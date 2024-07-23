@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyMagicMissileFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_MagicMissile"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyMagicMissileResource", "FX/Spell Level 1/MagicMissile00"]}

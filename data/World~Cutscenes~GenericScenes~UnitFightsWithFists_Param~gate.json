@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/GenericScenes/UnitFightsWithFists_Param/UnitFightsWithFists_Param", "World/Cutscenes/GenericScenes/UnitFightsWithFists_Param/CommandActivateGate"], "children": ["World/Cutscenes/GenericScenes/UnitFightsWithFists_Param/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/GenericScenes/UnitFightsWithFists_Param/gate1"]}

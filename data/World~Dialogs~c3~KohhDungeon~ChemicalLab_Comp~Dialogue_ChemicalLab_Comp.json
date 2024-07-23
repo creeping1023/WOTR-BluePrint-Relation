@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/KohhDungeon/ActionsHolders/ChemicalLab_CheckPassedActions"], "children": ["World/Dialogs/c3/KohhDungeon/ChemicalLab_Comp/Cue_0001", "World/Encounters/KohhDungeon/UnlockableFlags/ChemicalLabContamination", "World/Encounters/KohhDungeon/UnlockableFlags/ChemicalLabContamination"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Inquisitor/Archetypes/Judge/JudgeSentenceFeature"], "children": ["Classes/Inquisitor/Archetypes/Judge/JudgeSentenceBuff", "Classes/Inquisitor/Archetypes/Judge/JudgeGreaterSentenceFeature", "Classes/Inquisitor/Archetypes/Judge/JudgeGreaterSentenceBuff", "Classes/Inquisitor/Archetypes/Judge/JudgeSentenceResource"]}

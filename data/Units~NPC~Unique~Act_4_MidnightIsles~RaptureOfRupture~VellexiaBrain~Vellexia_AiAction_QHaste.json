@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/RaptureOfRupture/VellexiaBrain/Vellexia_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffHaste", "Spells/Level3/Haste"]}

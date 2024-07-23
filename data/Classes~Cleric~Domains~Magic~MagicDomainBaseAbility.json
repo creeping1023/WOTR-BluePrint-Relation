@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Magic/MagicDomainBaseFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Magic/MagicDomainBaseResource", "FX/Abilities/HandOfTheApprenticeProjectile"]}

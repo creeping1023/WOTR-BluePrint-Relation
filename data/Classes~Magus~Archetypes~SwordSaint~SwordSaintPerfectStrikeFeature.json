@@ -1,0 +1,1 @@
+{"parents": ["Classes/Magus/MagusProgression", "Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype"], "children": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintPerfectStrikeAbility", "Classes/Magus/Archetypes/SwordSaint/SwordSaintPerfectStrikeCritAbility"]}

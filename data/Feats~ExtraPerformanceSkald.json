@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/DLC3_ToxicPrison_1/ActionsHolders/DLC3_RewardStatueFeature_Actions", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat", "Classes/Basic/BasicFeatSelection", "Classes/Skald/RagingSong/RagingSong"], "children": ["Classes/Skald/RagingSong/RagingSong", "Classes/Skald/RagingSong/RagingSongResource"]}

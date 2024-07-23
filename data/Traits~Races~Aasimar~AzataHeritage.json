@@ -1,0 +1,1 @@
+{"parents": ["Units/Pregens/PartyPregenTests/Daeran/DaeranPregenTestFeature", "Units/Pregens/StartGame/Prebuilds/PrebuildBardFeatureList", "Units/NPC/Commoners/DLC5_Storys_End/DLC5TestSkald_FeatureList", "Units/Pregens/StartGame/Prebuilds/PrebuildSorcererFeatureList", "Traits/Races/Aasimar/AasimarHeritageSelection"], "children": ["Traits/Races/Aasimar/GlitterdustAasimar"]}

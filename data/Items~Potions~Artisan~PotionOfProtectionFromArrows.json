@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/Chapter5/RE_Chapter5VendorTableArmor", "Units/NPC/Commoners/DLC3_RogueLike/RE_Chapter5VendorTableArmor1", "Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level2/ProtectionFromArrows"]}

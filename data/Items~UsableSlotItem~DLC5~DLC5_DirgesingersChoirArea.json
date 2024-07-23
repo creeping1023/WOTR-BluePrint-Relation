@@ -1,0 +1,1 @@
+{"parents": ["Items/UsableSlotItem/DLC5/DLC5_DirgesingersChoirExtraBuff"], "children": ["Items/UsableSlotItem/DLC5/DLC5_DirgesingersChoirImmunityBuff", "Items/UsableSlotItem/DLC5/DirgeOfDoomDCProperty", "Items/UsableSlotItem/DLC5/DLC5_DirgesingersChoirImmunityBuff", "Traits/Races/Common/UndeadType", "Buffs/Staggered"]}

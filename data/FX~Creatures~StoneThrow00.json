@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Mite/MiteStoneThrowType", "Armies/Leaders/Abilities/RangerAbilities/RangerBoulderAbility", "Weapons/Types/ExoticRanged/SlingStaff"], "children": ["FX/Creatures/RockThrow00_Trajectory"]}

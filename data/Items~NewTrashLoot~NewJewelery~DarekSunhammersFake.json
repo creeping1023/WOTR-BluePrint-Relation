@@ -1,0 +1,1 @@
+{"parents": ["Loot/Trash/CR2/PF2_RichHuman_ShopLootChest", "Dugeons/Loot/DungeonLootExclude", "Loot/Trash/CR5/PF2_MagicLaboratory_TrashLoot01", "Loot/Good/CR10/RichHuman_GoodNoHidden", "Loot/Good/CR3/EstrodTower_Basement_GoodLoot01", "Loot/Good/CR4/PF2_RichHuman_GoodLoot06", "Loot/Trash/CR9/PoorHuman_tavern_chest_01"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

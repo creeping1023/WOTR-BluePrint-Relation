@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/DLC4_IsSwarmConsideration", "Units/Monsters/RatSwarm/SwarmTinyFeature", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/SwarmTinyFeatureMasks", "Units/Monsters/RatSwarm/SwarmDiminutiveFeature"], "children": ["Units/Monsters/RatSwarm/RatSwarmDamageAura/GenericSwarmArea"]}

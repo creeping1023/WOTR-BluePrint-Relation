@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/Chapter3/VendorTiefling_Chapter3VendorTable", "Items/Vendors/C3_VendorTableLarge", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Thundering"]}

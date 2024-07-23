@@ -1,0 +1,1 @@
+{"parents": ["Armies/Abilities/ArmyAgonyFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_Agony"], "children": ["Armies/Abilities/ArmyAgonyBuff"]}

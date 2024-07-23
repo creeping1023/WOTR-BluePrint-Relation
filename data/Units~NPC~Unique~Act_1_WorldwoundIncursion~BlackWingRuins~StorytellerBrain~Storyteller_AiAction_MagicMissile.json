@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/StorytellerBrain/StorytellerBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffShield", "Units/Monsters/Deathsnatcher/DeathsnatcherBrain/NotSummonedConsideration", "Spells/Level1/MagicMissile"]}

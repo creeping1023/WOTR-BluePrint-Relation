@@ -1,0 +1,1 @@
+{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiArchetype"], "children": ["Classes/Bard/BardicPerformances/BardicPerformanceResource", "Classes/Bard/BardicPerformances/BardicPerformanceResource", "Classes/Monk/MonkClass", "Classes/Bard/BardicPerformances/BardicPerformanceResourcePrerequisite"]}

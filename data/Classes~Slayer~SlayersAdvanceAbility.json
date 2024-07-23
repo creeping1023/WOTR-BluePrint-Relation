@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/IvorySanctum/BlackFireAdeptVampireBrain/BlackFireAdeptVampire_AdvanceAiAction", "Classes/Slayer/SlayersAdvanceFeature"], "children": ["Classes/Slayer/SlayersAdvanceBuff", "Classes/Slayer/SlayersAdvanceResource"]}

@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/LostChapel/WorkshopNPCLeave/WorkshopNPCLeave"], "children": ["World/Cutscenes/LostChapel/PrisonersWorkshop/PrisonersWorkshop", "World/Encounters/LostChapel/SummonPools/CrusadersWorkshop", "World/Encounters/LostChapel/Buffs/CantMove", "Spells/CutsceneSpells/ProneBuff"]}

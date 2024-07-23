@@ -1,0 +1,1 @@
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Basic/Wings/FeatureWingsAngel", "Mythic/Angel/AngelProgression", "Classes/Basic/Wings/FeatureWingsDemon", "Mythic/Demon/DemonProgression", "Classes/Basic/Wings/FeatureWingsDevil", "Mythic/Devil/DevilProgression", "Classes/Basic/Wings/FeatureWingsDraconicGold", "Mythic/GoldenDragon/GoldenDragonProgression"]}

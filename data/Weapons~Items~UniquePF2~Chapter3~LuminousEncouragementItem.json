@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/Chapter3/Blacksmith_Chapter3VendorTable", "Dugeons/Loot/DungeonLoot_VendorRare_Grade6", "Dugeons/Loot/DungeonLootRare"], "children": ["Weapons/Types/SimpleLight/LightMace", "Weapons/Enchantments/Enhancement2", "Weapons/Items/UniquePF2/Chapter3/LuminousEncouragementEnchantment"]}

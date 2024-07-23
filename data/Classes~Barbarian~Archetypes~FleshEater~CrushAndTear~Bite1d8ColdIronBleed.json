@@ -1,0 +1,1 @@
+{"parents": ["Classes/Barbarian/Archetypes/FleshEater/CrushAndTear/CrushAndTearFeatureBite11", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Weapons/Enchantments/Bleed"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/WizardCrusaderBrain/GrayGarrison_CrusaderWizard_Brain"], "children": ["Brain/Considerations/DisableWhenAutoCast", "Brain/Considerations/AttackTargetsPriority", "Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/WizardCrusaderBrain/NoCloakofDreamsEffectBuff", "Spells/Level0/RayOfFrost"]}

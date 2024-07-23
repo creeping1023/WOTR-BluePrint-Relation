@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_BesmarianPirates/TrailerPregens/DLC3_BARD_TRAILER_MID", "Dugeons/Boons/DungeonBoon_BardsStack", "Classes/Bard/DLC3_BardProgression_BOON"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_BardsSongStackBuff/DLC3_InspireHeroicsToggleAbility"]}

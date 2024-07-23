@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Gargoyle/LostChapel/GargoyleWindseeker_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/InRangeConsideration", "Brain/Considerations/LongRange", "Brain/Considerations/AoE_AvoidFriends", "Spells/Level3/StinkingCloud"]}

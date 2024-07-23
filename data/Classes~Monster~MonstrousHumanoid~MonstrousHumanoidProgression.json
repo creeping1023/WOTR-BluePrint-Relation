@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Nereid/NereidBrain/NereidBeguilingAuraAreaEffect", "Classes/Monster/MonstrousHumanoid/MonstrousHumanoidClass"], "children": ["Classes/Monster/MonstrousHumanoid/MonstrousHumanoidClass", "Traits/Races/Common/MonstrousHumanoidType"]}

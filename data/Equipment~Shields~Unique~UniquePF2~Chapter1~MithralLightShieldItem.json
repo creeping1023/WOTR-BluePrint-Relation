@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Rewards/RewardLoot_UnqiueRanomItem"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Items/Standard/MartialLight/MithralWeaponLightShield", "Equipment/Shields/Unique/UniquePF2/Chapter1/MithralLightShieldArmorItem"]}

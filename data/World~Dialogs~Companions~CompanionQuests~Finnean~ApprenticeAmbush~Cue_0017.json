@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/ApprenticeAmbush/CueSequence_0024", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Units/Companions/Finnean/Finnean_Companion"]}

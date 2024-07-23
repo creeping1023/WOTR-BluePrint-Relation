@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AzataIsland/FlyTest_scene/gate"], "children": ["World/Cutscenes/AzataIsland/FlyTest_scene/CommandAction2", "World/Cutscenes/AzataIsland/FlyTest_scene/CommandDelay2", "World/Cutscenes/AzataIsland/FlyTest_scene/CommandAction1", "World/Cutscenes/AzataIsland/FlyTest_scene/CommandDelay3", "World/Cutscenes/AzataIsland/FlyTest_scene/gate3"]}

@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Lich/LichSkeletalCompanionUpgrades/LichSkeletalUpgradeSelection"], "children": ["Mythic/Lich/LichSkeletalCompanionUpgrades/Cleric/LichSkeletalClericSpellbookMinorFeature", "Classes/Cleric/ChannelNegativeFeature", "Classes/Cleric/Domains/Death/DeathDomainBaseFeature", "Classes/Cleric/Domains/Destruction/DestructionDomainBaseFeature"]}

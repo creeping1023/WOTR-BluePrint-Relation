@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Bridgeguard/Answer_2"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR6_GundrunMilitiaMale", "World/Encounters/DLC4_Gundrun/UnlockableFlags/DLC4_Gundrun_OpenedBridge", "World/Cutscenes/DLC4_Gundrun/DLC4_Gundrun_Guard_like_Bear/DLC4_Gundrun_Guard_like_Bear"]}

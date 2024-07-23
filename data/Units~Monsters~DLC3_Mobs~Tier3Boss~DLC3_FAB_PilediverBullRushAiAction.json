@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC3_Mobs/Tier3Boss/DLC3_FAB_Brain_Stage1"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Fighter/Archetypes/TwoHandedFighter/TwoHandedFighterPiledriverBullRushAbility"]}

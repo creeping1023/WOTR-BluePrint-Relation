@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Brain/Jeslyn_InsectPlagueAIAction", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Boss"], "children": ["Units/Monsters/LocustSwarm/SummonCR3LocustSwarm", "Buffs/SummonedCreatureSpawnMonsterIV-VI", "Spells/CutsceneSpells/SummonMonsterPool"]}

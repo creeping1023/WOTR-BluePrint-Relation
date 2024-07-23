@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Will-o-Wisp/CR8_WarWisp", "Units/Monsters/Will-o-Wisp/CR12_AncientWarWisp", "Units/Monsters/Will-o-Wisp/RandomEncounters/CR12_AncientWarWisp_RE", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_Abberation/DLC3_CR12_AncientWarWisp"], "children": ["Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispTouchType"]}

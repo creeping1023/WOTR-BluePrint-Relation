@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-354992_DefensiveStance", "Classes/StalwartDefender/StalwartDefenderProgression", "Root/Upgraders/Player/PF-485023"], "children": ["Classes/StalwartDefender/DefensiveStance/DefensiveStanceActivateableAbility", "Classes/StalwartDefender/DefensiveStance/DefensiveStanceFact"]}

@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/Chapter3/HellKnight_Chapter3VendorTable", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/Chapter5/Aminas_Chapter5VendorTable"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HelmetHellknight"]}

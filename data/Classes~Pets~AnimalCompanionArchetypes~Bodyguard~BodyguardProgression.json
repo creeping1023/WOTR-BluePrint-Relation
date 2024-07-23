@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/AnimalCompanionArchetypes/AnimalCompanionArchetypeBodyguardFeature"], "children": ["Classes/Monster/Animal/AnimalClass", "Classes/Rogue/UncannyDodgeChecker", "Classes/Pets/AnimalCompanionDevotion", "Classes/Rogue/ImprovedUncannyDodge"]}

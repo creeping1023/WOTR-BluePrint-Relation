@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/CR10_AnimatedMaskHost"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/AnimatedMaskCastSpell", "Brain/Actions/AttackAiAction"]}

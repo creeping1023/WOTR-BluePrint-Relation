@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-464296", "World/Cutscenes/TheIvoryLabyrinth/ApoOrSvenAppears/CommandStartDialog 1", "World/Cutscenes/TheIvoryLabyrinth/ApoOrSvenAppears(PF-464296)/CommandStartDialog1", "World/Cutscenes/TheIvoryLabyrinth/ApoOrSvenAppears_SecretPassage/CommandStartDialog 1"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_Welcome/Cue_0001"]}

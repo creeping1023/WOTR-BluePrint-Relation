@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/RaspingRifts/ScriptZones/EchoOfDeskariFight"], "children": ["World/Cutscenes/RaspingRifts/RaspingRifts_EchoDialog/CommandLockControls", "World/Cutscenes/RaspingRifts/RaspingRifts_EchoDialog/gate 2", "World/Cutscenes/RaspingRifts/RaspingRifts_EchoDialog/CommandDelay", "World/Cutscenes/RaspingRifts/RaspingRifts_EchoDialog/gate"]}

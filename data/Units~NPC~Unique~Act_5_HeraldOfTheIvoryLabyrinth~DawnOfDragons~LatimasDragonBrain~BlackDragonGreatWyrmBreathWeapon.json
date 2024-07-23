@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DawnOfDragons/LatimasDragon", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DawnOfDragons/LatimasDragonBrain/BlackDragonGreatWyrmWeaponAiAction"], "children": ["FX/Spell Level None/AcidLine00", "Classes/Monster/Dragon/DragonClass", "Units/Monsters/BlackDragon/BlackDragonBrain/BlackDragonAdultBreathWeapon"]}

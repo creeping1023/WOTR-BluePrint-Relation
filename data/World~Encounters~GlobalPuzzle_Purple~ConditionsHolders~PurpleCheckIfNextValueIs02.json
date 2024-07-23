@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/GlobalPuzzle_Purple/ConditionsHolders/PurpleNextSlotChecker", "World/Encounters/GlobalPuzzle_Purple/ConditionsHolders/PurpleSelfSlotChecker"], "children": ["World/Encounters/GlobalPuzzle_Purple/ItemsList/Purple_02_OtherSlotDirect", "World/Encounters/GlobalPuzzle_Purple/ItemsList/Purple_02_OtherSlotReverse"]}

@@ -1,0 +1,1 @@
+{"parents": ["Classes/Pets/Triceratops_Feature_PowerfulChargeFeature", "Dugeons/Loot/DungeonLootExclude", "Classes/Pets/PowerfulChargeElkFeature", "Classes/Pets/AnimalCompanionUnitMammoth", "Classes/Pets/AnimalCompanionUnitTriceratops", "Classes/Pets/AnimalCompanionUnitElk", "Classes/Pets/AnimalCompanionUnitBoar"], "children": ["Weapons/Types/NaturalWeapon/GoreType"]}

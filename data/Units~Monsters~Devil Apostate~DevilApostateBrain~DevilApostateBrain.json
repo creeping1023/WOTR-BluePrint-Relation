@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAeon_Ch3/AeonDevilCompanion", "Units/Monsters/Devil Apostate/CR17_DevilApostateStandard"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateEvangelizationAiAction"]}

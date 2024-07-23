@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/ColyphyrDungeon/ActionsHolders/KitchenCache_Action"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_XunekiTrap/CommandLockControls", "World/Cutscenes/ColyphyrDungeon/Colyphyr_XunekiTrap/gate 2", "World/Cutscenes/ColyphyrDungeon/Colyphyr_XunekiTrap/CommandDelay", "World/Cutscenes/ColyphyrDungeon/Colyphyr_XunekiTrap/gate"]}

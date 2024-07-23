@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Daeran_Main_dialog", "World/Encounters/Nexus/ConditionsHolders/Nexus_AfterAlienBossfight_spawnConditions", "World/Encounters/Daeran_AlienBossfight/ActionsHolders/DaeranAlienSwarm_ExitInteraction"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/Daeran_AlienBattle"]}

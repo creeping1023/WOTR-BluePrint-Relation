@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch2/BrokenPhylactery_Enchanting_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/CrusadeRelics/Chapter2/BrokenPhylacterySoulRingAbility", "Equipment/Rings/UniquePF2/CrusadeRelics/Chapter2/BrokenPhylacterySoulRingEnchantment"]}

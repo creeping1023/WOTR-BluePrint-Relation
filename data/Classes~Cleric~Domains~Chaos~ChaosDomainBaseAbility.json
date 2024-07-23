@@ -1,0 +1,1 @@
+{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Chaos/ChaosDomainBaseFeature"], "children": ["Classes/Cleric/Domains/Chaos/ChaosDomainBaseResource", "Weapons/Types/Special/TouchItem", "Classes/Cleric/Domains/Chaos/ChaosDomainBaseBuff"]}

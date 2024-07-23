@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/Brains/DLC5_FrostWightGiantSorcererBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/Boneshaker"]}

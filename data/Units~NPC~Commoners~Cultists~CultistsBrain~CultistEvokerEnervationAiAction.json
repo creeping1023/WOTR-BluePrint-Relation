@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerStandardBrain", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerHasteBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/Enervation"]}

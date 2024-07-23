@@ -1,0 +1,1 @@
+{"parents": ["Mythic/Angel/AngelSword/AngelSwordEffectBuffNonUnique", "Mythic/Angel/AngelSword/AngelSwordEffectBuff", "Equipment/Boots/PF2/Artifact_Feet/Artifact_FeetFeature", "Mythic/Angel/AngelSword/AngelSwordImprovements/AngelSwordSpeedOfLightFeature"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/HasteBuff", "Spells/Level3/HasteBuffEffect"]}

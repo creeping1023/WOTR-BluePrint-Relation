@@ -1,0 +1,1 @@
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationChannelFact", "Classes/Shaman/ShamanSpirits/ShamanLifeSpirit/ShamanLifeSpiritChannelEnergyFact", "Classes/Cleric/ChannelNegativeFeature", "Classes/Cleric/ChannelEnergyFeature"], "children": ["Classes/Cleric/ChannelEnergyResource"]}

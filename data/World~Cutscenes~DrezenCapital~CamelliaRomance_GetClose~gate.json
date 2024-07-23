@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_GetClose/CamelliaRomance_GetClose"], "children": ["World/Cutscenes/DrezenCapital/CamelliaRomance_GetClose/CommandDelay 2", "World/Cutscenes/DrezenCapital/CamelliaRomance_GetClose/CommandAction", "World/Cutscenes/DrezenCapital/CamelliaRomance_GetClose/CommandFadeout"]}

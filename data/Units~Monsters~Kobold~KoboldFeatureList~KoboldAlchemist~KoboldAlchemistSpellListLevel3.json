@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Kobold/KoboldFeatureList/KoboldAlchemist/KoboldAlchemistFeatureListLevel3"], "children": ["Classes/Alchemist/AlchemistClass", "Spells/Level1/CureLightWoundsCast", "Spells/Level1/ReducePerson", "Spells/Level1/TrueStrike", "Spells/Level1/MageShield"]}

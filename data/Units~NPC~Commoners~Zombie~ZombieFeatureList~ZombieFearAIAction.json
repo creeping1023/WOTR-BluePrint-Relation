@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Zombie/ZombieFeatureList/ZombieWizardBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level4/Fear"]}

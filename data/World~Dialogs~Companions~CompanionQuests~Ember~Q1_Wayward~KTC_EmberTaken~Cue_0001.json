@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/KTC_EmberTaken/KTC_EmberTaken_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/Companions/Ember/Q1_Wayward/Obj_01_Wait", "World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/KTC_EmberTaken/Cue_0002"]}

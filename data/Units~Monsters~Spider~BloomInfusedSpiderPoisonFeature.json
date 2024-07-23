@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Spider/CR6_BloomInfusedSpider"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Units/Monsters/Spider/BloomInfusedSpiderPoisonBuff"]}

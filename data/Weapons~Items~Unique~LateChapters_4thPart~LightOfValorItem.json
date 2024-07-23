@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/C61_IssiliVendorTable", "Items/Vendors/C71_GoblinVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level3/SearingLight", "Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Axiomatic"]}

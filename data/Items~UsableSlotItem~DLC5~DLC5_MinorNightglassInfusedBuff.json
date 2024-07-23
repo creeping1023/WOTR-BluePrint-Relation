@@ -1,0 +1,1 @@
+{"parents": ["Items/UsableSlotItem/DLC5/DLC5_MinorNightglassBuff"], "children": ["CreatureAbilities/Templates/DLC5/BlindingSavagery", "CreatureAbilities/Templates/DLC5/ShadowBite", "Classes/Rogue/Evasion", "CreatureAbilities/EnergyImmunity/ColdImmunity", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR", "Weapons/Types/Special/Unarmed"]}

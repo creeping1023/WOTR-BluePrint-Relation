@@ -1,0 +1,1 @@
+{"parents": ["Spells/CutsceneSpells/ForceBomb_Cutscene", "Items/Consumables/HolyWaterAbility", "Classes/Alchemist/Discoveries/ForceBombs/ForceBomb"], "children": ["FX/Abilities/AlchemistFireBomb00_Trajectory"]}

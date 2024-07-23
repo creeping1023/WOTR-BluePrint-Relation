@@ -1,0 +1,1 @@
+{"parents": ["World/Encounters/IvorySanctum/ActionsHolders/Vault_FinishCipher"], "children": ["World/Cutscenes/IvorySanctum/VaultPuzzleSuccess/CommandControlCamera", "World/Cutscenes/IvorySanctum/VaultPuzzleSuccess/gate 1", "World/Cutscenes/IvorySanctum/VaultPuzzleSuccess/CommandLockControls", "World/Cutscenes/IvorySanctum/VaultPuzzleSuccess/gate"]}

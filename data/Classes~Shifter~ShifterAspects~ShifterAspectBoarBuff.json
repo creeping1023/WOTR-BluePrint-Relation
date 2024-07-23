@@ -1,0 +1,1 @@
+{"parents": ["Classes/Shifter/ShifterAspects/ShifterAspectBoarAbility", "Classes/Shifter/Archetypes/FeyformShifter/ShifterFeyChimeraBoarFeature", "Classes/Shifter/Archetypes/WildEffigy/ArmorPlatingShifterFeature", "Classes/Shifter/Archetypes/WildEffigy/HeartOfEarthShifterFeature", "Equipment/DLC4BonusItems/HatOfTheOwlFeature"], "children": ["Classes/Shifter/ShifterClass"]}

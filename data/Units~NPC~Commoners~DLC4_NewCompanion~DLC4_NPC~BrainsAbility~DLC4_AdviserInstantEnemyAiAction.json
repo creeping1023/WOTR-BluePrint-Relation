@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/DLC4_AdviserBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffInstantEnemy", "Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/Consideration_NoVerminHumanElf", "Spells/Level3/InstantEnemy"]}

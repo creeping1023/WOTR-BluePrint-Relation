@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Law/LawDomainProgressionSecondary", "Classes/Cleric/Domains/Law/LawDomainProgression"], "children": ["Classes/Cleric/Domains/Law/LawDomainBaseAbility", "Classes/Cleric/Domains/Law/LawDomainBaseResource", "Classes/Cleric/Domains/Law/LawDomainBaseAbility", "Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Law/LawDomainSpellListFeature"]}

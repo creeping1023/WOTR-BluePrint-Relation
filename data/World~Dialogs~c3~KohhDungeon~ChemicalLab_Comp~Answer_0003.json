@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/c3/KohhDungeon/ChemicalLab_Comp/AnswersList_0002", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/KohhDungeon/ChemicalLab_Comp/Cue_0006", "World/Cutscenes/KohhDungeon/ChemicalLabRadiation/ChemicalLabRadiation", "World/Encounters/KohhDungeon/UnlockableFlags/ChemicalLabContamination"]}

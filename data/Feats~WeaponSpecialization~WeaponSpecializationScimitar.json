@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Zombie/ZombieFeatureList/BigNarlmarchesGhoulFeatureListLevel", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterScimitar"], "children": ["Weapons/Types/MartialOneHanded/Scimitar", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterScimitar"]}

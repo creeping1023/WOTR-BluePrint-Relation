@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLoot_VendorRare_Grade8", "Dugeons/Loot/DungeonLootRare"], "children": ["Weapons/Types/MartialLight/LightHammer", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/ShockingBurst", "Weapons/Enchantments/Shock"]}

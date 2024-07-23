@@ -1,0 +1,1 @@
+{"parents": ["Root/TrapSettings/TrapSettings_CR6"], "children": ["Traps/TrapActor_Lvl03", "Traps/TrapActor_Lvl03", "Classes/Monster/Dragon/DragonClass", "Factions/Traps", "WeaponEmptyHand", "Traps/TrapDagger_Lvl06", "Traps/TrapActorFeature"]}

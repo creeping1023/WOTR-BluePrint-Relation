@@ -1,0 +1,1 @@
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Ember/Dialogue_Ember_Main", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/Companions/Ember/Q2_Wicked/Obj_01_Nocta", "World/Quests/Companions/Ember/Q3_Worshipped/Obj1_GotoAltar", "World/Dialogs/Companions/CompanionDialogues/Ember/AnswersList_0003"]}

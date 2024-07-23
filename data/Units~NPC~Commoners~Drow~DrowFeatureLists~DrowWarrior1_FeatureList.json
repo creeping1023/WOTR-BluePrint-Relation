@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Drow/CR0.3_Drow_Warrior_Male"], "children": ["Classes/NPC/Warrior/WarriorClass", "Classes/Basic/BasicFeatSelection", "Feats/WeaponFinesse"]}

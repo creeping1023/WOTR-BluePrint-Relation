@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLich_Ch5/StewardOfTheSkein/StewardOfTheSkeinBrain/StewardOfTheSkein_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Classes/Inquisitor/Archetypes/FaithHunter/FaithHunterSwornEnemySmiteAbility"]}

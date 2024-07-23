@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/Forest_Loot_Hidden"], "children": ["Classes/Monster/Animal/AnimalCompanionClass", "EquipmentEntities/Armor/KEE_Armor_HaramakiKnight", "Equipment/Armor/Types/HaramakiType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Items/Unique/UniquePF2/PF2_DLC1/SoullesCommandEnchantment"]}

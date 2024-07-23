@@ -1,0 +1,1 @@
+{"parents": ["Classes/Cleric/Domains/Death/Murder/MurderSubdomainGreaterAbility", "Classes/Cleric/Domains/Death/Murder/MurderSubdomainGreaterFeature"], "children": ["Classes/Cleric/ClericClass", "Classes/Inquisitor/InquisitorClass", "Classes/Hunter/HunterClass", "Classes/Arcanist/ArcanistClass"]}

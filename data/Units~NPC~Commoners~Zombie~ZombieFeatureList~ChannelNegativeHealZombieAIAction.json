@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Zombie/ZombieFeatureList/ZombieClericBrain"], "children": ["Brain/Considerations/InjuryAround", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreFriends", "Classes/Cleric/ChannelNegativeHeal"]}

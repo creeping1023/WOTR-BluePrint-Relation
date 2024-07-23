@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Loot/Good/CR7/NaturalCaves_GoodLootCave01", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialLight/Kukri", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Radiant"]}

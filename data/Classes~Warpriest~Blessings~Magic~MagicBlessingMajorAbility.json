@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Blessings/Magic/MagicBlessingMajorFeature"], "children": ["Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWarBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisBuff", "Classes/Warpriest/WarpriestSpellbook"]}

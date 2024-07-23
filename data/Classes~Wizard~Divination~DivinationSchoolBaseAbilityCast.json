@@ -1,0 +1,1 @@
+{"parents": ["Classes/Wizard/Divination/DivinationSchoolBaseFeature", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/FalseCommander/Brain/RazmiranWizardDivinator_DivinersFortune_AiAction"], "children": ["Classes/Wizard/Divination/DivinationSchoolBaseResource", "Classes/Wizard/Divination/DivinationSchoolBaseAbility"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DeathEarth/FleshDeadGodBrain/FleshDeadGodBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DeathEarth/FleshDeadGodBrain/Considerations/HasNoEyesOfTheBodakBuffConsideration", "Mythic/Lich/LichSpells/EyesOfTheBodak"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/Axiomite/Miniboss_AxiomiteMelee_DLC1"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Axiomite/AxiomiteMeleeMiniboss_Features/AxiomiteMeleeMiniboss_AiAction_TrueStrike"]}

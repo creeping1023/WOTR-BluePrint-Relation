@@ -1,0 +1,1 @@
+{"parents": ["Spells/Level5/SummonElementalLargeBase", "Items/Scrolls/Level5/ScrollOfSummonElementalLargeAir"], "children": ["Units/Monsters/AirElemental/SummonedAirElementalLarge", "Buffs/SummonedCreatureSpawnMonsterIV-VI", "Spells/CutsceneSpells/SummonMonsterPool", "Spells/Level5/SummonElementalLargeBase"]}

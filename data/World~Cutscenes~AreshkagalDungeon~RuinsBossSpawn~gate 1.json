@@ -1,0 +1,1 @@
+{"parents": ["World/Cutscenes/AreshkagalDungeon/RuinsBossSpawn/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/RuinsBossSpawn/CommandDelay 2", "World/Cutscenes/AreshkagalDungeon/RuinsBossSpawn/gate 2", "World/Cutscenes/AreshkagalDungeon/RuinsBossSpawn/CommandAction"]}

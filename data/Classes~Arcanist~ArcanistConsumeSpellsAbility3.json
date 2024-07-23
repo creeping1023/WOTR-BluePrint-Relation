@@ -1,0 +1,1 @@
+{"parents": ["Classes/Arcanist/ArcanistExploits/ArcanistExploitSwiftConsumeFeature", "Classes/Arcanist/ArcanistConsumeSpellsFeature"], "children": ["Classes/Arcanist/ArcanistConsumeSpellsResource", "Classes/Arcanist/ArcanistArcaneReservoirResource"]}

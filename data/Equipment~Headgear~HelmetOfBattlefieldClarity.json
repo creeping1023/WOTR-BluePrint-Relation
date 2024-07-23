@@ -1,0 +1,1 @@
+{"parents": ["Items/Vendors/FirstVendorTable", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Linnorm/Fafnheir/DLC6_FafnheirSmall", "Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Linnorm/Fafnheir/DLC6_Fafnheir"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/HelmetOfBattlefieldClarityEnchant"]}

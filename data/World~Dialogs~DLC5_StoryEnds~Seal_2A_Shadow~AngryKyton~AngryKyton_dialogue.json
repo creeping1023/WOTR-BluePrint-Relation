@@ -1,0 +1,1 @@
+{"parents": ["Root/Upgraders/Player/PF-516480", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_KytonCome/CommandAction", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/Kyton_Enter/CommandAction3"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/Cue_0001", "Buffs/DLC5/ShadowPlane/ShadowPlaneMagicBuff"]}

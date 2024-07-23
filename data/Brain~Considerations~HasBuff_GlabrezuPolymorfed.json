@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/Demon Glabrezu/GlabrezuBrain/Glabrezu_RemoveSelfPolymorfOnTouch_AiAction"], "children": ["Spells/CutsceneSpells/IvorySanctum/Glabrezu_PolymorfDeskariMelee", "Spells/CutsceneSpells/IvorySanctum/Glabrezu_PolymorfBaphometMelee"]}

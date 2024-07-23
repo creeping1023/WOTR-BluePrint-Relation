@@ -1,0 +1,1 @@
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/Upgraders/Player/PF-351567_ClaspOfDeathItem"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Intelligence6", "Equipment/CommonEnchantments/Charisma6", "Equipment/CommonEnchantments/Wisdom6", "Equipment/Headgear/NegativeChanneling2"]}

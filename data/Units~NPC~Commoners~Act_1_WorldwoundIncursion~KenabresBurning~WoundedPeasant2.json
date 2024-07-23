@@ -1,0 +1,1 @@
+{"parents": ["Units/Customization/CustomizationPreset_Citizen_Male"], "children": ["Races/HumanRace", "Units/PortraitsGenerated/209115cbc0d6c5a4ebdd8f925ca03b5f_BCT_Peasant_Male_Naked_1", "Units/Customization/CustomizationPreset_Citizen_Male", "Sound/Barks/NPC/Bandits/BanditCommon01_Barks", "Factions/CutsceneNeutrals", "Brain/Dumb Monster Brain", "WeaponEmptyHand"]}

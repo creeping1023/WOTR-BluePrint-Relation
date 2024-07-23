@@ -1,0 +1,1 @@
+{"parents": ["Traits/Companions/UndeadSummonFeature"], "children": ["Buffs/SummonedCreatureSpawnMonsterIV-VI", "Spells/CutsceneSpells/SummonMonsterPool", "Traits/Companions/UndeadSummonResourse"]}

@@ -1,0 +1,1 @@
+{"parents": ["Units/Monsters/WildHunt/Brain/Wildhunt_MonarchBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/WildHunt/Wildhunt_Monarch_CallToTheHunt/CallToTheHuntAbility"]}

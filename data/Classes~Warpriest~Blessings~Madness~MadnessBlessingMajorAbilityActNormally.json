@@ -1,0 +1,1 @@
+{"parents": ["Classes/Warpriest/Blessings/Madness/MadnessBlessingMajorFeature"], "children": ["Classes/Warpriest/Blessings/Madness/MadnessBlessingMajorAbilityActNormallyBuff", "Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWar", "Buffs/Confusion"]}

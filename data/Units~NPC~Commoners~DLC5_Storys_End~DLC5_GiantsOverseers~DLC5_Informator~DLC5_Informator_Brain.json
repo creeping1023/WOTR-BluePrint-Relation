@@ -1,0 +1,1 @@
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_InformatorNew"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/BlessAiAction", "Brain/Actions/ProtectionFromEvilCommunalAiAction", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_Informator/DLC5_Informator_AiAction_Blinding"]}
