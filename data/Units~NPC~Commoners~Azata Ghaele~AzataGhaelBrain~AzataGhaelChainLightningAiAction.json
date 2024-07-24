@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Azata Ghaele/AzataGhaelBrain/AzataGhaelBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/Azata Ghaele/AzataGhaelBrain/AzataGhaelChainLightning"]}
+{"parents": ["Units/NPC/Commoners/Azata Ghaele/AzataGhaelBrain/AzataGhaelBrain"], "children": ["Units/NPC/Commoners/Azata Ghaele/AzataGhaelBrain/AzataGhaelChainLightning", "Brain/Considerations/AttackTargetsPriority"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Blessings/Community/CommunityBlessingMajorBuff", "Units/Monsters/Nereid/NereidBrain/NereidPoisonFeature", "Units/Monsters/Nereid/NereidBrain/NereidTouch"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Units/Monsters/Nereid/NereidBrain/NereidTouch", "Units/Monsters/Nereid/NereidBrain/NereidPoisonFeature", "Classes/Warpriest/Blessings/Community/CommunityBlessingMajorBuff"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}

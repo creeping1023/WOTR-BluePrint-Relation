@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/SilkShadowLair/JunkieWalk/gate2"], "children": ["World/Cutscenes/SilkShadowLair/JunkieWalk/CommandUnitPlayCutsceneAnimation6", "World/Cutscenes/SilkShadowLair/JunkieWalk/gate3"]}
+{"parents": ["World/Cutscenes/SilkShadowLair/JunkieWalk/gate2"], "children": ["World/Cutscenes/SilkShadowLair/JunkieWalk/gate3", "World/Cutscenes/SilkShadowLair/JunkieWalk/CommandUnitPlayCutsceneAnimation6"]}

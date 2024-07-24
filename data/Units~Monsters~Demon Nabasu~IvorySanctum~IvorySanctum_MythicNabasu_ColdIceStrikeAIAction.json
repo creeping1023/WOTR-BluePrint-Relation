@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Nabasu/IvorySanctum/IvorySanctum_MythicNabasu_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/ColdIceStrike"]}
+{"parents": ["Units/Monsters/Demon Nabasu/IvorySanctum/IvorySanctum_MythicNabasu_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/ColdIceStrike", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

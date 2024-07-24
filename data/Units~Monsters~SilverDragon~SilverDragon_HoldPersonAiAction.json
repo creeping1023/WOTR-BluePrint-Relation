@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/SilverDragon/SilverDragon_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffHoldPerson", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffFreedomOfMovement", "Spells/Level3/HoldPerson"]}
+{"parents": ["Units/Monsters/SilverDragon/SilverDragon_Brain"], "children": ["Spells/Level3/HoldPerson", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffFreedomOfMovement", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHoldPerson"]}

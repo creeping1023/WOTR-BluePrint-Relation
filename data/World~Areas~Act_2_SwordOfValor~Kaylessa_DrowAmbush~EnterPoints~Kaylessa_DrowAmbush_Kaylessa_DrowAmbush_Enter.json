@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Random_Encounters/Special_Encounters/Chapter_2/SE_Kaylessa_DrowAmbush", "World/Areas/Act_2_SwordOfValor/Kaylessa_DrowAmbush/Presets/Kaylessa_DrowAmbush_Default_Preset"], "children": ["World/Areas/Act_2_SwordOfValor/Kaylessa_DrowAmbush/Kaylessa_DrowAmbush"]}
+{"parents": ["World/Areas/Act_2_SwordOfValor/Kaylessa_DrowAmbush/Presets/Kaylessa_DrowAmbush_Default_Preset", "World/Areas/Random_Encounters/Special_Encounters/Chapter_2/SE_Kaylessa_DrowAmbush"], "children": ["World/Areas/Act_2_SwordOfValor/Kaylessa_DrowAmbush/Kaylessa_DrowAmbush"]}

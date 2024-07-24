@@ -1,1 +1,1 @@
-{"parents": ["Classes/Rogue/RogueTalentsAdvanced/HuntersSurprise"], "children": ["Classes/Rogue/RogueTalentsAdvanced/HuntersSurpriseBuff", "Classes/Rogue/RogueTalentsAdvanced/HuntersSurpriseResource"]}
+{"parents": ["Classes/Rogue/RogueTalentsAdvanced/HuntersSurprise"], "children": ["Classes/Rogue/RogueTalentsAdvanced/HuntersSurpriseResource", "Classes/Rogue/RogueTalentsAdvanced/HuntersSurpriseBuff"]}

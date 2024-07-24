@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/CrusadeRelics/Chapter2/Gowrow/GowrowAquaticShortspearEnchantment", "Root/Upgraders/Player/PF-219559"], "children": ["FX/Spell Level None/ColdLine00"]}
+{"parents": ["Root/Upgraders/Player/PF-219559", "Weapons/Items/UniquePF2/CrusadeRelics/Chapter2/Gowrow/GowrowAquaticShortspearEnchantment"], "children": ["FX/Spell Level None/ColdLine00"]}

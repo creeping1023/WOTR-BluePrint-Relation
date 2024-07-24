@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level4/SummonElementalMediumAir", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement2", "Weapons/Items/Artisan/ElvenMaleWoodmaster/WhirlwindCompLongBowDex2"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level4/SummonElementalMediumAir", "Weapons/Items/Artisan/ElvenMaleWoodmaster/WhirlwindCompLongBowDex2", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement2"]}

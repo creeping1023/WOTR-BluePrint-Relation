@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/WenduagCave/AnswersList_0003"], "children": ["World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_Wenduag", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/WenduagCave/AnswersList_0003"], "children": ["Factions/Mobs", "World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_Wenduag"]}

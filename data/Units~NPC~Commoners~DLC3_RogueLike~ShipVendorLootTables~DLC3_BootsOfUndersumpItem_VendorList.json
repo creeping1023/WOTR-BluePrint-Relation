@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_BootsOfUndersump", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items"], "children": ["Equipment/Boots/DLC3/DLC3_BootsOfUndersumpItem"]}
+{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_BootsOfUndersump"], "children": ["Equipment/Boots/DLC3/DLC3_BootsOfUndersumpItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Warlords/WarlordLeaderRanger4", "Armies/Leaders/Warlords/WarlordUnits/Warlord_8_Ranger", "Root/BlueprintRoot", "Units/Pregens/StartGame/StartGamePregenRangerUnit"], "children": ["Races/ElfRace"]}
+{"parents": ["Root/BlueprintRoot", "Armies/Leaders/Warlords/WarlordUnits/Warlord_8_Ranger", "Armies/Leaders/Warlords/WarlordLeaderRanger4", "Units/Pregens/StartGame/StartGamePregenRangerUnit"], "children": ["Races/ElfRace"]}

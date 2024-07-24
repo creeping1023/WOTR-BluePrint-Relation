@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/Cue_0002"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/AnswersList_0004", "World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/CueSequence_0021"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/Cue_0002"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/CueSequence_0021", "World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/AnswersList_0004"]}

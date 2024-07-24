@@ -1,1 +1,1 @@
-{"parents": ["Buffs/Template/HasControllableProjectileBuff"], "children": ["FX/Abilities/Mythics/Lich/Mythic7lvlLich_BoneLance00", "Buffs/Template/HasControllableProjectileBuff"]}
+{"parents": ["Buffs/Template/HasControllableProjectileBuff"], "children": ["Buffs/Template/HasControllableProjectileBuff", "FX/Abilities/Mythics/Lich/Mythic7lvlLich_BoneLance00"]}

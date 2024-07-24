@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CustomizationPreset_Noble_Female_NoGnomes"], "children": ["Races/HumanRace", "Races/ElfRace", "Races/HalfElfRace", "Races/AasimarRace"]}
+{"parents": ["Units/Customization/CustomizationPreset_Noble_Female_NoGnomes"], "children": ["Races/AasimarRace", "Races/HumanRace", "Races/HalfElfRace", "Races/ElfRace"]}

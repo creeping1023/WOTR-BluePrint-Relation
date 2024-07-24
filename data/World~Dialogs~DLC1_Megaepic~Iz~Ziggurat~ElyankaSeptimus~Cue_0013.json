@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/Check_0011"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Septimus", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/AnswersList_0003"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/Check_0011"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/AnswersList_0003", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Septimus"]}

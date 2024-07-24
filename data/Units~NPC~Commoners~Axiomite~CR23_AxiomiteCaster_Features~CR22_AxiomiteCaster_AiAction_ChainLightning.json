@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Axiomite/CR23_AxiomiteCaster_Features/CR22_AxiomiteCaster_Brain"], "children": ["Brain/Considerations/IsThreatedConsideration", "Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/ChainLightning"]}
+{"parents": ["Units/NPC/Commoners/Axiomite/CR23_AxiomiteCaster_Features/CR22_AxiomiteCaster_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/IsThreatedConsideration", "Spells/Level6/ChainLightning"]}

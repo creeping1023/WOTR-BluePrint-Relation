@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0011"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Sosiel_Q2/Sosiel_Q2_Deserter_Dwarf", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0017"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0011"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0017", "Units/NPC/Unique/Act_3_DemonsHerecy/Sosiel_Q2/Sosiel_Q2_Deserter_Dwarf"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Answer_0043", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0012"], "children": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0044"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0012", "World/Dialogs/Companions/CompanionDialogues/Daeran/Answer_0043", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0044"]}

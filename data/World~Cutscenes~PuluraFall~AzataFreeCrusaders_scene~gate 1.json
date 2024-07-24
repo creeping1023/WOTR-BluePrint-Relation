@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/gate"], "children": ["World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/CommandDelay 2", "World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/gate 2", "World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/CommandBark"]}
+{"parents": ["World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/gate"], "children": ["World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/CommandDelay 2", "World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/CommandBark", "World/Cutscenes/PuluraFall/AzataFreeCrusaders_scene/gate 2"]}

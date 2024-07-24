@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/GolemArriving_KTC/gate4"], "children": ["World/Cutscenes/DrezenCapital/GolemArriving_KTC/CommandFadeout", "World/Cutscenes/DrezenCapital/GolemArriving_KTC/CommandDelay", "World/Cutscenes/DrezenCapital/GolemArriving_KTC/gate3"]}
+{"parents": ["World/Cutscenes/DrezenCapital/GolemArriving_KTC/gate4"], "children": ["World/Cutscenes/DrezenCapital/GolemArriving_KTC/CommandFadeout", "World/Cutscenes/DrezenCapital/GolemArriving_KTC/gate3", "World/Cutscenes/DrezenCapital/GolemArriving_KTC/CommandDelay"]}

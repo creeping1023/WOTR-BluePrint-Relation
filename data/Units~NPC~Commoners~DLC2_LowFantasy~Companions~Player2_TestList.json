@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Player2_Test_Level1"], "children": ["Classes/Bard/BardClass", "Spells/Level1/Sleep", "Spells/Level1/CureLightWoundsCast", "Classes/Basic/BasicFeatSelection", "Feats/CombatCasting"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Player2_Test_Level1"], "children": ["Classes/Bard/BardClass", "Classes/Basic/BasicFeatSelection", "Spells/Level1/Sleep", "Spells/Level1/CureLightWoundsCast", "Feats/CombatCasting"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/RuinsRaidPlace/Boss_Fight_Start/Boss_Fight_Start"], "children": ["World/Cutscenes/RuinsRaidPlace/Boss_Fight_Start/CommandAction1", "World/Cutscenes/RuinsRaidPlace/Boss_Fight_Start/gate"]}
+{"parents": ["World/Cutscenes/RuinsRaidPlace/Boss_Fight_Start/Boss_Fight_Start"], "children": ["World/Cutscenes/RuinsRaidPlace/Boss_Fight_Start/gate", "World/Cutscenes/RuinsRaidPlace/Boss_Fight_Start/CommandAction1"]}

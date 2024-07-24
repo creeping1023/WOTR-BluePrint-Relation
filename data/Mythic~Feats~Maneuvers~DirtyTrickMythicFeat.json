@@ -1,1 +1,1 @@
-{"parents": ["Feats/Maneuvers/DirtyTrick/ImprovedDirtyTrick", "Mythic/MythicFeatSelection"], "children": ["Feats/Maneuvers/DirtyTrick/ImprovedDirtyTrick"]}
+{"parents": ["Mythic/MythicFeatSelection", "Feats/Maneuvers/DirtyTrick/ImprovedDirtyTrick"], "children": ["Feats/Maneuvers/DirtyTrick/ImprovedDirtyTrick"]}

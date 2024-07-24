@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/Barricade/Cue_0006"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c3/MidnightFane/Barricade/Cue_9"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/Barricade/Cue_0006"], "children": ["World/Dialogs/c3/MidnightFane/Barricade/Cue_9", "Units/Companions/Seelah/Seelah_Companion"]}

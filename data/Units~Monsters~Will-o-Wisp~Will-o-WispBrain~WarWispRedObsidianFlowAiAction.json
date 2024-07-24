@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispRedBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/ObsidianFlow"]}
+{"parents": ["Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispRedBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level4/ObsidianFlow", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

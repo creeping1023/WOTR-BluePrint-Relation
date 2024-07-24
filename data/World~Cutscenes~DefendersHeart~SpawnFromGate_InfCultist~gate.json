@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/SpawnFromGate_InfCultist/SpawnFromGate_InfCultist", "World/Cutscenes/DefendersHeart/SpawnFromGate_InfCultist/gate 1"], "children": ["World/Cutscenes/DefendersHeart/SpawnFromGate_InfCultist/CommandAction"]}
+{"parents": ["World/Cutscenes/DefendersHeart/SpawnFromGate_InfCultist/gate 1", "World/Cutscenes/DefendersHeart/SpawnFromGate_InfCultist/SpawnFromGate_InfCultist"], "children": ["World/Cutscenes/DefendersHeart/SpawnFromGate_InfCultist/CommandAction"]}

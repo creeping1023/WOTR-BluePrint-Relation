@@ -1,1 +1,1 @@
-{"parents": ["Equipment/SpecialEditions/UniquePF2/BackersItems/Gauntlets_JawsOfTheJackal/JawsOfTheJackalFeature"], "children": ["CreatureAbilities/Immunities/IgnoreImmunityToFear", "Equipment/SpecialEditions/UniquePF2/BackersItems/Gauntlets_JawsOfTheJackal/ProfaneVigorBuff"]}
+{"parents": ["Equipment/SpecialEditions/UniquePF2/BackersItems/Gauntlets_JawsOfTheJackal/JawsOfTheJackalFeature"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/Gauntlets_JawsOfTheJackal/ProfaneVigorBuff", "CreatureAbilities/Immunities/IgnoreImmunityToFear"]}

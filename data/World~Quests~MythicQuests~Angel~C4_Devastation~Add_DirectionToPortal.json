@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/MythicQuests/Angel/C4_Devastation/01a_GoEchoLair", "World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_MythAngel_c4_quest"], "children": ["World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_MythAngel_c4_quest"]}
+{"parents": ["World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_MythAngel_c4_quest", "World/Quests/MythicQuests/Angel/C4_Devastation/01a_GoEchoLair"], "children": ["World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_MythAngel_c4_quest"]}

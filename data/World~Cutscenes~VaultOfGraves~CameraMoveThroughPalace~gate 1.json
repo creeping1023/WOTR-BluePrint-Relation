@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/CameraMoveThroughPalace"], "children": ["World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/CommandMoveCamera", "World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/gate1"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/CameraMoveThroughPalace"], "children": ["World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/gate1", "World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/CommandMoveCamera"]}

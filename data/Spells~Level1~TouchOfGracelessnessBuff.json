@@ -1,1 +1,1 @@
-{"parents": ["Brain/Considerations/NoBuffTouchOfGracelessness", "Spells/Level1/TouchOfGracelessness"], "children": ["Buffs/Slowed"]}
+{"parents": ["Spells/Level1/TouchOfGracelessness", "Brain/Considerations/NoBuffTouchOfGracelessness"], "children": ["Buffs/Slowed"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TavernBadLuck/Xorges_sideQuest/Xorges_Tiefling/Cue_0039"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c4/TavernBadLuck/Xorges_sideQuest/Xorges_Tiefling/Cue_0044"]}
+{"parents": ["World/Dialogs/c4/TavernBadLuck/Xorges_sideQuest/Xorges_Tiefling/Cue_0039"], "children": ["World/Dialogs/c4/TavernBadLuck/Xorges_sideQuest/Xorges_Tiefling/Cue_0044", "Units/Companions/Seelah/Seelah_Companion"]}

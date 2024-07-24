@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombatClericMummyBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_HalfHealth", "Armies/Abilities/ArmyGreaterHealUndead"]}
+{"parents": ["Armies/Brains/TacticalCombatClericMummyBrain"], "children": ["Armies/Abilities/ArmyGreaterHealUndead", "Armies/Brains/Considerations/TacticalConsideration_HalfHealth"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Classes/Barbarian/Rage/ResourcelessRageActivateableAbility", "Equipment/CommonEnchantments/Strength6", "Equipment/Belts/Intimidate5", "Equipment/Belts/DiplomacyPenalty3"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Strength6", "Classes/Barbarian/Rage/ResourcelessRageActivateableAbility", "Equipment/Belts/DiplomacyPenalty3", "Equipment/Belts/Intimidate5"]}

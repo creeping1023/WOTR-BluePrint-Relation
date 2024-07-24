@@ -1,1 +1,1 @@
-{"parents": ["Classes/DragonDisciple/DragonDiscipleSpellbooks/DragonDiscipleSpellbookSelection"], "children": ["Classes/Skald/SkaldClass", "Classes/Skald/SkaldSpellbook"]}
+{"parents": ["Classes/DragonDisciple/DragonDiscipleSpellbooks/DragonDiscipleSpellbookSelection"], "children": ["Classes/Skald/SkaldSpellbook", "Classes/Skald/SkaldClass"]}

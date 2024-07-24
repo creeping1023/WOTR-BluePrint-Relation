@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0024"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0029"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0024"], "children": ["World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0029", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

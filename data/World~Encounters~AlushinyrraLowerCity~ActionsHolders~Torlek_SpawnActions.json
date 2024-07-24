@@ -1,1 +1,1 @@
-{"children": ["Factions/CutsceneNeutrals", "Buffs/NPC_Immortality", "Buffs/NPC_Protection"]}
+{"children": ["Buffs/NPC_Protection", "Buffs/NPC_Immortality", "Factions/CutsceneNeutrals"]}

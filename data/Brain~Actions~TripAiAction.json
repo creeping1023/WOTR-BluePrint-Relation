@@ -1,1 +1,1 @@
-{"parents": ["Brain/TripMonsterBrain", "Units/Monsters/Purpule Worm/PurpleWormBrain/NahydrianPurpleWorm_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Feats/Maneuvers/Trip/TripAction"]}
+{"parents": ["Brain/TripMonsterBrain", "Units/Monsters/Purpule Worm/PurpleWormBrain/NahydrianPurpleWorm_Brain"], "children": ["Feats/Maneuvers/Trip/TripAction", "Brain/Considerations/AttackTargetsPriority"]}

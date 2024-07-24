@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Rods/Artisan/RodOfPower/RodOfPowerAbility"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/Rods/Artisan/RodOfPower/RodOfPowerAbility", "Items/DestructibleItemsShards/MetalShardItem"]}

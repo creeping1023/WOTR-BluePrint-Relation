@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/AlushinyrraLowerCity/ActionsHolders/Ecorche2_SpawnActions"], "children": ["Units/NPC/Commoners/Act_4_MidnightIsles/Citizens/AlushinyrraTieflingCommoner5", "Spells/Level5/PolymorphTurnBackAbility"]}
+{"parents": ["World/Encounters/AlushinyrraLowerCity/ActionsHolders/Ecorche2_SpawnActions"], "children": ["Spells/Level5/PolymorphTurnBackAbility", "Units/NPC/Commoners/Act_4_MidnightIsles/Citizens/AlushinyrraTieflingCommoner5"]}

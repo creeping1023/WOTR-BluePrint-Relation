@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerInvisibilityExtraUse", "Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerInvisibilityFeature", "Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerInvisibility"], "children": ["Classes/Druid/DruidClass"]}
+{"parents": ["Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerInvisibilityFeature", "Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerInvisibilityExtraUse", "Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerInvisibility"], "children": ["Classes/Druid/DruidClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/Shieldbearer/SacredArmorShieldEnchantSwitchAbility", "Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantSwitchAbility", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantSwitchAbility"]}
+{"parents": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantSwitchAbility", "Classes/Warpriest/Archetypes/Shieldbearer/SacredArmorShieldEnchantSwitchAbility", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantSwitchAbility"]}

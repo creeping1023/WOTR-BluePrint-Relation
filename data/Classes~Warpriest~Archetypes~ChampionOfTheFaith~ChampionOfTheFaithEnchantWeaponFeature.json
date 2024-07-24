@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithArchetype"], "children": ["Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponResource", "Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponAbility"]}
+{"parents": ["Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithArchetype"], "children": ["Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponAbility", "Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponResource"]}

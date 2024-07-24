@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticOneHanded/DuelingSword", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Keen"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Keen", "Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticOneHanded/DuelingSword"]}

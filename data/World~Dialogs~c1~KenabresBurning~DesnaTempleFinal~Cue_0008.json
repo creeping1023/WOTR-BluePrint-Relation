@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0007", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Tall_DesnaPriest", "World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0009"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0007", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0009", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Tall_DesnaPriest"]}

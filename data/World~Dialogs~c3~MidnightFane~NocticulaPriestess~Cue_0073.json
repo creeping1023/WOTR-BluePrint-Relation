@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0061"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0075"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0061", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0075"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-413823", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0123", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0120"], "children": ["World/Encounters/TheIvoryLabyrinth/Items/RuneOfJandelaySpell"]}
+{"parents": ["Root/Upgraders/Player/PF-413823", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0120", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0123"], "children": ["World/Encounters/TheIvoryLabyrinth/Items/RuneOfJandelaySpell"]}

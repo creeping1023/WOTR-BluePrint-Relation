@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilCompanion/Cue_2", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/Cue_0040"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/Cue_0040", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c3/Mythic_Aeon/AeonDevilCompanion/Cue_2"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

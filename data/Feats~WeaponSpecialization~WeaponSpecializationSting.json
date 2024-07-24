@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterSting"], "children": ["Weapons/Types/NaturalWeapon/StingType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterSting"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterSting"], "children": ["Weapons/Types/NaturalWeapon/StingType", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterSting", "Classes/Fighter/FighterClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLab/MagicProjectorNoEx/gate", "World/Cutscenes/AreeluLab/MagicProjectorNoEx/MagicProjectorNoEx"], "children": ["World/Cutscenes/AreeluLab/MagicProjectorNoEx/CommandAction 1"]}
+{"parents": ["World/Cutscenes/AreeluLab/MagicProjectorNoEx/MagicProjectorNoEx", "World/Cutscenes/AreeluLab/MagicProjectorNoEx/gate"], "children": ["World/Cutscenes/AreeluLab/MagicProjectorNoEx/CommandAction 1"]}

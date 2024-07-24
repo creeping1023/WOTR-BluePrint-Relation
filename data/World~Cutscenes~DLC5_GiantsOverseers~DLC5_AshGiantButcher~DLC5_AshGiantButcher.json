@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_GiantsOverseers/ActionsHolders/DLC5_DrinksArePoisoned_Actions", "World/Cutscenes/DLC5_GiantsOverseers/DLC5_GiantGuardiansAttack/CommandAction3"], "children": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_AshGiantButcher/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_GiantGuardiansAttack/CommandAction3", "World/Encounters/DLC5_GiantsOverseers/ActionsHolders/DLC5_DrinksArePoisoned_Actions"], "children": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_AshGiantButcher/CommandUnitPlayCutsceneAnimation"]}

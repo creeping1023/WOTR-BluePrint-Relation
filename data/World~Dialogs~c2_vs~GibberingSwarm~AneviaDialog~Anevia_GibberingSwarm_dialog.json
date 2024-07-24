@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GibberingSwarm/VeskavorQueenDeath/CommandStartDialog", "World/Encounters/GibberingSwarm/ScriptZones/AneviaStart"], "children": ["World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_0059", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_0018"]}
+{"parents": ["World/Encounters/GibberingSwarm/ScriptZones/AneviaStart", "World/Cutscenes/GibberingSwarm/VeskavorQueenDeath/CommandStartDialog"], "children": ["World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_0018", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_0059"]}

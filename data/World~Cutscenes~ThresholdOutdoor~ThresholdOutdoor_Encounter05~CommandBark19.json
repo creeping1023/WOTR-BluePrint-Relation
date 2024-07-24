@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate11"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon", "Mythic/GoldenDragon/GoldenDragonClass", "World/Encounters/ThresholdOutdoor/SummonPools/ThresholdOutdoorHelpers05_h06"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate11"], "children": ["World/Encounters/ThresholdOutdoor/SummonPools/ThresholdOutdoorHelpers05_h06", "Mythic/GoldenDragon/GoldenDragonClass", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon"]}

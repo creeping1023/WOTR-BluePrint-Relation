@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/MidnightArrowSpell_cutscene", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula_Ability_CutsceneBolt", "Spells/CutsceneSpells/DLC4_MidnightArrowSpell_cutscene"], "children": ["FX/Spell Level 2/AcidArrow00_Trajectory"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula_Ability_CutsceneBolt", "Spells/CutsceneSpells/MidnightArrowSpell_cutscene", "Spells/CutsceneSpells/DLC4_MidnightArrowSpell_cutscene"], "children": ["FX/Spell Level 2/AcidArrow00_Trajectory"]}

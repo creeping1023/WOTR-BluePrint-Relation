@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerAbyssalBloodline/BloodragerAbyssalClawBuff8", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Weapons/Enchantments/MagicWeapon"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerAbyssalBloodline/BloodragerAbyssalClawBuff8", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/MagicWeapon", "Weapons/Types/NaturalWeapon/ClawType"]}

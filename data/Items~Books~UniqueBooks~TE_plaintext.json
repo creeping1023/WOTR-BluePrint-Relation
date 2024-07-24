@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Kingdom/CrusadeProjects/KTCProjects/PuluraProject", "Root/Upgraders/Player/PF-412703"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Kingdom/CrusadeProjects/KTCProjects/PuluraProject", "Root/Upgraders/Player/PF-412703", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

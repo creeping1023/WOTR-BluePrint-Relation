@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/KTC_ArmyDragonDiscipleBard", "Armies/UnitBlueprints/ArmyDragonDiscipleBard"], "children": ["Armies/Abilities/ArmyDimentionDoor", "Armies/Abilities/ArmyDimentionDoorFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyDragonDiscipleBard", "Armies/UnitBlueprints/KTC_ArmyDragonDiscipleBard"], "children": ["Armies/Abilities/ArmyDimentionDoor", "Armies/Abilities/ArmyDimentionDoorFact"]}

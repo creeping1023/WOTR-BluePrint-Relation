@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/Ch5_QueenDevoured", "Kingdom/GlobalMapRituals/GlobalSpellLocustSummonSwarmFeature"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Kingdom/GlobalMapRituals/GlobalSpellLocustSummonSwarmFeature", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/Ch5_QueenDevoured"]}

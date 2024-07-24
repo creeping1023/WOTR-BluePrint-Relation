@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerFeyBloodline/BloodragerFeySecondBloodline", "Classes/Bloodrager/BloodragerBloodlines/BloodragerFeyBloodline/BloodragerFeyBloodline"], "children": ["Classes/Bloodrager/BloodragerClass", "Spells/Level4/ConfusionSpell"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerFeyBloodline/BloodragerFeySecondBloodline", "Classes/Bloodrager/BloodragerBloodlines/BloodragerFeyBloodline/BloodragerFeyBloodline"], "children": ["Spells/Level4/ConfusionSpell", "Classes/Bloodrager/BloodragerClass"]}

@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerConjuration/DweomerAcidArrowAiAction"]}
+{"children": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerConjuration/DweomerAcidArrowAiAction", "Brain/Actions/AttackAiAction"]}

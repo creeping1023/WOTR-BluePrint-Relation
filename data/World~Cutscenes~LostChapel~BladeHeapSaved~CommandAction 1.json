@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/BladeHeapSaved/BladeHeapSaved"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/RegillBeginning_Allied", "World/Cutscenes/LostChapel/WoundedParam/WoundedParam"]}
+{"parents": ["World/Cutscenes/LostChapel/BladeHeapSaved/BladeHeapSaved"], "children": ["World/Cutscenes/LostChapel/WoundedParam/WoundedParam", "World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/RegillBeginning_Allied"]}

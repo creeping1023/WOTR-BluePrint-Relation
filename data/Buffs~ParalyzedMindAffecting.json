@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/WildHunt/WildGaze/WildGazeAreaEffect", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_SpellscribedMummyMiniBoss/Despair_AreaEffect", "Root/BlueprintRoot"]}
+{"parents": ["Units/Monsters/WildHunt/WildGaze/WildGazeAreaEffect", "Root/BlueprintRoot", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_SpellscribedMummyMiniBoss/Despair_AreaEffect"]}

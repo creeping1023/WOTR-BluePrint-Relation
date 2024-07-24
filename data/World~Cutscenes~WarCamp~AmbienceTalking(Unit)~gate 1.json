@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/AmbienceTalking(Unit)/gate"], "children": ["World/Cutscenes/WarCamp/AmbienceTalking(Unit)/CommandDelay 1", "World/Cutscenes/WarCamp/AmbienceTalking(Unit)/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/WarCamp/AmbienceTalking(Unit)/gate"], "children": ["World/Cutscenes/WarCamp/AmbienceTalking(Unit)/CommandActivateGate", "World/Cutscenes/WarCamp/AmbienceTalking(Unit)/CommandDelay 1"]}

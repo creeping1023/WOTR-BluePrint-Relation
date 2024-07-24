@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bard/BardicPerformances/InspireCourage/InspireCourageArea"], "children": ["Classes/Monk/Archetypes/Sensei/SenseiArchetype", "Classes/Paladin/Archetypes/Martyr/MartyrArchetype", "Classes/Bard/BardClass", "Classes/Monk/MonkClass", "Classes/Paladin/PaladinClass"]}
+{"parents": ["Classes/Bard/BardicPerformances/InspireCourage/InspireCourageArea"], "children": ["Classes/Monk/MonkClass", "Classes/Bard/BardClass", "Classes/Paladin/PaladinClass", "Classes/Monk/Archetypes/Sensei/SenseiArchetype", "Classes/Paladin/Archetypes/Martyr/MartyrArchetype"]}

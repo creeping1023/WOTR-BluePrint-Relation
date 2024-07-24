@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Hermits_barrier/CommandAction4"], "children": ["Classes/Basic/Deities/ForbiddenDeityFeature", "Races/HumanRace", "Factions/Player", "Brain/Companions/Character_Brain", "WeaponEmptyHand"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Hermits_barrier/CommandAction4"], "children": ["Brain/Companions/Character_Brain", "Factions/Player", "Classes/Basic/Deities/ForbiddenDeityFeature", "Races/HumanRace", "WeaponEmptyHand"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Items/Consumables/UniquePF2/DLC5_LowFantasy2/ShadoweelDrinkAbility"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/Consumables/UniquePF2/DLC5_LowFantasy2/ShadoweelDrinkAbility", "Items/DestructibleItemsShards/GlassShardItem"]}

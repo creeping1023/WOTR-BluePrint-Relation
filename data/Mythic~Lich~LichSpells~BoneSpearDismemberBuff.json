@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichSpells/BoneSpearConjure"], "children": ["Mythic7lvlLich_BoneLance00_ControllableProjectileBlueprint", "Mythic/Lich/LichSpells/BoneSpearProjectileBuff"]}
+{"parents": ["Mythic/Lich/LichSpells/BoneSpearConjure"], "children": ["Mythic/Lich/LichSpells/BoneSpearProjectileBuff", "Mythic7lvlLich_BoneLance00_ControllableProjectileBlueprint"]}

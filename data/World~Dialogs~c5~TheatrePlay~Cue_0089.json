@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/CueSequence_0086"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwin1"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/CueSequence_0086"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwin1", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

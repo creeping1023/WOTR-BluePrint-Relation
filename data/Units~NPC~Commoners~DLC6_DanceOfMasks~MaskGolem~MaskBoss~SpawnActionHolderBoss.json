@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/LostChapel/Buffs/CantAct", "Buffs/NPC_Untargetable", "World/Encounters/LostChapel/Buffs/CantMove", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskBoss/SpawnAnimationMaskBossGolemBuff"]}
+{"children": ["World/Encounters/LostChapel/Buffs/CantMove", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskBoss/SpawnAnimationMaskBossGolemBuff", "World/Encounters/LostChapel/Buffs/CantAct", "Buffs/NPC_Untargetable"]}

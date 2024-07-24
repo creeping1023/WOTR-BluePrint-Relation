@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_HepzamirahGhost/CueSequence_0028"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_HepzamirahGhost/Cue_0030"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_HepzamirahGhost/CueSequence_0028"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_HepzamirahGhost/Cue_0030", "Units/Companions/Woljif/Woljif_Companion"]}

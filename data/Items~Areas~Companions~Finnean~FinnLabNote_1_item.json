@@ -1,1 +1,1 @@
-{"parents": ["Loot/Quest/TempleOfDelamere/TrashLoot01", "Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR12/PF2_Demons_FinnLabNote1", "World/Dialogs/Companions/CompanionDialogues/Finnean/Answer_0033"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Good/CR12/PF2_Demons_FinnLabNote1", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/Companions/CompanionDialogues/Finnean/Answer_0033", "Loot/Quest/TempleOfDelamere/TrashLoot01"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

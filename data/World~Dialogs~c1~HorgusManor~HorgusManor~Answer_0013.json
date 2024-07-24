@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/HorgusManor/HorgusManor/AnswersList_0003"], "children": ["World/Dialogs/c1/HorgusManor/HorgusManor/Cue_0014", "World/Quests/c1/HorgusManor/Obj02a_GoToHorgusManorMaybe"]}
+{"parents": ["World/Dialogs/c1/HorgusManor/HorgusManor/AnswersList_0003"], "children": ["World/Quests/c1/HorgusManor/Obj02a_GoToHorgusManorMaybe", "World/Dialogs/c1/HorgusManor/HorgusManor/Cue_0014"]}

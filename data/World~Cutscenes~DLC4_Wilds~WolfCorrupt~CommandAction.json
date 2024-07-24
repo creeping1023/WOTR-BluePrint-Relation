@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Wilds/WolfCorrupt/WolfCorrupt"], "children": ["Buffs/NPC_Protection", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DLC4_Wilds/WolfCorrupt/WolfCorrupt"], "children": ["Factions/Mobs", "Buffs/NPC_Protection"]}

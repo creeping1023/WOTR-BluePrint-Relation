@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Halfling/CravenHalfling", "Traits/Races/Halfling/HastyHalfling", "Spells/Level2/BlessingOfLuckAndResolveBuff", "Races/HalflingRace", "Races/SarcorianChildRace", "Buffs/DLC3/DLC3_BUFFS/DLC3_HalflingBuff/DLC3_HalflingBuffedRace"]}
+{"parents": ["Buffs/DLC3/DLC3_BUFFS/DLC3_HalflingBuff/DLC3_HalflingBuffedRace", "Spells/Level2/BlessingOfLuckAndResolveBuff", "Traits/Races/Halfling/HastyHalfling", "Races/SarcorianChildRace", "Traits/Races/Halfling/CravenHalfling", "Races/HalflingRace"]}

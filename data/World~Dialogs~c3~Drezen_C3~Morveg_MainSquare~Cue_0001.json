@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/Drezen_C3/Morveg_MainSquare/Morveg_MainSquare"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Morveg", "World/Dialogs/c3/Drezen_C3/Morveg_MainSquare/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/Morveg_MainSquare/Morveg_MainSquare", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Morveg", "World/Dialogs/c3/Drezen_C3/Morveg_MainSquare/AnswersList_0002"]}

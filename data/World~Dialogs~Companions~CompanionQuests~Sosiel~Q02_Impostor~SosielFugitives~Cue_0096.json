@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Answer_0095"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0085"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Answer_0095"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0085", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

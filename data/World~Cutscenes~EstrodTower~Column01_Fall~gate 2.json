@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/EstrodTower/Column01_Fall/gate 1", "World/Cutscenes/EstrodTower/Column01_Fall/Column01_Fall"], "children": ["World/Cutscenes/EstrodTower/Column01_Fall/CommandAction 4"]}
+{"parents": ["World/Cutscenes/EstrodTower/Column01_Fall/Column01_Fall", "World/Cutscenes/EstrodTower/Column01_Fall/gate 1"], "children": ["World/Cutscenes/EstrodTower/Column01_Fall/CommandAction 4"]}

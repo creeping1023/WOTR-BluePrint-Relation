@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/AnswersList_0061"], "children": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0008", "World/Encounters/AreeluLab/UnlockableFlags/AL_SeenHolosceneEx4"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/AnswersList_0061"], "children": ["World/Encounters/AreeluLab/UnlockableFlags/AL_SeenHolosceneEx4", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0008"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/gate 2"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrStates/PrisonerOfKestoglyr", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_Melazmera"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/gate 2"], "children": ["World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_Melazmera", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrStates/PrisonerOfKestoglyr"]}

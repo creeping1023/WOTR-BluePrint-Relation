@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nocticula_main/CueSequence_0142"], "children": ["World/Quests/MythicQuests/Demon/C4_ShadowsDance/C4_ShadowsDance", "World/Dialogs/c4/Nocticula_main/AnswersList_0322", "World/Dialogs/c4/Nocticula_main/Cue_0333"]}
+{"parents": ["World/Dialogs/c4/Nocticula_main/CueSequence_0142"], "children": ["World/Dialogs/c4/Nocticula_main/Cue_0333", "World/Quests/MythicQuests/Demon/C4_ShadowsDance/C4_ShadowsDance", "World/Dialogs/c4/Nocticula_main/AnswersList_0322"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Irmangaleth_C3/Answer_0027", "Root/Upgraders/Player/PF-219703"], "children": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Irmangaleth_C3/Cue_0017"]}
+{"parents": ["Root/Upgraders/Player/PF-219703", "World/Dialogs/c3/Mythic_Demon/Alushinyrra/Irmangaleth_C3/Answer_0027"], "children": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Irmangaleth_C3/Cue_0017"]}

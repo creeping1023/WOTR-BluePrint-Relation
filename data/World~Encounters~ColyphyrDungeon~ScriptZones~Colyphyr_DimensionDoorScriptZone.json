@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/ColyphyrDungeon/UnlockableFlags/Colyphyr_OutOfCage", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KestoglyrCellBodaks", "Factions/Mobs"]}
+{"children": ["Factions/Mobs", "World/Encounters/ColyphyrDungeon/UnlockableFlags/Colyphyr_OutOfCage", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KestoglyrCellBodaks"]}

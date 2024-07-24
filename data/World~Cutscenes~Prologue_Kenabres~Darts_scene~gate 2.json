@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Kenabres/Darts_scene/gate 10", "World/Cutscenes/Prologue_Kenabres/Darts_scene/gate 9"], "children": ["World/Cutscenes/Prologue_Kenabres/Darts_scene/CommandDelay 6", "World/Cutscenes/Prologue_Kenabres/Darts_scene/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/Prologue_Kenabres/Darts_scene/gate 10", "World/Cutscenes/Prologue_Kenabres/Darts_scene/gate 9"], "children": ["World/Cutscenes/Prologue_Kenabres/Darts_scene/CommandActivateGate", "World/Cutscenes/Prologue_Kenabres/Darts_scene/CommandDelay 6"]}

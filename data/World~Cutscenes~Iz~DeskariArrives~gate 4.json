@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/DeskariArrives/gate 3"], "children": ["World/Cutscenes/Iz/DeskariArrives/CommandControlCamera 1", "World/Cutscenes/Iz/DeskariArrives/CommandAction 2", "World/Cutscenes/Iz/DeskariArrives/CommandAction1", "World/Cutscenes/Iz/DeskariArrives/gate 1"]}
+{"parents": ["World/Cutscenes/Iz/DeskariArrives/gate 3"], "children": ["World/Cutscenes/Iz/DeskariArrives/gate 1", "World/Cutscenes/Iz/DeskariArrives/CommandAction 2", "World/Cutscenes/Iz/DeskariArrives/CommandControlCamera 1", "World/Cutscenes/Iz/DeskariArrives/CommandAction1"]}

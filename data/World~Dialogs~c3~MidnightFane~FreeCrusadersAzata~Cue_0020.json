@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FreeCrusadersAzata/Cue_0017"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_MidnightFaneReinforced/MythicAzata_MidnightFane_RushForward"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FreeCrusadersAzata/Cue_0017"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_MidnightFaneReinforced/MythicAzata_MidnightFane_RushForward", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Duergars/CR0.3_DuergarWarrior1"], "children": ["Classes/NPC/Warrior/WarriorClass", "Classes/Basic/BasicFeatSelection", "Feats/WeaponFocus/WeaponFocus", "Classes/Basic/BasicFeatSelection", "Feats/WeaponFocus/WeaponFocus", "Feats/WeaponFocus/WeaponFocus"]}
+{"parents": ["Units/NPC/Commoners/Duergars/CR0.3_DuergarWarrior1"], "children": ["Classes/NPC/Warrior/WarriorClass", "Feats/WeaponFocus/WeaponFocus", "Classes/Basic/BasicFeatSelection"]}

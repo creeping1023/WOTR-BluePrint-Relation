@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Kitsune/KitsuneMagicTailSpellLikes/VanishKitsune", "Feats/KitsuneFeats/MagicalTail1", "Classes/Sorcerer/Archetypes/NineTailedHeir/MagicalTailIncreaseResourceFeature/MagicalTail1IncreaseResource"]}
+{"parents": ["Classes/Sorcerer/Archetypes/NineTailedHeir/MagicalTailIncreaseResourceFeature/MagicalTail1IncreaseResource", "Feats/KitsuneFeats/MagicalTail1", "Traits/Races/Kitsune/KitsuneMagicTailSpellLikes/VanishKitsune"]}

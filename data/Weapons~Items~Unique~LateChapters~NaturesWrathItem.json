@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/C61_IssiliVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Trident", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/LateChapters/NaturesWrathEnchantment"]}
+{"parents": ["Items/Vendors/C61_IssiliVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement5", "Weapons/Types/SimpleTwoHanded/Trident", "Weapons/Items/Unique/LateChapters/NaturesWrathEnchantment"]}

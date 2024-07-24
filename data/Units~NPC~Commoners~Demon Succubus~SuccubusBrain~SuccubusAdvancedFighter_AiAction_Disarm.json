@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusAdvancedFighter_Brain"], "children": ["Brain/Considerations/NoBuffDisarm", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotAnimalCompanionConsideration", "Feats/Maneuvers/Disarm/DisarmAction"]}
+{"parents": ["Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusAdvancedFighter_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffDisarm", "Feats/Maneuvers/Disarm/DisarmAction", "Brain/Considerations/NotAnimalCompanionConsideration"]}

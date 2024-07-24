@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Aeon/AeonCriminalJudgement/DrezenDouble/Cue_0011"], "children": ["World/Dialogs/c5/Mythic_Aeon/AeonCriminalJudgement/DrezenDouble/Cue_0015", "World/Encounters/DrezenCapital/UnlockableFlags/Aeon_DevilCounter"]}
+{"parents": ["World/Dialogs/c5/Mythic_Aeon/AeonCriminalJudgement/DrezenDouble/Cue_0011"], "children": ["World/Encounters/DrezenCapital/UnlockableFlags/Aeon_DevilCounter", "World/Dialogs/c5/Mythic_Aeon/AeonCriminalJudgement/DrezenDouble/Cue_0015"]}

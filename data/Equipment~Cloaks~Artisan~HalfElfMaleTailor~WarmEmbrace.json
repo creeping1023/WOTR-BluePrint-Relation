@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Spells/Level3/DeepSlumber", "Equipment/Armor/Enchantments/ColdResistance10Enchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Enchantments/ColdResistance10Enchant", "Spells/Level3/DeepSlumber", "Items/DestructibleItemsShards/ClothShardItem"]}

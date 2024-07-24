@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Arrivals/MimicsArrive/MimicsArrive_azata_c3_dialog"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_MimicChest_Dialog", "World/Dialogs/c3/Mythic_Azata/Arrivals/MimicsArrive/Cue_0002"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Arrivals/MimicsArrive/MimicsArrive_azata_c3_dialog"], "children": ["World/Dialogs/c3/Mythic_Azata/Arrivals/MimicsArrive/Cue_0002", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_MimicChest_Dialog"]}

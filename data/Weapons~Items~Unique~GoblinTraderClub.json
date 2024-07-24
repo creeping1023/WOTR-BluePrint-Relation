@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/GoblinVillageVendorTable"], "children": ["Weapons/Items/Masterwork/MasterworkClub", "Weapons/Types/SimpleOneHanded/Club", "Weapons/Enchantments/Masterwork"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/GoblinVillageVendorTable"], "children": ["Weapons/Types/SimpleOneHanded/Club", "Weapons/Items/Masterwork/MasterworkClub", "Weapons/Enchantments/Masterwork"]}

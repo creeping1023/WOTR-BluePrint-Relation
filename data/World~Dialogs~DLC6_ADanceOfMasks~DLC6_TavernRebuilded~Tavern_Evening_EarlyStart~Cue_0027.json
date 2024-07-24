@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_EarlyStart/CueSequence_0018"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_EarlyStart/Cue_0015", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_EarlyStart/CueSequence_0018"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_EarlyStart/Cue_0015"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/DarkBalor_main/Answer_2"], "children": ["World/Encounters/DLC3_AlushinyrraPort/UnlockableFlags/Balor_win", "World/Dialogs/DLC3_Roguelike/DarkBalor_main/AnswersList_0025", "World/Dialogs/DLC3_Roguelike/DarkBalor_main/CueSequence_0001"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/DarkBalor_main/Answer_2"], "children": ["World/Dialogs/DLC3_Roguelike/DarkBalor_main/CueSequence_0001", "World/Encounters/DLC3_AlushinyrraPort/UnlockableFlags/Balor_win", "World/Dialogs/DLC3_Roguelike/DarkBalor_main/AnswersList_0025"]}

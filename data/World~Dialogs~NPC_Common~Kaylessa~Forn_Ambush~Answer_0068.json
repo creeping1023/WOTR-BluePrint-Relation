@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/AnswersList_0026", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0070", "World/Quests/c1/HuntingKaylessa/HuntingKaylessa_quest"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/AnswersList_0026", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c1/HuntingKaylessa/HuntingKaylessa_quest", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0070"]}

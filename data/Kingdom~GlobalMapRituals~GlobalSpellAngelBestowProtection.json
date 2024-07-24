@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagAngel5BestowProtection", "Kingdom/GlobalMapRituals/GlobalSpellAngelBestowProtectionFeature"], "children": ["Kingdom/GlobalMapRituals/GlobalSpellAngelBestowProtectionBuff"]}
+{"parents": ["Kingdom/GlobalMapRituals/GlobalSpellAngelBestowProtectionFeature", "Armies/CrusadeGlobalBuffs/FlagAngel5BestowProtection"], "children": ["Kingdom/GlobalMapRituals/GlobalSpellAngelBestowProtectionBuff"]}

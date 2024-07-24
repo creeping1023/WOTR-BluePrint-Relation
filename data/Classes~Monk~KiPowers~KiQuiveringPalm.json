@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/KiPowers/KiQuiveringPalmFeature"], "children": ["Weapons/Types/Special/TouchItem", "Classes/Monk/KiPowers/KiPowerResource", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/KiPowers/KiQuiveringPalmFeature"], "children": ["Classes/Monk/MonkClass", "Weapons/Types/Special/TouchItem", "Classes/Monk/KiPowers/KiPowerResource"]}

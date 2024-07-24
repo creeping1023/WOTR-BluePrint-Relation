@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichUniqueAbilities/DeadlyMagic/DeadlyMagicFeature"], "children": ["Mythic/Lich/LichUniqueAbilities/DeadlyMagic/DeadlyMagicResource", "Mythic/Lich/LichUniqueAbilities/DeadlyMagic/DeadlyMagicBuff"]}
+{"parents": ["Mythic/Lich/LichUniqueAbilities/DeadlyMagic/DeadlyMagicFeature"], "children": ["Mythic/Lich/LichUniqueAbilities/DeadlyMagic/DeadlyMagicBuff", "Mythic/Lich/LichUniqueAbilities/DeadlyMagic/DeadlyMagicResource"]}

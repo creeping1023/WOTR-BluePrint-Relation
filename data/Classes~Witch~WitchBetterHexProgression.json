@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchProgression"], "children": ["Classes/Witch/WitchClass", "Classes/WinterWitch/WinterWitchClass", "Classes/Witch/WitchMajorHex", "Classes/Witch/WitchGrandHex"]}
+{"parents": ["Classes/Witch/WitchProgression"], "children": ["Classes/WinterWitch/WinterWitchClass", "Classes/Witch/WitchGrandHex", "Classes/Witch/WitchMajorHex", "Classes/Witch/WitchClass"]}

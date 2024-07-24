@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_SpiritOfTheTower_Main/Cue_0014"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_SpiritOfTheTower_Main/Cue_43"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_SpiritOfTheTower_Main/Cue_0014"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_SpiritOfTheTower_Main/Cue_43", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

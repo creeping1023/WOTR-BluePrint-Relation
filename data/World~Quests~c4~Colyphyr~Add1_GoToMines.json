@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c4/Colyphyr/Obj1_DestroyMines", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Quests/c4/Colyphyr/Colyphyr_quest"], "children": ["World/Quests/c4/Colyphyr/Colyphyr_quest"]}
+{"parents": ["World/Quests/c4/Colyphyr/Colyphyr_quest", "World/Quests/c4/Colyphyr/Obj1_DestroyMines", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c4/Colyphyr/Colyphyr_quest"]}

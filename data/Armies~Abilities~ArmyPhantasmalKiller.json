@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyPhantasmalKillerFeature"], "children": ["Armies/Abilities/ArmyPhantasmalKillerResource", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerTwice"]}
+{"parents": ["Armies/Abilities/ArmyPhantasmalKillerFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerTwice", "Armies/Abilities/ArmyPhantasmalKillerResource"]}

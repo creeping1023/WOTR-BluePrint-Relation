@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanHexAirBarrierAbility", "Units/Monsters/Gargoyle/LostChapel/GargoyleWindseeker"], "children": ["Classes/Shaman/ShamanClass", "Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanHexAirBarrierMissBuff", "Classes/Shaman/ShamanClass"]}
+{"parents": ["Units/Monsters/Gargoyle/LostChapel/GargoyleWindseeker", "Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanHexAirBarrierAbility"], "children": ["Classes/Shaman/ShamanClass", "Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanHexAirBarrierMissBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/AnswersList_0036"], "children": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0050", "Units/Companions/Arueshalae/Arueshalae_Companion"]}
+{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/AnswersList_0036"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0050"]}

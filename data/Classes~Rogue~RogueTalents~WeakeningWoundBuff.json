@@ -1,1 +1,1 @@
-{"parents": ["Classes/Rogue/RogueTalents/WeakeningWoundFeature"], "children": ["Classes/Alchemist/Archetypes/Vivisectionist/VivisectionistArchetype", "Classes/Rogue/RogueClass", "Classes/Alchemist/AlchemistClass", "Classes/Slayer/SlayerClass"]}
+{"parents": ["Classes/Rogue/RogueTalents/WeakeningWoundFeature"], "children": ["Classes/Slayer/SlayerClass", "Classes/Alchemist/Archetypes/Vivisectionist/VivisectionistArchetype", "Classes/Alchemist/AlchemistClass", "Classes/Rogue/RogueClass"]}

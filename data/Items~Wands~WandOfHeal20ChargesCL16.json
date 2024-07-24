@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR10/RichHuman_SecretCompartment", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level6/HealCast"]}
+{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands", "Loot/Good/CR10/RichHuman_SecretCompartment"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level6/HealCast"]}

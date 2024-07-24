@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/Portrait/CueSequence_0046"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielRomance/SosielConfidence_Flower", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/Portrait/CueSequence_0046"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielRomance/SosielConfidence_Flower"]}

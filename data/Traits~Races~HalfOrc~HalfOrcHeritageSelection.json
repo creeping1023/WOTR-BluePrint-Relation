@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Fighter_FeatureList", "Races/HalfOrcRace"], "children": ["Traits/Races/BaseRaceFeature", "Traits/Races/HalfOrc/HumanRaisedHalfOrc", "Traits/Races/HalfOrc/TribalHalfOrc", "Traits/Races/BaseRaceFeature", "Traits/Races/HalfOrc/HumanRaisedHalfOrc", "Traits/Races/HalfOrc/TribalHalfOrc"]}
+{"parents": ["Races/HalfOrcRace", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Fighter_FeatureList"], "children": ["Traits/Races/HalfOrc/HumanRaisedHalfOrc", "Traits/Races/BaseRaceFeature", "Traits/Races/HalfOrc/TribalHalfOrc"]}

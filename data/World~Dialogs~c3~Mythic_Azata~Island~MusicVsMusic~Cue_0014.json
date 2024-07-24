@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/MusicVsMusic/Cue_0003"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_DesnaPriest", "World/Dialogs/c3/Mythic_Azata/Island/MusicVsMusic/Cue_0015"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/MusicVsMusic/Cue_0003"], "children": ["World/Dialogs/c3/Mythic_Azata/Island/MusicVsMusic/Cue_0015", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_DesnaPriest"]}

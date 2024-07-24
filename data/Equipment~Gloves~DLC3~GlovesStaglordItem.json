@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/PF2_DLC5/Tavern/Kerismei/KerismeiMagicItems/DLC5_KerismeiItemAfterGiantsTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Gloves/DLC3/GlovesStaglordEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/PF2_DLC5/Tavern/Kerismei/KerismeiMagicItems/DLC5_KerismeiItemAfterGiantsTable"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Gloves/DLC3/GlovesStaglordEnchantment"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/ImportantStates/GameAchievements/48_Spark", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Achievements/48_Spark", "World/Etudes/Common/ImportantStates/GameAchievements/48_Spark"]}
+{"parents": ["World/Etudes/Common/ImportantStates/GameAchievements/48_Spark", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/48_Spark", "Achievements/48_Spark"]}

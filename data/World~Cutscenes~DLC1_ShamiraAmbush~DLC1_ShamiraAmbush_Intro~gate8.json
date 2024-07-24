@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/gate7", "World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/gate2"], "children": ["World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/CommandAction"]}
+{"parents": ["World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/gate2", "World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/gate7"], "children": ["World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/CommandAction"]}

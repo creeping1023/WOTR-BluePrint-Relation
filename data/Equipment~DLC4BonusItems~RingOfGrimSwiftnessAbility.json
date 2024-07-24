@@ -1,1 +1,1 @@
-{"parents": ["Equipment/DLC4BonusItems/RingOfGrimSwiftnessItem"], "children": ["Spells/Level3/SlowBuff", "Spells/Level3/SlowBuff", "Spells/Level3/HasteBuff"]}
+{"parents": ["Equipment/DLC4BonusItems/RingOfGrimSwiftnessItem"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/SlowBuff"]}

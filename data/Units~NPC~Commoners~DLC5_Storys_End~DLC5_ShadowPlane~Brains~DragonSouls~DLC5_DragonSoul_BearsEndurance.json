@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/DragonSouls/DLC5_DragonSoul_BearsEnduranceAiAction", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_CR8_ShadowPlaneDragonSoul_MageArmor"], "children": ["Spells/Level2/BearsEnduranceBuff"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_CR8_ShadowPlaneDragonSoul_MageArmor", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/DragonSouls/DLC5_DragonSoul_BearsEnduranceAiAction"], "children": ["Spells/Level2/BearsEnduranceBuff"]}

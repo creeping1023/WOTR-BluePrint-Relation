@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0027"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0032"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0027"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0032", "Units/Companions/Regill/Regill_Companion"]}

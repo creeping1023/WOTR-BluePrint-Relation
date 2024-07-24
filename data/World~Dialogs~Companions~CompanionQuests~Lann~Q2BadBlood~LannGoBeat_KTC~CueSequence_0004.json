@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/LannGoBeat_KTC/Cue_0001"], "children": ["World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/LannGoBeat_KTC/Cue_0003", "World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/LannGoBeat_KTC/SequenceExit_0005"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/LannGoBeat_KTC/Cue_0001"], "children": ["World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/LannGoBeat_KTC/SequenceExit_0005", "World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/LannGoBeat_KTC/Cue_0003"]}

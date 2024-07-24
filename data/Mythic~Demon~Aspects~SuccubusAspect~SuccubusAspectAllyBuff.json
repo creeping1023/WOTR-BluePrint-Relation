@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/Aspects/SuccubusAspect/SuccubusAspectAllyArea"], "children": ["Equipment/Cloaks/PF2/Artifact_MythicCloaks/Artifact_DemonCloakBuff", "CreatureAbilities/Immunities/IgnoreImmunityToFear"]}
+{"parents": ["Mythic/Demon/Aspects/SuccubusAspect/SuccubusAspectAllyArea"], "children": ["CreatureAbilities/Immunities/IgnoreImmunityToFear", "Equipment/Cloaks/PF2/Artifact_MythicCloaks/Artifact_DemonCloakBuff"]}

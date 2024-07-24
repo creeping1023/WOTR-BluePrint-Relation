@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Anemora/CueSequence_0126"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Anemora", "World/Dialogs/c5/Iz/Anemora/Cue_0129"]}
+{"parents": ["World/Dialogs/c5/Iz/Anemora/CueSequence_0126"], "children": ["World/Dialogs/c5/Iz/Anemora/Cue_0129", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Anemora", "Units/Companions/Nenio/Nenio_Companion"]}

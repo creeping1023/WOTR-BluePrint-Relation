@@ -1,1 +1,1 @@
-{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Sorcerer/SorcererClass", "Classes/Sorcerer/Archetypes/EmpyrealSorcererArchetype", "Classes/Sorcerer/SorcererClass", "Classes/Sorcerer/Archetypes/EmpyrealSpellbook"]}
+{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Sorcerer/Archetypes/EmpyrealSpellbook", "Classes/Sorcerer/SorcererClass", "Classes/Sorcerer/Archetypes/EmpyrealSorcererArchetype"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC4_Wilds/ActionsHolders/WIlds_Coprse_fail"], "children": ["World/Cutscenes/DLC4_Wilds/Wilds_Corpse_fail/CommandFadeout", "World/Cutscenes/DLC4_Wilds/Wilds_Corpse_fail/CommandAction"]}
+{"parents": ["World/Encounters/DLC4_Wilds/ActionsHolders/WIlds_Coprse_fail"], "children": ["World/Cutscenes/DLC4_Wilds/Wilds_Corpse_fail/CommandAction", "World/Cutscenes/DLC4_Wilds/Wilds_Corpse_fail/CommandFadeout"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MagusBoss/DLC5_FetchlingMagusBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantSwitchAbility"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MagusBoss/DLC5_FetchlingMagusBrain"], "children": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantSwitchAbility", "Brain/Considerations/SwiftActionOffCooldown"]}

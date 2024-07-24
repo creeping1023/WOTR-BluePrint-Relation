@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyBreathWeaponAbilitySilverDragon", "Armies/Abilities/ArmyFreezeOnHitFeature", "Brain/Considerations/NoBuffFreezeArmy"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower"]}
+{"parents": ["Brain/Considerations/NoBuffFreezeArmy", "Armies/Abilities/ArmyBreathWeaponAbilitySilverDragon", "Armies/Abilities/ArmyFreezeOnHitFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower"]}

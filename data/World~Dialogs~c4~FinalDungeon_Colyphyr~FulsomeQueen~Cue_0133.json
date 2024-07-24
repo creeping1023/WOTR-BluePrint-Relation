@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Cue_0131"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Cue_0134"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Cue_0131"], "children": ["World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Cue_0134", "Units/Companions/Nenio/Nenio_Companion"]}

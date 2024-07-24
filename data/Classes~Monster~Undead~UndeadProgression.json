@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/MythicLichSkeletonPets/MythicLichSkeletonArcherProgression", "Classes/Monster/Undead/UndeadClass", "Equipment/Amulets/UniquePF2/Chapter2/GuardianOfLifeBuff"], "children": ["Classes/Monster/Undead/UndeadClass", "Traits/Races/Common/UndeadType"]}
+{"parents": ["Classes/Pets/MythicLichSkeletonPets/MythicLichSkeletonArcherProgression", "Equipment/Amulets/UniquePF2/Chapter2/GuardianOfLifeBuff", "Classes/Monster/Undead/UndeadClass"], "children": ["Traits/Races/Common/UndeadType", "Classes/Monster/Undead/UndeadClass"]}

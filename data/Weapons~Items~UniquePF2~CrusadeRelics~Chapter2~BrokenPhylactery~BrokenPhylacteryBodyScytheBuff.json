@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/CrusadeRelics/Chapter2/BrokenPhylactery/BrokenPhylacteryBodyScytheAbility", "Weapons/Items/UniquePF2/CrusadeRelics/Chapter2/BrokenPhylactery/BrokenPhylacteryBodyScytheRapidShot2Buff"], "children": ["Spells/Level1/BlessBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/CrusadeRelics/Chapter2/BrokenPhylactery/BrokenPhylacteryBodyScytheRapidShot2Buff", "Weapons/Items/UniquePF2/CrusadeRelics/Chapter2/BrokenPhylactery/BrokenPhylacteryBodyScytheAbility"], "children": ["Spells/Level1/BlessBuff"]}

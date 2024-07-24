@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Cue_0017", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/SkeletonTrader/SkeletonTrader", "World/Dialogs/c3/SkeletalSalesmanSE/Cue_0020"]}
+{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Cue_0017", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/SkeletalSalesmanSE/Cue_0020", "Units/NPC/Unique/Act_2_SwordOfValor/SkeletonTrader/SkeletonTrader"]}

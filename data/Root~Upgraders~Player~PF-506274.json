@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/c1/KenabresBurning/Ramien/Answer_0008", "World/Quests/c1/StarlightPath/StarlightPath_c1_quest", "World/Quests/c1/StarlightPath/Obj_hiddenFail"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/c1/StarlightPath/StarlightPath_c1_quest", "World/Quests/c1/StarlightPath/Obj_hiddenFail", "World/Dialogs/c1/KenabresBurning/Ramien/Answer_0008"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/gate"], "children": ["World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/CommandControlCamera", "World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/CommandDelay 3", "World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/gate 2"]}
+{"parents": ["World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/gate"], "children": ["World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/gate 2", "World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/CommandDelay 3", "World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/CommandControlCamera"]}

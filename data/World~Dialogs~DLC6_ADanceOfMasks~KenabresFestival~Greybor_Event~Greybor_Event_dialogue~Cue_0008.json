@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Greybor_Event/Greybor_Event_dialogue/Answer_0005"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Greybor_Event/Greybor_Event_dialogue/Cue_0010"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Greybor_Event/Greybor_Event_dialogue/Answer_0005"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Greybor_Event/Greybor_Event_dialogue/Cue_0010", "Units/Companions/Greybor/Greybor_Companion"]}

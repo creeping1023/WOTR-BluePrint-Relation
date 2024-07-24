@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/SkaldProgression", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic", "Classes/Skald/Archetypes/DemonDancer/DemonDancerArchetype", "Classes/Skald/RagingSong/InspiredRageEffectBuff"]}
+{"parents": ["Classes/Skald/RagingSong/InspiredRageEffectBuff", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic", "Classes/Skald/Archetypes/DemonDancer/DemonDancerArchetype", "Classes/Skald/SkaldProgression"]}

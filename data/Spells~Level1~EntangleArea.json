@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/Entangle"], "children": ["Spells/Level1/EntangleBuff", "Spells/Level1/EntangleBuffDifficultTerrain", "Spells/Level1/EntangleBuffDifficultTerrain", "Spells/Level1/EntangleBuff", "Spells/Level1/EntangleBuff", "Spells/Level1/EntangleBuff"]}
+{"parents": ["Spells/Level1/Entangle"], "children": ["Spells/Level1/EntangleBuffDifficultTerrain", "Spells/Level1/EntangleBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleProgression"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/MediumArmorProficiency", "Classes/Basic/Proficiencies/ShieldsProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}
+{"parents": ["Classes/Oracle/OracleProgression"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/MediumArmorProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency", "Classes/Basic/Proficiencies/ShieldsProficiency"]}

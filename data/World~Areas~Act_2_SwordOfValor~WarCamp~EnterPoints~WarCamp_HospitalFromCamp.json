@@ -1,1 +1,1 @@
-{"parents": ["QA/Arbiter/Scenario/Act_2_SwordOfValor/WarCamp", "World/Areas/Act_2_SwordOfValor/WarCamp/AreaTransitions/WarCamp_EarlyBeginning_toHospital"], "children": ["World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp", "World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp_Hospital"]}
+{"parents": ["World/Areas/Act_2_SwordOfValor/WarCamp/AreaTransitions/WarCamp_EarlyBeginning_toHospital", "QA/Arbiter/Scenario/Act_2_SwordOfValor/WarCamp"], "children": ["World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp_Hospital", "World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp"]}

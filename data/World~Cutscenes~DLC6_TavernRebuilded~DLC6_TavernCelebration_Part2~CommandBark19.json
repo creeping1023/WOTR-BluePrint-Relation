@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_TavernRebuilded/DLC6_TavernCelebration_Part2/gate6"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Encounters/DLC6_TavernRebuilded/UnlockableFlags/Ulbrig_Wishes", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}
+{"parents": ["World/Cutscenes/DLC6_TavernRebuilded/DLC6_TavernCelebration_Part2/gate6"], "children": ["World/Encounters/DLC6_TavernRebuilded/UnlockableFlags/Ulbrig_Wishes", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

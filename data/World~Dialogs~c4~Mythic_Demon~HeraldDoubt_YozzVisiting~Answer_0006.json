@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Demon/HeraldDoubt_YozzVisiting/AnswersList_0002"], "children": ["World/Dialogs/c4/Mythic_Demon/HeraldDoubt_YozzVisiting/Cue_0011", "World/Encounters/AlushinyrraLowerCity/UnlockableFlags/HeroldRespect"]}
+{"parents": ["World/Dialogs/c4/Mythic_Demon/HeraldDoubt_YozzVisiting/AnswersList_0002"], "children": ["World/Encounters/AlushinyrraLowerCity/UnlockableFlags/HeroldRespect", "World/Dialogs/c4/Mythic_Demon/HeraldDoubt_YozzVisiting/Cue_0011"]}

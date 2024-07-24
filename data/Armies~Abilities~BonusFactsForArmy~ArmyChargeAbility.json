@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmyChargeAbilityFeature"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyChargeAbilityBuff", "Armies/Abilities/BonusFactsForArmy/ArmyChargeAbilityCooldown", "Armies/Abilities/BonusFactsForArmy/ArmyChargeAbilityCooldown"]}
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmyChargeAbilityFeature"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyChargeAbilityCooldown", "Armies/Abilities/BonusFactsForArmy/ArmyChargeAbilityBuff"]}

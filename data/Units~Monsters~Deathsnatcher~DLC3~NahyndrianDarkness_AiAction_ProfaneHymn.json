@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/DLC3/NahyndrianDarkness_Brain"], "children": ["Units/Monsters/Deathsnatcher/DLC3/NahyndrianDarkness_Consideration_HasBuffProximityTrigger", "Mythic/Demon/DemonSpells/ProfaneHymn"]}
+{"parents": ["Units/Monsters/Deathsnatcher/DLC3/NahyndrianDarkness_Brain"], "children": ["Mythic/Demon/DemonSpells/ProfaneHymn", "Units/Monsters/Deathsnatcher/DLC3/NahyndrianDarkness_Consideration_HasBuffProximityTrigger"]}

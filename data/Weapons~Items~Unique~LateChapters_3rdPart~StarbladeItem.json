@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Starknife", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Holy", "Weapons/Items/Unique/LateChapters_3rdPart/StarbladeEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Starknife", "Weapons/Items/Unique/LateChapters_3rdPart/StarbladeEnchantment", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement5"]}

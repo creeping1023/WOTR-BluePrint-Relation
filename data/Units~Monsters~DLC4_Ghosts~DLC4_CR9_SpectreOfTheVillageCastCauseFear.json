@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC4_Ghosts/DLC4_CR9_SpectreOfTheVillageBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level1/CauseFear"]}
+{"parents": ["Units/Monsters/DLC4_Ghosts/DLC4_CR9_SpectreOfTheVillageBrain"], "children": ["Spells/Level1/CauseFear", "Brain/Considerations/AttackTargetsPriority"]}

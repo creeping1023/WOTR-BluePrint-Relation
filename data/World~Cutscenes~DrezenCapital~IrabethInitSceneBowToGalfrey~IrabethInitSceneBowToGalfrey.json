@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Cue_0013"], "children": ["World/Cutscenes/DrezenCapital/IrabethInitSceneBowToGalfrey/CommandUnitLookAt", "World/Cutscenes/DrezenCapital/IrabethInitSceneBowToGalfrey/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Cue_0013"], "children": ["World/Cutscenes/DrezenCapital/IrabethInitSceneBowToGalfrey/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DrezenCapital/IrabethInitSceneBowToGalfrey/CommandUnitLookAt"]}

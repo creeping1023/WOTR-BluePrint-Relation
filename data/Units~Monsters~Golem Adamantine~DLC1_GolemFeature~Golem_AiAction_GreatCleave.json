@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Golem Adamantine/DLC1_GolemFeature/Golem_Brain"], "children": ["Brain/Considerations/UnitsEnoughForCleave", "Brain/Considerations/AttackTargetsPriority", "Feats/Cleave/CleaveAction"]}
+{"parents": ["Units/Monsters/Golem Adamantine/DLC1_GolemFeature/Golem_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Feats/Cleave/CleaveAction", "Brain/Considerations/UnitsEnoughForCleave"]}

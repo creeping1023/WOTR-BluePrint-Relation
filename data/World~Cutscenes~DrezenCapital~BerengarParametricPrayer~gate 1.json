@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/BerengarParametricPrayer/gate"], "children": ["World/Cutscenes/DrezenCapital/BerengarParametricPrayer/CommandUnitPlayCutsceneAnimation 1", "World/Cutscenes/DrezenCapital/BerengarParametricPrayer/gate 2"]}
+{"parents": ["World/Cutscenes/DrezenCapital/BerengarParametricPrayer/gate"], "children": ["World/Cutscenes/DrezenCapital/BerengarParametricPrayer/gate 2", "World/Cutscenes/DrezenCapital/BerengarParametricPrayer/CommandUnitPlayCutsceneAnimation 1"]}

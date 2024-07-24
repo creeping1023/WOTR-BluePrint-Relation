@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Types/MartialRanged/CompositeShortbow", "Weapons/Types/MartialRanged/CompositeLongbow", "World/Encounters/DrezenCitadel_Level1/UniqWeapons/WallArcherCompositeLongbowType"]}
+{"parents": ["World/Encounters/DrezenCitadel_Level1/UniqWeapons/WallArcherCompositeLongbowType", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Types/MartialRanged/CompositeShortbow"]}

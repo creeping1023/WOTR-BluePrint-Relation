@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/BlackWingRuins/Caleb_MainDialogue/Cue_0038"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_AreasDefault/BWRDefault/BWRbattle", "Factions/Mobs", "World/Cutscenes/BlackWingRuins/TeleportPartyAtBattle/TeleportPartyAtBattle"]}
+{"parents": ["World/Dialogs/c1/BlackWingRuins/Caleb_MainDialogue/Cue_0038"], "children": ["Factions/Mobs", "World/Cutscenes/BlackWingRuins/TeleportPartyAtBattle/TeleportPartyAtBattle", "World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_AreasDefault/BWRDefault/BWRbattle"]}

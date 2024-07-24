@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Rewards/RewardLoot_ConsumablePotion_Tier2", "World/Dialogs/DLC3_Roguelike/Navigator/Answer_3"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Items/Potions/DLC3Potions/Tier2/Tier2Trash/Perfection"]}
+{"parents": ["Dugeons/Rewards/RewardLoot_ConsumablePotion_Tier2", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/DLC3_Roguelike/Navigator/Answer_3"], "children": ["Items/Potions/DLC3Potions/Tier2/Tier2Trash/Perfection", "Items/DestructibleItemsShards/GlassShardItem"]}

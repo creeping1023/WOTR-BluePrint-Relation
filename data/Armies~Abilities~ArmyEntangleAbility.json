@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyEntangleFeature"], "children": ["Armies/Abilities/ArmyEntangleBuff", "Armies/Abilities/ArmyEntangleResource"]}
+{"parents": ["Armies/Abilities/ArmyEntangleFeature"], "children": ["Armies/Abilities/ArmyEntangleResource", "Armies/Abilities/ArmyEntangleBuff"]}

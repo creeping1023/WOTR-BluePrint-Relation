@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0002"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/CiarEnemy", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Ciar", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Ciar/CiarGone"]}
+{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0002"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Ciar", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Ciar/CiarGone", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/CiarEnemy"]}

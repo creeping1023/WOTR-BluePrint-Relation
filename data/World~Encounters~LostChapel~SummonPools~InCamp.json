@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/AllGoAway/CommandAction 2", "World/Encounters/LostChapel/ActionsHolders/Add2PoolNenio_SpawnActions", "World/Encounters/LostChapel/ActionsHolders/Add2Pool_SpawnActions", "World/Cutscenes/LostChapel/GoToAneviaParam/CommandAction"]}
+{"parents": ["World/Encounters/LostChapel/ActionsHolders/Add2Pool_SpawnActions", "World/Cutscenes/LostChapel/AllGoAway/CommandAction 2", "World/Encounters/LostChapel/ActionsHolders/Add2PoolNenio_SpawnActions", "World/Cutscenes/LostChapel/GoToAneviaParam/CommandAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyVescavorSwarmStandard", "Armies/UnitBlueprints/ArmyLocustSwarmStandard", "Armies/UnitBlueprints/ArmySpiderSwarmStandard"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant"]}
+{"parents": ["Armies/UnitBlueprints/ArmyLocustSwarmStandard", "Armies/UnitBlueprints/ArmySpiderSwarmStandard", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant"]}

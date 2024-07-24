@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC5NewSpells/Implosion"], "children": ["Spells/DLC5NewSpells/ImplosionSelfAddActionBuff", "Spells/DLC5NewSpells/ImplosionRemoverAbility", "Spells/DLC5NewSpells/Implosion"]}
+{"parents": ["Spells/DLC5NewSpells/Implosion"], "children": ["Spells/DLC5NewSpells/ImplosionRemoverAbility", "Spells/DLC5NewSpells/ImplosionSelfAddActionBuff", "Spells/DLC5NewSpells/Implosion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogToggleAbility", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Inquisitors/Brain/IncenseFogActivate"], "children": ["Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogArea"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Inquisitors/Brain/IncenseFogActivate", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogToggleAbility"], "children": ["Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogArea"]}

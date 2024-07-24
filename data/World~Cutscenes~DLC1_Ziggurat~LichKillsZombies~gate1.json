@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_Ziggurat/LichKillsZombies/gate", "World/Cutscenes/DLC1_Ziggurat/LichKillsZombies/LichKillsZombies"], "children": ["World/Cutscenes/DLC1_Ziggurat/LichKillsZombies/CommandAction1"]}
+{"parents": ["World/Cutscenes/DLC1_Ziggurat/LichKillsZombies/LichKillsZombies", "World/Cutscenes/DLC1_Ziggurat/LichKillsZombies/gate"], "children": ["World/Cutscenes/DLC1_Ziggurat/LichKillsZombies/CommandAction1"]}

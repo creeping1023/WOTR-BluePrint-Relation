@@ -1,1 +1,1 @@
-{"children": ["Classes/Pets/AnimalCompanionUpgradeMonitor", "Classes/Pets/MonitorLizardChargeBuff7", "Classes/Pets/MonitorLizardChargeBuff", "Root/SystemMechanics/Abilities/ChargeAbility", "Root/SystemMechanics/Abilities/ChargeAbility"]}
+{"children": ["Root/SystemMechanics/Abilities/ChargeAbility", "Classes/Pets/MonitorLizardChargeBuff7", "Classes/Pets/AnimalCompanionUpgradeMonitor", "Classes/Pets/MonitorLizardChargeBuff"]}

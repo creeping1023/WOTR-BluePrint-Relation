@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerSerpentineBloodline/BloodragerSerpentineFangPoisonBuff", "Brain/Considerations/HasPoison"]}
+{"parents": ["Brain/Considerations/HasPoison", "Classes/Bloodrager/BloodragerBloodlines/BloodragerSerpentineBloodline/BloodragerSerpentineFangPoisonBuff"]}

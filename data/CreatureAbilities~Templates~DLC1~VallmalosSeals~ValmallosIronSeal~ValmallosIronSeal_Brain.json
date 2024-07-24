@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "CreatureAbilities/Templates/DLC1/VallmalosSeals/ValmallosAdamantineSeal/ValmallosSeal_AIAction_ChainLightning", "CreatureAbilities/Templates/DLC1/VallmalosSeals/ValmallosAdamantineSeal/ValmallosSeal_AIAction_Petrify"]}
+{"children": ["CreatureAbilities/Templates/DLC1/VallmalosSeals/ValmallosAdamantineSeal/ValmallosSeal_AIAction_ChainLightning", "CreatureAbilities/Templates/DLC1/VallmalosSeals/ValmallosAdamantineSeal/ValmallosSeal_AIAction_Petrify", "Brain/Actions/AttackAiAction"]}

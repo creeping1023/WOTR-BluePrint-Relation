@@ -1,1 +1,1 @@
-{"parents": ["Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireMediumBurnAbility", "Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireMediumBurnCasterBuff", "Spells/Level2/MoltenOrb"]}
+{"parents": ["Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireMediumBurnCasterBuff", "Spells/Level2/MoltenOrb", "Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireMediumBurnAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Blessings/Knowledge/KnowledgeBlessingMajorFeature"], "children": ["Classes/Warpriest/Blessings/Knowledge/KnowledgeBlessingMajorBuffTarget", "Weapons/Types/Special/TouchItem", "Classes/Warpriest/Blessings/BlessingResource"]}
+{"parents": ["Classes/Warpriest/Blessings/Knowledge/KnowledgeBlessingMajorFeature"], "children": ["Weapons/Types/Special/TouchItem", "Classes/Warpriest/Blessings/Knowledge/KnowledgeBlessingMajorBuffTarget", "Classes/Warpriest/Blessings/BlessingResource"]}

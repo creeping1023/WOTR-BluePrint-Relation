@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Answer_0007"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/SkeletonTrader/SkeletonTrader", "World/Encounters/Trader_Karelia/UnlockableFlags/RE_Trader_Attacked"]}
+{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Answer_0007"], "children": ["World/Encounters/Trader_Karelia/UnlockableFlags/RE_Trader_Attacked", "Units/NPC/Unique/Act_2_SwordOfValor/SkeletonTrader/SkeletonTrader"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLab/MonsterPoolAttack/gate"], "children": ["World/Encounters/AreeluLab/SummonPools/MonsterPoolGroup", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/AreeluLab/MonsterPoolAttack/gate"], "children": ["Factions/Mobs", "World/Encounters/AreeluLab/SummonPools/MonsterPoolGroup"]}

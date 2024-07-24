@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Sun/SunDomainGreaterFeatureSeparatist"], "children": ["Classes/Cleric/Archetypes/Separatist/Domains/Sun/SunDomainGreaterResourceSeparatist", "Classes/Cleric/Archetypes/Separatist/Domains/Sun/SunDomainGreaterBuffSeparatist"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Sun/SunDomainGreaterFeatureSeparatist"], "children": ["Classes/Cleric/Archetypes/Separatist/Domains/Sun/SunDomainGreaterBuffSeparatist", "Classes/Cleric/Archetypes/Separatist/Domains/Sun/SunDomainGreaterResourceSeparatist"]}

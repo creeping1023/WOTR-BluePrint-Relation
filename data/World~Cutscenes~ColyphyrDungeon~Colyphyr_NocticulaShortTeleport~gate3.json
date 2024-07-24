@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_NocticulaShortTeleport/gate2"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_NocticulaShortTeleport/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/ColyphyrDungeon/Colyphyr_NocticulaShortTeleport/gate1"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_NocticulaShortTeleport/gate2"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_NocticulaShortTeleport/gate1", "World/Cutscenes/ColyphyrDungeon/Colyphyr_NocticulaShortTeleport/CommandUnitPlayCutsceneAnimation"]}

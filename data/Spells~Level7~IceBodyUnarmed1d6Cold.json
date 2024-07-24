@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level7/IceBodyBuff", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/Special/Unarmed"]}
+{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Spells/Level7/IceBodyBuff"], "children": ["Weapons/Types/Special/Unarmed"]}

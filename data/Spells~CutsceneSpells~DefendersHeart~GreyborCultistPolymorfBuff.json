@@ -1,1 +1,1 @@
-{"parents": ["Units/Companions/Greybor/DefendersHeart/GreyborInDefHeartWithDagger", "World/Cutscenes/DefendersHeart/DH_StartDemonAttack_Pack2/CommandAction 3"], "children": ["Spells/Level5/PolymorphTurnBackAbility"]}
+{"parents": ["World/Cutscenes/DefendersHeart/DH_StartDemonAttack_Pack2/CommandAction 3", "Units/Companions/Greybor/DefendersHeart/GreyborInDefHeartWithDagger"], "children": ["Spells/Level5/PolymorphTurnBackAbility"]}

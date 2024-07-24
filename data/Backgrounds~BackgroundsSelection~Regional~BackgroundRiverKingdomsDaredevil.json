@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SylvanSorcererFeatureList", "Backgrounds/BackgroundsSelection/Regional/BackgroundsRegionalSelection"], "children": ["Feats/Proficiencies/ShortswordProficiency", "Feats/Proficiencies/DaggerProficiency"]}
+{"parents": ["Backgrounds/BackgroundsSelection/Regional/BackgroundsRegionalSelection", "Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SylvanSorcererFeatureList"], "children": ["Feats/Proficiencies/DaggerProficiency", "Feats/Proficiencies/ShortswordProficiency"]}

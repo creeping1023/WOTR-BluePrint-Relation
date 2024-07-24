@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLoot_VendorRare_Grade6", "Dugeons/Loot/DungeonLootRare"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Constitution4"]}
+{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootRare", "Dugeons/Loot/DungeonLoot_VendorRare_Grade6"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Constitution4"]}

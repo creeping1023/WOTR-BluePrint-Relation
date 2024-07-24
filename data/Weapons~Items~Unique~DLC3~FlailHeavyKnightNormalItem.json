@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Flail", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Thundering", "Weapons/Enchantments/Disruption"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor"], "children": ["Weapons/Enchantments/Disruption", "Weapons/Enchantments/Thundering", "Weapons/Types/MartialOneHanded/Flail", "Weapons/Enchantments/Enhancement2"]}

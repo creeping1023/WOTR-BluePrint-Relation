@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Azata/AzataAbilities/IncredibleMight/IncredibleMightFeature"], "children": ["Buffs/Exhausted", "Mythic/Azata/AzataAbilities/IncredibleMight/IncredibleMightCrippledBuff", "Buffs/Stunned", "Buffs/Prone", "Buffs/Stunned"]}
+{"parents": ["Mythic/Azata/AzataAbilities/IncredibleMight/IncredibleMightFeature"], "children": ["Buffs/Stunned", "Buffs/Prone", "Mythic/Azata/AzataAbilities/IncredibleMight/IncredibleMightCrippledBuff", "Buffs/Exhausted"]}

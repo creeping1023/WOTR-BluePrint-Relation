@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Irabeth/Answer_0176"], "children": ["World/Dialogs/NPC_Common/Irabeth/Cue_0179"]}
+{"parents": ["World/Dialogs/NPC_Common/Irabeth/Answer_0176", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Irabeth/Cue_0179"]}

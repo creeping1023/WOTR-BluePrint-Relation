@@ -1,1 +1,1 @@
-{"parents": ["Races/BralaniRace", "Races/HalfElfRace"], "children": ["Traits/Races/BaseRaseHalfElfSelection", "Traits/Races/HalfElf/DualMindedHalfElf", "Traits/Races/HalfElf/KindredRaisedHalfElf", "Traits/Races/BaseRaseHalfElfSelection", "Traits/Races/HalfElf/DualMindedHalfElf", "Traits/Races/HalfElf/KindredRaisedHalfElf"]}
+{"parents": ["Races/BralaniRace", "Races/HalfElfRace"], "children": ["Traits/Races/BaseRaseHalfElfSelection", "Traits/Races/HalfElf/DualMindedHalfElf", "Traits/Races/HalfElf/KindredRaisedHalfElf"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus4/StandardDwarvenUrgroshShockNecroticPlus2"], "children": ["Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Necrotic", "Weapons/Enchantments/Shock"]}
+{"parents": ["Weapons/Items/TotalPlus4/StandardDwarvenUrgroshShockNecroticPlus2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Shock", "Weapons/Enchantments/Necrotic", "Weapons/Enchantments/Enhancement2", "Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead"]}

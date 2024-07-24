@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicFeatSelection", "Feats/Maneuvers/BullRush/ImprovedBullRush"], "children": ["Feats/Maneuvers/BullRush/ImprovedBullRush"]}
+{"parents": ["Feats/Maneuvers/BullRush/ImprovedBullRush", "Mythic/MythicFeatSelection"], "children": ["Feats/Maneuvers/BullRush/ImprovedBullRush"]}

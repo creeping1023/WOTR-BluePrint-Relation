@@ -1,1 +1,1 @@
-{"parents": ["Loot/Quest/HorgusManor/PoorLootLibrary06", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/GibberingSwarmCave/MiellasVesselQuestLoot", "Loot/Quest/SuccubusLair/HiddenLoot"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/SuccubusLair/HiddenLoot", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/HorgusManor/PoorLootLibrary06", "Loot/Quest/GibberingSwarmCave/MiellasVesselQuestLoot"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

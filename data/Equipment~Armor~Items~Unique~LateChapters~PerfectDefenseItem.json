@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/PaddedType", "Equipment/Armor/Items/Unique/LateChapters/PerfectDefenseEnchantment", "Equipment/Armor/Enchantments/ArmorEnhancementBonus5"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Types/PaddedType", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Items/Unique/LateChapters/PerfectDefenseEnchantment"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/Epilogues/Cue_67", "World/Dialogs/Epilogues/Answer_7"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["World/Dialogs/Epilogues/Cue_67", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/Epilogues/Answer_7"]}

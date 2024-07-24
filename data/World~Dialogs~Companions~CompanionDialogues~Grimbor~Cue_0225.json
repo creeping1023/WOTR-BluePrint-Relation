@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/Answer_0219"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/GreyborInTheGuild", "World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0227"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/Answer_0219"], "children": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0227", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/GreyborInTheGuild"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/IvorySanctum/XantirLeaves/CommandAction 2", "World/Dialogs/c3/IvorySanctum/Cultists_Transformation/Cultists_Transformation_Dialog"], "children": ["World/Cutscenes/IvorySanctum/XantirExperimentRevealer/CommandAddFogOfWarRevealer"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Cultists_Transformation/Cultists_Transformation_Dialog", "World/Cutscenes/IvorySanctum/XantirLeaves/CommandAction 2"], "children": ["World/Cutscenes/IvorySanctum/XantirExperimentRevealer/CommandAddFogOfWarRevealer"]}

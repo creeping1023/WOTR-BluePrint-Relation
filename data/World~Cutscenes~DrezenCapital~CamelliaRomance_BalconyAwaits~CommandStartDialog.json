@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_BalconyAwaits/gate"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/Companions/CompanionRomances/Camellia/BalconyAwaits/BalconyAwaits_dialogue"]}
+{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_BalconyAwaits/gate"], "children": ["World/Dialogs/Companions/CompanionRomances/Camellia/BalconyAwaits/BalconyAwaits_dialogue", "Units/Companions/Camelia/Camelia_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/Cat_is_a_spy/Answer_0001"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_OldwomanwithCat", "World/Dialogs/DLC6_ADanceOfMasks/Cat_is_a_spy/Cue_2"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/Cat_is_a_spy/Answer_0001"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/Cat_is_a_spy/Cue_2", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_OldwomanwithCat"]}

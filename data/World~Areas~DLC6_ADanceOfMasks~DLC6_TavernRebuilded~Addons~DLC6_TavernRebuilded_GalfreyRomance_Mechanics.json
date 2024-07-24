@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Presets/DLC6_TavernRebuilded_GalfreyRomance_Preset", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_GalfreyRunAway"], "children": ["World/Areas/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/DLC6_TavernRebuilded"]}
+{"parents": ["World/Etudes/Common/DLC6_DanceOfMasks/DLC6_GalfreyRunAway", "World/Areas/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Presets/DLC6_TavernRebuilded_GalfreyRomance_Preset"], "children": ["World/Areas/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/DLC6_TavernRebuilded"]}

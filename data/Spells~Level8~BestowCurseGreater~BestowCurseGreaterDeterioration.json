@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level8/BestowCurseGreater/BestowCurseGreaterDeteriorationCast"], "children": ["Spells/Level8/BestowCurseGreater/BestowCurseGreaterDeteriorationBuff", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Spells/Level8/BestowCurseGreater/BestowCurseGreaterDeteriorationCast"], "children": ["Weapons/Types/Special/TouchItem", "Spells/Level8/BestowCurseGreater/BestowCurseGreaterDeteriorationBuff"]}

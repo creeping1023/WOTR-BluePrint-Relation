@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bard/Archetypes/FlameDancer/FlameDancerArchetype"], "children": ["Classes/Bard/BardClass", "Spells/Level1/BurningHands", "Classes/Bard/BardClass", "Spells/Level2/BurningArc", "Classes/Bard/BardClass", "Spells/Level3/Fireball"]}
+{"parents": ["Classes/Bard/Archetypes/FlameDancer/FlameDancerArchetype"], "children": ["Classes/Bard/BardClass", "Spells/Level2/BurningArc", "Spells/Level3/Fireball", "Spells/Level1/BurningHands"]}

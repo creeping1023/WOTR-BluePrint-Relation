@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Spells/Level2/DelayPoison", "Equipment/CommonEnchantments/Intelligence4", "Equipment/Cloaks/Artisan/HalfElfMaleTailor/HerbalistCapeEcnhant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Cloaks/Artisan/HalfElfMaleTailor/HerbalistCapeEcnhant", "Spells/Level2/DelayPoison", "Equipment/CommonEnchantments/Intelligence4", "Items/DestructibleItemsShards/ClothShardItem"]}

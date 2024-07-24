@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_0091"], "children": ["Units/Monsters/Kobold/DLC1_AzataIsland/DLC1AzataIsland_Kobold", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0041"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_0091"], "children": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0041", "Units/Monsters/Kobold/DLC1_AzataIsland/DLC1AzataIsland_Kobold"]}

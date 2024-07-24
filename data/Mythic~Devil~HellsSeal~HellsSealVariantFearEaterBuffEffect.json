@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Devil/HellsSeal/HellsSealVariantFearEaterBuff"], "children": ["Spells/Level9/HeroicInvocationBuff", "Spells/Level3/RageBuff", "Mythic/Devil/HellsSeal/HellsSealVariantFearEaterBuff"]}
+{"parents": ["Mythic/Devil/HellsSeal/HellsSealVariantFearEaterBuff"], "children": ["Mythic/Devil/HellsSeal/HellsSealVariantFearEaterBuff", "Spells/Level9/HeroicInvocationBuff", "Spells/Level3/RageBuff"]}

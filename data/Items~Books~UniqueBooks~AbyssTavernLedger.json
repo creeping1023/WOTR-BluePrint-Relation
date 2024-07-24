@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR18/PF2_Demons_AbyssTavernLedger"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Good/CR18/PF2_Demons_AbyssTavernLedger", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

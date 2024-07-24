@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype", "Classes/Monk/MonkProgression"], "children": ["Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterStyleSunder"]}
+{"parents": ["Classes/Monk/MonkProgression", "Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype"], "children": ["Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterStyleSunder"]}

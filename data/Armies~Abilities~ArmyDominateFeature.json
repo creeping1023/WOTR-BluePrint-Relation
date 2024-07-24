@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmySuccubusStandard", "Armies/CrusadeGlobalBuffs/FlagLocust4Spiders", "Armies/UnitBlueprints/ArmyLilitu", "Armies/UnitBlueprints/ArmyAsmodeanCleric"], "children": ["Armies/Abilities/ArmyDominate", "Armies/Abilities/ArmyDominateFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyLilitu", "Armies/CrusadeGlobalBuffs/FlagLocust4Spiders", "Armies/UnitBlueprints/ArmySuccubusStandard", "Armies/UnitBlueprints/ArmyAsmodeanCleric"], "children": ["Armies/Abilities/ArmyDominateFact", "Armies/Abilities/ArmyDominate"]}

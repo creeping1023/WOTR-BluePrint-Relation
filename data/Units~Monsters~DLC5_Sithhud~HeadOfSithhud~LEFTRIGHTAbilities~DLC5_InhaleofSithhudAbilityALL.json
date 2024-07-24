@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5_Sithhud/HeadOfSithhud/LEFTRIGHTAbilities/DLC5_InhaleAiActionCenter", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_HeadOfSithhud"], "children": ["Spells/CutsceneSpells/DLC5/GoblinsPartyInTheTower/BlyzzardAbyss/MarkOfSithhudBuff"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_HeadOfSithhud", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/LEFTRIGHTAbilities/DLC5_InhaleAiActionCenter"], "children": ["Spells/CutsceneSpells/DLC5/GoblinsPartyInTheTower/BlyzzardAbyss/MarkOfSithhudBuff"]}

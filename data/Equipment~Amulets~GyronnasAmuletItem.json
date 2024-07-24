@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/GyronnasAmuletEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Amulets/GyronnasAmuletEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

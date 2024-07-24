@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/Cue_16"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/AnswersList_0016"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/Cue_16"], "children": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/AnswersList_0016", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

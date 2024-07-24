@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/AfterFight/Cue_0019"], "children": ["World/Cutscenes/KenabresGraveyard/HideNecromant/CommandAction", "World/Cutscenes/KenabresGraveyard/HideNecromant/CommandFadeout"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/AfterFight/Cue_0019"], "children": ["World/Cutscenes/KenabresGraveyard/HideNecromant/CommandFadeout", "World/Cutscenes/KenabresGraveyard/HideNecromant/CommandAction"]}

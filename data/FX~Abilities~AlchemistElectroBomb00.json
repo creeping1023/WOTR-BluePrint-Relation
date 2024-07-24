@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/Discoveries/ShockBombs/ShockBomb", "Classes/Wizard/Archetypes/ArcaneBomber/ArcaneBomberBombs/ArcaneBombsElectricityAbility"], "children": ["FX/Abilities/AlchemistFireBomb00_Trajectory"]}
+{"parents": ["Classes/Wizard/Archetypes/ArcaneBomber/ArcaneBomberBombs/ArcaneBombsElectricityAbility", "Classes/Alchemist/Discoveries/ShockBombs/ShockBomb"], "children": ["FX/Abilities/AlchemistFireBomb00_Trajectory"]}

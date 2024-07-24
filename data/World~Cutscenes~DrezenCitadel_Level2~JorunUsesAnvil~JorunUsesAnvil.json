@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level2/JorunVaneComes/CommandAction", "World/Encounters/DrezenCitadel_Level2/ActionsHolders/JorunVane_SpawnCutscene"], "children": ["World/Cutscenes/DrezenCitadel_Level2/JorunUsesAnvil/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Encounters/DrezenCitadel_Level2/ActionsHolders/JorunVane_SpawnCutscene", "World/Cutscenes/DrezenCitadel_Level2/JorunVaneComes/CommandAction"], "children": ["World/Cutscenes/DrezenCitadel_Level2/JorunUsesAnvil/CommandUnitPlayCutsceneAnimation"]}

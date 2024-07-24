@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Linnorm/CR22_IngerMaggor_CragLinnormhunting", "Units/Monsters/Linnorm/TheIvoryLabyrinth/UffrandirLinnorm22"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Units/Monsters/Linnorm/TheIvoryLabyrinth/UffrandirLinnormBrain/LinnormPoisonBuff"]}
+{"parents": ["Units/Monsters/Linnorm/TheIvoryLabyrinth/UffrandirLinnorm22", "Units/Monsters/Linnorm/CR22_IngerMaggor_CragLinnormhunting"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Units/Monsters/Linnorm/TheIvoryLabyrinth/UffrandirLinnormBrain/LinnormPoisonBuff"]}

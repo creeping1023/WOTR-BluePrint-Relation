@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistSuddenSpeedFeature"], "children": ["Classes/Monk/KiPowers/KiSuddenSpeedBuff", "Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistPowerResource"]}
+{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistSuddenSpeedFeature"], "children": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistPowerResource", "Classes/Monk/KiPowers/KiSuddenSpeedBuff"]}

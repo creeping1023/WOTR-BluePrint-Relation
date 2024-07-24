@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Wight/GibberingSwarm/Garkel_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Ranger/Archetypes/Freebooter/FreebootersBondAbility"]}
+{"parents": ["Units/NPC/Commoners/Wight/GibberingSwarm/Garkel_Brain"], "children": ["Classes/Ranger/Archetypes/Freebooter/FreebootersBondAbility", "Brain/Considerations/AttackTargetsPriority"]}

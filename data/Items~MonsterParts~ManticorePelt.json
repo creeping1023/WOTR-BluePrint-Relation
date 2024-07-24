@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/MonsterParts/ManticoreLoot"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Items/MonsterParts/ManticoreLoot", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

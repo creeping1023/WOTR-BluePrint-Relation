@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_2/Cue_0017"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_2/AnswersList_0005"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_2/Cue_0017"], "children": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_2/AnswersList_0005", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor"]}

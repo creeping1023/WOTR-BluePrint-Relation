@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Cave_worm_escapes/gate"], "children": ["CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/FiendishSmiteGoodBuff", "Factions/CutsceneNeutrals"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Cave_worm_escapes/gate"], "children": ["Factions/CutsceneNeutrals", "CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/FiendishSmiteGoodBuff"]}

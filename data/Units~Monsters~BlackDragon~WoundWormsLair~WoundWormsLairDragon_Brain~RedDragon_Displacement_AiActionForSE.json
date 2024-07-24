@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffDisplacement", "Brain/Considerations/NoBuffHaste", "Spells/Level3/Displacement"]}
+{"children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffDisplacement", "Spells/Level3/Displacement", "Brain/Considerations/NoBuffHaste"]}

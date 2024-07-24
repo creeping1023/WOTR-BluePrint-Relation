@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/LateChapters/RingOfAcidImmunityEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Rings/LateChapters/RingOfAcidImmunityEnchantment", "Items/DestructibleItemsShards/MetalShardItem"]}

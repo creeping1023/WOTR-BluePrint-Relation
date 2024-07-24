@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hellknight/HellknightDisciplines/HellknightDisciplineWrackFeature"], "children": ["Buffs/Staggered", "Classes/Hellknight/HellknightClass", "Classes/Hellknight/HellknightDisciplines/HellknightDisciplineWrackResource"]}
+{"parents": ["Classes/Hellknight/HellknightDisciplines/HellknightDisciplineWrackFeature"], "children": ["Classes/Hellknight/HellknightClass", "Classes/Hellknight/HellknightDisciplines/HellknightDisciplineWrackResource", "Buffs/Staggered"]}

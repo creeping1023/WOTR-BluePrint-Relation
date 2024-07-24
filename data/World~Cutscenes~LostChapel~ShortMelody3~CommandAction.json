@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/ShortMelody3/gate"], "children": ["World/Encounters/LostChapel/UnlockableFlags/AzataMelodyPuzzle", "World/Cutscenes/LostChapel/LongMelody/LongMelody"]}
+{"parents": ["World/Cutscenes/LostChapel/ShortMelody3/gate"], "children": ["World/Cutscenes/LostChapel/LongMelody/LongMelody", "World/Encounters/LostChapel/UnlockableFlags/AzataMelodyPuzzle"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/SEbosses/Echo/Cue_0001"], "children": ["World/Dialogs/c4/SEbosses/Echo/Cue_4", "World/Dialogs/c4/SEbosses/Echo/Cue_5", "World/Dialogs/c4/SEbosses/Echo/SequenceExit_0002"]}
+{"parents": ["World/Dialogs/c4/SEbosses/Echo/Cue_0001", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/SEbosses/Echo/SequenceExit_0002", "World/Dialogs/c4/SEbosses/Echo/Cue_5", "World/Dialogs/c4/SEbosses/Echo/Cue_4"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Necromancy/NecromancySchoolBaseFeature"], "children": ["Feats/TurnUndead/FrightenedUndead", "Classes/Wizard/WizardClass", "Traits/Races/Common/UndeadType", "Classes/Wizard/Necromancy/NecromancySchoolTurnUndeadResource"]}
+{"parents": ["Classes/Wizard/Necromancy/NecromancySchoolBaseFeature"], "children": ["Traits/Races/Common/UndeadType", "Feats/TurnUndead/FrightenedUndead", "Classes/Wizard/WizardClass", "Classes/Wizard/Necromancy/NecromancySchoolTurnUndeadResource"]}

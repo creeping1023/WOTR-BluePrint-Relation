@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event1_MillionRedRoses/Cue_0001"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/IrabethTirabade_DrezenCapital", "World/Dialogs/Companions/CompanionRomances/Daeran/Event1_MillionRedRoses/Cue_0003"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event1_MillionRedRoses/Cue_0001"], "children": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event1_MillionRedRoses/Cue_0003", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/IrabethTirabade_DrezenCapital"]}

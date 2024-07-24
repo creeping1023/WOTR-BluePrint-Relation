@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/Mythic_Angel/DeskariMeetsAngel/Check_0006"], "children": ["World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/RaspingRifts_DemonRetreat", "World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/RaspingRifts_DemonRetreat", "World/Dialogs/c6/Mythic_Angel/DeskariMeetsAngel/AnswersList_0009"]}
+{"parents": ["World/Dialogs/c6/Mythic_Angel/DeskariMeetsAngel/Check_0006"], "children": ["World/Dialogs/c6/Mythic_Angel/DeskariMeetsAngel/AnswersList_0009", "World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/RaspingRifts_DemonRetreat"]}

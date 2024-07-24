@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Cue_0008"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_Director", "World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Cue_0030"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Cue_0008"], "children": ["World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Cue_0030", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_Director"]}

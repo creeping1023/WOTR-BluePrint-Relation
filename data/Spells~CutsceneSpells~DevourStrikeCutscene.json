@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/DemonRageKillParam/CommandUnitCastSpell", "World/Cutscenes/DLC4_RuinedVillage/DolmenBoss/CommandUnitCastSpell"], "children": ["FX/Cutscenes/DemonStrike00_Projectile", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["World/Cutscenes/Iz/DemonRageKillParam/CommandUnitCastSpell", "World/Cutscenes/DLC4_RuinedVillage/DolmenBoss/CommandUnitCastSpell"], "children": ["Weapons/Types/Special/TouchItem", "FX/Cutscenes/DemonStrike00_Projectile"]}

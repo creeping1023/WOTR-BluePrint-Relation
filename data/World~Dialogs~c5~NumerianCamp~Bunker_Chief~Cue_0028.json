@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c5/NumerianCamp/Bunker_Chief/Answer_0022"], "children": ["World/Dialogs/c5/NumerianCamp/Bunker_Chief/Cue_0044"]}
+{"parents": ["World/Dialogs/c5/NumerianCamp/Bunker_Chief/Answer_0022", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c5/NumerianCamp/Bunker_Chief/Cue_0044"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Glabrezu/GlabrezuBrain/Glabrezu_Brain_Polymorfed"], "children": ["Brain/Considerations/HasBuff_GlabrezuPolymorfed", "Brain/Considerations/IsThreatedConsideration", "Spells/CutsceneSpells/IvorySanctum/Glabrezu_RemovePolymorfOnTouch"]}
+{"parents": ["Units/Monsters/Demon Glabrezu/GlabrezuBrain/Glabrezu_Brain_Polymorfed"], "children": ["Brain/Considerations/IsThreatedConsideration", "Spells/CutsceneSpells/IvorySanctum/Glabrezu_RemovePolymorfOnTouch", "Brain/Considerations/HasBuff_GlabrezuPolymorfed"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresGraveyard/CitizenFear/CommandAction"], "children": ["World/Cutscenes/KenabresGraveyard/CitizenSaved/CommandMoveUnit", "World/Cutscenes/KenabresGraveyard/CitizenSaved/CommandBark"]}
+{"parents": ["World/Cutscenes/KenabresGraveyard/CitizenFear/CommandAction"], "children": ["World/Cutscenes/KenabresGraveyard/CitizenSaved/CommandBark", "World/Cutscenes/KenabresGraveyard/CitizenSaved/CommandMoveUnit"]}

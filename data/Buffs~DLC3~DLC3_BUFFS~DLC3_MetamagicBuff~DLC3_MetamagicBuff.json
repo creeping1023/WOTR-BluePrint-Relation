@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Boons/DungeonBoon_Metamagic"], "children": ["Classes/Warpriest/WarpriestClass", "Classes/Cleric/ClericClass", "Classes/Oracle/OracleClass", "Classes/Inquisitor/InquisitorClass"]}
+{"parents": ["Dugeons/Boons/DungeonBoon_Metamagic"], "children": ["Classes/Oracle/OracleClass", "Classes/Warpriest/WarpriestClass", "Classes/Inquisitor/InquisitorClass", "Classes/Cleric/ClericClass"]}

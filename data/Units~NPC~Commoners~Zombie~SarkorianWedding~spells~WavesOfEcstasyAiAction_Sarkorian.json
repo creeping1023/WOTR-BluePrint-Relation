@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level7/WavesOfEctasy"]}
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain"], "children": ["Spells/Level7/WavesOfEctasy", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

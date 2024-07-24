@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichProgression"], "children": ["Mythic/Lich/LichAuraBolsterUndead/LichAuraBolsterUndeadBuff", "Spells/Level2/CommandUndead", "Mythic/Lich/LichCommandUndead"]}
+{"parents": ["Mythic/Lich/LichProgression"], "children": ["Mythic/Lich/LichAuraBolsterUndead/LichAuraBolsterUndeadBuff", "Mythic/Lich/LichCommandUndead", "Spells/Level2/CommandUndead"]}

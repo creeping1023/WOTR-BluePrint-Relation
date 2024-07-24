@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/GateGuard/Cue_0131"], "children": ["World/Dialogs/c4/GateGuard/Answer_0149", "World/Dialogs/c4/GateGuard/Check_0152", "World/Encounters/AlushinyrraMediumCity/ActionsHolders/Gate_UnlockHigherToMedium"]}
+{"parents": ["World/Dialogs/c4/GateGuard/Cue_0131"], "children": ["World/Encounters/AlushinyrraMediumCity/ActionsHolders/Gate_UnlockHigherToMedium", "World/Dialogs/c4/GateGuard/Check_0152", "World/Dialogs/c4/GateGuard/Answer_0149"]}

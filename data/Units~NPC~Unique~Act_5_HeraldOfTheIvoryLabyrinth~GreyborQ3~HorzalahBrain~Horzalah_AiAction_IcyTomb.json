@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/HasNoBuffIcyTomb", "Brain/Considerations/Caster", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffFreedomOfMovement", "Classes/Arcanist/ArcanistGreaterExploits/ArcanistExploitIcyTombAbility"]}
+{"children": ["Brain/Considerations/Caster", "Classes/Arcanist/ArcanistGreaterExploits/ArcanistExploitIcyTombAbility", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/HasNoBuffIcyTomb", "Brain/Considerations/NoBuffFreedomOfMovement"]}

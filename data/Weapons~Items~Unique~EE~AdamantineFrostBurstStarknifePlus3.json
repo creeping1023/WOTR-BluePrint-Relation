@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Starknife", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Frost", "Weapons/Enchantments/AdamantineWeaponEnchantment", "Weapons/Enchantments/IcyBurst"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Frost", "Weapons/Types/MartialLight/Starknife", "Weapons/Enchantments/AdamantineWeaponEnchantment", "Weapons/Enchantments/IcyBurst", "Weapons/Enchantments/Enhancement3"]}

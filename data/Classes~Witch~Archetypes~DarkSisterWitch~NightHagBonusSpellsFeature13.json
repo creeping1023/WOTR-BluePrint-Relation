@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/NightHagSpelllistFeature"], "children": ["Spells/Level2/Blindness", "Spells/Level2/Scare"]}
+{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/NightHagSpelllistFeature"], "children": ["Spells/Level2/Scare", "Spells/Level2/Blindness"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerCelestialBloodline/BloodragerCelestialBloodlineBaseBuff"], "children": ["Weapons/Types/Special/Unarmed", "Traits/Races/Common/OutsiderType", "CreatureAbilities/Subtypes/SubtypeDemon"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerCelestialBloodline/BloodragerCelestialBloodlineBaseBuff"], "children": ["Traits/Races/Common/OutsiderType", "Weapons/Types/Special/Unarmed", "CreatureAbilities/Subtypes/SubtypeDemon"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0084"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "World/Encounters/ReturnToDrezen/UnlockableFlags/ReturnToDrezen_CrusadersCombatModOff_Flag", "World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0058"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0084"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0058", "World/Encounters/ReturnToDrezen/UnlockableFlags/ReturnToDrezen_CrusadersCombatModOff_Flag", "Mythic/Demon/DemonRage/DemonRageBuff"]}

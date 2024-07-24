@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_GardenOfTheGods/DLC4_SexWithUlbrig/gate"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceMain_c3/Ulbrig_GardenGods_Second/Ulbrig_GardenGods_Second_dialogue"]}
+{"parents": ["World/Cutscenes/DLC4_GardenOfTheGods/DLC4_SexWithUlbrig/gate"], "children": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceMain_c3/Ulbrig_GardenGods_Second/Ulbrig_GardenGods_Second_dialogue", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

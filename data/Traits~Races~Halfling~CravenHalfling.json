@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Halfling/HalflingHeritageSelection"], "children": ["Traits/Races/Halfling/Fearless", "Traits/Races/Halfling/HalflingLuck", "Buffs/Frightened", "Buffs/Shaken"]}
+{"parents": ["Traits/Races/Halfling/HalflingHeritageSelection"], "children": ["Buffs/Shaken", "Buffs/Frightened", "Traits/Races/Halfling/HalflingLuck", "Traits/Races/Halfling/Fearless"]}

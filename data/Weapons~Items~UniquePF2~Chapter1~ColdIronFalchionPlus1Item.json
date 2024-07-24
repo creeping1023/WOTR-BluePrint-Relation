@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR6/PF2_OldCrusaders_GoodLoot05", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Falchion", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR6/PF2_OldCrusaders_GoodLoot05"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialTwoHanded/Falchion", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

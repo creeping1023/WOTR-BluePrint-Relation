@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_CampBattle/gate1"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_Illusion_Buff", "Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph"]}
+{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_CampBattle/gate1"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_Illusion_Buff"]}

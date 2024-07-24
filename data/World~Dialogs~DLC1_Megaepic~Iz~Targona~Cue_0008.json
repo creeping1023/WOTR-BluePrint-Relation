@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Targona/Cue_8"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/MythicAngel_Ch4/AngelLariel", "World/Dialogs/DLC1_Megaepic/Iz/Targona/Cue_26"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Targona/Cue_8"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/Targona/Cue_26", "Units/NPC/Unique/Act_4_MidnightIsles/MythicAngel_Ch4/AngelLariel"]}

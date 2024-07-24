@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters_4thPart/ChaosHammerItem"], "children": ["Weapons/Items/Unique/LateChapters_4thPart/ChaosHammerFeature", "Classes/Cleric/Domains/Chaos/ChaosDomainBaseBuff"]}
+{"parents": ["Weapons/Items/Unique/LateChapters_4thPart/ChaosHammerItem"], "children": ["Classes/Cleric/Domains/Chaos/ChaosDomainBaseBuff", "Weapons/Items/Unique/LateChapters_4thPart/ChaosHammerFeature"]}

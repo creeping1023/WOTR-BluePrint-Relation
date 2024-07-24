@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/CultCamp_CultistFromEstrod/CueSequence_0039"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Dialogs/c3/IvorySanctum/CultCamp_CultistFromEstrod/Cue_0041"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/CultCamp_CultistFromEstrod/CueSequence_0039"], "children": ["World/Dialogs/c3/IvorySanctum/CultCamp_CultistFromEstrod/Cue_0041", "Units/Companions/Woljif/Woljif_Companion"]}

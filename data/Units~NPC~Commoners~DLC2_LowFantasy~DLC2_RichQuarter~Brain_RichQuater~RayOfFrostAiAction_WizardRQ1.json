@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/DisableWhenAutoCast", "Brain/Considerations/AttackTargetsPriority", "Spells/Level0/RayOfFrost"]}
+{"children": ["Spells/Level0/RayOfFrost", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/DisableWhenAutoCast"]}

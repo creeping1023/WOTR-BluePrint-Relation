@@ -1,1 +1,1 @@
-{"parents": ["Classes/EldritchKnight/EldritchKnightProgression"], "children": ["Classes/Fighter/FighterClass", "Classes/EldritchKnight/EldritchKnightClass", "Classes/Basic/BasicFeatSelection"]}
+{"parents": ["Classes/EldritchKnight/EldritchKnightProgression"], "children": ["Classes/Basic/BasicFeatSelection", "Classes/Fighter/FighterClass", "Classes/EldritchKnight/EldritchKnightClass"]}

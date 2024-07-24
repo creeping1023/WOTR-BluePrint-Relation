@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/LoyalToNocta", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DemonCh5/NocticulaPalaceFight/PlayerWithNocticula"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DemonCh5/NocticulaPalaceFight/PlayerWithNocticula", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/LoyalToNocta"]}

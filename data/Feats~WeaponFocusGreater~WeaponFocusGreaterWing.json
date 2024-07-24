@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusWing"], "children": ["Weapons/Types/NaturalWeapon/WingType", "Feats/WeaponFocus/WeaponFocusWing", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusWing"], "children": ["Weapons/Types/NaturalWeapon/WingType", "Classes/Fighter/FighterClass", "Feats/WeaponFocus/WeaponFocusWing"]}

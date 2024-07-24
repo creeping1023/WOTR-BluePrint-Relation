@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Warlords/WarlordLeaderMage3", "Armies/Leaders/Warlords/WarlordUnits/Warlord_11_Wizard", "Root/BlueprintRoot"], "children": ["Races/OreadRace"]}
+{"parents": ["Armies/Leaders/Warlords/WarlordUnits/Warlord_11_Wizard", "Root/BlueprintRoot", "Armies/Leaders/Warlords/WarlordLeaderMage3"], "children": ["Races/OreadRace"]}

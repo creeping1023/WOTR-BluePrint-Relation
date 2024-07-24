@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Vavakia/Alushinyrra/Gouger_CrazyMythicVavakia"], "children": ["Units/Monsters/Demon Vavakia/Alushinyrra/Gouger_NormalAdvance", "Buffs/Fatigued", "Units/Monsters/Demon Vavakia/Alushinyrra/Gouger_CoreAdvance", "Spells/Level1/MageArmorBuff"]}
+{"parents": ["Units/Monsters/Demon Vavakia/Alushinyrra/Gouger_CrazyMythicVavakia"], "children": ["Buffs/Fatigued", "Units/Monsters/Demon Vavakia/Alushinyrra/Gouger_CoreAdvance", "Units/Monsters/Demon Vavakia/Alushinyrra/Gouger_NormalAdvance", "Spells/Level1/MageArmorBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_Lann_Q3_SavamelekhLair"], "children": ["Units/Companions/Lann/Lann_Companion", "Units/Companions/Lann/Lann_Companion", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Lann_Q3_SavamelekhLair/EnterPoints/Lann_Q3_SavamelekhLair_Enter"]}
+{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_Lann_Q3_SavamelekhLair"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Lann_Q3_SavamelekhLair/EnterPoints/Lann_Q3_SavamelekhLair_Enter", "Units/Companions/Lann/Lann_Companion"]}

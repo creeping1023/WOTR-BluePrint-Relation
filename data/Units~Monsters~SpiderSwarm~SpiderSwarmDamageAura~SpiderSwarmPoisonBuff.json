@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmDamageBuff", "Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmDamageAbility", "Brain/Considerations/HasPoison"]}
+{"parents": ["Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmDamageAbility", "Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmDamageBuff", "Brain/Considerations/HasPoison"]}

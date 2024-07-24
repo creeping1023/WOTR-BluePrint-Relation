@@ -1,1 +1,1 @@
-{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["Races/HalfOrcRace", "Weapons/Items/Standard/NaturalWeapon/Bite1d4"]}
+{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/Feats/ExtraFeatMythicFeat", "Mythic/GoldenDragon/DragonLevel2FeatSelection"], "children": ["Races/HalfOrcRace", "Weapons/Items/Standard/NaturalWeapon/Bite1d4"]}

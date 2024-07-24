@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_VavakiaBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Abilities/ArmySummonKalavakus"]}
+{"parents": ["Armies/Brains/TacticalCombat_VavakiaBrain"], "children": ["Armies/Abilities/ArmySummonKalavakus", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"]}

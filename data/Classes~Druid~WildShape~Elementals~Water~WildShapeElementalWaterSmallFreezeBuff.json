@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Water Elemental/ElementaWaterSmallFreezeAbility", "Classes/Druid/WildShape/Elementals/Water/WildShapeElementalWaterSmallFreezeCasterBuff", "Classes/Druid/WildShape/Elementals/Water/WildShapeElementalWaterSmallFreezeAbility"]}
+{"parents": ["Classes/Druid/WildShape/Elementals/Water/WildShapeElementalWaterSmallFreezeAbility", "Units/Monsters/Water Elemental/ElementaWaterSmallFreezeAbility", "Classes/Druid/WildShape/Elementals/Water/WildShapeElementalWaterSmallFreezeCasterBuff"]}

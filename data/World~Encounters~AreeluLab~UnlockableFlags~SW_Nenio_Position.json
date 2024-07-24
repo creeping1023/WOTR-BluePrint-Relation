@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLab/SecretWish_Nenio/CommandAction 1", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Encounters/AreeluLab/ActionsHolders/SW_Nenio_SpawnTP", "World/Areas/Act_3_DemonsHerecy/MidnightFane/Presets/MidnightFane_4act_Angel"]}
+{"parents": ["World/Cutscenes/AreeluLab/SecretWish_Nenio/CommandAction 1", "World/Encounters/AreeluLab/ActionsHolders/SW_Nenio_SpawnTP", "World/Areas/Act_3_DemonsHerecy/MidnightFane/Presets/MidnightFane_4act_Angel", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"]}

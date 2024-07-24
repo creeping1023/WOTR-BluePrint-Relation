@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerWeakeningTrapAbility"], "children": ["Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower", "Armies/Leaders/Abilities/RangerAbilities/RangerWeakeningTrapBuff"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerWeakeningTrapAbility"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerWeakeningTrapBuff", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}

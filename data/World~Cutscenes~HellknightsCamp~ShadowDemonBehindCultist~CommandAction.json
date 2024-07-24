@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HellknightsCamp/ShadowDemonBehindCultist/ShadowDemonBehindCultist"], "children": ["World/Areas/Act_3_DemonsHerecy/HellknightsCamp/EnterPoints/HellknightsCamp_EnterPoint_FinalScene", "Units/Companions/Regill/Regill_Companion"]}
+{"parents": ["World/Cutscenes/HellknightsCamp/ShadowDemonBehindCultist/ShadowDemonBehindCultist"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Areas/Act_3_DemonsHerecy/HellknightsCamp/EnterPoints/HellknightsCamp_EnterPoint_FinalScene"]}

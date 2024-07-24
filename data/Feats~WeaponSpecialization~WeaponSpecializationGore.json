@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterGore"], "children": ["Weapons/Types/NaturalWeapon/GoreType", "Classes/Fighter/FighterClass", "Weapons/Types/NaturalWeapon/GoreTwoHandedType", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterGore"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterGore"], "children": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterGore", "Weapons/Types/NaturalWeapon/GoreTwoHandedType", "Weapons/Types/NaturalWeapon/GoreType", "Classes/Fighter/FighterClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Logistics/Logistics_2/AnswersList_0022", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Crusade/RankUps/Logistics/Logistics_2/Cue_0077", "Armies/Abilities/BonusFactsForArmy/ArmyAttack1Saves1"]}
+{"parents": ["World/Crusade/RankUps/Logistics/Logistics_2/AnswersList_0022", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyAttack1Saves1", "World/Crusade/RankUps/Logistics/Logistics_2/Cue_0077"]}

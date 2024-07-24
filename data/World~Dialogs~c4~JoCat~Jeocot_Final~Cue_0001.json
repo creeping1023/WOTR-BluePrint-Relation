@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/JoCat/Jeocot_Final/JoCat_Jeocot_Final_Dialogue"], "children": ["World/Quests/c4/Errands/JoCat_Errand/Objective_0001", "World/Dialogs/c4/JoCat/Jeocot_Final/AnswersList_0002", "World/Dialogs/c4/JoCat/Jeocot_Final/CueSequence_0001"]}
+{"parents": ["World/Dialogs/c4/JoCat/Jeocot_Final/JoCat_Jeocot_Final_Dialogue"], "children": ["World/Quests/c4/Errands/JoCat_Errand/Objective_0001", "World/Dialogs/c4/JoCat/Jeocot_Final/CueSequence_0001", "World/Dialogs/c4/JoCat/Jeocot_Final/AnswersList_0002"]}

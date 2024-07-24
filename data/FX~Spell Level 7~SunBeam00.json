@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level7/Sunbeam", "Spells/Level3/LifeBlast", "Spells/Level7/SunbeamAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Spells/Level3/LifeBlast", "Spells/Level7/Sunbeam", "Spells/Level7/SunbeamAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

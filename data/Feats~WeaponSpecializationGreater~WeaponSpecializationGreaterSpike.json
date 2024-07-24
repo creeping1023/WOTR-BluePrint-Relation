@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationSpike"], "children": ["Weapons/Types/NaturalWeapon/SpikeType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationSpike"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationSpike"], "children": ["Weapons/Types/NaturalWeapon/SpikeType", "Feats/WeaponSpecialization/WeaponSpecializationSpike", "Classes/Fighter/FighterClass"]}

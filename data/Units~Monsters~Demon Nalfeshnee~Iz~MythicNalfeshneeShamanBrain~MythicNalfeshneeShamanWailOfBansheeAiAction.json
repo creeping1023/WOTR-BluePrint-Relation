@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Nalfeshnee/Iz/MythicNalfeshneeShamanBrain/MythicNalfeshneeShamanBrain"], "children": ["Brain/Considerations/SwiftAction", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level9/WailOfBanshee"]}
+{"parents": ["Units/Monsters/Demon Nalfeshnee/Iz/MythicNalfeshneeShamanBrain/MythicNalfeshneeShamanBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level9/WailOfBanshee", "Brain/Considerations/SwiftAction"]}

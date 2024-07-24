@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/KestoglyrIsInParty", "World/Dialogs/c4/FinalDungeon_Colyphyr/Kestoglyr/Answer_0011"], "children": ["Units/Companions/LichCompanions/Kestoglyr/Kestoglyr_Companion"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/Kestoglyr/Answer_0011", "World/Etudes/Common/WrathOfTheRighteous/MythicLich/KestoglyrIsInParty"], "children": ["Units/Companions/LichCompanions/Kestoglyr/Kestoglyr_Companion"]}

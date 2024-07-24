@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_Storasta/ScriptZones/DLC5_Storasta_IceZone"], "children": ["Traits/Races/Common/PlantType", "Buffs/Prone", "Traits/Races/Common/PlantType", "Buffs/Prone"]}
+{"parents": ["World/Encounters/DLC5_Storasta/ScriptZones/DLC5_Storasta_IceZone"], "children": ["Traits/Races/Common/PlantType", "Buffs/Prone"]}

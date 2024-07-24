@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Jealousy/CueSequence_0015"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaRomance/CamelliaRomance_Start", "Units/Companions/Camelia/Camelia_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Jealousy/CueSequence_0015"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaRomance/CamelliaRomance_Start"]}

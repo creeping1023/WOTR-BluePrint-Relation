@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Irabeth/TheyAreComing"], "children": ["World/Quests/c1/ToweringGuile/Obj4_CleanUpEstrodTower", "World/Quests/c1/ToweringGuile/Add2_TimeToWait", "World/Dialogs/NPC_Common/Irabeth/Cue_0119"]}
+{"parents": ["World/Dialogs/NPC_Common/Irabeth/TheyAreComing"], "children": ["World/Quests/c1/ToweringGuile/Obj4_CleanUpEstrodTower", "World/Dialogs/NPC_Common/Irabeth/Cue_0119", "World/Quests/c1/ToweringGuile/Add2_TimeToWait"]}

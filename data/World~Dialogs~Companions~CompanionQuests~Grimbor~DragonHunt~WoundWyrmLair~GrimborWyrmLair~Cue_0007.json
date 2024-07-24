@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/WoundWyrmLair/GrimborWyrmLair/Answer_0006"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Cutscenes/WoundWormsLair/GrimborLeave_scene/GrimborLeave_scene"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/WoundWyrmLair/GrimborWyrmLair/Answer_0006"], "children": ["World/Cutscenes/WoundWormsLair/GrimborLeave_scene/GrimborLeave_scene", "Units/Companions/Greybor/Greybor_Companion"]}

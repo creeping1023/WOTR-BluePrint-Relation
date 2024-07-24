@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/Aspects/KalavakusAspect/KalavakusAspectAbility", "Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "Mythic/Demon/Aspects/KalavakusAspect/KalavakusAspectEffectBuff"]}
+{"parents": ["Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff", "Mythic/Demon/Aspects/KalavakusAspect/KalavakusAspectAbility"], "children": ["Mythic/Demon/Aspects/KalavakusAspect/KalavakusAspectEffectBuff", "Mythic/Demon/DemonRage/DemonRageBuff"]}

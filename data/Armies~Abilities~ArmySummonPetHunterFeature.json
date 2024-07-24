@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyHunters"], "children": ["Armies/Abilities/ArmySummonPetHunter", "Armies/Abilities/ArmySummonPetHunterFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyHunters"], "children": ["Armies/Abilities/ArmySummonPetHunterFact", "Armies/Abilities/ArmySummonPetHunter"]}

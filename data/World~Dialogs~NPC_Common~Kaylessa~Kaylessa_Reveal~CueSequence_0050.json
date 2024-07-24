@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0038"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0052", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0053", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/SequenceExit_0051"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0038"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/SequenceExit_0051", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0052", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0053"]}

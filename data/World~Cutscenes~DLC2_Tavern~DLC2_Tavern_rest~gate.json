@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/DLC2_Tavern_rest"], "children": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandFadeout", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandDelay2", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/gate2"]}
+{"parents": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/DLC2_Tavern_rest"], "children": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/gate2", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandFadeout", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandDelay2"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/AlushinyrraHigherCity/ScriptZones/NoctaBridgeSection3"], "children": ["World/Cutscenes/AlushinyrraHigherCity/NoctaWay3_DisableNavmeshcut/CommandDelay", "World/Cutscenes/AlushinyrraHigherCity/NoctaWay3_DisableNavmeshcut/CommandAction"]}
+{"parents": ["World/Encounters/AlushinyrraHigherCity/ScriptZones/NoctaBridgeSection3"], "children": ["World/Cutscenes/AlushinyrraHigherCity/NoctaWay3_DisableNavmeshcut/CommandAction", "World/Cutscenes/AlushinyrraHigherCity/NoctaWay3_DisableNavmeshcut/CommandDelay"]}

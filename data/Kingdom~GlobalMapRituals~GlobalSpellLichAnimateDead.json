@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagLich4AnimateDead", "Kingdom/GlobalMapRituals/GlobalSpellLichAnimateDeadFeature"], "children": ["Armies/UnitBlueprints/ArmySkeletonStandard", "Armies/UnitBlueprints/ArmySkeletonArcher", "Armies/UnitBlueprints/ArmySkeletalChampion"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagLich4AnimateDead", "Kingdom/GlobalMapRituals/GlobalSpellLichAnimateDeadFeature"], "children": ["Armies/UnitBlueprints/ArmySkeletonStandard", "Armies/UnitBlueprints/ArmySkeletalChampion", "Armies/UnitBlueprints/ArmySkeletonArcher"]}

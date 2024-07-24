@@ -1,1 +1,1 @@
-{"parents": ["Buffs/DLC3/DLC3_MODS/DLC3_ElementalWaterMod/DLC3_ElementalWaterStormAbility"], "children": ["Spells/Level4/IceStormAreaBuff", "Spells/Level4/IceStormDifficultTerrainBuff", "Spells/Level4/IceStormAreaBuff", "Spells/Level4/IceStormDifficultTerrainBuff"]}
+{"parents": ["Buffs/DLC3/DLC3_MODS/DLC3_ElementalWaterMod/DLC3_ElementalWaterStormAbility"], "children": ["Spells/Level4/IceStormDifficultTerrainBuff", "Spells/Level4/IceStormAreaBuff"]}

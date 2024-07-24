@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/TrueEnding/Suggest/AnswersList_0048"], "children": ["World/Dialogs/c6/TrueEnding/Suggest/Cue_0029", "Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverItem"]}
+{"parents": ["World/Dialogs/c6/TrueEnding/Suggest/AnswersList_0048"], "children": ["Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverItem", "World/Dialogs/c6/TrueEnding/Suggest/Cue_0029"]}

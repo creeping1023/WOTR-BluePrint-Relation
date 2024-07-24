@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/AnswersList_0003"], "children": ["Spells/CutsceneSpells/ProneBuff", "Buffs/NPC_Protection", "Buffs/NPC_Protection", "Buffs/NPC_Immortality"]}
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/AnswersList_0003"], "children": ["Buffs/NPC_Protection", "Buffs/NPC_Immortality", "Spells/CutsceneSpells/ProneBuff"]}

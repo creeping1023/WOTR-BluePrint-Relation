@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Answer_0022"], "children": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0079", "Factions/Player"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Answer_0022"], "children": ["Factions/Player", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0079"]}

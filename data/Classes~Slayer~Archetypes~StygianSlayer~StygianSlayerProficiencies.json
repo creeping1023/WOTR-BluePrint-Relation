@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerArchetype"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency", "Classes/Basic/Proficiencies/MartialWeaponProficiency"]}
+{"parents": ["Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerArchetype"], "children": ["Classes/Basic/Proficiencies/MartialWeaponProficiency", "Classes/Basic/Proficiencies/LightArmorProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC4_Shifter/DLC4_Achievements/DLC4_HangeMansNotes", "Root/BlueprintRoot"], "children": ["DLC/MainGame/MainCampaign", "Achievements/Groups/DLC4TrophyGroup"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/DLC4_Shifter/DLC4_Achievements/DLC4_HangeMansNotes"], "children": ["Achievements/Groups/DLC4TrophyGroup", "DLC/MainGame/MainCampaign"]}

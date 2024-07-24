@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraHigherCity/VellexiaWounded/VellexiaWounded"], "children": ["Factions/CutsceneNeutrals", "Spells/Level4/InvisibilityGreaterBuff", "Spells/Level3/DisplacementBuff", "Spells/Level2/MirrorImageBuff"]}
+{"parents": ["World/Cutscenes/AlushinyrraHigherCity/VellexiaWounded/VellexiaWounded"], "children": ["Spells/Level2/MirrorImageBuff", "Spells/Level3/DisplacementBuff", "Spells/Level4/InvisibilityGreaterBuff", "Factions/CutsceneNeutrals"]}

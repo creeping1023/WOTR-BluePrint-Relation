@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/AnswersList_0039", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/SkeletalSalesmanSE/Cue_0044", "World/Encounters/Trader_Karelia/UnlockableFlags/TraderLootTable"]}
+{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/AnswersList_0039", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Encounters/Trader_Karelia/UnlockableFlags/TraderLootTable", "World/Dialogs/c3/SkeletalSalesmanSE/Cue_0044"]}

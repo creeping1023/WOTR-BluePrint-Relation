@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarknessDeathsnatcher", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarknessDeathsnatcher"]}

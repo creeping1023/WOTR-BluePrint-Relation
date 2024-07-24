@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyMarilithStandard", "Armies/UnitBlueprints/ArmyAngelMonadicDeva"], "children": ["Armies/Abilities/ArmyIncreaseMoraleAfterKill"]}
+{"parents": ["Armies/UnitBlueprints/ArmyAngelMonadicDeva", "Armies/UnitBlueprints/ArmyMarilithStandard"], "children": ["Armies/Abilities/ArmyIncreaseMoraleAfterKill"]}

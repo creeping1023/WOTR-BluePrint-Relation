@@ -1,1 +1,1 @@
-{"children": ["CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/CelestialSmiteEvilAbility", "Classes/Paladin/SmiteEvil/SmiteEvilResource", "Mythic/MythicAbilities/AbundantSmite"]}
+{"children": ["Classes/Paladin/SmiteEvil/SmiteEvilResource", "CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/CelestialSmiteEvilAbility", "Mythic/MythicAbilities/AbundantSmite"]}

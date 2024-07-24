@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/gate 12"], "children": ["World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/CommandUnitPlayCutsceneAnimation 6", "World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/CommandDelay7"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/gate 12"], "children": ["World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/CommandDelay7", "World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/CommandUnitPlayCutsceneAnimation 6"]}

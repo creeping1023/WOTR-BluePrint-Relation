@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/Cue_0081"], "children": ["Armies/UnitBlueprints/ArmyHellknight", "Armies/UnitBlueprints/ArmyHellknightSignifer"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/Cue_0081"], "children": ["Armies/UnitBlueprints/ArmyHellknightSignifer", "Armies/UnitBlueprints/ArmyHellknight"]}

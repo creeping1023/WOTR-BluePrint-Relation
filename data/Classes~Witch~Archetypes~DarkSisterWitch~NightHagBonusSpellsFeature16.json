@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/NightHagSpelllistFeature"], "children": ["Spells/Level3/DispelMagic", "Spells/Level3/VampiricTouchCast"]}
+{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/NightHagSpelllistFeature"], "children": ["Spells/Level3/VampiricTouchCast", "Spells/Level3/DispelMagic"]}

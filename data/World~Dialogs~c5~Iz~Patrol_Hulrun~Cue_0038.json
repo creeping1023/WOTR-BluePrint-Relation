@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0037"], "children": ["Units/Companions/Trever/Trever_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Hurlun"]}
+{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0037"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Hurlun", "Units/Companions/Trever/Trever_Companion"]}

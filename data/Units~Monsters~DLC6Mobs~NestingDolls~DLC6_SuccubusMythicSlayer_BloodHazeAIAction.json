@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC6Mobs/NestingDolls/DLC6_Kalavakus_Brain_Mythic"], "children": ["Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusMythicSlayer_BloodHazeAIAction", "Brain/Considerations/SwiftActionOffCooldown", "Mythic/Demon/DemonSpells/BloodHaze"]}
+{"parents": ["Units/Monsters/DLC6Mobs/NestingDolls/DLC6_Kalavakus_Brain_Mythic"], "children": ["Mythic/Demon/DemonSpells/BloodHaze", "Brain/Considerations/SwiftActionOffCooldown", "Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusMythicSlayer_BloodHazeAIAction"]}

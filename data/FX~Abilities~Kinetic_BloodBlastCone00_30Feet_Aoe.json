@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/ElementalFocus/CompositeBlasts/BloodBlast/BloodBlastInfused/SprayBloodBlastAbility", "Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodConeAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodConeAbility", "Classes/Kineticist/ElementalFocus/CompositeBlasts/BloodBlast/BloodBlastInfused/SprayBloodBlastAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

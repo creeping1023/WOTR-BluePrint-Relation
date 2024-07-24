@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_AssassinBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Abilities/ArmyAssassinTeleportAbility"]}
+{"parents": ["Armies/Brains/TacticalCombat_AssassinBrain"], "children": ["Armies/Abilities/ArmyAssassinTeleportAbility", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"]}

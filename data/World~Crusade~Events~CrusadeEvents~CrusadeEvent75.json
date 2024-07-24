@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/CrusadeEventTimeline"], "children": ["Armies/CrusadeGlobalBuffs/FlagReductionOfLosses8", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend", "Armies/CrusadeGlobalBuffs/ArmyUnitsReasonable"]}
+{"parents": ["Root/Kingdom/CrusadeEventTimeline"], "children": ["Armies/CrusadeGlobalBuffs/FlagReductionOfLosses8", "Armies/CrusadeGlobalBuffs/ArmyUnitsReasonable", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend"]}

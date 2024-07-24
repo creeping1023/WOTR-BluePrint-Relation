@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/SwordOfEternalSquireAbility", "Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Holy"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Weapons/Items/Unique/SwordOfEternalSquireAbility", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Holy"]}

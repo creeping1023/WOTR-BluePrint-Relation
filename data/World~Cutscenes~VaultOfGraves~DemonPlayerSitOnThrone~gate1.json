@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/DemonPlayerSitOnThrone", "World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/gate"], "children": ["World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/CommandUnitPlayCutsceneAnimation1"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/gate", "World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/DemonPlayerSitOnThrone"], "children": ["World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/CommandUnitPlayCutsceneAnimation1"]}

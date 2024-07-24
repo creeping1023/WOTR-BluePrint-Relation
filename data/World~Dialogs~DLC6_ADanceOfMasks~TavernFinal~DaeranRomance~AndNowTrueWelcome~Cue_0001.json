@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/DaeranRomance/AndNowTrueWelcome/AndNowTrueWelcome_dialog"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/Companions/Daeran/Daeran_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/DaeranRomance/AndNowTrueWelcome/Cue_0002"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/DaeranRomance/AndNowTrueWelcome/AndNowTrueWelcome_dialog"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/DaeranRomance/AndNowTrueWelcome/Cue_0002", "Units/Companions/Daeran/Daeran_Companion"]}

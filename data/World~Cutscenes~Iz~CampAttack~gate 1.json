@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/CampAttack/gate 2", "World/Cutscenes/Iz/CampAttack/CampAttack"], "children": ["World/Cutscenes/Iz/CampAttack/CommandAction 1"]}
+{"parents": ["World/Cutscenes/Iz/CampAttack/CampAttack", "World/Cutscenes/Iz/CampAttack/gate 2"], "children": ["World/Cutscenes/Iz/CampAttack/CommandAction 1"]}

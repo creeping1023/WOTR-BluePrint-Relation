@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Halfling/CravenHalfling", "Buffs/DLC3/DLC3_BUFFS/DLC3_HalflingBuff/DLC3_HalflingBuffedRace", "Races/HalflingRace", "Races/SarcorianChildRace"]}
+{"parents": ["Races/SarcorianChildRace", "Buffs/DLC3/DLC3_BUFFS/DLC3_HalflingBuff/DLC3_HalflingBuffedRace", "Races/HalflingRace", "Traits/Races/Halfling/CravenHalfling"]}

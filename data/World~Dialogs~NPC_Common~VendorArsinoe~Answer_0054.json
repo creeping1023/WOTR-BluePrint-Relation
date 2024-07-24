@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/VendorArsinoe/AnswersList_0004"], "children": ["World/Dialogs/NPC_Common/VendorArsinoe/Cue_0056", "Classes/Basic/Deities/AbadarFeature", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust"]}
+{"parents": ["World/Dialogs/NPC_Common/VendorArsinoe/AnswersList_0004"], "children": ["Classes/Basic/Deities/AbadarFeature", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust", "World/Dialogs/NPC_Common/VendorArsinoe/Cue_0056"]}

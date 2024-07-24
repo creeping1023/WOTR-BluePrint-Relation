@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrAuraOfResolve/MartyrAuraOfResolveFeature"], "children": ["Classes/Paladin/Archetypes/Martyr/MartyrAuraOfResolve/MartyrAuraOfResolveArea", "Classes/Paladin/AuraOfResolve/AuraOfResolveBuff", "Classes/Paladin/AuraOfResolve/AuraOfResolveBuff"]}
+{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrAuraOfResolve/MartyrAuraOfResolveFeature"], "children": ["Classes/Paladin/AuraOfResolve/AuraOfResolveBuff", "Classes/Paladin/Archetypes/Martyr/MartyrAuraOfResolve/MartyrAuraOfResolveArea"]}

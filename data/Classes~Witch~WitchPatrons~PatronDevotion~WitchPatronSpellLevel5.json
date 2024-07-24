@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level5/FlameStrike"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Spells/Level5/FlameStrike", "Classes/Witch/WitchClass"]}

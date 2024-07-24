@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/DLC4_Ulbrig_arrival_before_garrison/gate2"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/Shifter_Defheart/Shifter_Defheart_dialogue"]}
+{"parents": ["World/Cutscenes/DefendersHeart/DLC4_Ulbrig_arrival_before_garrison/gate2"], "children": ["World/Dialogs/DLC4_Shifter/Shifter_Defheart/Shifter_Defheart_dialogue", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

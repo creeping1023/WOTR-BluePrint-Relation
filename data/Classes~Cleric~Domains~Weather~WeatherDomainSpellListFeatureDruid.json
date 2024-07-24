@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Weather/WeatherDomainProgressionDruid"], "children": ["Classes/Druid/DruidClass", "Classes/Cleric/Domains/Weather/WeatherDomainSpellList"]}
+{"parents": ["Classes/Cleric/Domains/Weather/WeatherDomainProgressionDruid"], "children": ["Classes/Cleric/Domains/Weather/WeatherDomainSpellList", "Classes/Druid/DruidClass"]}

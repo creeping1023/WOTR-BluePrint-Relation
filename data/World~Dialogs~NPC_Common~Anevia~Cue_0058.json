@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Anevia/Dialogue_AneviaMain"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01", "World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_States/DH_Fate/DHLost", "World/Dialogs/NPC_Common/Anevia/AnswersList_0003"]}
+{"parents": ["World/Dialogs/NPC_Common/Anevia/Dialogue_AneviaMain"], "children": ["World/Dialogs/NPC_Common/Anevia/AnswersList_0003", "World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_States/DH_Fate/DHLost", "World/Etudes/Common/WrathOfTheRighteous/Chapter01"]}

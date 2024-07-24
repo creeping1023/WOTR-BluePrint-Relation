@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monster/Plant/PlantClass", "Units/Monsters/Nereid/NereidBrain/NereidBeguilingAuraAreaEffect"], "children": ["Classes/Monster/Plant/PlantClass", "Traits/Races/Common/PlantType"]}
+{"parents": ["Units/Monsters/Nereid/NereidBrain/NereidBeguilingAuraAreaEffect", "Classes/Monster/Plant/PlantClass"], "children": ["Traits/Races/Common/PlantType", "Classes/Monster/Plant/PlantClass"]}

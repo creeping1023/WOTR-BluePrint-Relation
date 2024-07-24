@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff", "Mythic/Demon/Aspects/SuccubusAspect/SuccubusAspectAbility"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "Mythic/Demon/Aspects/SuccubusAspect/SuccubusAspectEffectBuff"]}
+{"parents": ["Mythic/Demon/Aspects/SuccubusAspect/SuccubusAspectAbility", "Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff"], "children": ["Mythic/Demon/Aspects/SuccubusAspect/SuccubusAspectEffectBuff", "Mythic/Demon/DemonRage/DemonRageBuff"]}

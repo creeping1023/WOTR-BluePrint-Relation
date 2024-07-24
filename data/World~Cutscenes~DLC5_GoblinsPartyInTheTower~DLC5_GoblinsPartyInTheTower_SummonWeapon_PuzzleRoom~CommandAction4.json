@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_SummonWeapon_PuzzleRoom/DLC5_GoblinsPartyInTheTower_SummonWeapon_PuzzleRoom"], "children": ["Buffs/SummonedCreatureVisual", "World/Encounters/LostChapel/Buffs/CantMove"]}
+{"parents": ["World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_SummonWeapon_PuzzleRoom/DLC5_GoblinsPartyInTheTower_SummonWeapon_PuzzleRoom"], "children": ["World/Encounters/LostChapel/Buffs/CantMove", "Buffs/SummonedCreatureVisual"]}

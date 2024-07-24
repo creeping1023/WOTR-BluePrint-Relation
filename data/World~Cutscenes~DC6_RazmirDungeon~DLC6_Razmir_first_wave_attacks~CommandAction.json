@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_Razmir_first_wave_attacks/gate"], "children": ["World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_RazmirPool", "Factions/Mobs", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_RazmirFirstWave"]}
+{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_Razmir_first_wave_attacks/gate"], "children": ["Factions/Mobs", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_RazmirFirstWave", "World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_RazmirPool"]}

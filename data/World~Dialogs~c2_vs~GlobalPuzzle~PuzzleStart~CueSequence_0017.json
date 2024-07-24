@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/GlobalPuzzle/PuzzleStart/Cue_0004"], "children": ["World/Dialogs/c2_vs/GlobalPuzzle/PuzzleStart/Cue_0019", "World/Dialogs/c2_vs/GlobalPuzzle/PuzzleStart/SequenceExit_0018"]}
+{"parents": ["World/Dialogs/c2_vs/GlobalPuzzle/PuzzleStart/Cue_0004"], "children": ["World/Dialogs/c2_vs/GlobalPuzzle/PuzzleStart/SequenceExit_0018", "World/Dialogs/c2_vs/GlobalPuzzle/PuzzleStart/Cue_0019"]}

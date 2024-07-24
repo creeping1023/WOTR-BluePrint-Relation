@@ -1,1 +1,1 @@
-{"parents": ["Loot/Quest/LostChapel/BookLoot01", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/HorgusManor/PoorLootLibrary01", "Loot/Good/CR45/PF2_DemonWorld_DarknessBookshelf", "Loot/Quest/LostChapel/BookLoot_1"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/LostChapel/BookLoot01", "Loot/Good/CR45/PF2_DemonWorld_DarknessBookshelf", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/HorgusManor/PoorLootLibrary01", "Loot/Quest/LostChapel/BookLoot_1"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

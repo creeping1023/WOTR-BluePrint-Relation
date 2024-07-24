@@ -1,1 +1,1 @@
-{"parents": ["QA/Arbiter/Scenario/Act_1_WorldwoundIncursion/EstrodTower"], "children": ["World/Areas/Act_1_WorldwoundIncursion/EstrodTower/EstrodTower", "World/Areas/Act_1_WorldwoundIncursion/EstrodTower/EstrodTower_Basement"]}
+{"parents": ["QA/Arbiter/Scenario/Act_1_WorldwoundIncursion/EstrodTower"], "children": ["World/Areas/Act_1_WorldwoundIncursion/EstrodTower/EstrodTower_Basement", "World/Areas/Act_1_WorldwoundIncursion/EstrodTower/EstrodTower"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event62RescueSquads", "Armies/CrusadeGlobalBuffs/FlagReductionOfLosses6"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/CrusadeGlobalBuffs/FlagReductionOfLosses6", "Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event62RescueSquads"]}

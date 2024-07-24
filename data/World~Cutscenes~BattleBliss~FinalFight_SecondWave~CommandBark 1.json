@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/FinalFight_SecondWave/gate2"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/BattleBlissAS_Gladiators_Arena", "World/Encounters/BattleBliss/UnlockableFlags/ArenaBattleGladiators_Friendly"]}
+{"parents": ["World/Cutscenes/BattleBliss/FinalFight_SecondWave/gate2"], "children": ["World/Encounters/BattleBliss/UnlockableFlags/ArenaBattleGladiators_Friendly", "World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/BattleBlissAS_Gladiators_Arena"]}

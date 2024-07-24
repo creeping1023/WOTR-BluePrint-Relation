@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC5_Achievements", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Achievements/DLC5_56_Glaciation", "Achievements/DLC5_56_Glaciation", "World/Etudes/Common/DLC5_Achievements"]}
+{"parents": ["World/Etudes/Common/DLC5_Achievements", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/DLC5_Achievements", "Achievements/DLC5_56_Glaciation"]}

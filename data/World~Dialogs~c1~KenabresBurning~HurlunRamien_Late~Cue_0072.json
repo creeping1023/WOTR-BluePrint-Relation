@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0069"], "children": ["Units/Companions/Lann/Lann_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Hurlun", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0073"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0069"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Hurlun", "Units/Companions/Lann/Lann_Companion", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0073"]}

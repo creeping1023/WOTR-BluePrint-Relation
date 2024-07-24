@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Exploration/WalkthroughScenarios/Azata_Fighter", "QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mAzata3chap"], "children": ["Mythic/Azata/AzataMythicClass"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mAzata3chap", "QA/Clockwork/Scenario/Exploration/WalkthroughScenarios/Azata_Fighter"], "children": ["Mythic/Azata/AzataMythicClass"]}

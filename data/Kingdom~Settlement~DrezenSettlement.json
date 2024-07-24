@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot", "World/Areas/Settlements/TempCapital/Capital_Settlement_Preset"], "children": ["World/Areas/Settlements/DrezenSettlement/Drezen_Enter", "World/Areas/Settlements/TempCapital/Capital_Enter"]}
+{"parents": ["World/Areas/Settlements/TempCapital/Capital_Settlement_Preset", "Root/Kingdom/KingdomRoot"], "children": ["World/Areas/Settlements/DrezenSettlement/Drezen_Enter", "World/Areas/Settlements/TempCapital/Capital_Enter"]}

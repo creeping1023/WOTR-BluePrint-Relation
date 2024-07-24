@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackFeature"], "children": ["Armies/Abilities/ArmyLocustAttackBuff", "Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackResource", "Armies/Abilities/ArmyLocustAttackBuff"]}
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackFeature"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackResource", "Armies/Abilities/ArmyLocustAttackBuff"]}

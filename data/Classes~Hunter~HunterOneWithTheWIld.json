@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/HunterOneWithTheWildFeaturePet", "Classes/Hunter/HunterOneWithTheWildFeature"], "children": ["Buffs/Shaken", "Buffs/Frightened", "Mythic/Trickster/Persuasion/TricksterPersuasionDebuff", "Traits/Races/Common/AnimalType"]}
+{"parents": ["Classes/Hunter/HunterOneWithTheWildFeaturePet", "Classes/Hunter/HunterOneWithTheWildFeature"], "children": ["Buffs/Shaken", "Buffs/Frightened", "Traits/Races/Common/AnimalType", "Mythic/Trickster/Persuasion/TricksterPersuasionDebuff"]}

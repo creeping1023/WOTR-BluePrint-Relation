@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCaster19_Brain_Geniekind"], "children": ["Spells/Level5/Geniekind", "Spells/Level5/GeniekindDjinni", "Spells/Level5/GeniekindEfreeti", "Spells/Level5/GeniekindMarid", "Spells/Level5/GeniekindShaitan"]}
+{"parents": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCaster19_Brain_Geniekind"], "children": ["Spells/Level5/GeniekindShaitan", "Spells/Level5/GeniekindDjinni", "Spells/Level5/Geniekind", "Spells/Level5/GeniekindMarid", "Spells/Level5/GeniekindEfreeti"]}

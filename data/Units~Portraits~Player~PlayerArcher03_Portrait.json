@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Warlords/WarlordUnits/Warlord_9_Fighter", "Root/BlueprintRoot", "Armies/Leaders/Warlords/WarlordLeaderWarrior1"], "children": ["Races/DwarfRace"]}
+{"parents": ["Root/BlueprintRoot", "Armies/Leaders/Warlords/WarlordLeaderWarrior1", "Armies/Leaders/Warlords/WarlordUnits/Warlord_9_Fighter"], "children": ["Races/DwarfRace"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TheIvoryLabyrinth/BaphometStatueSpawn/BaphometStatueSpawn"], "children": ["World/Cutscenes/TheIvoryLabyrinth/BaphometStatueSpawn/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/TheIvoryLabyrinth/BaphometStatueSpawn/gate"]}
+{"parents": ["World/Cutscenes/TheIvoryLabyrinth/BaphometStatueSpawn/BaphometStatueSpawn"], "children": ["World/Cutscenes/TheIvoryLabyrinth/BaphometStatueSpawn/gate", "World/Cutscenes/TheIvoryLabyrinth/BaphometStatueSpawn/CommandUnitPlayCutsceneAnimation"]}

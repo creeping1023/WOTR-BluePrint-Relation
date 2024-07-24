@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/Kerz/Answer_0056"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/FlyPrice2", "Items/Utility/GoldCoins", "Items/Utility/GoldCoins", "World/Dialogs/c4/FleshMarket/Kerz/AnswersList_0058"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/Kerz/Answer_0056"], "children": ["World/Dialogs/c4/FleshMarket/Kerz/AnswersList_0058", "Items/Utility/GoldCoins", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/FlyPrice2"]}

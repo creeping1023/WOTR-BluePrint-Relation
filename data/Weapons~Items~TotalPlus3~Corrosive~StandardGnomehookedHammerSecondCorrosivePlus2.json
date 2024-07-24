@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/TotalPlus3/Corrosive/StandardGnomeHookedHammerCorrosivePlus2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus3/Corrosive/StandardGnomeHookedHammerCorrosivePlus2"], "children": ["Weapons/Enchantments/Enhancement2", "Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook", "Weapons/Enchantments/Corrosive"]}

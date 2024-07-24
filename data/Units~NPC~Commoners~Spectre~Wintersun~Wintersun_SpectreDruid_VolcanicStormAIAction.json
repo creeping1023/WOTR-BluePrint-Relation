@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_OutOfCombatBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/VolcanicStorm"]}
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_OutOfCombatBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level4/VolcanicStorm", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

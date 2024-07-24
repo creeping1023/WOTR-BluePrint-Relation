@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Angel/HeraldCalling/AnswersList_0039", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/Mythic_Angel/HeraldCalling/Cue_0044", "World/Etudes/Common/WrathOfTheRighteous/0Prologue_Extra/0Prologue_Outcomes/Retribution"]}
+{"parents": ["World/Dialogs/c3/Mythic_Angel/HeraldCalling/AnswersList_0039", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/0Prologue_Extra/0Prologue_Outcomes/Retribution", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Cue_0044"]}

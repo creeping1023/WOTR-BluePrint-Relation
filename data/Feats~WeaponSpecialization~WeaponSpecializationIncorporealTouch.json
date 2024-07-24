@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterIncorporealTouch"], "children": ["Weapons/Types/Special/IncoporealTouchType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterIncorporealTouch"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterIncorporealTouch"], "children": ["Weapons/Types/Special/IncoporealTouchType", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterIncorporealTouch", "Classes/Fighter/FighterClass"]}

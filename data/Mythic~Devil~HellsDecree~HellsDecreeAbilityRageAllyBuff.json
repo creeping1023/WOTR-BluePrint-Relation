@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Devil/HellsDecree/HellsDecreeAbilityRage", "Root/Upgraders/Player/PF-507930"], "children": ["Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageFaction", "Mythic/Devil/HellsDecree/HellsDecreeAbilityRageAllyBonusBuff"]}
+{"parents": ["Mythic/Devil/HellsDecree/HellsDecreeAbilityRage", "Root/Upgraders/Player/PF-507930"], "children": ["Mythic/Devil/HellsDecree/HellsDecreeAbilityRageAllyBonusBuff", "Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageFaction"]}

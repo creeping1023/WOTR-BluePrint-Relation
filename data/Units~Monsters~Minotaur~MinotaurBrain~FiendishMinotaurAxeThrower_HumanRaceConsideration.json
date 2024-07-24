@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/FiendishMinotaurAxeThrower_AttackAiAction"], "children": ["Races/HumanRace", "Races/HalfElfRace", "Races/HalfOrcRace"]}
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/FiendishMinotaurAxeThrower_AttackAiAction"], "children": ["Races/HumanRace", "Races/HalfOrcRace", "Races/HalfElfRace"]}

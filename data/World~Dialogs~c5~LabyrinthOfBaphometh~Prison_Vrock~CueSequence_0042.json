@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0010", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_2"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0043", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/SequenceExit_0054"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_2", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0010"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/SequenceExit_0054", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0043"]}

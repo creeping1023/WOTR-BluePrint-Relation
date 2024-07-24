@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/TravelFromGargoyles/gate"], "children": ["World/Quests/c2_vs/LostChapel/LostChapel_Quest", "World/Areas/Act_2_SwordOfValor/LostChapel/EnterPoints/LostChapel_Enter"]}
+{"parents": ["World/Cutscenes/LostChapel/TravelFromGargoyles/gate"], "children": ["World/Areas/Act_2_SwordOfValor/LostChapel/EnterPoints/LostChapel_Enter", "World/Quests/c2_vs/LostChapel/LostChapel_Quest"]}

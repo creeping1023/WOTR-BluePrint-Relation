@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level1/StunningBarrier"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Spells/Level1/StunningBarrier", "Classes/Witch/WitchClass"]}

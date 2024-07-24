@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Necrotic"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Necrotic"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/cr3gelatinous_Cube/CR3Gelatinous_Cube_Stench_Buff"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/cr3gelatinous_Cube/CR3Gelatinous_Cube_Stench_ImmunityBuff", "Units/NPC/Commoners/DLC2_LowFantasy/cr3gelatinous_Cube/CR3Gelatinous_Cube_Stench_ImmunityBuff", "Buffs/Nauseated"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/cr3gelatinous_Cube/CR3Gelatinous_Cube_Stench_Buff"], "children": ["Buffs/Nauseated", "Units/NPC/Commoners/DLC2_LowFantasy/cr3gelatinous_Cube/CR3Gelatinous_Cube_Stench_ImmunityBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map6_Abyss/Abducted/Answer_7"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC2_LowFantasy/Map6_Abyss/Abducted/Cue_0013"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map6_Abyss/Abducted/Answer_7"], "children": ["World/Dialogs/DLC2_LowFantasy/Map6_Abyss/Abducted/Cue_0013", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

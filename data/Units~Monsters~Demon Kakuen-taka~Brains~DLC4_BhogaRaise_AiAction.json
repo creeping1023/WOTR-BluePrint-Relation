@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Kakuen-taka/Brains/CR21_GluttonousBhogaSwarmBrain"], "children": ["Units/Monsters/Demon Kakuen-taka/Brains/UsedBody_BhogaSwarmConsideration", "Brain/Considerations/NotConstructConsideration", "Units/Monsters/Demon Kakuen-taka/DLC4_Bhoga_Raise"]}
+{"parents": ["Units/Monsters/Demon Kakuen-taka/Brains/CR21_GluttonousBhogaSwarmBrain"], "children": ["Units/Monsters/Demon Kakuen-taka/DLC4_Bhoga_Raise", "Units/Monsters/Demon Kakuen-taka/Brains/UsedBody_BhogaSwarmConsideration", "Brain/Considerations/NotConstructConsideration"]}

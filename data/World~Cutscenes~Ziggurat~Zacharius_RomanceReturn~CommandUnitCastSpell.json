@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Ziggurat/Zacharius_RomanceReturn/Zacharius_RomanceReturn"], "children": ["World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius", "Spells/CutsceneSpells/Summon_Cutscene"]}
+{"parents": ["World/Cutscenes/Ziggurat/Zacharius_RomanceReturn/Zacharius_RomanceReturn"], "children": ["Spells/CutsceneSpells/Summon_Cutscene", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius"]}

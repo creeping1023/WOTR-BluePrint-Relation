@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Gallu/GalluBrain/Gallu_AiAction_QuickinedHoldMonster", "Units/Monsters/Demon Gallu/GalluBrain/Gallu_AiAction_MassHoldMonster"], "children": ["Classes/Paladin/AuraOfRighteousness/AuraOfRighteousnessFeature"]}
+{"parents": ["Units/Monsters/Demon Gallu/GalluBrain/Gallu_AiAction_MassHoldMonster", "Units/Monsters/Demon Gallu/GalluBrain/Gallu_AiAction_QuickinedHoldMonster"], "children": ["Classes/Paladin/AuraOfRighteousness/AuraOfRighteousnessFeature"]}

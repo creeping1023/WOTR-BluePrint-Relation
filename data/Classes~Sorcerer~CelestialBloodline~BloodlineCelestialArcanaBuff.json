@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/CelestialBloodline/BloodlineCelestialArcana"], "children": ["Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Sorcerer/SorcererClass", "Classes/Magus/MagusClass", "Feats/AugmentSummoning/AugmentSummoningBuff"]}
+{"parents": ["Classes/Sorcerer/CelestialBloodline/BloodlineCelestialArcana"], "children": ["Classes/Sorcerer/SorcererClass", "Feats/AugmentSummoning/AugmentSummoningBuff", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Cue_19"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_LichGalfrey", "World/Cutscenes/DLC1_Ziggurat/DLC1_Ziggurat_GalfreyLeaves/DLC1_Ziggurat_GalfreyLeaves"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Cue_19"], "children": ["World/Cutscenes/DLC1_Ziggurat/DLC1_Ziggurat_GalfreyLeaves/DLC1_Ziggurat_GalfreyLeaves", "Units/NPC/Unique/DLC1_Megaepic/DLC1_LichGalfrey"]}

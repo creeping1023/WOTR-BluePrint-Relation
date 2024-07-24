@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level9/Tsunami", "Spells/Level8/SeamantleBuff", "Equipment/Boots/PF2/BootsOfFreereinEnchantment"], "children": ["Mythic/Aeon/AeonBlackHoleSlowBuff", "Spells/Level3/SlowBuff"]}
+{"parents": ["Spells/Level8/SeamantleBuff", "Equipment/Boots/PF2/BootsOfFreereinEnchantment", "Spells/Level9/Tsunami"], "children": ["Mythic/Aeon/AeonBlackHoleSlowBuff", "Spells/Level3/SlowBuff"]}

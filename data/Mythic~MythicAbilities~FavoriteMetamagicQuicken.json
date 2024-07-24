@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenSorcererFeatureList", "Feats/Metamagic/QuickenSpellFeat", "Mythic/MythicAbilities/FavoriteMetamagicSelection", "Units/Companions/Nenio/Nenio_FeatureList"], "children": ["Feats/Metamagic/QuickenSpellFeat"]}
+{"parents": ["Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenSorcererFeatureList", "Units/Companions/Nenio/Nenio_FeatureList", "Feats/Metamagic/QuickenSpellFeat", "Mythic/MythicAbilities/FavoriteMetamagicSelection"], "children": ["Feats/Metamagic/QuickenSpellFeat"]}

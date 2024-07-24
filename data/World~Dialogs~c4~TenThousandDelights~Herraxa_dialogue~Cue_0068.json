@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Answer_0067"], "children": ["Items/Utility/GoldCoins", "World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Cue_0315"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Answer_0067"], "children": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Cue_0315", "Items/Utility/GoldCoins"]}

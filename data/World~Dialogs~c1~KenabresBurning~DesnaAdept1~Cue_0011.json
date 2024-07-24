@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/Answer_0006"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest", "Spells/Level2/InvisibilityBuff", "Spells/Level2/InvisibilityBuff", "World/Dialogs/c1/KenabresBurning/DesnaAdept1/AnswersList_0005"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/Answer_0006"], "children": ["Spells/Level2/InvisibilityBuff", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest", "World/Dialogs/c1/KenabresBurning/DesnaAdept1/AnswersList_0005"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Legend/LegendFane/Answer_0016"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Quests/MythicQuests/Legend/C5_IAmLegend/00_LegendHiddenFail", "World/Dialogs/c5/Mythic_Legend/LegendFane/Cue_0045_GiveUpLegend2"]}
+{"parents": ["World/Dialogs/c5/Mythic_Legend/LegendFane/Answer_0016"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Dialogs/c5/Mythic_Legend/LegendFane/Cue_0045_GiveUpLegend2", "World/Quests/MythicQuests/Legend/C5_IAmLegend/00_LegendHiddenFail"]}

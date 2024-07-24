@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Crinukh/Cue_0170"], "children": ["World/Etudes/Common/ImportantStates/StoryProjectsOutcome/Crinukh_ArmyFinished", "Armies/Presets/NarrativeArmies/Ch5_Crinukh_Mercenaries", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["World/Dialogs/NPC_Common/Crinukh/Cue_0170"], "children": ["Armies/Presets/NarrativeArmies/Ch5_Crinukh_Mercenaries", "GlobalMaps/WorldWoundGM/Points/Point_Drezen", "World/Etudes/Common/ImportantStates/StoryProjectsOutcome/Crinukh_ArmyFinished"]}

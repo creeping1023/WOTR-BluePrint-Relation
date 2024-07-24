@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/BoxTrick_sideQuest/MercenariesWithGolem/Cue_0001", "World/Quests/Test/BoxTrick_SideQuest/BoxTrick_SideQuest", "World/Quests/Test/BoxTrick_SideQuest/Obj1_RatTailsPackage"], "children": ["World/Quests/Test/BoxTrick_SideQuest/BoxTrick_SideQuest"]}
+{"parents": ["World/Dialogs/Test/BoxTrick_sideQuest/MercenariesWithGolem/Cue_0001", "World/Quests/Test/BoxTrick_SideQuest/Obj1_RatTailsPackage", "World/Quests/Test/BoxTrick_SideQuest/BoxTrick_SideQuest"], "children": ["World/Quests/Test/BoxTrick_SideQuest/BoxTrick_SideQuest"]}

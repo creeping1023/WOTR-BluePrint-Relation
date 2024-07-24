@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/CrusadersEdgeCast"], "children": ["Spells/Level4/CrusadersEdgeBuff", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Spells/Level4/CrusadersEdgeCast"], "children": ["Weapons/Types/Special/TouchItem", "Spells/Level4/CrusadersEdgeBuff"]}

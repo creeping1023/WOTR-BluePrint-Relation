@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level2/CreatePitArea", "Mythic/Trickster/TricksterSpells/TricksterRecreationalPitArea", "Spells/Level3/SpikedPitArea", "Spells/Level5/HungryPitArea", "Spells/Level4/AcidPitArea", "Spells/Level8/RiftOfRuinArea", "Mythic/Lich/LichSpells/PitOfDespairArea"]}
+{"parents": ["Mythic/Trickster/TricksterSpells/TricksterRecreationalPitArea", "Spells/Level5/HungryPitArea", "Spells/Level4/AcidPitArea", "Spells/Level8/RiftOfRuinArea", "Mythic/Lich/LichSpells/PitOfDespairArea", "Spells/Level2/CreatePitArea", "Spells/Level3/SpikedPitArea"]}

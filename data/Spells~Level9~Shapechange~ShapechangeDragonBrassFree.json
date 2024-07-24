@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level9/Shapechange/ShapechangeFree"], "children": ["Spells/Level8/FormOfTheDragonIIIBrassBuff", "Spells/Level9/Shapechange/ShapechangeCooldown", "Spells/Level8/FormOfTheDragonIIIBrassBuff", "Spells/Level9/Shapechange/ShapechangeCooldown", "Spells/Level9/Shapechange/Shapechange"]}
+{"parents": ["Spells/Level9/Shapechange/ShapechangeFree"], "children": ["Spells/Level9/Shapechange/Shapechange", "Spells/Level8/FormOfTheDragonIIIBrassBuff", "Spells/Level9/Shapechange/ShapechangeCooldown"]}

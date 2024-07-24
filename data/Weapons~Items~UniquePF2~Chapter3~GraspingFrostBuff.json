@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter3/GraspingFrostEnchantment"], "children": ["Weapons/Items/UniquePF2/Chapter3/GraspingFrostDiminishACBuff", "Weapons/Items/UniquePF2/Chapter3/GraspingFrostDiminishACBuff", "Spells/Level1/BlessBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter3/GraspingFrostEnchantment"], "children": ["Spells/Level1/BlessBuff", "Weapons/Items/UniquePF2/Chapter3/GraspingFrostDiminishACBuff"]}

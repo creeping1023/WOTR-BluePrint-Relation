@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level4/InvisibilityGreater"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Spells/Level4/InvisibilityGreater", "Items/DestructibleItemsShards/GlassShardItem"]}

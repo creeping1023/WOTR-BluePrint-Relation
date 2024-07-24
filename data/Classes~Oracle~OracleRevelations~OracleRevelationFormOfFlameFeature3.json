@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationFormOfFlame"], "children": ["Classes/Oracle/OracleClass", "Classes/Oracle/OracleRevelations/OracleRevelationFormOfFlame3", "Classes/Arcanist/ArcanistClass", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiver"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationFormOfFlame"], "children": ["Classes/Arcanist/ArcanistClass", "Classes/Oracle/OracleClass", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiver", "Classes/Oracle/OracleRevelations/OracleRevelationFormOfFlame3"]}

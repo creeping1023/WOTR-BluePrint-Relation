@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mAzataUnlock", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/AnswersList_0021"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0025"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mAzataUnlock", "World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/AnswersList_0021", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0025"]}

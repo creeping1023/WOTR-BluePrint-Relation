@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/SlaveEscapes/Cue_0017"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/ColyphyrSlave_FemaleAzata", "World/Dialogs/c4/Mythic_Azata/SlaveEscapes/Cue_0019"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/SlaveEscapes/Cue_0017"], "children": ["World/Dialogs/c4/Mythic_Azata/SlaveEscapes/Cue_0019", "Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/ColyphyrSlave_FemaleAzata"]}

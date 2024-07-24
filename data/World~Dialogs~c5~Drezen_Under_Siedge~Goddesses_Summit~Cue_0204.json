@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0104"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula", "World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/AnswersList_0072"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0104"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/AnswersList_0072", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"]}

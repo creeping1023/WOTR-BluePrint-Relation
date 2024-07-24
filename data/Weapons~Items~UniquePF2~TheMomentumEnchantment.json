@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/TheMomentumItem"], "children": ["Weapons/Items/UniquePF2/TheMomentumBossFeature", "Spells/Level3/HasteBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/TheMomentumItem"], "children": ["Spells/Level3/HasteBuff", "Weapons/Items/UniquePF2/TheMomentumBossFeature"]}

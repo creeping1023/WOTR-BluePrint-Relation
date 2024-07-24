@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraHigherCity/VellexiaStartsCombat/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/Vellexia_FightOnThirdDate", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/AlushinyrraHigherCity/VellexiaStartsCombat/gate"], "children": ["Factions/Mobs", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/Vellexia_FightOnThirdDate"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/EldritchKnight/EldritchKnightSpellbooks/EldritchKnightSpellbookSelection"], "children": ["Classes/Magus/MagusClass", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusClass", "Classes/MagusEldritchScion/EldritchScionSpellbook"]}
+{"parents": ["Classes/EldritchKnight/EldritchKnightSpellbooks/EldritchKnightSpellbookSelection"], "children": ["Classes/MagusEldritchScion/EldritchScionSpellbook", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusClass"]}

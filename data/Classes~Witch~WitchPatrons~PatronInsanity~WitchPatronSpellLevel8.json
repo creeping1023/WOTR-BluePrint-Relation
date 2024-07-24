@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronInsanity/WitchInsanityPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level8/CureCriticalWoundsMass"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronInsanity/WitchInsanityPatronProgression"], "children": ["Spells/Level8/CureCriticalWoundsMass", "Classes/Witch/WitchClass"]}

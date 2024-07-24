@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/Actions/TacticalCombatAiSpreadBurn", "Armies/Brains/Actions/TacticalCombatAiSpreadFreeze"], "children": ["Armies/Abilities/ArmyBurnOnHitBuff"]}
+{"parents": ["Armies/Brains/Actions/TacticalCombatAiSpreadFreeze", "Armies/Brains/Actions/TacticalCombatAiSpreadBurn"], "children": ["Armies/Abilities/ArmyBurnOnHitBuff"]}

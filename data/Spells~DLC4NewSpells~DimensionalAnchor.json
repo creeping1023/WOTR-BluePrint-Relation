@@ -1,1 +1,1 @@
-{"parents": ["Buffs/DLC3/DLC3_MODS/DLC3_WildMagicMod/DLC3_WildMagic_Spells_Tier1", "Buffs/DLC5/DLC5_WildMagic_Spells"], "children": ["FX/Spell Level 1/RayOfEnfeeblement00", "Weapons/Types/Special/RayItem", "Spells/DLC4NewSpells/DimensionalAnchorBuff", "DLC/DLC4/Dlc4Reward"]}
+{"parents": ["Buffs/DLC3/DLC3_MODS/DLC3_WildMagicMod/DLC3_WildMagic_Spells_Tier1", "Buffs/DLC5/DLC5_WildMagic_Spells"], "children": ["Weapons/Types/Special/RayItem", "Spells/DLC4NewSpells/DimensionalAnchorBuff", "FX/Spell Level 1/RayOfEnfeeblement00", "DLC/DLC4/Dlc4Reward"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/AnswersList_0011"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_5", "Classes/Hellknight/HellknightClass", "Classes/HellknightSignifer/HellknightSigniferClass"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/AnswersList_0011"], "children": ["Classes/Hellknight/HellknightClass", "Classes/HellknightSignifer/HellknightSigniferClass", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_5"]}

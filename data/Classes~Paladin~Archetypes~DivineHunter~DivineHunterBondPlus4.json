@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/DivineHunter/DivineHunterArchetype", "Root/Upgraders/Player/PF-489365"], "children": ["Classes/Paladin/WeaponBond/WeaponBondBrilliantEnergyChoice"]}
+{"parents": ["Root/Upgraders/Player/PF-489365", "Classes/Paladin/Archetypes/DivineHunter/DivineHunterArchetype"], "children": ["Classes/Paladin/WeaponBond/WeaponBondBrilliantEnergyChoice"]}

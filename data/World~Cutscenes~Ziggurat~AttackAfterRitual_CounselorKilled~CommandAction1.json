@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_CounselorKilled/AttackAfterRitual_CounselorKilled"], "children": ["World/Encounters/Ziggurat/UnlockableFlags/AfterRitualWin_B01", "World/Encounters/Ziggurat/SummonPools/2ndAttackOnZigguratB02_Counselors"]}
+{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_CounselorKilled/AttackAfterRitual_CounselorKilled"], "children": ["World/Encounters/Ziggurat/SummonPools/2ndAttackOnZigguratB02_Counselors", "World/Encounters/Ziggurat/UnlockableFlags/AfterRitualWin_B01"]}

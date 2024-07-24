@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterKukri"], "children": ["Weapons/Types/MartialLight/Kukri", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterKukri"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterKukri"], "children": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterKukri", "Weapons/Types/MartialLight/Kukri", "Classes/Fighter/FighterClass"]}

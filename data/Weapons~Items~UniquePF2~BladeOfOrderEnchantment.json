@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/BladeOfOrderItem"], "children": ["Weapons/Types/MartialOneHanded/Scimitar", "Weapons/Items/UniquePF2/BladeOfOrderBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/BladeOfOrderItem"], "children": ["Weapons/Items/UniquePF2/BladeOfOrderBuff", "Weapons/Types/MartialOneHanded/Scimitar"]}

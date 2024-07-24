@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Wenduag/PersonalPunishment/Cue_0022", "World/Dialogs/Companions/CompanionRomances/Wenduag/ThatIsFinal/Cue_0043"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/WenduagCompanion/WenduagRomance"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Wenduag/ThatIsFinal/Cue_0043", "World/Dialogs/Companions/CompanionRomances/Wenduag/PersonalPunishment/Cue_0022"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/WenduagCompanion/WenduagRomance"]}

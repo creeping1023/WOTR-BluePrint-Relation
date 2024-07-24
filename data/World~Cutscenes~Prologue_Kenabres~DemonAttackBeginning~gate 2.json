@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/gate"], "children": ["World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/CommandStartDialog", "World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/gate 3"]}
+{"parents": ["World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/gate"], "children": ["World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/gate 3", "World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/CommandStartDialog"]}

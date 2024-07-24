@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/Archetypes/SageRayFeature"], "children": ["Classes/Sorcerer/Archetypes/SageRayResource", "Classes/Sorcerer/SorcererClass", "FX/Abilities/ForceMissile00", "Weapons/Types/Special/RayItem"]}
+{"parents": ["Classes/Sorcerer/Archetypes/SageRayFeature"], "children": ["Weapons/Types/Special/RayItem", "Classes/Sorcerer/SorcererClass", "FX/Abilities/ForceMissile00", "Classes/Sorcerer/Archetypes/SageRayResource"]}

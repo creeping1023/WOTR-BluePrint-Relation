@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/DLC4_Warlord_leaves", "World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/gate"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/CommandAction"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/gate", "World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/DLC4_Warlord_leaves"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/CommandAction"]}

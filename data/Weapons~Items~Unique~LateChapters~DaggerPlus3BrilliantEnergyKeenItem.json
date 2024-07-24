@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/BrilliantEnergy", "Weapons/Enchantments/Keen"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Keen", "Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/BrilliantEnergy", "Weapons/Enchantments/Enhancement3"]}

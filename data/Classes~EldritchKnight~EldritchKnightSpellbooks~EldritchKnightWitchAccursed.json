@@ -1,1 +1,1 @@
-{"parents": ["Classes/EldritchKnight/EldritchKnightSpellbooks/EldritchKnightSpellbookSelection"], "children": ["Classes/Witch/WitchClass", "Classes/Witch/WitchClass", "Classes/Witch/Archetypes/AccursedWitch/AccursedWitchArchetype", "Classes/Witch/Archetypes/AccursedWitch/AccursedWitchSpellbook"]}
+{"parents": ["Classes/EldritchKnight/EldritchKnightSpellbooks/EldritchKnightSpellbookSelection"], "children": ["Classes/Witch/WitchClass", "Classes/Witch/Archetypes/AccursedWitch/AccursedWitchSpellbook", "Classes/Witch/Archetypes/AccursedWitch/AccursedWitchArchetype"]}

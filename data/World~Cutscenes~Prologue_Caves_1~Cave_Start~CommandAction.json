@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Caves_1/Cave_Start/Cave_Start"], "children": ["World/Cutscenes/Prologue_Caves_1/Camelia_Looting/Camelia_Looting", "World/Cutscenes/Prologue_Caves_1/Lann_Digging/Lann_Digging", "Spells/Level1/FeatherFallBuff"]}
+{"parents": ["World/Cutscenes/Prologue_Caves_1/Cave_Start/Cave_Start"], "children": ["World/Cutscenes/Prologue_Caves_1/Camelia_Looting/Camelia_Looting", "Spells/Level1/FeatherFallBuff", "World/Cutscenes/Prologue_Caves_1/Lann_Digging/Lann_Digging"]}

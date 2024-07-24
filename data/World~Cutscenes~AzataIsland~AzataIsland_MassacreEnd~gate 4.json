@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AzataIsland/AzataIsland_MassacreEnd/gate 3"], "children": ["World/Cutscenes/AzataIsland/AzataIsland_MassacreEnd/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/AzataIsland/AzataIsland_MassacreEnd/gate 6"]}
+{"parents": ["World/Cutscenes/AzataIsland/AzataIsland_MassacreEnd/gate 3"], "children": ["World/Cutscenes/AzataIsland/AzataIsland_MassacreEnd/gate 6", "World/Cutscenes/AzataIsland/AzataIsland_MassacreEnd/CommandUnitPlayCutsceneAnimation"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonDogFeature"], "children": ["Armies/UnitBlueprints/ArmyDog", "Buffs/SummonedCreatureSpawnMonsterI-III", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/BonusFactsForArmy/ArmySummonDogResource"]}
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonDogFeature"], "children": ["Buffs/ArmySummonedCreatureVisual", "Armies/UnitBlueprints/ArmyDog", "Armies/Abilities/BonusFactsForArmy/ArmySummonDogResource", "Buffs/SummonedCreatureSpawnMonsterI-III"]}

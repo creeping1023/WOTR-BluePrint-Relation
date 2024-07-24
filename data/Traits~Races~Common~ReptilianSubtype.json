@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Enchantments/BaneHumanoidReptilian", "Spells/CutsceneSpells/Haste_Cutscene", "Classes/Ranger/FavoriteEnemy/FavoriteEnemyReptilian", "Traits/Races/Gnome/HatredReptilian", "Classes/Ranger/MasterHunter/MasterHunterAbilityReptilian"]}
+{"parents": ["Classes/Ranger/FavoriteEnemy/FavoriteEnemyReptilian", "Spells/CutsceneSpells/Haste_Cutscene", "Weapons/Enchantments/BaneHumanoidReptilian", "Traits/Races/Gnome/HatredReptilian", "Classes/Ranger/MasterHunter/MasterHunterAbilityReptilian"]}

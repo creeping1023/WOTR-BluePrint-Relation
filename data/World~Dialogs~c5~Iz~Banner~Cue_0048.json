@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0045"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Nystra/NystraDeadInIz", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Nystra"]}
+{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0045"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Nystra", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Nystra/NystraDeadInIz"]}

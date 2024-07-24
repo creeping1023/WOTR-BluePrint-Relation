@@ -1,1 +1,1 @@
-{"parents": ["Buffs/DLC3/DLC3_BUFFS/DLC3_HalflingBuff/DLC3_HalflingBuffedRace", "Races/HalflingRace", "Races/SarcorianChildRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_Halfling"]}
+{"parents": ["Races/SarcorianChildRace", "Buffs/DLC3/DLC3_BUFFS/DLC3_HalflingBuff/DLC3_HalflingBuffedRace", "Races/HalflingRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_Halfling"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Scrolls/Level9/ScrollOfShapechangeDragonWhite", "Spells/Level9/Shapechange/Shapechange"], "children": ["Spells/Level8/FormOfTheDragonIIIWhiteBuff", "Spells/Level9/Shapechange/ShapechangeBuffFree", "Spells/Level9/Shapechange/Shapechange"]}
+{"parents": ["Items/Scrolls/Level9/ScrollOfShapechangeDragonWhite", "Spells/Level9/Shapechange/Shapechange"], "children": ["Spells/Level9/Shapechange/Shapechange", "Spells/Level8/FormOfTheDragonIIIWhiteBuff", "Spells/Level9/Shapechange/ShapechangeBuffFree"]}

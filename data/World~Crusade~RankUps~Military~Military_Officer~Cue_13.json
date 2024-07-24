@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Crusade/RankUps/Military/Military_Officer/Answer_9"], "children": ["World/Crusade/RankUps/Military/Military_Officer/AnswersList_0003"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_Officer/Answer_9", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Crusade/RankUps/Military/Military_Officer/AnswersList_0003"]}

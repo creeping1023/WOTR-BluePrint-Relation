@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Shadow/AreeluLab/AreeluLab_ShadowDemon_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHideousLaughter", "Spells/Level2/HideousLaughter"]}
+{"parents": ["Units/Monsters/Demon Shadow/AreeluLab/AreeluLab_ShadowDemon_Brain"], "children": ["Spells/Level2/HideousLaughter", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHideousLaughter"]}

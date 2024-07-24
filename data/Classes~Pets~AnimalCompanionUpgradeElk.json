@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionFeatureElk"], "children": ["CreatureAbilities/ReducedReach", "Classes/Pets/PowerfulChargeElkFeature", "Classes/Pets/ElkTrippingChargeFeature"]}
+{"parents": ["Classes/Pets/AnimalCompanionFeatureElk"], "children": ["Classes/Pets/PowerfulChargeElkFeature", "Classes/Pets/ElkTrippingChargeFeature", "CreatureAbilities/ReducedReach"]}

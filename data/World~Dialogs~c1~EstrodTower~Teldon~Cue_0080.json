@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Teldon/CueSequence_0078", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0081", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0082"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Teldon/CueSequence_0078", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c1/EstrodTower/Teldon/Cue_0081", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0082", "Units/Companions/Seelah/Seelah_Companion"]}

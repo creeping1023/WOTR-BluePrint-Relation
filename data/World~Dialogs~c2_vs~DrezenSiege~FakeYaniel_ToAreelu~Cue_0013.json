@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_ToAreelu/SequenceExit_0019", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_ToAreelu/Cue_0015"], "children": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_ToAreelu/Cue_0008"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_ToAreelu/Cue_0015", "World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_ToAreelu/SequenceExit_0019", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_ToAreelu/Cue_0008"]}

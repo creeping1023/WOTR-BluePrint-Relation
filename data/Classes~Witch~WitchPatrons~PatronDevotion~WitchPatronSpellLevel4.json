@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level4/ConfusionSpell"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Spells/Level4/ConfusionSpell", "Classes/Witch/WitchClass"]}

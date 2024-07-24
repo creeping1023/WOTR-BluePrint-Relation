@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_3/Cue_0060", "World/Dialogs/c3/Mythic_Trickster/Council_3/Answer_0059"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/Cobblehoof", "World/Dialogs/c3/Mythic_Trickster/Council_3/Cue_0062"]}
+{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_3/Answer_0059", "World/Dialogs/c3/Mythic_Trickster/Council_3/Cue_0060"], "children": ["World/Dialogs/c3/Mythic_Trickster/Council_3/Cue_0062", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/Cobblehoof"]}

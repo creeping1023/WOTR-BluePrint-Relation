@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/SE_RenownExplorer/Jubilost_Leave/gate 2", "World/Cutscenes/SE_RenownExplorer/Jubilost_Leave/Jubilost_Leave"], "children": ["World/Cutscenes/SE_RenownExplorer/Jubilost_Leave/CommandAction"]}
+{"parents": ["World/Cutscenes/SE_RenownExplorer/Jubilost_Leave/Jubilost_Leave", "World/Cutscenes/SE_RenownExplorer/Jubilost_Leave/gate 2"], "children": ["World/Cutscenes/SE_RenownExplorer/Jubilost_Leave/CommandAction"]}

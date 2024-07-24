@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/AnswersList_0002", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/Answer_6", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/Answer_2"], "children": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/Cue_4"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/Answer_2", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/AnswersList_0002", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/Answer_6"], "children": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Aranka/Cue_4"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/VerbovezzorGMBE/BookPage_0161"], "children": ["World/Dialogs/c5/VerbovezzorGMBE/Check_0160", "Buffs/Nauseated"]}
+{"parents": ["World/Dialogs/c5/VerbovezzorGMBE/BookPage_0161"], "children": ["Buffs/Nauseated", "World/Dialogs/c5/VerbovezzorGMBE/Check_0160"]}

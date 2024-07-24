@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierMightyCharge", "Classes/Cavalier/Cavalier_Charge_ToggleVariants", "Classes/Cavalier/Cavalier_Charge_ToggleFeature"], "children": ["Classes/Cavalier/Cavalier_Charge_ToggleBullrushBuff"]}
+{"parents": ["Classes/Cavalier/Cavalier_Charge_ToggleVariants", "Classes/Cavalier/Cavalier_Charge_ToggleFeature", "Classes/Cavalier/CavalierMightyCharge"], "children": ["Classes/Cavalier/Cavalier_Charge_ToggleBullrushBuff"]}

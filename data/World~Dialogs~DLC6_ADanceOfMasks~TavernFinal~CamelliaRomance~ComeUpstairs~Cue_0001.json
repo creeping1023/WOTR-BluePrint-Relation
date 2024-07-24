@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/CamelliaRomance/ComeUpstairs/ComeUpstairs_dialogue"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/CamelliaRomance/ComeUpstairs/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/CamelliaRomance/ComeUpstairs/ComeUpstairs_dialogue"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/CamelliaRomance/ComeUpstairs/AnswersList_0002", "Units/Companions/Camelia/Camelia_Companion"]}

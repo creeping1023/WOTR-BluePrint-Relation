@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC6_DanceOfMasks/DLC6_LastGolem"], "children": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_RazmirDelayDialog/CommandDelay", "World/Cutscenes/DC6_RazmirDungeon/DLC6_RazmirDelayDialog/CommandAction"]}
+{"parents": ["World/Etudes/Common/DLC6_DanceOfMasks/DLC6_LastGolem"], "children": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_RazmirDelayDialog/CommandAction", "World/Cutscenes/DC6_RazmirDungeon/DLC6_RazmirDelayDialog/CommandDelay"]}

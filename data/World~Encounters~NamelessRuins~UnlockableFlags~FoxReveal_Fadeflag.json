@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/NamelessRuins/FoxRevealZone_scene/WaitFlag 1", "World/Cutscenes/NamelessRuins/FoxReveal_Fade/CommandAction", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Cutscenes/NamelessRuins/FoxRevealZone_scene/WaitFlag 2"]}
+{"parents": ["World/Cutscenes/NamelessRuins/FoxReveal_Fade/CommandAction", "World/Cutscenes/NamelessRuins/FoxRevealZone_scene/WaitFlag 2", "World/Cutscenes/NamelessRuins/FoxRevealZone_scene/WaitFlag 1", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"]}

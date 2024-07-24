@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/VillageRuins/Shifter_EvilShrine/Answer_0002"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/VillageRuins/Shifter_EvilShrine/AnswersList_0001"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/VillageRuins/Shifter_EvilShrine/Answer_0002"], "children": ["World/Dialogs/DLC4_Shifter/VillageRuins/Shifter_EvilShrine/AnswersList_0001", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

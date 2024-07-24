@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_DragonHavocBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Units/Monsters/Hellhound/HellhoundBrain/AoE_ChooseMoreThen2Enemies", "Armies/Abilities/ArmyBreathWeaponAttackAbilityHavocDragon"]}
+{"parents": ["Armies/Brains/TacticalCombat_DragonHavocBrain"], "children": ["Armies/Abilities/ArmyBreathWeaponAttackAbilityHavocDragon", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Units/Monsters/Hellhound/HellhoundBrain/AoE_ChooseMoreThen2Enemies"]}

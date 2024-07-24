@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC2_Tavern/ActionsHolders/RestButton_CheckPassedActions", "World/Quests/DLC2_LowFantasy/Tavern/Tavern_quest", "World/Cutscenes/DLC2_Tavern/DLC2_Irabeth_dialog/CommandAction2"], "children": ["World/Quests/DLC2_LowFantasy/Tavern/Tavern_quest"]}
+{"parents": ["World/Cutscenes/DLC2_Tavern/DLC2_Irabeth_dialog/CommandAction2", "World/Quests/DLC2_LowFantasy/Tavern/Tavern_quest", "World/Encounters/DLC2_Tavern/ActionsHolders/RestButton_CheckPassedActions"], "children": ["World/Quests/DLC2_LowFantasy/Tavern/Tavern_quest"]}

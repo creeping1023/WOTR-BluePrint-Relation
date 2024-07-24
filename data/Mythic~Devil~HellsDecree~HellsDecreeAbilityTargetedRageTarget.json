@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Devil/HellsDecree/HellsDecreeBaseAbility"], "children": ["Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageAllyBuff", "Mythic/MythicSelfHarmAbility", "Mythic/Devil/HellsDecree/HellsDecreeResource", "Mythic/Devil/HellsDecree/HellsDecreeBaseAbility"]}
+{"parents": ["Mythic/Devil/HellsDecree/HellsDecreeBaseAbility"], "children": ["Mythic/Devil/HellsDecree/HellsDecreeResource", "Mythic/MythicSelfHarmAbility", "Mythic/Devil/HellsDecree/HellsDecreeBaseAbility", "Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageAllyBuff"]}

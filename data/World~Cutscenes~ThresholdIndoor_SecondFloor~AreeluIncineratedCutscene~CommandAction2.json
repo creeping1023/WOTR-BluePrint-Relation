@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/AreeluIncineratedCutscene/gate"], "children": ["World/Encounters/GibberingSwarm/Buffs/BurnCutscene", "World/Encounters/LostChapel/Buffs/CantMove"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/AreeluIncineratedCutscene/gate"], "children": ["World/Encounters/LostChapel/Buffs/CantMove", "World/Encounters/GibberingSwarm/Buffs/BurnCutscene"]}

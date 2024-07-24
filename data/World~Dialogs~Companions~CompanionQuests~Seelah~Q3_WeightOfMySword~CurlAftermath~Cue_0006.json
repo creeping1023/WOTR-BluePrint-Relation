@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/CurlAftermath/Answer_0003"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR5_ThiefCurl", "World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/CurlAftermath/Cue_0007"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/CurlAftermath/Answer_0003"], "children": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/CurlAftermath/Cue_0007", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR5_ThiefCurl"]}

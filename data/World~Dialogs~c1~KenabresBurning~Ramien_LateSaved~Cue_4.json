@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Ramien_LateSaved/CueSequence_0021"], "children": ["World/Dialogs/c1/KenabresBurning/Ramien/Ramien_KenBurn_Dialogue", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c1/KenabresBurning/Ramien_LateSaved/Cue_5"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Ramien_LateSaved/CueSequence_0021"], "children": ["World/Dialogs/c1/KenabresBurning/Ramien/Ramien_KenBurn_Dialogue", "World/Dialogs/c1/KenabresBurning/Ramien_LateSaved/Cue_5", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/ElementalPunisherLongbowEnchantment", "Weapons/Enchantments/Speed"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Items/Unique/ElementalPunisherLongbowEnchantment", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Enhancement5"]}

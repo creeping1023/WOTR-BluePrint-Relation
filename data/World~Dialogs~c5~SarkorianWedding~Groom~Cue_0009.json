@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SarkorianWedding/Groom/Cue_0008"], "children": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss", "World/Quests/c5/SarkorianWedding/Obj_01_TalkGroom", "World/Dialogs/c5/SarkorianWedding/Groom/Cue_0010"]}
+{"parents": ["World/Dialogs/c5/SarkorianWedding/Groom/Cue_0008"], "children": ["World/Dialogs/c5/SarkorianWedding/Groom/Cue_0010", "World/Quests/c5/SarkorianWedding/Obj_01_TalkGroom", "Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/DrezenSiege/MythichPathChosen/Cue_0071"], "children": ["World/Dialogs/c2_vs/DrezenSiege/MythichPathChosen/Cue_0067"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/MythichPathChosen/Cue_0071", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/DrezenSiege/MythichPathChosen/Cue_0067"]}

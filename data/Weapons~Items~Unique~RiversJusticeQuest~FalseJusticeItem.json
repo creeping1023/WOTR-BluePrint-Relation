@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Kukri", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Sacrificial"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Sacrificial", "Weapons/Types/MartialLight/Kukri"]}

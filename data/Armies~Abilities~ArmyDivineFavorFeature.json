@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyInquisitor"], "children": ["Armies/Abilities/ArmyDivineFavorAbility", "Armies/Abilities/ArmyDivineFavorFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyInquisitor"], "children": ["Armies/Abilities/ArmyDivineFavorFact", "Armies/Abilities/ArmyDivineFavorAbility"]}

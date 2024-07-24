@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Demon/Nocticula_Summon/Cue_0006", "World/Quests/MythicQuests/Demon/Errands/C3_SummonNoct/Objective_0001", "World/Dialogs/c3/Mythic_Demon/Nocticula_Summon/Cue_0007"], "children": ["World/Quests/MythicQuests/Demon/Errands/C3_SummonNoct/Objective_0001"]}
+{"parents": ["World/Dialogs/c3/Mythic_Demon/Nocticula_Summon/Cue_0006", "World/Dialogs/c3/Mythic_Demon/Nocticula_Summon/Cue_0007", "World/Quests/MythicQuests/Demon/Errands/C3_SummonNoct/Objective_0001"], "children": ["World/Quests/MythicQuests/Demon/Errands/C3_SummonNoct/Objective_0001"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Horgus/Horgus_Dialogue"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra", "World/Dialogs/NPC_Common/Horgus/AnswersList_0036"]}
+{"parents": ["World/Dialogs/NPC_Common/Horgus/Horgus_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Horgus/AnswersList_0036", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra"]}

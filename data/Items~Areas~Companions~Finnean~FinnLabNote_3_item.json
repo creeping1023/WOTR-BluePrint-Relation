@@ -1,1 +1,1 @@
-{"parents": ["Loot/Quest/MidnightFane/TrashLoot_6", "Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR12/PF2_Demons_FinnLabNote_3_item", "World/Dialogs/Companions/CompanionDialogues/Finnean/Answer_0033"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Finnean/Answer_0033", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/MidnightFane/TrashLoot_6", "Loot/Good/CR12/PF2_Demons_FinnLabNote_3_item"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

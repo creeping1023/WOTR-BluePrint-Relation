@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/EstrodTower/FaxonKilasFight/gate 5"], "children": ["World/Cutscenes/EstrodTower/FaxonKilasFight/CommandBark 6", "World/Cutscenes/EstrodTower/FaxonKilasFight/CommandUnitPlayCutsceneAnimation 5", "World/Cutscenes/EstrodTower/FaxonKilasFight/gate 9"]}
+{"parents": ["World/Cutscenes/EstrodTower/FaxonKilasFight/gate 5"], "children": ["World/Cutscenes/EstrodTower/FaxonKilasFight/CommandUnitPlayCutsceneAnimation 5", "World/Cutscenes/EstrodTower/FaxonKilasFight/gate 9", "World/Cutscenes/EstrodTower/FaxonKilasFight/CommandBark 6"]}

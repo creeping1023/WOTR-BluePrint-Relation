@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Ember/AnswersList_0003", "QA/Clockwork/Scenario/Exploration/ScenarioParts/dontRemoveToParty"], "children": ["World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0040"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/dontRemoveToParty", "World/Dialogs/Companions/CompanionDialogues/Ember/AnswersList_0003"], "children": ["World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0040"]}

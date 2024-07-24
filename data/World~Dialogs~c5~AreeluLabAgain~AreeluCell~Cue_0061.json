@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreeluLabAgain/AreeluCell/Answer_0006", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/Answer_0016"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend", "World/Cutscenes/AreeluLabReturn/AreeluGift2Legend/AreeluGift2Legend"]}
+{"parents": ["World/Dialogs/c5/AreeluLabAgain/AreeluCell/Answer_0006", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/Answer_0016"], "children": ["World/Cutscenes/AreeluLabReturn/AreeluGift2Legend/AreeluGift2Legend", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/BattleBlissAfter", "World/Encounters/BattleBliss/UnlockableFlags/BattleBliss_Final_HideLoser"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Encounters/BattleBliss/UnlockableFlags/BattleBliss_Final_HideLoser", "World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/BattleBlissAfter"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Act_2_SwordOfValor/WarCamp/Presets/WarCamp_NurahCatch_Preset", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/NPC_Common/Nurah/Answer_0018", "Loot/Quest/WarCamp/NurahPerfume"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["World/Dialogs/NPC_Common/Nurah/Answer_0018", "World/Areas/Act_2_SwordOfValor/WarCamp/Presets/WarCamp_NurahCatch_Preset", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/WarCamp/NurahPerfume"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

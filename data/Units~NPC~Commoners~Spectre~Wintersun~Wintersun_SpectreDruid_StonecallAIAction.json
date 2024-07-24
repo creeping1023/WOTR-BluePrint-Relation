@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainControl"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level2/StoneCall"]}
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainControl"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/StoneCall", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

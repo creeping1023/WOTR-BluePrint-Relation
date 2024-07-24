@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistQuiveringPalmFeature"], "children": ["Weapons/Types/Special/TouchItem", "Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistPowerResource", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistQuiveringPalmFeature"], "children": ["Classes/Monk/MonkClass", "Weapons/Types/Special/TouchItem", "Classes/Monk/Archetypes/ScaledFist/ScaledFistKiPowers/ScaledFistPowerResource"]}

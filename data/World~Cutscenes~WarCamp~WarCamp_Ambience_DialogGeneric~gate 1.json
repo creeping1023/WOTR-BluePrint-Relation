@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/CommandDelay 1", "World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/CommandActivateGate", "World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/CommandDelay 1"]}

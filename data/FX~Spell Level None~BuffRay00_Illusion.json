@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/AreshkagalDungeon/CutsceneSpellFX_deep", "Root/BlueprintRoot", "Classes/Wizard/Illusion/IllusionSchoolBaseAbility"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}
+{"parents": ["Root/BlueprintRoot", "Classes/Wizard/Illusion/IllusionSchoolBaseAbility", "Spells/CutsceneSpells/AreshkagalDungeon/CutsceneSpellFX_deep"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}

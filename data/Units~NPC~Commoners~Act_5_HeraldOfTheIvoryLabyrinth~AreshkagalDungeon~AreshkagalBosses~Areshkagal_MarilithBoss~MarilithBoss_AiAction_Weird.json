@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_MarilithBoss/MarilithBoss_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level9/Weird"]}
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_MarilithBoss/MarilithBoss_Brain"], "children": ["Spells/Level9/Weird", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

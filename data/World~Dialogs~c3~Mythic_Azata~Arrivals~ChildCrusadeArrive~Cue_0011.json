@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Arrivals/ChildCrusadeArrive/Answer_0005"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_ChildCrusader_GrilLeader_KTC", "World/Dialogs/c3/Mythic_Azata/Arrivals/ChildCrusadeArrive/Cue_2"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Arrivals/ChildCrusadeArrive/Answer_0005"], "children": ["World/Dialogs/c3/Mythic_Azata/Arrivals/ChildCrusadeArrive/Cue_2", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_ChildCrusader_GrilLeader_KTC"]}

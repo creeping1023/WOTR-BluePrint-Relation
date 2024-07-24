@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidessCastCorruptingGaze"], "children": ["Brain/Considerations/NoBuffFrightenedOrShaken", "Units/NPC/Commoners/Ghost/GhostBrain/FrightfulMoan"]}
+{"parents": ["Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidessCastCorruptingGaze"], "children": ["Units/NPC/Commoners/Ghost/GhostBrain/FrightfulMoan", "Brain/Considerations/NoBuffFrightenedOrShaken"]}

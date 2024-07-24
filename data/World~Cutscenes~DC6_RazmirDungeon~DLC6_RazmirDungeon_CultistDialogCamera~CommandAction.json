@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_RazmirDungeon_CultistDialogCamera/gate2"], "children": ["World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_Razmir_CultistPool", "Factions/Mobs", "Factions/Mobs", "Factions/Mobs", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_RazmirDungeon_CultistDialogCamera/gate2"], "children": ["Factions/Mobs", "World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_Razmir_CultistPool"]}

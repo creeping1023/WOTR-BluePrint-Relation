@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WintersunOutdoor/BBD_scene_1/gate 3"], "children": ["World/Cutscenes/WintersunOutdoor/BBD_scene_1/CommandUnitPlayCutsceneAnimation 2", "World/Cutscenes/WintersunOutdoor/BBD_scene_1/CommandAction 6"]}
+{"parents": ["World/Cutscenes/WintersunOutdoor/BBD_scene_1/gate 3"], "children": ["World/Cutscenes/WintersunOutdoor/BBD_scene_1/CommandAction 6", "World/Cutscenes/WintersunOutdoor/BBD_scene_1/CommandUnitPlayCutsceneAnimation 2"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/ThresholdExterior/CompanionFarewells/ArueshalaeFarewell/Cue_0001"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c6/ThresholdExterior/CompanionFarewells/ArueshalaeFarewell/AnswersList_0005"]}
+{"parents": ["World/Dialogs/c6/ThresholdExterior/CompanionFarewells/ArueshalaeFarewell/Cue_0001"], "children": ["World/Dialogs/c6/ThresholdExterior/CompanionFarewells/ArueshalaeFarewell/AnswersList_0005", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

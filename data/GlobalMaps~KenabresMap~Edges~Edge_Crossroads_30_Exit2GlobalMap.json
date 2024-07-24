@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/KenabresMap/Area/KenabresMapArea", "GlobalMaps/KenabresMap/KenabresMap", "GlobalMaps/KenabresMap/Area/KenabresMapRevealAllPreset"], "children": ["GlobalMaps/KenabresMap/Points/Location_Crossroads_30", "GlobalMaps/KenabresMap/Points/Location_Exit2GlobalMap"]}
+{"parents": ["GlobalMaps/KenabresMap/Area/KenabresMapRevealAllPreset", "GlobalMaps/KenabresMap/KenabresMap", "GlobalMaps/KenabresMap/Area/KenabresMapArea"], "children": ["GlobalMaps/KenabresMap/Points/Location_Crossroads_30", "GlobalMaps/KenabresMap/Points/Location_Exit2GlobalMap"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Salamander/Colyphyr/ColyphyrSalamanderMiniboss", "Units/Monsters/Salamander/Colyphyr/HalfFiendSalamanderWithDimensionDoor"], "children": ["Spells/Level4/DimensionDoorBase", "Spells/Level4/DimensionDoorCasterOnly", "Spells/Level6/Transformation"]}
+{"parents": ["Units/Monsters/Salamander/Colyphyr/HalfFiendSalamanderWithDimensionDoor", "Units/Monsters/Salamander/Colyphyr/ColyphyrSalamanderMiniboss"], "children": ["Spells/Level4/DimensionDoorBase", "Spells/Level4/DimensionDoorCasterOnly", "Spells/Level6/Transformation"]}

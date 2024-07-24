@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Bard/Archetypes/BeastTamer/InspireFerocity/BeastTamerInspireFerocityFeature", "Classes/Bard/BardProgression", "Classes/Bard/Archetypes/BeastTamer/BeastTamerArchetype"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Bard/BardProgression", "Classes/Bard/Archetypes/BeastTamer/InspireFerocity/BeastTamerInspireFerocityFeature", "Classes/Bard/Archetypes/BeastTamer/BeastTamerArchetype"]}

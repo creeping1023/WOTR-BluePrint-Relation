@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Cue_0022"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Cutscenes/DLC4_FoxVsScathach/DLC4_DolmenBeforeFight"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Cue_0022"], "children": ["World/Cutscenes/DLC4_FoxVsScathach/DLC4_DolmenBeforeFight", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

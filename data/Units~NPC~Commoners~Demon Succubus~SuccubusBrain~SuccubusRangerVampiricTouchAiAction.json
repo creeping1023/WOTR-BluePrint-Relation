@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/NoBuffVampiricTouch", "Brain/Considerations/IsThreatedConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level3/VampiricTouchCast"]}
+{"children": ["Brain/Considerations/NotUndeadConsideration", "Brain/Considerations/NoBuffVampiricTouch", "Brain/Considerations/IsThreatedConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/VampiricTouchCast"]}

@@ -1,1 +1,1 @@
-{"parents": ["Test/Units/PlayerWeaponTestPregen"], "children": ["Weapons/Items/Standard/ExoticTwoHanded/StandardDoubleAxe", "Weapons/Items/Standard/ExoticTwoHanded/StandardElvenCurvedBlade", "Weapons/Items/Standard/ExoticTwoHanded/StandardFauchard"]}
+{"parents": ["Test/Units/PlayerWeaponTestPregen"], "children": ["Weapons/Items/Standard/ExoticTwoHanded/StandardDoubleAxe", "Weapons/Items/Standard/ExoticTwoHanded/StandardFauchard", "Weapons/Items/Standard/ExoticTwoHanded/StandardElvenCurvedBlade"]}

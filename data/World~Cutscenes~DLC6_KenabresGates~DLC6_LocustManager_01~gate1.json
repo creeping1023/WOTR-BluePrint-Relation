@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_LocustManager_01/gate", "World/Cutscenes/DLC6_KenabresGates/DLC6_LocustManager_01/DLC6_LocustManager_01"], "children": ["World/Cutscenes/DLC6_KenabresGates/DLC6_LocustManager_01/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_LocustManager_01/DLC6_LocustManager_01", "World/Cutscenes/DLC6_KenabresGates/DLC6_LocustManager_01/gate"], "children": ["World/Cutscenes/DLC6_KenabresGates/DLC6_LocustManager_01/CommandStartDialog"]}

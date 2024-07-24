@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TricksterCouncil/CouncilDebriefAfterFight/gate", "World/Cutscenes/TricksterCouncil/CouncilDebriefAfterFight/CouncilDebriefAfterFight"], "children": ["World/Cutscenes/TricksterCouncil/CouncilDebriefAfterFight/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/TricksterCouncil/CouncilDebriefAfterFight/CouncilDebriefAfterFight", "World/Cutscenes/TricksterCouncil/CouncilDebriefAfterFight/gate"], "children": ["World/Cutscenes/TricksterCouncil/CouncilDebriefAfterFight/CommandStartDialog"]}

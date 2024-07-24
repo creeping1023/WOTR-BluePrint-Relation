@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues_afterlogues/Cue_6"], "children": ["Units/NPC/Unique/Epilogue_PharasmasCourt/Pharasma", "World/Dialogs/Epilogues_afterlogues/Cue_8", "World/Dialogs/Epilogues_afterlogues/Cue_0015", "World/Dialogs/Epilogues_afterlogues/Cue_0016"]}
+{"parents": ["World/Dialogs/Epilogues_afterlogues/Cue_6"], "children": ["World/Dialogs/Epilogues_afterlogues/Cue_0016", "World/Dialogs/Epilogues_afterlogues/Cue_0015", "Units/NPC/Unique/Epilogue_PharasmasCourt/Pharasma", "World/Dialogs/Epilogues_afterlogues/Cue_8"]}

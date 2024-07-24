@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level3/VampiricTouch", "Units/Monsters/WildHunt/ImbueArrow/VampiricTouchForImbueArrow", "Brain/Considerations/NoBuffVampiricTouch"]}
+{"parents": ["Units/Monsters/WildHunt/ImbueArrow/VampiricTouchForImbueArrow", "Spells/Level3/VampiricTouch", "Brain/Considerations/NoBuffVampiricTouch"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0050"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "Mythic/Demon/DemonMythicClass", "World/Dialogs/c6/SecondFloor/GrandFinal/AnswersList_0052"]}
+{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0050"], "children": ["Mythic/Demon/DemonMythicClass", "World/Dialogs/c6/SecondFloor/GrandFinal/AnswersList_0052", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

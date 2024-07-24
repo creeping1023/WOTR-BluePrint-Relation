@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TheIvoryLabyrinth/HeraldHeart_Cutscene/CommandAction1", "World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Cue_0003"], "children": ["World/Cutscenes/TheIvoryLabyrinth/Herald_pose/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Cue_0003", "World/Cutscenes/TheIvoryLabyrinth/HeraldHeart_Cutscene/CommandAction1"], "children": ["World/Cutscenes/TheIvoryLabyrinth/Herald_pose/CommandUnitPlayCutsceneAnimation"]}

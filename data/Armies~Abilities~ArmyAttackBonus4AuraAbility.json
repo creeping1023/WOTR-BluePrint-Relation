@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyAzataLiliendAurasFeature"], "children": ["Armies/Abilities/ArmyAttackBonus4AuraEffectBuff", "Armies/Abilities/ArmyBardAurasCooldownBuff", "Armies/Abilities/ArmyAzataLiliendAurasResources", "Armies/Abilities/ArmyBardAurasCooldownBuff"]}
+{"parents": ["Armies/Abilities/ArmyAzataLiliendAurasFeature"], "children": ["Armies/Abilities/ArmyBardAurasCooldownBuff", "Armies/Abilities/ArmyAzataLiliendAurasResources", "Armies/Abilities/ArmyAttackBonus4AuraEffectBuff"]}

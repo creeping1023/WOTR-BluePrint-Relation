@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyFearAuraFeatureBuff"], "children": ["Armies/Abilities/ArmyFearAuraProtectionBuff", "Armies/Abilities/ArmyFearAuraProtectionBuff", "Spells/Level4/FearBuff"]}
+{"parents": ["Armies/Abilities/ArmyFearAuraFeatureBuff"], "children": ["Armies/Abilities/ArmyFearAuraProtectionBuff", "Spells/Level4/FearBuff"]}

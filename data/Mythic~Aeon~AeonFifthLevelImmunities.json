@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonProgression"], "children": ["CreatureAbilities/Immunities/ImmunityToBleed", "CreatureAbilities/Immunities/ImmunityToMindAffecting", "CreatureAbilities/Immunities/ImmunityToAbilityDamage"]}
+{"parents": ["Mythic/Aeon/AeonProgression"], "children": ["CreatureAbilities/Immunities/ImmunityToAbilityDamage", "CreatureAbilities/Immunities/ImmunityToMindAffecting", "CreatureAbilities/Immunities/ImmunityToBleed"]}

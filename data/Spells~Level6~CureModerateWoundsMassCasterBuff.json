@@ -1,1 +1,1 @@
-{"parents": ["Classes/Arcanist/Archetypes/WhiteMage/WhiteMageCureModerateWoundsMass", "Spells/Level6/CureModerateWoundsMass"], "children": ["Spells/Level6/CureModerateWoundsMassDamage"]}
+{"parents": ["Spells/Level6/CureModerateWoundsMass", "Classes/Arcanist/Archetypes/WhiteMage/WhiteMageCureModerateWoundsMass"], "children": ["Spells/Level6/CureModerateWoundsMassDamage"]}

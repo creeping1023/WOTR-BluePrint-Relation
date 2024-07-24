@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-485267", "World/Etudes/Common/DLC4_Shifter/DLC4_Aftermaths/DLC4_Gundrun_Aftermaths", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_1/DLC4_Gundrun_Part_1"], "children": ["World/Areas/DLC4_Shifter/DLC4_Gundrun/DLC4_Gundrun"]}
+{"parents": ["World/Etudes/Common/DLC4_Shifter/DLC4_Part_1/DLC4_Gundrun_Part_1", "Root/Upgraders/Player/PF-485267", "World/Etudes/Common/DLC4_Shifter/DLC4_Aftermaths/DLC4_Gundrun_Aftermaths"], "children": ["World/Areas/DLC4_Shifter/DLC4_Gundrun/DLC4_Gundrun"]}

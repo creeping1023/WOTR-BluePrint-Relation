@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Unique/SeriouslyEliteExpertise"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Unique/SeriouslyEliteExpertise"]}

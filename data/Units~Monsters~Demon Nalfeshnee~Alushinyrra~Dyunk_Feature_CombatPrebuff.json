@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Nalfeshnee/Alushinyrra/Dyunk_Feature_CombatTrigger"], "children": ["Spells/Level3/DisplacementBuff", "Spells/Level3/HasteBuff", "Spells/Level4/DivinePowerBuff", "Mythic/Feats/ToughnessMythicFeat"]}
+{"parents": ["Units/Monsters/Demon Nalfeshnee/Alushinyrra/Dyunk_Feature_CombatTrigger"], "children": ["Spells/Level3/DisplacementBuff", "Mythic/Feats/ToughnessMythicFeat", "Spells/Level3/HasteBuff", "Spells/Level4/DivinePowerBuff"]}

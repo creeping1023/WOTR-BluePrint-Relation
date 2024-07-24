@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/StartGame/StartGameSorcererPregenUnitLevel20"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/LateChapters_3rdPart/RuinEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/StartGame/StartGameSorcererPregenUnitLevel20"], "children": ["Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/LateChapters_3rdPart/RuinEnchantment", "Weapons/Types/SimpleTwoHanded/Quarterstaff"]}

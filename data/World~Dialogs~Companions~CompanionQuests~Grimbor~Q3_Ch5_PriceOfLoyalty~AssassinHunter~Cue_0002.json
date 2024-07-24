@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/AssassinHunter/Cue_0001"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/AssassinHunter/AnswersList_0003"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/AssassinHunter/Cue_0001"], "children": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/AssassinHunter/AnswersList_0003", "Units/Companions/Greybor/Greybor_Companion"]}

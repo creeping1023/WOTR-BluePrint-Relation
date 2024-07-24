@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CustomizationPreset_RobinHoodBandit"], "children": ["Races/HumanRace", "Races/HalfElfRace", "Races/DwarfRace"]}
+{"parents": ["Units/Customization/CustomizationPreset_RobinHoodBandit"], "children": ["Races/DwarfRace", "Races/HumanRace", "Races/HalfElfRace"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Books/QuestElectri/QuestElectriLightningBoltBuff"], "children": ["FX/Abilities/LightningBolt00", "Items/Books/QuestElectri/QuestElectriSpellResource"]}
+{"parents": ["Items/Books/QuestElectri/QuestElectriLightningBoltBuff"], "children": ["Items/Books/QuestElectri/QuestElectriSpellResource", "FX/Abilities/LightningBolt00"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MutatedFighter/DLC5_FetchlingMutatedFighterBrain"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MutatedFighter/NoBuffMutagenStrength", "Classes/Alchemist/Mutagens/MutagenStrength"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MutatedFighter/DLC5_FetchlingMutatedFighterBrain"], "children": ["Classes/Alchemist/Mutagens/MutagenStrength", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/MutatedFighter/NoBuffMutagenStrength"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/AnswersList_0035"], "children": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_31", "World/Quests/DLC1_Megaepic/EqualizeLawChaos/EqualizeLawChaos_quest", "World/Etudes/Common/DLC1_Megaepic/DLC1Paradox"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/AnswersList_0035"], "children": ["World/Etudes/Common/DLC1_Megaepic/DLC1Paradox", "World/Quests/DLC1_Megaepic/EqualizeLawChaos/EqualizeLawChaos_quest", "World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_31"]}

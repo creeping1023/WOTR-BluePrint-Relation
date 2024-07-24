@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombatIncubusBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Brain/Considerations/NoBuffCrushingDespair", "Armies/Abilities/ArmyCrushingDespair"]}
+{"parents": ["Armies/Brains/TacticalCombatIncubusBrain"], "children": ["Armies/Abilities/ArmyCrushingDespair", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Brain/Considerations/NoBuffCrushingDespair"]}

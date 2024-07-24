@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Invisible_Kitten/Ziggurat/UrgathoaVoice"], "children": ["Classes/Monster/Animal/AnimalClass", "Units/Types/Dweomercat", "Factions/Friends", "Brain/Dumb Monster Brain", "Weapons/Items/Standard/NaturalWeapon/Bite1d4", "Buffs/NPC_Protection"]}
+{"parents": ["Units/Monsters/Invisible_Kitten/Ziggurat/UrgathoaVoice"], "children": ["Units/Types/Dweomercat", "Buffs/NPC_Protection", "Weapons/Items/Standard/NaturalWeapon/Bite1d4", "Factions/Friends", "Brain/Dumb Monster Brain", "Classes/Monster/Animal/AnimalClass"]}

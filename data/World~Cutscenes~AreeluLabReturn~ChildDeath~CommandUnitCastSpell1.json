@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate 1"], "children": ["World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside", "Spells/CutsceneSpells/StoneskinQuickened_Cutscene", "World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside"]}
+{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate 1"], "children": ["Spells/CutsceneSpells/StoneskinQuickened_Cutscene", "World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside"]}

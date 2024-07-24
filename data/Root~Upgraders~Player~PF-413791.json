@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0010", "Weapons/Items/UniquePF2/Chapter5/HeartbreakerItem"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Weapons/Items/UniquePF2/Chapter5/HeartbreakerItem", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0010"]}

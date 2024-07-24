@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/VerbovezzorGMBE/BookPage_0099"], "children": ["Armies/Presets/NarrativeArmies/Ch5_Verbovezzor_Swarms", "GlobalMaps/WorldWoundGM/Points/Point_Drezen", "World/Dialogs/c5/VerbovezzorGMBE/Cue_0104"]}
+{"parents": ["World/Dialogs/c5/VerbovezzorGMBE/BookPage_0099"], "children": ["Armies/Presets/NarrativeArmies/Ch5_Verbovezzor_Swarms", "World/Dialogs/c5/VerbovezzorGMBE/Cue_0104", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}

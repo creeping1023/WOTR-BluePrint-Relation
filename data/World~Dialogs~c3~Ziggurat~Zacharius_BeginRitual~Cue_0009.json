@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Ziggurat/Zacharius_BeginRitual/Cue_0001"], "children": ["Classes/Basic/Deities/PharasmaFeature", "World/Dialogs/c3/Ziggurat/Zacharius_BeginRitual/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c3/Ziggurat/Zacharius_BeginRitual/Cue_0001"], "children": ["World/Dialogs/c3/Ziggurat/Zacharius_BeginRitual/AnswersList_0002", "Classes/Basic/Deities/PharasmaFeature"]}

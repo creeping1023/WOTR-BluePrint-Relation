@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/Archetypes/Primalist/PrimalistSecondBloodlineLevel8Selection"], "children": ["Classes/Bloodrager/BloodragerClass", "Classes/Barbarian/RagePowers/RagePowerSelection", "Classes/Barbarian/RagePowers/RagePowerSelection"]}
+{"parents": ["Classes/Bloodrager/Archetypes/Primalist/PrimalistSecondBloodlineLevel8Selection"], "children": ["Classes/Barbarian/RagePowers/RagePowerSelection", "Classes/Bloodrager/BloodragerClass"]}

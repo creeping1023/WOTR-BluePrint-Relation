@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyClericMummy", "Armies/CrusadeGlobalBuffs/FlagLocust1Locust"], "children": ["Armies/Abilities/ArmyBestowCurseBlast", "Armies/Abilities/ArmyBestowCurseBlastFact"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagLocust1Locust", "Armies/UnitBlueprints/ArmyClericMummy"], "children": ["Armies/Abilities/ArmyBestowCurseBlastFact", "Armies/Abilities/ArmyBestowCurseBlast"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Shadow/ShadowDemonBrain/ShadowDemon_Brain_Conjuration"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/ShadowConjuration", "Spells/Level2/StoneCall"]}
+{"parents": ["Units/Monsters/Demon Shadow/ShadowDemonBrain/ShadowDemon_Brain_Conjuration"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level2/StoneCall", "Spells/Level4/ShadowConjuration"]}

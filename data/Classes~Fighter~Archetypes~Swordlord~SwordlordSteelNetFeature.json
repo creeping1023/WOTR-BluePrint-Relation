@@ -1,1 +1,1 @@
-{"parents": ["Classes/Fighter/Archetypes/Swordlord/SwordlordArchetype", "Classes/Basic/BasicActions/FightingDefensivelyACBonusProperty", "Classes/Basic/BasicActions/FightingDefensivelyAttackPenaltyProperty"]}
+{"parents": ["Classes/Fighter/Archetypes/Swordlord/SwordlordArchetype", "Classes/Basic/BasicActions/FightingDefensivelyAttackPenaltyProperty", "Classes/Basic/BasicActions/FightingDefensivelyACBonusProperty"]}

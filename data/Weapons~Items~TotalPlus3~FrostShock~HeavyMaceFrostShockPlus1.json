@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock", "Weapons/Enchantments/Frost"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Enchantments/Frost", "Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock"]}

@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level5/PillarOfLife"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Spells/Level5/PillarOfLifeImmunityBuff", "Spells/Level5/PillarOfLifeImmunityBuff", "Spells/Level5/PillarOfLifeImmunityBuff", "Spells/Level5/PillarOfLifeImmunityBuff"]}
+{"parents": ["Spells/Level5/PillarOfLife"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Spells/Level5/PillarOfLifeImmunityBuff"]}

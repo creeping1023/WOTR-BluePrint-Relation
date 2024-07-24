@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/WendyRomance", "World/Dialogs/Companions/CompanionRomances/Wenduag/TooMuchStress/AnswersList_0021"], "children": ["World/Dialogs/Companions/CompanionRomances/Wenduag/TooMuchStress/Cue_0026"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Wenduag/TooMuchStress/AnswersList_0021", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/WendyRomance"], "children": ["World/Dialogs/Companions/CompanionRomances/Wenduag/TooMuchStress/Cue_0026"]}

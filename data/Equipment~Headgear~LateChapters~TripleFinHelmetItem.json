@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Trash/CR15/Forest_BrokenRoomLoot"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HelmetHellknight", "Equipment/Headgear/LateChapters/TripleFinHelmetEnchantment"]}
+{"parents": ["Loot/Trash/CR15/Forest_BrokenRoomLoot", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Headgear/LateChapters/TripleFinHelmetEnchantment", "Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HelmetHellknight"]}

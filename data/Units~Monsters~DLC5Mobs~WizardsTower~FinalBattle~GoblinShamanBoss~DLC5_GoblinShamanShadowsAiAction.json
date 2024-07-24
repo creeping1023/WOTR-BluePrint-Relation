@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/NoBuffDisplacement", "Brain/Considerations/TargetSelf", "Classes/Shaman/Archetypes/ShadowShaman/ShadowShamanShadowsAbility"]}
+{"children": ["Classes/Shaman/Archetypes/ShadowShaman/ShadowShamanShadowsAbility", "Brain/Considerations/TargetSelf", "Brain/Considerations/NoBuffDisplacement"]}

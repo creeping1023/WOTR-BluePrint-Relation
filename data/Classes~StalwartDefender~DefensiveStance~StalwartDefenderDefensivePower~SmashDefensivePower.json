@@ -1,1 +1,1 @@
-{"parents": ["Classes/StalwartDefender/DefensiveStance/StalwartDefenderDefensivePower/StalwartDefenderDefensivePowerSelection", "Classes/StalwartDefender/DefensiveStance/DefensiveStanceBuff", "Classes/Paladin/Archetypes/Stonelord/DefensiveStance/StonelordDefensiveStanceBuff"]}
+{"parents": ["Classes/Paladin/Archetypes/Stonelord/DefensiveStance/StonelordDefensiveStanceBuff", "Classes/StalwartDefender/DefensiveStance/StalwartDefenderDefensivePower/StalwartDefenderDefensivePowerSelection", "Classes/StalwartDefender/DefensiveStance/DefensiveStanceBuff"]}

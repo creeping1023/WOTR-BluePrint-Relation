@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/BrineheartVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level4/Stoneskin"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/BrineheartVendorTable"], "children": ["Spells/Level4/Stoneskin", "Items/DestructibleItemsShards/LeatherShardItem"]}

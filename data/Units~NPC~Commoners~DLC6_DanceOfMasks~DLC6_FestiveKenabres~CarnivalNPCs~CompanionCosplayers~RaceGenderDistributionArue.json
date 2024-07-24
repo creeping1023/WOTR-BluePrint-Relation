@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/CompanionCosplayers/DLC6_ArueshalaeCustomPreset"], "children": ["Races/DwarfRace", "Races/HalflingRace", "Races/KitsuneRace", "Races/HalfOrcRace", "Races/OreadRace", "Races/TieflingRace"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/CompanionCosplayers/DLC6_ArueshalaeCustomPreset"], "children": ["Races/HalfOrcRace", "Races/DwarfRace", "Races/TieflingRace", "Races/KitsuneRace", "Races/OreadRace", "Races/HalflingRace"]}

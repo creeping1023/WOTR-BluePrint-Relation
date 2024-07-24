@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_ToxicPrison_1/ActionsHolders/DLC3_RewardStatueBuff_Actions", "Root/DungeonRoot", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff"]}
+{"parents": ["Root/DungeonRoot", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff", "World/Encounters/DLC3_ToxicPrison_1/ActionsHolders/DLC3_RewardStatueBuff_Actions"]}

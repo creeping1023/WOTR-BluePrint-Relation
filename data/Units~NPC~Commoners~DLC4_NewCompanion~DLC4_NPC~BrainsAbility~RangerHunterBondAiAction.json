@@ -1,1 +1,1 @@
-{"children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/Consideration_HasNoBuff_HuntersBondBuff", "Brain/Considerations/AoE_ChooseMoreFriends", "Classes/Ranger/HuntersBondAbility"]}
+{"children": ["Classes/Ranger/HuntersBondAbility", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/Consideration_HasNoBuff_HuntersBondBuff", "Brain/Considerations/AoE_ChooseMoreFriends"]}

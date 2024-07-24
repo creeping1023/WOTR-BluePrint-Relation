@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0079", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0018"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Seilkind", "World/Cutscenes/Mineshaft14_Indoor/Attack_Miners/Attack_Miners"]}
+{"parents": ["World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0079", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0018"], "children": ["World/Cutscenes/Mineshaft14_Indoor/Attack_Miners/Attack_Miners", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Seilkind"]}

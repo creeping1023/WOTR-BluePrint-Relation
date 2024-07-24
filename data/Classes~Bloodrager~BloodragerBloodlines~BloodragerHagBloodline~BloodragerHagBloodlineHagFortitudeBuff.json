@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerHagBloodline/BloodragerHagBloodlineBaseBuff"], "children": ["Classes/Bloodrager/BloodragerClass", "CreatureAbilities/Immunities/ImmunityToDisease", "Classes/Bloodrager/BloodragerClass", "CreatureAbilities/Immunities/ImmunityToPoison"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerHagBloodline/BloodragerHagBloodlineBaseBuff"], "children": ["CreatureAbilities/Immunities/ImmunityToDisease", "CreatureAbilities/Immunities/ImmunityToPoison", "Classes/Bloodrager/BloodragerClass"]}

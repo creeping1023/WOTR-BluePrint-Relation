@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_AnyTir_Swarms/DLC3_CR13_MandragoraSwarm", "Units/Monsters/MandragoraSwarm/CR13_MandragoraSwarm", "Feats/AbilityFocus"], "children": ["Units/Monsters/MandragoraSwarm/MandragoraSwarmDamageAura/MandragoraSwarmDamageBuff"]}
+{"parents": ["Units/Monsters/MandragoraSwarm/CR13_MandragoraSwarm", "Feats/AbilityFocus", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_Swarms/DLC3_CR13_MandragoraSwarm"], "children": ["Units/Monsters/MandragoraSwarm/MandragoraSwarmDamageAura/MandragoraSwarmDamageBuff"]}

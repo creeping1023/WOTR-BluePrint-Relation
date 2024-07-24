@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/FornDying/FornDying"], "children": ["World/Cutscenes/Kaylessa_FornAmbush/FornDying/CommandAction", "World/Cutscenes/Kaylessa_FornAmbush/FornDying/CommandControlCamera", "World/Cutscenes/Kaylessa_FornAmbush/FornDying/gate"]}
+{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/FornDying/FornDying"], "children": ["World/Cutscenes/Kaylessa_FornAmbush/FornDying/CommandAction", "World/Cutscenes/Kaylessa_FornAmbush/FornDying/gate", "World/Cutscenes/Kaylessa_FornAmbush/FornDying/CommandControlCamera"]}

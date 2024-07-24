@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0128"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0128"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata"]}

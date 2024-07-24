@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/BartenderFye/Answer_0044", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel", "World/Dialogs/NPC_Common/BartenderFye/Cue_0080"]}
+{"parents": ["World/Dialogs/NPC_Common/BartenderFye/Answer_0044", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/BartenderFye/Cue_0080", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispYellowSummoned_cr8Brain"], "children": ["Brain/Considerations/InjuryLight", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_NotSelfConsideration", "Spells/Level1/CureLightWoundsCast"]}
+{"parents": ["Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispYellowSummoned_cr8Brain"], "children": ["Spells/Level1/CureLightWoundsCast", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_NotSelfConsideration", "Brain/Considerations/InjuryLight"]}

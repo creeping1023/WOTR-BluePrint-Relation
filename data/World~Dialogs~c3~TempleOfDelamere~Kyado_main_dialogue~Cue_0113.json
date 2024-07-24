@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Answer_0102"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel", "World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Cue_0114"]}
+{"parents": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Answer_0102", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Cue_0114", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/AnswersList_0004"], "children": ["World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/Cue_3", "World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/Answer_0009"]}
+{"parents": ["World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/AnswersList_0004"], "children": ["World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/Answer_0009", "World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/Cue_3"]}

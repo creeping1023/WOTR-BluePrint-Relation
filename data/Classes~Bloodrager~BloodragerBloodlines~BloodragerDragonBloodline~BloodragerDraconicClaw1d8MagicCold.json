@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Bloodrager/BloodragerBloodlines/BloodragerDragonBloodline/BloodragerDraconicClawBuff12Cold"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Weapons/Enchantments/MagicWeapon", "Weapons/Enchantments/Frost"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Bloodrager/BloodragerBloodlines/BloodragerDragonBloodline/BloodragerDraconicClawBuff12Cold"], "children": ["Weapons/Enchantments/MagicWeapon", "Weapons/Enchantments/Frost", "Weapons/Types/NaturalWeapon/ClawType"]}

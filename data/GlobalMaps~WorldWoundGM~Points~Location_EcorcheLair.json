@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Edges/Edge_44Army_FireElementalManaSource_EcorcheLair", "GlobalMaps/WorldWoundGM/WorldWoundGM"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "World/Areas/Act_3_DemonsHerecy/EcorcheLair/EnterPoints/EcorcheLair_Enter"]}
+{"parents": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "GlobalMaps/WorldWoundGM/Edges/Edge_44Army_FireElementalManaSource_EcorcheLair"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "World/Areas/Act_3_DemonsHerecy/EcorcheLair/EnterPoints/EcorcheLair_Enter"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Archetypes/SanctifiedSlayer/SanctifiedSlayerArchetype", "Feats/DLC5/ExtraSlayerTalentSelection"], "children": ["Feats/DLC5/ExtraSlayerTalentSelection"]}
+{"parents": ["Feats/DLC5/ExtraSlayerTalentSelection", "Classes/Inquisitor/Archetypes/SanctifiedSlayer/SanctifiedSlayerArchetype"], "children": ["Feats/DLC5/ExtraSlayerTalentSelection"]}

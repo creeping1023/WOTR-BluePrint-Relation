@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/Nocticula_main/AnswersList_0002"], "children": ["World/Dialogs/c4/Nocticula_main/Cue_0463", "World/Quests/Companions/Ember/Q2_Wicked/Obj_01_Nocta", "Units/Companions/Ember/Ember_Companion"]}
+{"parents": ["World/Dialogs/c4/Nocticula_main/AnswersList_0002", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/Companions/Ember/Q2_Wicked/Obj_01_Nocta", "Units/Companions/Ember/Ember_Companion", "World/Dialogs/c4/Nocticula_main/Cue_0463"]}

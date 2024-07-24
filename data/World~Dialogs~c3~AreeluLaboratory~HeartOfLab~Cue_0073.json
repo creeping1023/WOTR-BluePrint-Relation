@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/CueSequence_0071"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0074"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/CueSequence_0071"], "children": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0074", "Units/Companions/Regill/Regill_Companion"]}

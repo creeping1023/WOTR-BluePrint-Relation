@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/AnswersList_0022"], "children": ["World/Dialogs/c1/EstrodTower/Faxon/Cue_0015", "World/Quests/c1/ToweringGuile/Obj2_ReconEstrodTower"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/AnswersList_0022"], "children": ["World/Quests/c1/ToweringGuile/Obj2_ReconEstrodTower", "World/Dialogs/c1/EstrodTower/Faxon/Cue_0015"]}

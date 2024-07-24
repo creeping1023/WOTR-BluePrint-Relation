@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues_afterlogues/Cue_0011"], "children": ["Units/NPC/Unique/Epilogue_PharasmasCourt/Pharasma", "Units/NPC/Unique/Areelu/Areelu", "World/Cutscenes/PharasmasCourt/AreeluBlowup/AreeluBlowup"]}
+{"parents": ["World/Dialogs/Epilogues_afterlogues/Cue_0011"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Cutscenes/PharasmasCourt/AreeluBlowup/AreeluBlowup", "Units/NPC/Unique/Epilogue_PharasmasCourt/Pharasma"]}

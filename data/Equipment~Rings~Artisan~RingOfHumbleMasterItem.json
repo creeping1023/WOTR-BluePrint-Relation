@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Armor/Items/Unique/LateChapters/EnchantDodge1", "Equipment/Rings/Artisan/RingOfEternalSkyEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Items/Unique/LateChapters/EnchantDodge1", "Equipment/Rings/Artisan/RingOfEternalSkyEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

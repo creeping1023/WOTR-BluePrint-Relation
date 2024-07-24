@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0055", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0064"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Kaylessa", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0028"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0064", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0055"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Kaylessa", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0028"]}

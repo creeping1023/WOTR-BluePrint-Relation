@@ -1,1 +1,1 @@
-{"parents": ["Buffs/Areas/Act_2_SwordOfValor/SwordofValorBuff"], "children": ["CreatureAbilities/Subtypes/SubtypeDemon", "Buffs/Areas/Act_2_SwordOfValor/SwordofValorEffectBuff"]}
+{"parents": ["Buffs/Areas/Act_2_SwordOfValor/SwordofValorBuff"], "children": ["Buffs/Areas/Act_2_SwordOfValor/SwordofValorEffectBuff", "CreatureAbilities/Subtypes/SubtypeDemon"]}

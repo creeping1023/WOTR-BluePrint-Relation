@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/Cue_0006"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicDragon_Ch3_Unlocking/Hal", "World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/AnswersList_0004"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/Cue_0006"], "children": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/AnswersList_0004", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicDragon_Ch3_Unlocking/Hal"]}

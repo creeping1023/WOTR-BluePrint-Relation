@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Ankou/AnkouBrain/AnkouBrain"], "children": ["Brain/Considerations/SwiftAction", "Units/Monsters/Ankou/ShadowDoubles"]}
+{"parents": ["Units/Monsters/Ankou/AnkouBrain/AnkouBrain"], "children": ["Units/Monsters/Ankou/ShadowDoubles", "Brain/Considerations/SwiftAction"]}

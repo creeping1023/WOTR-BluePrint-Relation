@@ -1,1 +1,1 @@
-{"parents": ["Races/GhoulRaceSmall", "Races/GhoulRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_Ghoul"]}
+{"parents": ["Races/GhoulRace", "Races/GhoulRaceSmall"], "children": ["EquipmentEntities/Bodies/KEE_Body_Ghoul"]}

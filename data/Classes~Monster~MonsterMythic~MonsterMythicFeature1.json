@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonDemythicationAbility", "Classes/Monster/MonsterMythic/MonsterMythicProgression"], "children": ["Classes/Monster/MonsterMythic/MonsterMythicFeature1Buff"]}
+{"parents": ["Classes/Monster/MonsterMythic/MonsterMythicProgression", "Mythic/Aeon/AeonDemythicationAbility"], "children": ["Classes/Monster/MonsterMythic/MonsterMythicFeature1Buff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/OutdoorAttackedAfter/gate2"], "children": ["World/Cutscenes/ThresholdOutdoor/OutdoorAttackedAfter/CommandAction 3", "World/Cutscenes/ThresholdOutdoor/OutdoorAttackedAfter/gate"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/OutdoorAttackedAfter/gate2"], "children": ["World/Cutscenes/ThresholdOutdoor/OutdoorAttackedAfter/gate", "World/Cutscenes/ThresholdOutdoor/OutdoorAttackedAfter/CommandAction 3"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Dragon/HalFirstMeeting/CueSequence_0026"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/Companions/Daeran/Daeran_Companion", "World/Dialogs/c3/Mythic_Dragon/HalFirstMeeting/Cue_0031"]}
+{"parents": ["World/Dialogs/c3/Mythic_Dragon/HalFirstMeeting/CueSequence_0026"], "children": ["World/Dialogs/c3/Mythic_Dragon/HalFirstMeeting/Cue_0031", "Units/Companions/Daeran/Daeran_Companion", "Units/Companions/Nenio/Nenio_Companion"]}

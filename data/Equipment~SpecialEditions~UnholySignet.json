@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level1/Bane"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra", "Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level1/Bane", "Items/DestructibleItemsShards/MetalShardItem"]}

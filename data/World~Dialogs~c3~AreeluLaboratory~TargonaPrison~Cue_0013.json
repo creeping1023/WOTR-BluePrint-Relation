@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/TargonaPrison/Answer_0007"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/OldCrusader", "World/Dialogs/c3/AreeluLaboratory/TargonaPrison/AnswersList_0004"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/TargonaPrison/Answer_0007"], "children": ["World/Dialogs/c3/AreeluLaboratory/TargonaPrison/AnswersList_0004", "Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/OldCrusader"]}

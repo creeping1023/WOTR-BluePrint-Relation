@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monster/Animal/AnimalCompanionClass"], "children": ["Feats/Maneuvers/SunderArmor/ImprovedSunder", "Classes/Pets/AnimalCompanionArchetypes/Wrecker/WreckerDR", "CreatureAbilities/Multiattack"]}
+{"parents": ["Classes/Monster/Animal/AnimalCompanionClass"], "children": ["Feats/Maneuvers/SunderArmor/ImprovedSunder", "CreatureAbilities/Multiattack", "Classes/Pets/AnimalCompanionArchetypes/Wrecker/WreckerDR"]}

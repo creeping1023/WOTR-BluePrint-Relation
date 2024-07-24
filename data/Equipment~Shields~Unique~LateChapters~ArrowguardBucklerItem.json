@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/DLC4_NegociantTable"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Unique/LateChapters/ArrowguardArmorItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor", "Items/Vendors/DLC4_NegociantTable"], "children": ["Equipment/Shields/Unique/LateChapters/ArrowguardArmorItem", "Items/DestructibleItemsShards/MetalShardItem"]}

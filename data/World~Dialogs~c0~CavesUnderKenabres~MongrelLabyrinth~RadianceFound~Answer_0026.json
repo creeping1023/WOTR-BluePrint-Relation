@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/AnswersList_0002"], "children": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/Cue_0028", "Classes/Basic/Deities/ToragFeature"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/AnswersList_0002"], "children": ["Classes/Basic/Deities/ToragFeature", "World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/Cue_0028"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultHighPriest/AnswersList_0002"], "children": ["World/Encounters/Woljif_Q2_Rite/SummonPools/Cultists_after_scene", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultHighPriest/AnswersList_0002"], "children": ["Factions/Mobs", "World/Encounters/Woljif_Q2_Rite/SummonPools/Cultists_after_scene"]}

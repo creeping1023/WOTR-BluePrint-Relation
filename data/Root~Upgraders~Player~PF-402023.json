@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0604", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0592", "Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/StorytellerFeatures/StorytellerQuestReward"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/StorytellerFeatures/StorytellerQuestReward", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0604", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0592"]}

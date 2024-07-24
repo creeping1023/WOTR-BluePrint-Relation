@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Answer_0102"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Cue_0112"]}
+{"parents": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Answer_0102"], "children": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Cue_0112", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata"]}

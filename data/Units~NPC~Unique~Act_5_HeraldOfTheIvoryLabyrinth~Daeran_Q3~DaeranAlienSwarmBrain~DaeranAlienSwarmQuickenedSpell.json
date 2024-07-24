@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Daeran_Q3/DaeranAlienSwarm"], "children": ["Spells/Level4/ConfusionSpell", "Spells/Level6/DispelMagicGreater", "Spells/Level3/HoldPerson", "Spells/Level4/Shout", "Spells/Level5/SongOfDiscord"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Daeran_Q3/DaeranAlienSwarm"], "children": ["Spells/Level4/ConfusionSpell", "Spells/Level3/HoldPerson", "Spells/Level6/DispelMagicGreater", "Spells/Level4/Shout", "Spells/Level5/SongOfDiscord"]}

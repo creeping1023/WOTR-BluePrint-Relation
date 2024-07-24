@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/GargoyleAttack_IrabethScene/CommandStartDialog 1"], "children": ["World/Dialogs/c2_vs/GargoyleAttack/Irabeth_End/Cue_0001", "World/Quests/c2_vs/LostChapel/Add1_returnToTent"]}
+{"parents": ["World/Cutscenes/WarCamp/GargoyleAttack_IrabethScene/CommandStartDialog 1"], "children": ["World/Quests/c2_vs/LostChapel/Add1_returnToTent", "World/Dialogs/c2_vs/GargoyleAttack/Irabeth_End/Cue_0001"]}

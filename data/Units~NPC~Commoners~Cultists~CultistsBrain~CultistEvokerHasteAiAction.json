@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerHasteBrain"], "children": ["Brain/Considerations/NoBuffHaste", "Spells/Level3/Haste"]}
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerHasteBrain"], "children": ["Spells/Level3/Haste", "Brain/Considerations/NoBuffHaste"]}

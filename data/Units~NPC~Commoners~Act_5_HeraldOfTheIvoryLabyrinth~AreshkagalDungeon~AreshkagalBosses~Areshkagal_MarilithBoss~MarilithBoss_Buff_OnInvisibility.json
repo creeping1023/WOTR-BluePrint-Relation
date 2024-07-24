@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_MarilithBoss/MarilithBoss_Ability_InvisibilityMass"], "children": ["Spells/Level4/InvisibilityGreaterBuff", "Spells/Level2/MirrorImageBuff", "Spells/Level2/MirrorImage"]}
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/Areshkagal_MarilithBoss/MarilithBoss_Ability_InvisibilityMass"], "children": ["Spells/Level2/MirrorImageBuff", "Spells/Level2/MirrorImage", "Spells/Level4/InvisibilityGreaterBuff"]}

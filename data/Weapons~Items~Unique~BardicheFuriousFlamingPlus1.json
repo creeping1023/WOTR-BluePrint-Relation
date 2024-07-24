@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Bardiche", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Furious", "Weapons/Enchantments/Flaming"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Furious", "Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialTwoHanded/Bardiche", "Weapons/Enchantments/Flaming"]}

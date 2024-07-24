@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Check_0015"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeutenant_Sanctum", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeutenant_Sanctum", "World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cue_0019"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Check_0015"], "children": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cue_0019", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeutenant_Sanctum"]}

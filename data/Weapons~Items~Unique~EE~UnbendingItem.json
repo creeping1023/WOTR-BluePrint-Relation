@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Battleaxe", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/EE/UnbendingEnchantment", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Items/Unique/EE/UnbendingEnchantment", "Weapons/Types/MartialOneHanded/Battleaxe"]}

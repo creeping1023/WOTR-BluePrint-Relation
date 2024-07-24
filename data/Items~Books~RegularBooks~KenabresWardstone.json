@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR4/PF2_Crusaders_KenabresWardstone"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/KenabresWardstoneFeature", "Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Good/CR4/PF2_Crusaders_KenabresWardstone", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/KenabresWardstoneFeature", "Items/DestructibleItemsShards/PaperShardItem"]}

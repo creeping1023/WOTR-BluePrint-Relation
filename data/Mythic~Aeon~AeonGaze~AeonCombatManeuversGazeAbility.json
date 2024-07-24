@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonCombatManeuversGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeResource", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonCombatManeuversGazeBaseBuff"]}
+{"parents": ["Mythic/Aeon/AeonGaze/AeonCombatManeuversGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonCombatManeuversGazeBaseBuff", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonGazeResource"]}

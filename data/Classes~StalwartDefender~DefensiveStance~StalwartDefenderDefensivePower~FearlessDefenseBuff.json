@@ -1,1 +1,1 @@
-{"parents": ["Classes/StalwartDefender/DefensiveStance/DefensiveStanceBuff", "Classes/Paladin/Archetypes/Stonelord/DefensiveStance/StonelordDefensiveStanceBuff"], "children": ["CreatureAbilities/Immunities/IgnoreImmunityToFear"]}
+{"parents": ["Classes/Paladin/Archetypes/Stonelord/DefensiveStance/StonelordDefensiveStanceBuff", "Classes/StalwartDefender/DefensiveStance/DefensiveStanceBuff"], "children": ["CreatureAbilities/Immunities/IgnoreImmunityToFear"]}

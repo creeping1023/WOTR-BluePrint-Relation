@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Arcanas/BaneBladeFeature", "Classes/MagusEldritchScion/Arcanas/EldritchBaneBladeFeature"], "children": ["Classes/Magus/ArcanePool/ArcaneWeaponBaneBuff"]}
+{"parents": ["Classes/MagusEldritchScion/Arcanas/EldritchBaneBladeFeature", "Classes/Magus/Arcanas/BaneBladeFeature"], "children": ["Classes/Magus/ArcanePool/ArcaneWeaponBaneBuff"]}

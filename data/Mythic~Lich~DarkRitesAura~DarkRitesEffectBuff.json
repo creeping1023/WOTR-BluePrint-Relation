@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Cloaks/PF2/Chapter5/CloakOfDarkestRitesFeature", "Mythic/Lich/DarkRitesAura/DarkRitesAreaEffect"], "children": ["Equipment/Cloaks/PF2/Chapter5/CloakOfDarkestRitesBuff", "Equipment/Cloaks/PF2/Chapter5/CloakOfDarkestRitesBuff", "Equipment/Cloaks/PF2/Chapter5/CloakOfDarkestRitesBuff"]}
+{"parents": ["Mythic/Lich/DarkRitesAura/DarkRitesAreaEffect", "Equipment/Cloaks/PF2/Chapter5/CloakOfDarkestRitesFeature"], "children": ["Equipment/Cloaks/PF2/Chapter5/CloakOfDarkestRitesBuff"]}

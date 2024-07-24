@@ -1,1 +1,1 @@
-{"parents": ["Feats/SkillFocus/SkillFocusStealth", "Mythic/Feats/SkillFocus/SkillFocusMythicFeatSelection"], "children": ["Feats/SkillFocus/SkillFocusStealth", "Mythic/Feats/SkillFocus/SkillFocusStealthMythicAbility"]}
+{"parents": ["Mythic/Feats/SkillFocus/SkillFocusMythicFeatSelection", "Feats/SkillFocus/SkillFocusStealth"], "children": ["Feats/SkillFocus/SkillFocusStealth", "Mythic/Feats/SkillFocus/SkillFocusStealthMythicAbility"]}

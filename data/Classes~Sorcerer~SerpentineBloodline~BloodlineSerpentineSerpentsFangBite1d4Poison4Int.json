@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSerpentsFangBuffLevel4Int"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSerpentsFangPoison4IntEnchantment"]}
+{"parents": ["Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSerpentsFangBuffLevel4Int", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSerpentsFangPoison4IntEnchantment"]}

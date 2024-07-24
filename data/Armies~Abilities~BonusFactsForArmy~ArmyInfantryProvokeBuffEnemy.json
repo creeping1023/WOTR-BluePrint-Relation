@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmyCavalryProvokeAbility", "Armies/Abilities/BonusFactsForArmy/ArmyInfantryProvokeAbility"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackProvoked"]}
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmyInfantryProvokeAbility", "Armies/Abilities/BonusFactsForArmy/ArmyCavalryProvokeAbility"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackProvoked"]}

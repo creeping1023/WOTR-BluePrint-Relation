@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/KTC_Flamelance_Nystra/KTC_Flamelance_Nystra_Dialogue", "World/Dialogs/c3/Drezen_C3/KTC_Flamelance_Klejm/KTC_Flamelance_Klejm_Dialogue"], "children": ["Armies/UnitBlueprints/ArmyPaladin", "Armies/UnitBlueprints/ArmySupport"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/KTC_Flamelance_Nystra/KTC_Flamelance_Nystra_Dialogue", "World/Dialogs/c3/Drezen_C3/KTC_Flamelance_Klejm/KTC_Flamelance_Klejm_Dialogue"], "children": ["Armies/UnitBlueprints/ArmySupport", "Armies/UnitBlueprints/ArmyPaladin"]}

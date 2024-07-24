@@ -1,1 +1,1 @@
-{"parents": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerAbjuration/DweomerAbjurationBrain"], "children": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerAbjuration/DweomerMageArmorConsideration", "Spells/Level1/MageArmor"]}
+{"parents": ["CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerAbjuration/DweomerAbjurationBrain"], "children": ["Spells/Level1/MageArmor", "CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerAbjuration/DweomerMageArmorConsideration"]}

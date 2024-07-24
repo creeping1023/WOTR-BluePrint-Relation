@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/IZCollapsing/IZCollapsing"], "children": ["World/Cutscenes/Iz/IZCollapsing/CommandDelay", "World/Cutscenes/Iz/IZCollapsing/gate", "World/Cutscenes/Iz/IZCollapsing/CommandMoveParty"]}
+{"parents": ["World/Cutscenes/Iz/IZCollapsing/IZCollapsing"], "children": ["World/Cutscenes/Iz/IZCollapsing/CommandMoveParty", "World/Cutscenes/Iz/IZCollapsing/CommandDelay", "World/Cutscenes/Iz/IZCollapsing/gate"]}

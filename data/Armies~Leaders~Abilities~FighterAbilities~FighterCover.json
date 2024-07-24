@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/AbilityWarriorChoice1", "Armies/Leaders/Warlords/WarlordLeaderLegend4_2", "Armies/Leaders/Warlords/WarlordLeaderWarrior4"], "children": ["Armies/Leaders/Abilities/FighterAbilities/FighterCoverAbility"]}
+{"parents": ["Armies/Leaders/Warlords/WarlordLeaderWarrior4", "Armies/Leaders/Progression/AbilityWarriorChoice1", "Armies/Leaders/Warlords/WarlordLeaderLegend4_2"], "children": ["Armies/Leaders/Abilities/FighterAbilities/FighterCoverAbility"]}

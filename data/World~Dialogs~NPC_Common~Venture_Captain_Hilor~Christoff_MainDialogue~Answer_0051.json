@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Venture_Captain_Hilor/Christoff_MainDialogue/AnswersList_0050"], "children": ["World/Dialogs/NPC_Common/Venture_Captain_Hilor/Christoff_MainDialogue/Cue_0054"]}
+{"parents": ["World/Dialogs/NPC_Common/Venture_Captain_Hilor/Christoff_MainDialogue/AnswersList_0050", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Venture_Captain_Hilor/Christoff_MainDialogue/Cue_0054"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/LiLura"], "children": ["Spells/Level4/DimensionDoor", "Spells/Level2/MirrorImage"]}
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/LiLura"], "children": ["Spells/Level2/MirrorImage", "Spells/Level4/DimensionDoor"]}

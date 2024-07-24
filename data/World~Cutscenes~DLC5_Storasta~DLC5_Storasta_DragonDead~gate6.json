@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonDead/gate4", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonDead/gate2"], "children": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonDead/CommandUnitPlayCutsceneAnimation10"]}
+{"parents": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonDead/gate2", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonDead/gate4"], "children": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonDead/CommandUnitPlayCutsceneAnimation10"]}

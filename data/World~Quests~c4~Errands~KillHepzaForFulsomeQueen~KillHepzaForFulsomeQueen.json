@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c4/Errands/KillHepzaForFulsomeQueen/Objective_0001", "World/Encounters/ColyphyrDungeon/ActionsHolders/Colyphyr_InterchapterQuestFail"], "children": ["World/Quests/c4/Errands/KillHepzaForFulsomeQueen/Objective_0001"]}
+{"parents": ["World/Encounters/ColyphyrDungeon/ActionsHolders/Colyphyr_InterchapterQuestFail", "World/Quests/c4/Errands/KillHepzaForFulsomeQueen/Objective_0001"], "children": ["World/Quests/c4/Errands/KillHepzaForFulsomeQueen/Objective_0001"]}

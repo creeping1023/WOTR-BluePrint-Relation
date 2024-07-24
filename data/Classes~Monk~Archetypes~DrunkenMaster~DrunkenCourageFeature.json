@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenMasterArchetype", "Classes/Monk/MonkProgression"], "children": ["CreatureAbilities/Immunities/ImmunityToFear"]}
+{"parents": ["Classes/Monk/MonkProgression", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenMasterArchetype"], "children": ["CreatureAbilities/Immunities/ImmunityToFear"]}

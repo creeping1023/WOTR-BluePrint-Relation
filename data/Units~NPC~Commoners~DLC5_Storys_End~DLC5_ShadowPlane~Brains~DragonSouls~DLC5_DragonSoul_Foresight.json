@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_CR8_ShadowPlaneDragonSoul_Shield", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/DragonSouls/DLC5_DragonSoul_ForesightAiAction"], "children": ["Spells/Level9/ForesightBuff"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/DragonSouls/DLC5_DragonSoul_ForesightAiAction", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_CR8_ShadowPlaneDragonSoul_Shield"], "children": ["Spells/Level9/ForesightBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monster/MonsterMythic/MonsterMythicQualityBadProgresion"], "children": ["Classes/Monster/MonsterMythic/MonsterMythic5HealthTriggerBadBuff", "Classes/Monster/MonsterMythic/MonsterMythicFeature5BadVisual"]}
+{"parents": ["Classes/Monster/MonsterMythic/MonsterMythicQualityBadProgresion"], "children": ["Classes/Monster/MonsterMythic/MonsterMythicFeature5BadVisual", "Classes/Monster/MonsterMythic/MonsterMythic5HealthTriggerBadBuff"]}

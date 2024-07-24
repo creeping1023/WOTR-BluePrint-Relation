@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Locust/Cultist_Eatme/Answer_0005"], "children": ["World/Encounters/DrezenCapital/UnlockableFlags/CultistIsNowSnack", "World/Cutscenes/LocustDevour_Param/LocustDevour_Param"]}
+{"parents": ["World/Dialogs/c5/Mythic_Locust/Cultist_Eatme/Answer_0005"], "children": ["World/Cutscenes/LocustDevour_Param/LocustDevour_Param", "World/Encounters/DrezenCapital/UnlockableFlags/CultistIsNowSnack"]}

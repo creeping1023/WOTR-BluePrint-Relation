@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Answer_0014"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Cue_0022"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Answer_0014"], "children": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Cue_0022", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

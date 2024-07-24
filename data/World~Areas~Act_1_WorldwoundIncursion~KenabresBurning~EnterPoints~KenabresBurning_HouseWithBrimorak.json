@@ -1,1 +1,1 @@
-{"parents": ["QA/Arbiter/Scenario/Act_1_WorldwoundIncursion/KenabresBurning"], "children": ["World/Areas/Act_1_WorldwoundIncursion/KenabresBurning/KenabresBurning", "World/Areas/Act_1_WorldwoundIncursion/KenabresBurning/BrimorakInHouse"]}
+{"parents": ["QA/Arbiter/Scenario/Act_1_WorldwoundIncursion/KenabresBurning"], "children": ["World/Areas/Act_1_WorldwoundIncursion/KenabresBurning/BrimorakInHouse", "World/Areas/Act_1_WorldwoundIncursion/KenabresBurning/KenabresBurning"]}

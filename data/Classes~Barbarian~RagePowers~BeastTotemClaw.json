@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Barbarian/RagePowers/BeastTotemLesserRageBuff", "Classes/Barbarian/RagePowers/BeastTotemLesserRageBuffAdditionalClaw"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Classes/Barbarian/RagePowers/BeastTotemLesserRageBuffAdditionalClaw", "Dugeons/Loot/DungeonLootExclude", "Classes/Barbarian/RagePowers/BeastTotemLesserRageBuff"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Frog_wine_degustation/gate4"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_GoldenFrogPolymorph", "World/Quests/DLC6_ADanceOfMasks/Sosiel_Event_Quest/Add3_TryFrogWine"]}
+{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Frog_wine_degustation/gate4"], "children": ["World/Quests/DLC6_ADanceOfMasks/Sosiel_Event_Quest/Add3_TryFrogWine", "Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_GoldenFrogPolymorph"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Rods/PF2DLC2/SithhudsRodBuff"], "children": ["Spells/Level3/SlowBuff", "Buffs/Slowed", "Items/Rods/PF2DLC2/SithhudsRodArea"]}
+{"parents": ["Items/Rods/PF2DLC2/SithhudsRodBuff"], "children": ["Buffs/Slowed", "Spells/Level3/SlowBuff", "Items/Rods/PF2DLC2/SithhudsRodArea"]}

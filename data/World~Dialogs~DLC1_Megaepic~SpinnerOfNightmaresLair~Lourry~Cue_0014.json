@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Lourry/Answer_0009"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/SilkShadow/SilkShadowIllusion", "World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Lourry/Cue_2"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Lourry/Answer_0009"], "children": ["World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Lourry/Cue_2", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/SilkShadow/SilkShadowIllusion"]}

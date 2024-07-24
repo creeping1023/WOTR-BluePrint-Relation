@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c4/Colyphyr/Obj1_DestroyMines", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrStates/ColyphyrMelazmeraDead", "World/Quests/c4/Colyphyr/Colyphyr_quest"], "children": ["World/Quests/c4/Colyphyr/Colyphyr_quest"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrStates/ColyphyrMelazmeraDead", "World/Quests/c4/Colyphyr/Obj1_DestroyMines", "World/Quests/c4/Colyphyr/Colyphyr_quest"], "children": ["World/Quests/c4/Colyphyr/Colyphyr_quest"]}

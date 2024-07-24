@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/LabyrinthMinotaur_AiAction_Trample", "Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_Boss_SpecialTrampleAIAction"]}
+{"parents": ["Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_Boss_SpecialTrampleAIAction", "Units/Monsters/Minotaur/MinotaurBrain/LabyrinthMinotaur_AiAction_Trample"]}

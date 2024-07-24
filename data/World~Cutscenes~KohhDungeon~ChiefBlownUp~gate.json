@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KohhDungeon/ChiefBlownUp/ChiefBlownUp"], "children": ["World/Cutscenes/KohhDungeon/ChiefBlownUp/CommandAction", "World/Cutscenes/KohhDungeon/ChiefBlownUp/gate1"]}
+{"parents": ["World/Cutscenes/KohhDungeon/ChiefBlownUp/ChiefBlownUp"], "children": ["World/Cutscenes/KohhDungeon/ChiefBlownUp/gate1", "World/Cutscenes/KohhDungeon/ChiefBlownUp/CommandAction"]}

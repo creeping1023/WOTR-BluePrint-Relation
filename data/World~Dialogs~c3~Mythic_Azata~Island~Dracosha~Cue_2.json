@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/Dracosha/CueSequence_0041"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/Dracosha/CueSequence_0041"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

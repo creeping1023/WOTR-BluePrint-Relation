@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/MidnightFane/DarrazandFight/DarrazandFight_MidnightFane_dialog"], "children": ["World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0009", "World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0001"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/DarrazandFight/DarrazandFight_MidnightFane_dialog", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0001", "World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0009"]}

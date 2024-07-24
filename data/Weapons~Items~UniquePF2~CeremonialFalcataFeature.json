@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/CeremonialFalcataEnchantment"], "children": ["Weapons/Items/UniquePF2/CeremonialFalcataAbility", "Feats/ActionFeats/DazzlingDisplayAction"]}
+{"parents": ["Weapons/Items/UniquePF2/CeremonialFalcataEnchantment"], "children": ["Feats/ActionFeats/DazzlingDisplayAction", "Weapons/Items/UniquePF2/CeremonialFalcataAbility"]}

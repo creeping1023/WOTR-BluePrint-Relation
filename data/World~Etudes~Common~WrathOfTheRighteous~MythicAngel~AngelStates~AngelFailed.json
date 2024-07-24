@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/AngelChanged"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/AngelChanged", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel"]}

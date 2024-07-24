@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_Iz/ReturnFromAxisLair/CommandAction2"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/Cue_0001", "World/Quests/DLC1_Megaepic/Anomaly/Add7_waitVal", "World/Quests/DLC1_Megaepic/Anomaly/Obj6_InvestigateKeyhole"]}
+{"parents": ["World/Cutscenes/DLC1_Iz/ReturnFromAxisLair/CommandAction2"], "children": ["World/Quests/DLC1_Megaepic/Anomaly/Obj6_InvestigateKeyhole", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/Cue_0001", "World/Quests/DLC1_Megaepic/Anomaly/Add7_waitVal"]}

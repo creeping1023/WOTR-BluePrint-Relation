@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/CueSequence_0059"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaRomance/CamelliaRomance_Start", "Units/Companions/Camelia/Camelia_Companion"]}
+{"parents": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/CueSequence_0059"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaRomance/CamelliaRomance_Start"]}

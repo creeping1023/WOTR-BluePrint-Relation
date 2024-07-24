@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/MentorInNexus/CueSequence_0015"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/ArueshalaeInterrupt", "World/Dialogs/c4/Mythic_Azata/MentorInNexus/Cue_0033"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/MentorInNexus/CueSequence_0015"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/ArueshalaeInterrupt", "Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c4/Mythic_Azata/MentorInNexus/Cue_0033"]}

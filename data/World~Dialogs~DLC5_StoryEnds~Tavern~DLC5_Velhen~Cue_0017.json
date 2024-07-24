@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Velhen/Answer_0014"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Tavern/DLC5_Velhen_Armor", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Velhen/Cue_0019"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Velhen/Answer_0014"], "children": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Velhen/Cue_0019", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Tavern/DLC5_Velhen_Armor"]}

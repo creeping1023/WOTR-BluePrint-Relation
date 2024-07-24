@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleRanged/Javelin", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Speed"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor"], "children": ["Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Speed", "Weapons/Types/SimpleRanged/Javelin"]}

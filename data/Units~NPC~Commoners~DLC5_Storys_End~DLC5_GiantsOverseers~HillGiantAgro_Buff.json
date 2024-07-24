@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_GiantsOverseers/ActionsHolders/Translator_SpawnBuff", "World/Encounters/DLC5_GiantsOverseers/ActionsHolders/PatrolingGiant_BuffActions"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/HillGiantAgro_AreaEffect"]}
+{"parents": ["World/Encounters/DLC5_GiantsOverseers/ActionsHolders/PatrolingGiant_BuffActions", "World/Encounters/DLC5_GiantsOverseers/ActionsHolders/Translator_SpawnBuff"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/HillGiantAgro_AreaEffect"]}

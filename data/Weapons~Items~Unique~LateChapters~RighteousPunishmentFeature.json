@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/RighteousPunishmentEnchantment"], "children": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff", "Classes/Paladin/SmiteEvil/AuraOfJusticeSmiteEvilBuff", "Equipment/Armor/Enchantments/FireResistance10Feature", "Equipment/Armor/Enchantments/FireResistance10Feature"]}
+{"parents": ["Weapons/Items/Unique/LateChapters/RighteousPunishmentEnchantment"], "children": ["Classes/Paladin/SmiteEvil/AuraOfJusticeSmiteEvilBuff", "Classes/Paladin/SmiteEvil/SmiteEvilBuff", "Equipment/Armor/Enchantments/FireResistance10Feature"]}

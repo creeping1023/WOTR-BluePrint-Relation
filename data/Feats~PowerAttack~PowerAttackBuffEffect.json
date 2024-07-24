@@ -1,1 +1,1 @@
-{"parents": ["Feats/PowerAttack/PowerAttackBuff"], "children": ["Classes/Fighter/Archetypes/TwoHandedFighter/TwoHandedFighterGreaterPowerAttack", "Mythic/Feats/PowerAttackMythicFeat"]}
+{"parents": ["Feats/PowerAttack/PowerAttackBuff"], "children": ["Mythic/Feats/PowerAttackMythicFeat", "Classes/Fighter/Archetypes/TwoHandedFighter/TwoHandedFighterGreaterPowerAttack"]}

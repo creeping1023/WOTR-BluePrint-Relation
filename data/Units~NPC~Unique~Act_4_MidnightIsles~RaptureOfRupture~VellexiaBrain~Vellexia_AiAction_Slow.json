@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/RaptureOfRupture/VellexiaBrain/Vellexia_Brain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/Slow"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/RaptureOfRupture/VellexiaBrain/Vellexia_Brain"], "children": ["Spells/Level3/Slow", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerHolyBomb"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombArea", "Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombResource", "FX/Abilities/AlchemistHolyBomb00", "Weapons/Types/Special/BombItem"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerHolyBomb"], "children": ["FX/Abilities/AlchemistHolyBomb00", "Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombResource", "Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombArea", "Weapons/Types/Special/BombItem"]}

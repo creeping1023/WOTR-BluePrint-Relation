@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0008"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0010"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0008"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0010", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

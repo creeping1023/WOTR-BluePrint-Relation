@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Azata/AzataForSpellsGoodFeature"], "children": ["Mythic/Azata/AzataMythicClass", "Mythic/Azata/AzataSpells/MoralSupport"]}
+{"parents": ["Mythic/Azata/AzataForSpellsGoodFeature"], "children": ["Mythic/Azata/AzataSpells/MoralSupport", "Mythic/Azata/AzataMythicClass"]}

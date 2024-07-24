@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate 4", "World/Cutscenes/AreeluLabReturn/ChildDeath/gate 3"], "children": ["World/Cutscenes/AreeluLabReturn/ChildDeath/CommandMoveUnit 1", "World/Cutscenes/AreeluLabReturn/ChildDeath/gate 7"]}
+{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate 3", "World/Cutscenes/AreeluLabReturn/ChildDeath/gate 4"], "children": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate 7", "World/Cutscenes/AreeluLabReturn/ChildDeath/CommandMoveUnit 1"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/DarrazandFight/CueSequence_0011"], "children": ["Units/Companions/Greybor/Greybor_Companion", "Units/Monsters/Demon Balor/MidnightFane/Darrazand", "World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0015"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/DarrazandFight/CueSequence_0011"], "children": ["World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0015", "Units/Companions/Greybor/Greybor_Companion", "Units/Monsters/Demon Balor/MidnightFane/Darrazand"]}

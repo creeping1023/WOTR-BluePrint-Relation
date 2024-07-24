@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Anevia/Answer_0103", "World/Dialogs/NPC_Common/Anevia/AnswersList_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Anevia/Cue_0069", "World/Quests/c1/Errands/Scabbard/Objective_0001"]}
+{"parents": ["World/Dialogs/NPC_Common/Anevia/AnswersList_0006", "World/Dialogs/NPC_Common/Anevia/Answer_0103", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Anevia/Cue_0069", "World/Quests/c1/Errands/Scabbard/Objective_0001"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/DLC5_SwordOfSithhudDamageAreaAbility"], "children": ["FX/Abilities/Kinetic_IceBlastLine00", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/DLC5_SwordOfSithhudAreaEffect"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/DLC5_SwordOfSithhudDamageAreaAbility"], "children": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/DLC5_SwordOfSithhudAreaEffect", "FX/Abilities/Kinetic_IceBlastLine00"]}

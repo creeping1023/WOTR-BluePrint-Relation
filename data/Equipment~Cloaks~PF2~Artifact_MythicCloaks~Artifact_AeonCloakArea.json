@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Cloaks/PF2/Artifact_MythicCloaks/Artifact_AeonCloakAreaBuff"], "children": ["Equipment/Cloaks/PF2/Artifact_MythicCloaks/Artifact_AeonCloakAllyBuff", "Spells/Level3/HasteBuff", "Buffs/Slowed", "Equipment/Cloaks/PF2/Artifact_MythicCloaks/Artifact_AeonCloakAllyBuff", "Spells/Level3/HasteBuff", "Buffs/Slowed"]}
+{"parents": ["Equipment/Cloaks/PF2/Artifact_MythicCloaks/Artifact_AeonCloakAreaBuff"], "children": ["Spells/Level3/HasteBuff", "Equipment/Cloaks/PF2/Artifact_MythicCloaks/Artifact_AeonCloakAllyBuff", "Buffs/Slowed"]}

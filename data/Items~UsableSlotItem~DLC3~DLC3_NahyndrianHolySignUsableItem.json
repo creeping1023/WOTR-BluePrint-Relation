@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR15/PF2_CoolDemons_FirstCleric_Treasure", "Loot/Good/CR15/PF2_CoolDemons_PriseOfDead"], "children": ["Items/UsableSlotItem/DLC3/DLC3_NahyndrianHolySignAbility"]}
+{"parents": ["Loot/Good/CR15/PF2_CoolDemons_PriseOfDead", "Loot/Good/CR15/PF2_CoolDemons_FirstCleric_Treasure", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/UsableSlotItem/DLC3/DLC3_NahyndrianHolySignAbility"]}

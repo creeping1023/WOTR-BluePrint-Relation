@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Etudes/Common/WrathOfTheRighteous/Chapter06", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/HelloSsila/HelloSsila_dialogue", "Units/Companions/Trever/Trever_Companion"]}
+{"parents": ["Root/BlueprintRoot"], "children": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/HelloSsila/HelloSsila_dialogue", "Units/Companions/Arueshalae/Arueshalae_Companion", "Units/Companions/Trever/Trever_Companion", "World/Etudes/Common/WrathOfTheRighteous/Chapter06"]}

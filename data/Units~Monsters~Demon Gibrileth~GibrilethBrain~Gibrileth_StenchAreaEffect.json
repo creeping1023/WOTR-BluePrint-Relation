@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Gibrileth/GibrilethBrain/Gibrileth_StenchBuff"], "children": ["Units/Monsters/Demon Gibrileth/GibrilethBrain/Gibrileth_StenchImmunityBuff", "Units/Monsters/Demon Gibrileth/GibrilethBrain/Gibrileth_StenchImmunityBuff", "Buffs/Sickened"]}
+{"parents": ["Units/Monsters/Demon Gibrileth/GibrilethBrain/Gibrileth_StenchBuff"], "children": ["Buffs/Sickened", "Units/Monsters/Demon Gibrileth/GibrilethBrain/Gibrileth_StenchImmunityBuff"]}

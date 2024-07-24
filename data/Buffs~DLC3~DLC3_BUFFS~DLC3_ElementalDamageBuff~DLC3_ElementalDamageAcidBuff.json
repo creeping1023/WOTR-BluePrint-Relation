@@ -1,1 +1,1 @@
-{"parents": ["Buffs/DLC3/DLC3_BUFFS/DLC3_ElementalDamageBuff/DLC3_ElementalDamageFeature", "Dugeons/Boons/DungeonBoon_Acid"]}
+{"parents": ["Dugeons/Boons/DungeonBoon_Acid", "Buffs/DLC3/DLC3_BUFFS/DLC3_ElementalDamageBuff/DLC3_ElementalDamageFeature"]}

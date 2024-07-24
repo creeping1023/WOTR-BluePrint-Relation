@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_Survivors/Musician/Muse_state_2", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Survivors/Musician/Muse_state_3"], "children": ["World/Cutscenes/DLC2_RichQuarter/Musician_state_2/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_Survivors/Musician/Muse_state_3", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Survivors/Musician/Muse_state_2"], "children": ["World/Cutscenes/DLC2_RichQuarter/Musician_state_2/CommandUnitPlayCutsceneAnimation"]}

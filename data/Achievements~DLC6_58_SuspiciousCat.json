@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/RazmirCultists/CultistsBrains/RazmiranCultistCat", "Root/BlueprintRoot"], "children": ["Achievements/Groups/DLC6TrophyGroup"]}
+{"parents": ["Root/BlueprintRoot", "Units/NPC/Commoners/DLC6_DanceOfMasks/RazmirCultists/CultistsBrains/RazmiranCultistCat"], "children": ["Achievements/Groups/DLC6TrophyGroup"]}

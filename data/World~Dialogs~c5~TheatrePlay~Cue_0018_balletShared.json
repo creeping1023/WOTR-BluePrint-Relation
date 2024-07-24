@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0017"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_HalfElfDancer", "World/Dialogs/c5/TheatrePlay/Cue_0004"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0017"], "children": ["World/Dialogs/c5/TheatrePlay/Cue_0004", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_HalfElfDancer"]}

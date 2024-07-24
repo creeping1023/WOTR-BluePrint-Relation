@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem", "Spells/CutsceneSpells/SummonMovanicDeva_Grimoire"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/CutsceneSpells/SummonMovanicDeva_Grimoire", "Items/DestructibleItemsShards/DustShardItem"]}

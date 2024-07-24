@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCasterFinal2_20_Brain"], "children": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCasterFinal2_20_BuffConsideration", "Spells/Level1/ShieldOfFaith"]}
+{"parents": ["Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCasterFinal2_20_Brain"], "children": ["Spells/Level1/ShieldOfFaith", "Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaurCasterFinal2_20_BuffConsideration"]}

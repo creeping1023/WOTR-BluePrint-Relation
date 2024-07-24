@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_3/AnswersList_0006"], "children": ["World/Crusade/RankUps/Military/Military_3/Cue_0026", "Armies/UnitBlueprints/ArmyArcher", "Armies/UnitBlueprints/ArmySlinger", "Armies/CrusadeGlobalBuffs/FlagMilitary3Slinger"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_3/AnswersList_0006"], "children": ["Armies/UnitBlueprints/ArmySlinger", "Armies/CrusadeGlobalBuffs/FlagMilitary3Slinger", "Armies/UnitBlueprints/ArmyArcher", "World/Crusade/RankUps/Military/Military_3/Cue_0026"]}

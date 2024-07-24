@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/SwiftAction", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/SummonMonsterIVBase", "Spells/Level4/SummonMonsterIVSingle", "Spells/Level4/SummonMonsterIVd3", "Spells/Level4/SummonMonsterIVd4plus1"]}
+{"children": ["Spells/Level4/SummonMonsterIVSingle", "Brain/Considerations/SwiftAction", "Spells/Level4/SummonMonsterIVd4plus1", "Spells/Level4/SummonMonsterIVBase", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/SummonMonsterIVd3"]}

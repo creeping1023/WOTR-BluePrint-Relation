@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Inquisitor/SoloTactics", "Classes/Inquisitor/InquisitorProgression", "Classes/Inquisitor/Archetypes/SacredHuntsmaster/SacredHuntsmasterArchetype"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Inquisitor/InquisitorProgression", "Classes/Inquisitor/SoloTactics", "Classes/Inquisitor/Archetypes/SacredHuntsmaster/SacredHuntsmasterArchetype"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Mephit/MephitWaterBrain/MephitWaterBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/Mephit/MephitWaterBrain/MephitWaterBreathWeapon"]}
+{"parents": ["Units/Monsters/Mephit/MephitWaterBrain/MephitWaterBrain"], "children": ["Units/Monsters/Mephit/MephitWaterBrain/MephitWaterBreathWeapon", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

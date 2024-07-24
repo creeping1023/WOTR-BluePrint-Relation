@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/MonkStunningFists/StunningFistFatigueAbility"], "children": ["Buffs/Fatigued", "Feats/DragonStyle/DragonFerocityBuff", "Buffs/Shaken"]}
+{"parents": ["Classes/Monk/MonkStunningFists/StunningFistFatigueAbility"], "children": ["Feats/DragonStyle/DragonFerocityBuff", "Buffs/Fatigued", "Buffs/Shaken"]}

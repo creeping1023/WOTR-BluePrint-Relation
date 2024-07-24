@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/TotalPlus3/Flaming/StandardDoubleAxeFlamingPlus2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus3/Flaming/StandardDoubleAxeFlamingPlus2"], "children": ["Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

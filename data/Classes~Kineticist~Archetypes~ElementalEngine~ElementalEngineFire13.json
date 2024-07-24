@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/Archetypes/ElementalEngine/ElementalEngineAdditionalEffectsFire13"], "children": ["Classes/Kineticist/KineticistClass", "Spells/Level3/HasteBuff"]}
+{"parents": ["Classes/Kineticist/Archetypes/ElementalEngine/ElementalEngineAdditionalEffectsFire13"], "children": ["Spells/Level3/HasteBuff", "Classes/Kineticist/KineticistClass"]}

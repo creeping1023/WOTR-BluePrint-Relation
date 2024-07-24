@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/StitchTPWithAreeluBody/gate1"], "children": ["World/Encounters/ThresholdIndoor_SecondFloor/SummonPools/FinalStitchPool", "Spells/CutsceneSpells/QuickenedDimensionDoor_Cutscene"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/StitchTPWithAreeluBody/gate1"], "children": ["Spells/CutsceneSpells/QuickenedDimensionDoor_Cutscene", "World/Encounters/ThresholdIndoor_SecondFloor/SummonPools/FinalStitchPool"]}

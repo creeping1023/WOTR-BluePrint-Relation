@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyNalfeshneeStandard", "Armies/UnitBlueprints/ArmyAeonsBythos", "Armies/UnitBlueprints/ArmyAsmodeanCleric"], "children": ["Armies/Abilities/ArmySlow", "Armies/Abilities/ArmySlowFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyAeonsBythos", "Armies/UnitBlueprints/ArmyNalfeshneeStandard", "Armies/UnitBlueprints/ArmyAsmodeanCleric"], "children": ["Armies/Abilities/ArmySlow", "Armies/Abilities/ArmySlowFact"]}

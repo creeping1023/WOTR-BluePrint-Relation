@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Answer_0024"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeader_Cage", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0026"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Answer_0024"], "children": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0026", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeader_Cage"]}

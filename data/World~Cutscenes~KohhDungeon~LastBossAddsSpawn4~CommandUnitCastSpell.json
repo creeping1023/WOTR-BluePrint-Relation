@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KohhDungeon/LastBossAddsSpawn4/gate1"], "children": ["World/Encounters/KohhDungeon/SummonPools/Kohh_LastBoss4", "Mythic/Demon/DemonSpells/DemonTeleportCutsceneQuickened"]}
+{"parents": ["World/Cutscenes/KohhDungeon/LastBossAddsSpawn4/gate1"], "children": ["Mythic/Demon/DemonSpells/DemonTeleportCutsceneQuickened", "World/Encounters/KohhDungeon/SummonPools/Kohh_LastBoss4"]}

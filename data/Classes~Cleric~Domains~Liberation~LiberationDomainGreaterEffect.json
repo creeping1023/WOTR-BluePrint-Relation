@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level9/Tsunami", "Classes/Kineticist/WildTalents/TidalWaveAbility", "Spells/Level9/TsunamiArea", "Classes/Cleric/Domains/Liberation/LiberationDomainGreaterAura", "Spells/DLC4NewSpells/TidalSurgeLine", "Spells/DLC4NewSpells/TidalSurgeCone"]}
+{"parents": ["Spells/DLC4NewSpells/TidalSurgeLine", "Classes/Kineticist/WildTalents/TidalWaveAbility", "Classes/Cleric/Domains/Liberation/LiberationDomainGreaterAura", "Spells/DLC4NewSpells/TidalSurgeCone", "Spells/Level9/TsunamiArea", "Spells/Level9/Tsunami"]}

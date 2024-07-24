@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Answer_0006"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_LichGalfrey", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Cue_0009"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Answer_0006"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Cue_0009", "Units/NPC/Unique/DLC1_Megaepic/DLC1_LichGalfrey"]}

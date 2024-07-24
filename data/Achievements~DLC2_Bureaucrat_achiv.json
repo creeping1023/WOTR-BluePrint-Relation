@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/TownHall/Cue_0004", "Root/BlueprintRoot"], "children": ["DLC/DLC2/Dlc2Campaign", "Achievements/Groups/DLC2TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/TownHall/Cue_0004"], "children": ["Achievements/Groups/DLC2TrophyGroupPack2", "DLC/DLC2/Dlc2Campaign"]}

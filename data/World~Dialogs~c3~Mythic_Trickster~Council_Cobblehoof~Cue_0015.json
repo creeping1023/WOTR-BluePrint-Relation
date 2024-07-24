@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_Cobblehoof/Check_0014"], "children": ["World/Encounters/TricksterCouncil/UnlockableFlags/CouncilMessed", "World/Dialogs/c3/Mythic_Trickster/Council_Cobblehoof/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_Cobblehoof/Check_0014"], "children": ["World/Dialogs/c3/Mythic_Trickster/Council_Cobblehoof/AnswersList_0002", "World/Encounters/TricksterCouncil/UnlockableFlags/CouncilMessed"]}

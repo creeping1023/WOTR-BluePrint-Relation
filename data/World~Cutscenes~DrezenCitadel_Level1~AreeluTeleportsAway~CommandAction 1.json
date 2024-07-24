@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level1/AreeluTeleportsAway/gate"], "children": ["World/Quests/c2_vs/Main/Obj_4_GetBanner", "World/Areas/Act_2_SwordOfValor/DrezenBannerAndFatefulNight/EnterPoints/DrezenFatefulNight_EnterPoint_AfterBannerCutscene"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level1/AreeluTeleportsAway/gate"], "children": ["World/Areas/Act_2_SwordOfValor/DrezenBannerAndFatefulNight/EnterPoints/DrezenFatefulNight_EnterPoint_AfterBannerCutscene", "World/Quests/c2_vs/Main/Obj_4_GetBanner"]}

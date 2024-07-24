@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Woljif_Q2_Rite/Rite/gate 1"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultSacrifice/Q2WoljifCultSacrifice_dialogue"]}
+{"parents": ["World/Cutscenes/Woljif_Q2_Rite/Rite/gate 1"], "children": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultSacrifice/Q2WoljifCultSacrifice_dialogue", "Units/Companions/Woljif/Woljif_Companion"]}

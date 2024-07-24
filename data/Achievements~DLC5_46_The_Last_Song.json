@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Sacrifice/Cue_23", "Root/BlueprintRoot"], "children": ["DLC/DLC5/Dlc5Campaign", "Achievements/Groups/DLC5TrophyGroupPack2"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Sacrifice/Cue_23", "Root/BlueprintRoot"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2", "DLC/DLC5/Dlc5Campaign"]}

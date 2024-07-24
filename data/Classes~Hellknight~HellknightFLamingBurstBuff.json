@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/HellknightsCamp/HellknightsParaliktor_Gerren", "Classes/Hellknight/HellknightFlamingBurstAbility"], "children": ["Weapons/Enchantments/FlamingBurst", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/FlamingBurst", "Weapons/Enchantments/Flaming"]}
+{"parents": ["Classes/Hellknight/HellknightFlamingBurstAbility", "Units/NPC/Unique/Act_3_DemonsHerecy/HellknightsCamp/HellknightsParaliktor_Gerren"], "children": ["Weapons/Enchantments/Flaming", "Weapons/Enchantments/FlamingBurst"]}

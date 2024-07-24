@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryThunderingEnchantment", "Weapons/Enchantments/Thundering"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Thundering", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryThunderingEnchantment"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyShadowdancerCopy", "Armies/UnitBlueprints/ArmyShadowdancer"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_SummonIllusion"]}
+{"parents": ["Armies/UnitBlueprints/ArmyShadowdancerCopy", "Armies/UnitBlueprints/ArmyShadowdancer"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_SummonIllusion", "Armies/Brains/Actions/TacticalCombatAiAttackImportant"]}

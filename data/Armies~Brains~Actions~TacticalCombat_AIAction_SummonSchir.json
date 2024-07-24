@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_GibrilethBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ArcherRangeConsideration", "Armies/Abilities/ArmySummonSchir"]}
+{"parents": ["Armies/Brains/TacticalCombat_GibrilethBrain"], "children": ["Armies/Abilities/ArmySummonSchir", "Armies/Brains/Considerations/TacticalConsideration_ArcherRangeConsideration"]}

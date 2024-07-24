@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/BookPage_0028"], "children": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/Check_0011", "Buffs/Fatigued"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/BookPage_0028"], "children": ["Buffs/Fatigued", "World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/Check_0011"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/AreeluLab/ActionsHolders/RiftBattery_OpenRift_CheckPassedActions"], "children": ["World/Cutscenes/AreeluLab/RiftOpening/CommandAction", "World/Cutscenes/AreeluLab/RiftOpening/CommandDelay", "World/Cutscenes/AreeluLab/RiftOpening/CommandAction 1"]}
+{"parents": ["World/Encounters/AreeluLab/ActionsHolders/RiftBattery_OpenRift_CheckPassedActions"], "children": ["World/Cutscenes/AreeluLab/RiftOpening/CommandAction", "World/Cutscenes/AreeluLab/RiftOpening/CommandAction 1", "World/Cutscenes/AreeluLab/RiftOpening/CommandDelay"]}

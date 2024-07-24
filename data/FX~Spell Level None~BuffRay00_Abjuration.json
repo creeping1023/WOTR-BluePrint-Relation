@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/LostlarnKeep/LostlarnKeepSpecialWisp2Helper", "Root/BlueprintRoot"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}
+{"parents": ["Root/BlueprintRoot", "Spells/CutsceneSpells/LostlarnKeep/LostlarnKeepSpecialWisp2Helper"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}

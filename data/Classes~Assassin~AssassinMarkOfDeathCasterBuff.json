@@ -1,1 +1,1 @@
-{"parents": ["Classes/Assassin/AssassinMarkOfDeathAbility"], "children": ["Classes/Assassin/AssassinMarkOfDeathBuff", "Classes/Assassin/AssassinMarkOfDeathIgnoreBuff", "Classes/Assassin/AssassinMarkOfDeathIgnoreBuff"]}
+{"parents": ["Classes/Assassin/AssassinMarkOfDeathAbility"], "children": ["Classes/Assassin/AssassinMarkOfDeathIgnoreBuff", "Classes/Assassin/AssassinMarkOfDeathBuff"]}

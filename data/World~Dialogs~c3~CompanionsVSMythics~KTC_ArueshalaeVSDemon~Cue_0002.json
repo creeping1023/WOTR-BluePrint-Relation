@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/CompanionsVSMythics/KTC_ArueshalaeVSDemon/Cue_0001"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c3/CompanionsVSMythics/KTC_ArueshalaeVSDemon/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c3/CompanionsVSMythics/KTC_ArueshalaeVSDemon/Cue_0001"], "children": ["World/Dialogs/c3/CompanionsVSMythics/KTC_ArueshalaeVSDemon/AnswersList_0003", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

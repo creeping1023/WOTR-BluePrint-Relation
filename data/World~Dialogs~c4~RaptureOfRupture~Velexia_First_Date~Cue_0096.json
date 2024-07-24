@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/RaptureOfRupture/Velexia_First_Date/CueSequence_0094"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}
+{"parents": ["World/Dialogs/c4/RaptureOfRupture/Velexia_First_Date/CueSequence_0094"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed"]}

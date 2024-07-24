@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/GlobalMapRituals/GlobalSpellAngelSummonHeavenlyHostFeature", "Armies/CrusadeGlobalBuffs/FlagAngel3SummonAngels"], "children": ["Armies/Leaders/Feats/Bonus/SummonPropertyGetterMythicPlus2", "Armies/UnitBlueprints/ArmyAngelMovanicDeva"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagAngel3SummonAngels", "Kingdom/GlobalMapRituals/GlobalSpellAngelSummonHeavenlyHostFeature"], "children": ["Armies/UnitBlueprints/ArmyAngelMovanicDeva", "Armies/Leaders/Feats/Bonus/SummonPropertyGetterMythicPlus2"]}

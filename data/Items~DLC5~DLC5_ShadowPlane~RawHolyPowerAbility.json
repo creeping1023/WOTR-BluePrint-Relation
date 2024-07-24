@@ -1,1 +1,1 @@
-{"parents": ["Items/DLC5/DLC5_ShadowPlane/RingOfRawHolyPowerItem"], "children": ["Spells/Level3/PrayerDebuffAbility", "Spells/Level3/PrayerBuffAbility"]}
+{"parents": ["Items/DLC5/DLC5_ShadowPlane/RingOfRawHolyPowerItem"], "children": ["Spells/Level3/PrayerBuffAbility", "Spells/Level3/PrayerDebuffAbility"]}

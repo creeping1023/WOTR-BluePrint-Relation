@@ -1,1 +1,1 @@
-{"parents": ["Equipment/DLC6BonusItems/DLC6RewardItems/RazmirRing"], "children": ["Equipment/DLC6BonusItems/DLC6RewardItems/RazmirRingFeature", "Classes/Cleric/Domains/Magic/MagicDomainProgressionFake"]}
+{"parents": ["Equipment/DLC6BonusItems/DLC6RewardItems/RazmirRing"], "children": ["Classes/Cleric/Domains/Magic/MagicDomainProgressionFake", "Equipment/DLC6BonusItems/DLC6RewardItems/RazmirRingFeature"]}

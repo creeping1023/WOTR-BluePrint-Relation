@@ -1,1 +1,1 @@
-{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/MostTrustedFolloweActivatableAbility"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/MostTrustedFollowerBuffCooldown", "Classes/Arcanist/Archetypes/MagicDeceiver/MostTrustedFollowerBuffCooldown", "Classes/Arcanist/Archetypes/MagicDeceiver/MostTrustedFollowerBuffCooldown"]}
+{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/MostTrustedFolloweActivatableAbility"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/MostTrustedFollowerBuffCooldown"]}

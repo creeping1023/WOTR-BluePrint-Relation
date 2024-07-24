@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/CueSequence_0022"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/Cue_3"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/CueSequence_0022"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/Cue_3", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

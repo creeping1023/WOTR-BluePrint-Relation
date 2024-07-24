@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/GateGuard/AnswersList_0002"], "children": ["World/Dialogs/c4/GateGuard/Cue_0046", "Units/NPC/Unique/Act_4_MidnightIsles/GateGuards/GateGuard_MediumToHigher"]}
+{"parents": ["World/Dialogs/c4/GateGuard/AnswersList_0002"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/GateGuards/GateGuard_MediumToHigher", "World/Dialogs/c4/GateGuard/Cue_0046"]}

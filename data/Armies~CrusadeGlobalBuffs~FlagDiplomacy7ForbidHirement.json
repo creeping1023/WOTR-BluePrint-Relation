@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/Answer_0010"], "children": ["Armies/UnitBlueprints/ArmyCavaliers", "Armies/UnitBlueprints/ArmyGoldenLegionnaires", "Armies/UnitBlueprints/ArmySistersOfTheGoldenErinyes", "Armies/CrusadeGlobalBuffs/FlagDiplomacy7Morale"]}
+{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/Answer_0010"], "children": ["Armies/UnitBlueprints/ArmyGoldenLegionnaires", "Armies/CrusadeGlobalBuffs/FlagDiplomacy7Morale", "Armies/UnitBlueprints/ArmySistersOfTheGoldenErinyes", "Armies/UnitBlueprints/ArmyCavaliers"]}

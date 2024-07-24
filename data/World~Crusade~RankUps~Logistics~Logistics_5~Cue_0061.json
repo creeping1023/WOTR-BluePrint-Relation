@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Crusade/RankUps/Logistics/Logistics_5/Answer_0060"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Logistics_Prisoner", "World/Crusade/RankUps/Logistics/Logistics_5/Cue_0062"]}
+{"parents": ["World/Crusade/RankUps/Logistics/Logistics_5/Answer_0060", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Crusade/RankUps/Logistics/Logistics_5/Cue_0062", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Logistics_Prisoner"]}

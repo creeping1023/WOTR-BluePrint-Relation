@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyAzataYamah"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackArcher", "Armies/Brains/Actions/TacticalCombat_AIAction_CureModerateWounds"]}
+{"parents": ["Armies/UnitBlueprints/ArmyAzataYamah"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_CureModerateWounds", "Armies/Brains/Actions/TacticalCombatAiAttackArcher"]}

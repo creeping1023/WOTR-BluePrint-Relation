@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Taberdin/CueSequence_0001"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/Companions/Lann/Lann_Companion", "Units/Companions/Lann/Lann_Companion", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Taberdin/Cue_39"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Taberdin/CueSequence_0001"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Taberdin/Cue_39", "Units/Companions/Nenio/Nenio_Companion"]}

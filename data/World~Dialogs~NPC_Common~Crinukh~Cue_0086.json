@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Crinukh/Cue_0030", "World/Dialogs/NPC_Common/Crinukh/Crinukh_dialogue"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDevil/PlayerIsDevil", "World/Dialogs/NPC_Common/Crinukh/Cue_0088"]}
+{"parents": ["World/Dialogs/NPC_Common/Crinukh/Crinukh_dialogue", "World/Dialogs/NPC_Common/Crinukh/Cue_0030"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDevil/PlayerIsDevil", "World/Dialogs/NPC_Common/Crinukh/Cue_0088"]}

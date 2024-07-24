@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Wenduag/HavocInTheTavern/Cue_0003"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/IrabethTirabade_DrezenCapital", "World/Dialogs/Companions/CompanionRomances/Wenduag/HavocInTheTavern/AnswersList_0005"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Wenduag/HavocInTheTavern/Cue_0003"], "children": ["World/Dialogs/Companions/CompanionRomances/Wenduag/HavocInTheTavern/AnswersList_0005", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/IrabethTirabade_DrezenCapital"]}

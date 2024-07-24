@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/ConfrontMentor/AnswersList_0003"], "children": ["World/Dialogs/c4/Mythic_Azata/ConfrontMentor/Cue_0005", "World/Encounters/AlushinyrraMediumCity/UnlockableFlags/MentorConfrontationCounter"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/ConfrontMentor/AnswersList_0003"], "children": ["World/Encounters/AlushinyrraMediumCity/UnlockableFlags/MentorConfrontationCounter", "World/Dialogs/c4/Mythic_Azata/ConfrontMentor/Cue_0005"]}

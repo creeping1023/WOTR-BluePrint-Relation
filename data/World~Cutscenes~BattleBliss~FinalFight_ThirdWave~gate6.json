@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/FinalFight_ThirdWave/gate 2"], "children": ["World/Cutscenes/BattleBliss/FinalFight_ThirdWave/CommandControlCamera 4", "World/Cutscenes/BattleBliss/FinalFight_ThirdWave/gate5"]}
+{"parents": ["World/Cutscenes/BattleBliss/FinalFight_ThirdWave/gate 2"], "children": ["World/Cutscenes/BattleBliss/FinalFight_ThirdWave/gate5", "World/Cutscenes/BattleBliss/FinalFight_ThirdWave/CommandControlCamera 4"]}

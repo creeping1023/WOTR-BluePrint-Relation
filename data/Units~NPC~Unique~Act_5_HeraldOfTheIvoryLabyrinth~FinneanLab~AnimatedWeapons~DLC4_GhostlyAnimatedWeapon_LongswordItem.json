@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/FinneanLab/AnimatedWeapons/AnimatedWeapon_LongswordItem", "Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/GhostTouch"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Enhancement3", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/FinneanLab/AnimatedWeapons/AnimatedWeapon_LongswordItem", "Weapons/Enchantments/GhostTouch"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/Archetypes/WildEffigy/StoneclawStrikeShifterFeature"], "children": ["Classes/Shifter/Archetypes/WildEffigy/StoneclawStrikeShifterBuff", "Classes/Shifter/ShifterAspectResource"]}
+{"parents": ["Classes/Shifter/Archetypes/WildEffigy/StoneclawStrikeShifterFeature"], "children": ["Classes/Shifter/ShifterAspectResource", "Classes/Shifter/Archetypes/WildEffigy/StoneclawStrikeShifterBuff"]}

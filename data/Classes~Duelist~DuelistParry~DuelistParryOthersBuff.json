@@ -1,1 +1,1 @@
-{"parents": ["Classes/Duelist/DuelistParry/DuelistParrySelfBuff", "Classes/Duelist/DuelistParry/DuelistParryOthersAbility"], "children": ["Classes/Duelist/DuelistParry/DuelistParryOthersBuffEachRound", "Classes/Duelist/DuelistParry/DuelistParryOthersBuffEachRound", "Classes/Duelist/DuelistParry/DuelistParryLessAttacks"]}
+{"parents": ["Classes/Duelist/DuelistParry/DuelistParryOthersAbility", "Classes/Duelist/DuelistParry/DuelistParrySelfBuff"], "children": ["Classes/Duelist/DuelistParry/DuelistParryLessAttacks", "Classes/Duelist/DuelistParry/DuelistParryOthersBuffEachRound"]}

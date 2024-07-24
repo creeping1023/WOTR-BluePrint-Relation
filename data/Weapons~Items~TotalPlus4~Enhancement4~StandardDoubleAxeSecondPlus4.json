@@ -1,1 +1,1 @@
-{"parents": ["Loot/Trash/CR26/PF2_Sarkoris_luxery_weapon_stand_01 (1)_loot_object", "Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus4/Enhancement4/StandardDoubleAxePlus4"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement4"]}
+{"parents": ["Loot/Trash/CR26/PF2_Sarkoris_luxery_weapon_stand_01 (1)_loot_object", "Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus4/Enhancement4/StandardDoubleAxePlus4"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

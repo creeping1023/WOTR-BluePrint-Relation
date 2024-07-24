@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Shifter/ShifterMajorForms/Dinosaur/ShifterWildShapeDinosaurBuff"], "children": ["Weapons/Types/NaturalWeapon/TalonsType"]}
+{"parents": ["Classes/Shifter/ShifterMajorForms/Dinosaur/ShifterWildShapeDinosaurBuff", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/TalonsType"]}

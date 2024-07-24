@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/BookPage_0029"], "children": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/Check_0030", "Spells/Level3/PoisonBuff"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/BookPage_0029"], "children": ["Spells/Level3/PoisonBuff", "World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/DragonHuntBookEvents/DragonHuntBookEvent3/Check_0030"]}

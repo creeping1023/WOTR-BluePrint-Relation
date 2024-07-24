@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/NightHagSpelllistFeature"], "children": ["Spells/Level3/DeepSlumber", "Spells/Level2/Invisibility", "Spells/Level1/RayOfEnfeeblement", "Spells/Level1/MagicMissile"]}
+{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/NightHagSpelllistFeature"], "children": ["Spells/Level1/MagicMissile", "Spells/Level2/Invisibility", "Spells/Level3/DeepSlumber", "Spells/Level1/RayOfEnfeeblement"]}

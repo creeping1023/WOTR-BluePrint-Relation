@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Deadbody/Gundrun_Deadbody_dialogue"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR0_GundrunChildMaleQuest", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Deadbody/Cue_0002"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Deadbody/Gundrun_Deadbody_dialogue"], "children": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Deadbody/Cue_0002", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR0_GundrunChildMaleQuest"]}

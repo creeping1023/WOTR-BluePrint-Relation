@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level6/InspiringRecoveryCheckBuff", "Mythic/MythicAbilities/BoundlessHealing"], "children": ["Spells/Level6/InspiringRecoveryBuff"]}
+{"parents": ["Mythic/MythicAbilities/BoundlessHealing", "Spells/Level6/InspiringRecoveryCheckBuff"], "children": ["Spells/Level6/InspiringRecoveryBuff"]}

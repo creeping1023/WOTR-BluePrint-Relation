@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC6Mobs/Llamolaek/DLC6_LlamolaekBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Units/Monsters/DLC6Mobs/Llamolaek/DLC6_AnimateSwordsAbility"]}
+{"parents": ["Units/Monsters/DLC6Mobs/Llamolaek/DLC6_LlamolaekBrain"], "children": ["Units/Monsters/DLC6Mobs/Llamolaek/DLC6_AnimateSwordsAbility", "Brain/Considerations/SwiftActionOffCooldown"]}

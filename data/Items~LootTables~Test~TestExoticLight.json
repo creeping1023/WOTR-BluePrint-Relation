@@ -1,1 +1,1 @@
-{"parents": ["Test/Units/PlayerWeaponTestPregen"], "children": ["Weapons/Items/Standard/ExoticLight/StandardKama", "Weapons/Items/Standard/ExoticLight/StandardNunchaku", "Weapons/Items/Standard/ExoticLight/StandardSai", "Weapons/Items/Standard/ExoticLight/StandardSai"]}
+{"parents": ["Test/Units/PlayerWeaponTestPregen"], "children": ["Weapons/Items/Standard/ExoticLight/StandardSai", "Weapons/Items/Standard/ExoticLight/StandardKama", "Weapons/Items/Standard/ExoticLight/StandardNunchaku"]}

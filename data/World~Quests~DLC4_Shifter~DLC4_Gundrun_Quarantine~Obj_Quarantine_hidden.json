@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/DLC4_Shifter/DLC4_Gundrun_Quarantine/DLC4_Gundrun_Quarantine", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_1", "World/Etudes/Common/DLC4_Shifter"], "children": ["World/Quests/DLC4_Shifter/DLC4_Gundrun_Quarantine/DLC4_Gundrun_Quarantine"]}
+{"parents": ["World/Etudes/Common/DLC4_Shifter", "World/Quests/DLC4_Shifter/DLC4_Gundrun_Quarantine/DLC4_Gundrun_Quarantine", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_1"], "children": ["World/Quests/DLC4_Shifter/DLC4_Gundrun_Quarantine/DLC4_Gundrun_Quarantine"]}

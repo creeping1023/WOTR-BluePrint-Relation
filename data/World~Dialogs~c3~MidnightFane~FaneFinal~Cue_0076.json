@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0066"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey", "World/Dialogs/c3/MidnightFane/FaneFinal/AnswersList_0077"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0066"], "children": ["World/Dialogs/c3/MidnightFane/FaneFinal/AnswersList_0077", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]}

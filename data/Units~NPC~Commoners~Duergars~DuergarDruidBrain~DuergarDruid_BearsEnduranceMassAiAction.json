@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Duergars/DuergarDruidBrain/DuergarDruidBrain"], "children": ["Brain/Considerations/NoBuffBearsEndurance", "Spells/Level6/BearsEnduranceMass"]}
+{"parents": ["Units/NPC/Commoners/Duergars/DuergarDruidBrain/DuergarDruidBrain"], "children": ["Spells/Level6/BearsEnduranceMass", "Brain/Considerations/NoBuffBearsEndurance"]}

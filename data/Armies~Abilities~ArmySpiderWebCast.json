@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmySpiderWebFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_Web"], "children": ["Armies/Abilities/ArmySpiderWebBuff", "FX/Abilities/Web00_Projectile", "Armies/Abilities/ArmySpiderWebResource"]}
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_Web", "Armies/Abilities/ArmySpiderWebFeature"], "children": ["Armies/Abilities/ArmySpiderWebBuff", "Armies/Abilities/ArmySpiderWebResource", "FX/Abilities/Web00_Projectile"]}

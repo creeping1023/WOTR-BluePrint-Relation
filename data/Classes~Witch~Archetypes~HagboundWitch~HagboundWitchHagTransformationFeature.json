@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/HagboundWitch/HagboundWitchArchetype"], "children": ["Traits/Races/Common/MonstrousHumanoidType", "CreatureAbilities/Immunities/ImmunityToCharm", "CreatureAbilities/Immunities/ImmunityToFear"]}
+{"parents": ["Classes/Witch/Archetypes/HagboundWitch/HagboundWitchArchetype"], "children": ["CreatureAbilities/Immunities/ImmunityToCharm", "Traits/Races/Common/MonstrousHumanoidType", "CreatureAbilities/Immunities/ImmunityToFear"]}

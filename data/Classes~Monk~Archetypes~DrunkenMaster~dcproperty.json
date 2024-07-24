@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenTechniqueCaydenTrickAbility", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenTechniqueFirewaterBreathAbility"], "children": ["Classes/Monk/MonkClass", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenMasterArchetype"]}
+{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenTechniqueFirewaterBreathAbility", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenTechniqueCaydenTrickAbility"], "children": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenMasterArchetype", "Classes/Monk/MonkClass"]}

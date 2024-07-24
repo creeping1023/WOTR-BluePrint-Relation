@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Points/Point_LostChapel_Variation_1", "World/Areas/Act_2_SwordOfValor/LostChapel/Presets/LostChapel_Sosiel_Q2_Preset"], "children": ["World/Areas/Act_2_SwordOfValor/LostChapel/LostChapel", "World/Areas/Act_2_SwordOfValor/LostChapel/LostChapel"]}
+{"parents": ["World/Areas/Act_2_SwordOfValor/LostChapel/Presets/LostChapel_Sosiel_Q2_Preset", "GlobalMaps/WorldWoundGM/Points/Point_LostChapel_Variation_1"], "children": ["World/Areas/Act_2_SwordOfValor/LostChapel/LostChapel"]}

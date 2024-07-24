@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC6NewSpells/ArcanaTheft"], "children": ["Classes/Magus/MagusSpellList", "Weapons/Types/Special/TouchItem", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverSpellList"]}
+{"parents": ["Spells/DLC6NewSpells/ArcanaTheft"], "children": ["Weapons/Types/Special/TouchItem", "Classes/Magus/MagusSpellList", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverSpellList"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_CounselorRunAway/AttackAfterRitual_CounselorRunAway"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/MythicLich_ElyankaIsEnemy", "World/Encounters/Ziggurat/UnlockableFlags/AfterRitualWin_B02"]}
+{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_CounselorRunAway/AttackAfterRitual_CounselorRunAway"], "children": ["World/Encounters/Ziggurat/UnlockableFlags/AfterRitualWin_B02", "World/Etudes/Common/WrathOfTheRighteous/MythicLich/MythicLich_ElyankaIsEnemy"]}

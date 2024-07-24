@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/PartyPregenTests/Sosiel/SosielPregenTestFeatureList", "Feats/SpellFocus/SpellFocusConjuration"], "children": ["Feats/SpellFocus/SpellFocusConjuration"]}
+{"parents": ["Feats/SpellFocus/SpellFocusConjuration", "Units/Pregens/PartyPregenTests/Sosiel/SosielPregenTestFeatureList"], "children": ["Feats/SpellFocus/SpellFocusConjuration"]}

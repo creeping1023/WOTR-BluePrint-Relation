@@ -1,1 +1,1 @@
-{"parents": ["Classes/Rogue/Archetypes/ThugArchetype", "Classes/Rogue/Archetypes/KnifeMasterArchetype", "Classes/Rogue/RogueProgression"], "children": ["Traps/TrapActorFeature", "Traps/TrapActorFeature"]}
+{"parents": ["Classes/Rogue/Archetypes/ThugArchetype", "Classes/Rogue/Archetypes/KnifeMasterArchetype", "Classes/Rogue/RogueProgression"], "children": ["Traps/TrapActorFeature"]}

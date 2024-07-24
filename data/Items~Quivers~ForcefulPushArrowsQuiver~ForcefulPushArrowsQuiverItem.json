@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Quivers/ForcefulPushArrowsQuiver/ForcefulPushArrowsQuiverAbility"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Items/Quivers/ForcefulPushArrowsQuiver/ForcefulPushArrowsQuiverAbility", "Items/DestructibleItemsShards/MetalShardItem"]}

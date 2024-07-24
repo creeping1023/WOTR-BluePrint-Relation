@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyNecromancer"], "children": ["Armies/Abilities/ArmyChannelNegativeEnergyHealAbility", "Armies/Abilities/ArmyChannelNegativeEnergyHealFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyNecromancer"], "children": ["Armies/Abilities/ArmyChannelNegativeEnergyHealFact", "Armies/Abilities/ArmyChannelNegativeEnergyHealAbility"]}

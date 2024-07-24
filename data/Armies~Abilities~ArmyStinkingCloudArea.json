@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyStinkingCloud"], "children": ["Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Armies/Abilities/ArmyStinkingCloudBuff", "Armies/Abilities/ArmyStinkingCloudBuff", "Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Armies/Abilities/ArmyStinkingCloudBuff", "Armies/Abilities/ArmyStinkingCloudBuff"]}
+{"parents": ["Armies/Abilities/ArmyStinkingCloud"], "children": ["Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Armies/Abilities/ArmyStinkingCloudBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Enchantments/JagannathKhandaPoisonEnchant"], "children": ["Buffs/Daze", "Units/Monsters/Spider/GiantSpiderPoisonBuff"]}
+{"parents": ["Weapons/Enchantments/JagannathKhandaPoisonEnchant"], "children": ["Units/Monsters/Spider/GiantSpiderPoisonBuff", "Buffs/Daze"]}

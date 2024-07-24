@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_2/Cue_0003"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Mephisto", "World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_2/Cue_0018"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_2/Cue_0003"], "children": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_2/Cue_0018", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Mephisto"]}

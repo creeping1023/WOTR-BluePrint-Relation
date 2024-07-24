@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Prebuffs/DLC1_Prebuff_Melee_Feature", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Prebuffs/DLC1_Prebuff_Range_Feature", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Prebuffs/DLC1_Prebuff_Range_Feature_Barkskin"], "children": ["Spells/Level3/HasteBuff"]}
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Prebuffs/DLC1_Prebuff_Range_Feature_Barkskin", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Prebuffs/DLC1_Prebuff_Range_Feature", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Prebuffs/DLC1_Prebuff_Melee_Feature"], "children": ["Spells/Level3/HasteBuff"]}

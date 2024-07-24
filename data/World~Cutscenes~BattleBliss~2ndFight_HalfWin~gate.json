@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/2ndFight_HalfWin/2ndFight_HalfWin"], "children": ["World/Cutscenes/BattleBliss/2ndFight_HalfWin/CommandControlCamera 2", "World/Cutscenes/BattleBliss/2ndFight_HalfWin/CommandBark 4", "World/Cutscenes/BattleBliss/2ndFight_HalfWin/gate 1"]}
+{"parents": ["World/Cutscenes/BattleBliss/2ndFight_HalfWin/2ndFight_HalfWin"], "children": ["World/Cutscenes/BattleBliss/2ndFight_HalfWin/gate 1", "World/Cutscenes/BattleBliss/2ndFight_HalfWin/CommandBark 4", "World/Cutscenes/BattleBliss/2ndFight_HalfWin/CommandControlCamera 2"]}

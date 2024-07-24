@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0103"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0105"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0103"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0105", "Units/Companions/Seelah/Seelah_Companion"]}

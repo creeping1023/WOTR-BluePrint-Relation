@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Alchemist/Discoveries/FastBombs/FastBombsBuff"], "children": ["Weapons/Types/Special/BombType"]}
+{"parents": ["Classes/Alchemist/Discoveries/FastBombs/FastBombsBuff", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/Special/BombType"]}

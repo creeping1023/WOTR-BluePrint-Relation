@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/SinisterVillage/ActionsHolders/Boat_Actions"], "children": ["World/Dialogs/c5/SinisterVillage/BookEvent_Boat/BookPage_0001", "World/Areas/Act_2_SwordOfValor/SinisterVillage/EnterPoints/SinisterVillageCave_Enter"]}
+{"parents": ["World/Encounters/SinisterVillage/ActionsHolders/Boat_Actions"], "children": ["World/Areas/Act_2_SwordOfValor/SinisterVillage/EnterPoints/SinisterVillageCave_Enter", "World/Dialogs/c5/SinisterVillage/BookEvent_Boat/BookPage_0001"]}

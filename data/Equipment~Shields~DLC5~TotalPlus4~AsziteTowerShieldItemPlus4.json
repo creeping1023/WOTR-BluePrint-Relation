@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneArmorVendorTable", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/DLC5/TotalPlus4/AsziteTowerShieldArmorItemPlus4"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneArmorVendorTable"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/DLC5/TotalPlus4/AsziteTowerShieldArmorItemPlus4"]}

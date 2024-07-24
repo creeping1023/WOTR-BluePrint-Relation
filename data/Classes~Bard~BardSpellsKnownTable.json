@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/HunterSpellbook", "Classes/MagusEldritchScion/EldritchScionSpellbook", "Classes/Bard/BardSpellbook", "Units/NPC/Commoners/DLC5_Storys_End/Penta_Facts/BardSpellbook_Penta"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_Facts/BardSpellbook_Penta", "Classes/MagusEldritchScion/EldritchScionSpellbook", "Classes/Bard/BardSpellbook", "Classes/Hunter/HunterSpellbook"]}

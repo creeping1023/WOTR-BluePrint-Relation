@@ -1,1 +1,1 @@
-{"parents": ["Items/DLC5/DLC5_ShadowPlane/DLC5_ShadowPlaneBeltLantern"], "children": ["Buffs/DLC5/ShadowPlane/ZoneOfFullDarknessBuff", "Items/DLC5/DLC5_ShadowPlane/DLC5_ShadowPlaneBeltLanternBuff"]}
+{"parents": ["Items/DLC5/DLC5_ShadowPlane/DLC5_ShadowPlaneBeltLantern"], "children": ["Items/DLC5/DLC5_ShadowPlane/DLC5_ShadowPlaneBeltLanternBuff", "Buffs/DLC5/ShadowPlane/ZoneOfFullDarknessBuff"]}

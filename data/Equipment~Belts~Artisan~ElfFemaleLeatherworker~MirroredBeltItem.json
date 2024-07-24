@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level2/MirrorImage", "Equipment/CommonEnchantments/Reflex4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Reflex4", "Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level2/MirrorImage"]}

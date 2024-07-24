@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerFlare"], "children": ["Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower", "Armies/Abilities/ArmyConfusedBuff", "Armies/Leaders/Abilities/RangerAbilities/RangerFlareResource", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerFlare"], "children": ["Armies/Abilities/ArmyConfusedBuff", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower", "Armies/Leaders/Abilities/RangerAbilities/RangerFlareResource"]}

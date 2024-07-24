@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Trickery/TrickeryDomainGreaterFeature"], "children": ["Classes/Cleric/Domains/Trickery/TrickeryDomainGreaterResource", "Classes/Cleric/Domains/Trickery/TrickeryDomainGreaterBuff"]}
+{"parents": ["Classes/Cleric/Domains/Trickery/TrickeryDomainGreaterFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Trickery/TrickeryDomainGreaterBuff", "Classes/Cleric/Domains/Trickery/TrickeryDomainGreaterResource"]}

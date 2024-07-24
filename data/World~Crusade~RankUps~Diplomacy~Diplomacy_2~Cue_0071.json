@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_2/CueSequence_0061", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Crusade/RankUps/Diplomacy/Diplomacy_2/Cue_0012", "Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_2/CueSequence_0061", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Crusade/RankUps/Diplomacy/Diplomacy_2/Cue_0012"]}

@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level7/Sunbeam", "Spells/CutsceneSpells/AzataIsland/Sunbeam_cutscene", "Spells/Level7/SunbeamAbility"], "children": ["Spells/Level7/SunbeamAbility", "Spells/Level7/SunbeamAbility"]}
+{"parents": ["Spells/Level7/Sunbeam", "Spells/CutsceneSpells/AzataIsland/Sunbeam_cutscene", "Spells/Level7/SunbeamAbility"], "children": ["Spells/Level7/SunbeamAbility"]}

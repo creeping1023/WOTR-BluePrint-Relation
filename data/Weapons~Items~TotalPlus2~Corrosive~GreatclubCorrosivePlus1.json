@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleTwoHanded/Greatclub", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Enchantments/Corrosive", "Weapons/Types/SimpleTwoHanded/Greatclub", "Weapons/Enchantments/Enhancement1"]}

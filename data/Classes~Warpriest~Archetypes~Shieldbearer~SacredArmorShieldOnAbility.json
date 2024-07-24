@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/Shieldbearer/SacredArmorShieldFeature"], "children": ["Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantResource", "Classes/Warpriest/Archetypes/Shieldbearer/SacredArmorShieldOnBuff"]}
+{"parents": ["Classes/Warpriest/Archetypes/Shieldbearer/SacredArmorShieldFeature"], "children": ["Classes/Warpriest/Archetypes/Shieldbearer/SacredArmorShieldOnBuff", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantResource"]}

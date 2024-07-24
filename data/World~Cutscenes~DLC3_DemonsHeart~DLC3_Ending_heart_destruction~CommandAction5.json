@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_DemonsHeart/DLC3_Ending_heart_destruction/gate"], "children": ["FX/Creatures/Fx_WhiteBalor_DLC3", "Buffs/ShadowFX_CutsceneNoDeath", "FX/Creatures/Fx_BalorSword_DLC3"]}
+{"parents": ["World/Cutscenes/DLC3_DemonsHeart/DLC3_Ending_heart_destruction/gate"], "children": ["Buffs/ShadowFX_CutsceneNoDeath", "FX/Creatures/Fx_BalorSword_DLC3", "FX/Creatures/Fx_WhiteBalor_DLC3"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/SeelahFriendsScene/gate"], "children": ["World/Cutscenes/DefendersHeart/SeelahFriendsScene/CommandStartDialog", "World/Cutscenes/DefendersHeart/SeelahFriendsScene/gate 2", "World/Cutscenes/DefendersHeart/SeelahFriendsScene/CommandAction"]}
+{"parents": ["World/Cutscenes/DefendersHeart/SeelahFriendsScene/gate"], "children": ["World/Cutscenes/DefendersHeart/SeelahFriendsScene/gate 2", "World/Cutscenes/DefendersHeart/SeelahFriendsScene/CommandStartDialog", "World/Cutscenes/DefendersHeart/SeelahFriendsScene/CommandAction"]}

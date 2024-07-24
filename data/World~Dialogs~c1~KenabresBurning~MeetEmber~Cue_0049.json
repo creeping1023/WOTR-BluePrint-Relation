@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0044"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/EmberNotJoined", "World/Encounters/KenabresBurning/UnlockableFlags/EmberFreed", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0050"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0044"], "children": ["World/Encounters/KenabresBurning/UnlockableFlags/EmberFreed", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0050", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/EmberNotJoined"]}

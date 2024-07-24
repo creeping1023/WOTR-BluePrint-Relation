@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Ghoul/LostChapel/GhoulHuntmaster_RangerRanged7_LC"], "children": ["Races/Presets/GhoulMedium_VisualPreset", "Races/Presets/GhoulBig_VisualPreset"]}
+{"parents": ["Units/NPC/Commoners/Ghoul/LostChapel/GhoulHuntmaster_RangerRanged7_LC"], "children": ["Races/Presets/GhoulBig_VisualPreset", "Races/Presets/GhoulMedium_VisualPreset"]}

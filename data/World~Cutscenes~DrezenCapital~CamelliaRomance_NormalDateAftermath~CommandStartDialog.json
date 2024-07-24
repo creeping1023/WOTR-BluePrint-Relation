@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateAftermath/gate"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/Companions/CompanionRomances/Camellia/NormalDateAftermath/NormalDateAftermath_dialogue"]}
+{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateAftermath/gate"], "children": ["World/Dialogs/Companions/CompanionRomances/Camellia/NormalDateAftermath/NormalDateAftermath_dialogue", "Units/Companions/Camelia/Camelia_Companion"]}

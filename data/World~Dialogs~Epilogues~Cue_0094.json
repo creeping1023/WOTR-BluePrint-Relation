@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/Cue_0093"], "children": ["World/Encounters/ThresholdIndoor_Aeon/UnlockableFlags/AeonLeaveMemories", "Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/Epilogues/Cue_0095"]}
+{"parents": ["World/Dialogs/Epilogues/Cue_0093"], "children": ["World/Dialogs/Epilogues/Cue_0095", "Units/Companions/Arueshalae/Arueshalae_Companion", "World/Encounters/ThresholdIndoor_Aeon/UnlockableFlags/AeonLeaveMemories"]}

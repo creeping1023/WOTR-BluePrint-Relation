@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/WarCamp/KTC2_DrezenWarCouncil", "World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/KTC2_HellknightsYakerInWarCamp"], "children": ["World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/KTC2_HellknightsYakerInWarCamp", "World/Etudes/WarCamp/KTC2_DrezenWarCouncil"], "children": ["World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp"]}

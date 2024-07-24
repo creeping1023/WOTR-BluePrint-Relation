@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Exploration/WalkthroughScenarios/Lich_Fighter", "QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mLich3chap"], "children": ["Mythic/Lich/LichMythicClass"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mLich3chap", "QA/Clockwork/Scenario/Exploration/WalkthroughScenarios/Lich_Fighter"], "children": ["Mythic/Lich/LichMythicClass"]}

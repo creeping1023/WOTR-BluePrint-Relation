@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Items/Standard/MartialLight/StandardWeaponLightShield", "Equipment/Shields/Unique/LateChapters/ForewarningArmorItem"]}
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Shields/Unique/LateChapters/ForewarningArmorItem", "Weapons/Items/Standard/MartialLight/StandardWeaponLightShield", "Items/DestructibleItemsShards/MetalShardItem"]}

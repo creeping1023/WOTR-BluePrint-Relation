@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0049", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Answer_0036"], "children": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0049", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0037"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Answer_0036", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0049"], "children": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0037", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0049"]}

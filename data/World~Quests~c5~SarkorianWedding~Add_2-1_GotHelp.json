@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c5/SarkorianWedding/SarkorianWedding_Quest", "World/Quests/c5/SarkorianWedding/Obj_02_KillDemon"], "children": ["World/Quests/c5/SarkorianWedding/SarkorianWedding_Quest"]}
+{"parents": ["World/Quests/c5/SarkorianWedding/Obj_02_KillDemon", "World/Quests/c5/SarkorianWedding/SarkorianWedding_Quest"], "children": ["World/Quests/c5/SarkorianWedding/SarkorianWedding_Quest"]}

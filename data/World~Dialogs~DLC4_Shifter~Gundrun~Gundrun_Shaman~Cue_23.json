@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Shaman/Cue_22"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Shaman/Cue_24"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Shaman/Cue_22"], "children": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Shaman/Cue_24", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

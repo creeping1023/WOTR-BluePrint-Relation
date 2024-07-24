@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Jealousy/CueSequence_0015"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/WenduagCompanion/WenduagRomance/WenduagRomance_Active", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Jealousy/CueSequence_0015"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/WenduagCompanion/WenduagRomance/WenduagRomance_Active"]}

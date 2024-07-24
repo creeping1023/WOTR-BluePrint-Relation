@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeResource", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeBaseBuff"]}
+{"parents": ["Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeBaseBuff", "Mythic/Aeon/AeonGaze/AeonGazeResource"]}

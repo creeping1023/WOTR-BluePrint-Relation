@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/CoolStories/Answer_0011"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/SoldierParty_Lannica", "World/Dialogs/c5/Mythic_Legend/SoldierParty/CoolStories/AnswersList_2"]}
+{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/CoolStories/Answer_0011"], "children": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/CoolStories/AnswersList_2", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/SoldierParty_Lannica"]}

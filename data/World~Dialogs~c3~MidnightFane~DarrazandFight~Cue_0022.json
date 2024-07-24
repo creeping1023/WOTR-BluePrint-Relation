@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/DarrazandFight/Answer_0021"], "children": ["World/Encounters/ReligionReactivityBuffs/Godclaw_Buff", "World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0008"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/DarrazandFight/Answer_0021"], "children": ["World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0008", "World/Encounters/ReligionReactivityBuffs/Godclaw_Buff"]}

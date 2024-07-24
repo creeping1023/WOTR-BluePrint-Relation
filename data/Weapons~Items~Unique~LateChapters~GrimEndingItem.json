@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/Club", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Necrotic", "Weapons/Items/Unique/LateChapters/GrimEndingEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/Club", "Weapons/Enchantments/Necrotic", "Weapons/Items/Unique/LateChapters/GrimEndingEnchantment", "Weapons/Enchantments/Enhancement2"]}

@@ -1,1 +1,1 @@
-{"parents": ["Feats/StunningFist/StunningFistAbility"], "children": ["Buffs/Stunned", "Feats/DragonStyle/DragonFerocityBuff", "Buffs/Shaken"]}
+{"parents": ["Feats/StunningFist/StunningFistAbility"], "children": ["Feats/DragonStyle/DragonFerocityBuff", "Buffs/Shaken", "Buffs/Stunned"]}

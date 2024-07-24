@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Arueshalae/Answer_0153"], "children": ["World/Dialogs/Companions/CompanionDialogues/Arueshalae/Cue_0155"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Arueshalae/Answer_0153", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Arueshalae/Cue_0155"]}

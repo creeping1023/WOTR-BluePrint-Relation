@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/NamelessRuins/NamelessRuins_PuzzleDone/gate"], "children": ["World/Cutscenes/NamelessRuins/NamelessRuins_PuzzleDone/CommandAction", "World/Cutscenes/NamelessRuins/NamelessRuins_PuzzleDone/gate 2"]}
+{"parents": ["World/Cutscenes/NamelessRuins/NamelessRuins_PuzzleDone/gate"], "children": ["World/Cutscenes/NamelessRuins/NamelessRuins_PuzzleDone/gate 2", "World/Cutscenes/NamelessRuins/NamelessRuins_PuzzleDone/CommandAction"]}

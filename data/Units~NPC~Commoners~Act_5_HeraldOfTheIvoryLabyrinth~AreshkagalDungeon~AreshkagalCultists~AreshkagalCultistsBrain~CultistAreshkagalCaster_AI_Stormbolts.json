@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalCultists/AreshkagalCultistsBrain/Cultist_Areshkagal_MeleeCasterBrain"], "children": ["Brain/Considerations/IsThreatedConsideration", "Spells/Level8/Stormbolts"]}
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalCultists/AreshkagalCultistsBrain/Cultist_Areshkagal_MeleeCasterBrain"], "children": ["Spells/Level8/Stormbolts", "Brain/Considerations/IsThreatedConsideration"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus1/StandardGnomeHookedHammerPlus1"], "children": ["Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook", "Weapons/Enchantments/Enhancement1"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus1/StandardGnomeHookedHammerPlus1"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook"]}

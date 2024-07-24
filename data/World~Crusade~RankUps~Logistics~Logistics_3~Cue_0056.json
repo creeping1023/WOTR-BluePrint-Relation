@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Crusade/RankUps/Logistics/Logistics_3/CueSequence_0043"], "children": ["World/Crusade/RankUps/Logistics/Logistics_3/Cue_0015", "Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Crusade/RankUps/Logistics/Logistics_3/CueSequence_0043", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Crusade/RankUps/Logistics/Logistics_3/Cue_0015"]}

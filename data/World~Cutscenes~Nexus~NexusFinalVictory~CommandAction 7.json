@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/NexusFinalVictory/gate 13"], "children": ["World/Encounters/Nexus/SummonPools/Nexus_VictoryEnemiesBC", "Factions/Mobs", "World/Encounters/Nexus/SummonPools/Nexus_CampDefendersOutside", "Factions/NeutralGuards", "World/Encounters/Nexus/SummonPools/Nexus_VictoryEnemiesBC"]}
+{"parents": ["World/Cutscenes/Nexus/NexusFinalVictory/gate 13"], "children": ["Factions/Mobs", "Factions/NeutralGuards", "World/Encounters/Nexus/SummonPools/Nexus_VictoryEnemiesBC", "World/Encounters/Nexus/SummonPools/Nexus_CampDefendersOutside"]}

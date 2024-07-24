@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/SosielRomanceMovetoPlayer/gate 1"], "children": ["World/Cutscenes/Nexus/SosielRomanceMovetoPlayer/CommandMoveUnit", "World/Cutscenes/Nexus/SosielRomanceMovetoPlayer/gate 3"]}
+{"parents": ["World/Cutscenes/Nexus/SosielRomanceMovetoPlayer/gate 1"], "children": ["World/Cutscenes/Nexus/SosielRomanceMovetoPlayer/gate 3", "World/Cutscenes/Nexus/SosielRomanceMovetoPlayer/CommandMoveUnit"]}

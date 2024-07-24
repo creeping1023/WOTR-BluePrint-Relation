@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagPoisonousStrike2", "Armies/CrusadeGlobalBuffs/FlagPoisonousStrike3", "Armies/CrusadeGlobalBuffs/FlagPoisonousStrike1"], "children": ["Armies/Leaders/Abilities/FighterAbilities/FighterPoisonousStrike1Ability"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagPoisonousStrike1", "Armies/CrusadeGlobalBuffs/FlagPoisonousStrike2", "Armies/CrusadeGlobalBuffs/FlagPoisonousStrike3"], "children": ["Armies/Leaders/Abilities/FighterAbilities/FighterPoisonousStrike1Ability"]}

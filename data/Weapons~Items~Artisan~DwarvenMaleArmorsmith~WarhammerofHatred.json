@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Warhammer", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/BaneOrcGoblin1d6", "Weapons/Enchantments/BaneHumanoidGiant2d6"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/BaneOrcGoblin1d6", "Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialOneHanded/Warhammer", "Weapons/Enchantments/BaneHumanoidGiant2d6"]}

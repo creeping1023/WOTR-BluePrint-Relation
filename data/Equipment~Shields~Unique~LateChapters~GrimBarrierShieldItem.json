@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Items/TotalPlus6/BleedSpikedHeavyShieldPlus5", "Equipment/Shields/Unique/LateChapters/GrimBarrierShieldArmorItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/TotalPlus6/BleedSpikedHeavyShieldPlus5", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Unique/LateChapters/GrimBarrierShieldArmorItem"]}

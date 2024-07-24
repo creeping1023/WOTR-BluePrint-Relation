@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/Navigator/Answer_0004"], "children": ["DLC/MainGame/MainCampaign", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Navigator", "World/Dialogs/DLC3_Roguelike/Navigator/Cue_12"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/Navigator/Answer_0004"], "children": ["World/Dialogs/DLC3_Roguelike/Navigator/Cue_12", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Navigator", "DLC/MainGame/MainCampaign"]}

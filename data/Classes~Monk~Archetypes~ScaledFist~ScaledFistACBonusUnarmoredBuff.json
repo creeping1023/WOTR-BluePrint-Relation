@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistSupressACBuff", "Classes/Monk/Archetypes/ScaledFist/ScaledFistACBonus"], "children": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistACBonusProperty2"]}
+{"parents": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistACBonus", "Classes/Monk/Archetypes/ScaledFist/ScaledFistSupressACBuff"], "children": ["Classes/Monk/Archetypes/ScaledFist/ScaledFistACBonusProperty2"]}

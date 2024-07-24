@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CustomizationPreset_Citizen_Male"], "children": ["Races/HumanRace", "Races/DwarfRace", "Races/ElfRace", "Races/GnomeRace", "Races/HalfElfRace", "Races/HalfOrcRace", "Races/HalflingRace", "Races/AasimarRace", "Races/TieflingRace", "Races/DhampirRace"]}
+{"parents": ["Units/Customization/CustomizationPreset_Citizen_Male"], "children": ["Races/GnomeRace", "Races/AasimarRace", "Races/HalfOrcRace", "Races/DwarfRace", "Races/HalfElfRace", "Races/TieflingRace", "Races/ElfRace", "Races/HumanRace", "Races/DhampirRace", "Races/HalflingRace"]}

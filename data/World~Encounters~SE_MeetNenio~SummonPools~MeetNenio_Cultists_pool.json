@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/CommandAction 1", "World/Etudes/Common/WrathOfTheRighteous/Companions/NenioCompanion/NenioStates/SE_MeetNenio/SE_MeetNenio_Mechanics"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Companions/NenioCompanion/NenioStates/SE_MeetNenio/SE_MeetNenio_Mechanics", "World/Cutscenes/SE_MeetNenio/NenioNPC_Idle/CommandAction 1"]}

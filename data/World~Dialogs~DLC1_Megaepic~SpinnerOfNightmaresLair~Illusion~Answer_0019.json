@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Illusion/AnswersList_0027"], "children": ["World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Illusion/Cue_7", "World/Encounters/DLC1_SpinnerLair/UnlockableFlags/DLC1_SpinnerLair_HereIsLourry"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Illusion/AnswersList_0027"], "children": ["World/Encounters/DLC1_SpinnerLair/UnlockableFlags/DLC1_SpinnerLair_HereIsLourry", "World/Dialogs/DLC1_Megaepic/SpinnerOfNightmaresLair/Illusion/Cue_7"]}

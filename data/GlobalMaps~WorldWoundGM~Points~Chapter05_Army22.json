@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05", "GlobalMaps/WorldWoundGM/Edges/Edge_Chapter05_Army22_Crossroads_Chapter05_19", "GlobalMaps/WorldWoundGM/WorldWoundGM"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM"]}
+{"parents": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "World/Etudes/Common/WrathOfTheRighteous/Chapter05", "GlobalMaps/WorldWoundGM/Edges/Edge_Chapter05_Army22_Crossroads_Chapter05_19"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM"]}

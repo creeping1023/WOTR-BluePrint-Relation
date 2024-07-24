@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Horgus_GetMeOut/CueSequence_0001"], "children": ["ClassGroups/Divine", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/Horgus"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Horgus_GetMeOut/CueSequence_0001"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/Horgus", "ClassGroups/Divine"]}

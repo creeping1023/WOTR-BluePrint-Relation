@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Edges/Edge_Crossroads_2GlobalPuzzle_Start_GlobalPuzzle_Start", "GlobalMaps/WorldWoundGM/WorldWoundGM"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "World/Areas/Act_2_SwordOfValor/GlobalPuzzle_Start/EnterPoints/GlobalPuzzle_Start_Enter"]}
+{"parents": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "GlobalMaps/WorldWoundGM/Edges/Edge_Crossroads_2GlobalPuzzle_Start_GlobalPuzzle_Start"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "World/Areas/Act_2_SwordOfValor/GlobalPuzzle_Start/EnterPoints/GlobalPuzzle_Start_Enter"]}

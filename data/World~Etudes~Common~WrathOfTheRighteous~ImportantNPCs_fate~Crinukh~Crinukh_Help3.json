@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Crinukh/Cue_0249_Help3", "World/Encounters/Iz/ScriptZones/Crinukh_cache_SZ"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Crinukh"]}
+{"parents": ["World/Encounters/Iz/ScriptZones/Crinukh_cache_SZ", "World/Dialogs/NPC_Common/Crinukh/Cue_0249_Help3"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Crinukh"]}

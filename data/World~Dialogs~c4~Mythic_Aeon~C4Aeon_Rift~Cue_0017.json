@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Aeon/C4Aeon_Rift/Check_0011"], "children": ["World/Areas/Mythics/Aeon_MidnightFaneInThePast/EnterPoints/Aeon_MidnightFaneInThePast_Enter", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon/AfterCourtsRift"]}
+{"parents": ["World/Dialogs/c4/Mythic_Aeon/C4Aeon_Rift/Check_0011"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon/AfterCourtsRift", "World/Areas/Mythics/Aeon_MidnightFaneInThePast/EnterPoints/Aeon_MidnightFaneInThePast_Enter"]}

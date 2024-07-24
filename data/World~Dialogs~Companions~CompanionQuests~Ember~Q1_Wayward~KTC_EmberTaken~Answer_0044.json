@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/KTC_EmberTaken/AnswersList_0003"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/KTC_EmberTaken/Cue_0041", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/KTC_EmberTaken/AnswersList_0003"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon", "World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/KTC_EmberTaken/Cue_0041"]}

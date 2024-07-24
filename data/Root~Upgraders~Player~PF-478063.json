@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/c1/Errands/Scabbard/Objective_0001", "World/Quests/c3/Errands/SolemnHour/Objective_0001", "Weapons/Items/TotalPlus5/SolemnHour", "World/Quests/c3/Errands/SolemnHour/Objective_0001"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Weapons/Items/TotalPlus5/SolemnHour", "World/Quests/c1/Errands/Scabbard/Objective_0001", "World/Quests/c3/Errands/SolemnHour/Objective_0001"]}

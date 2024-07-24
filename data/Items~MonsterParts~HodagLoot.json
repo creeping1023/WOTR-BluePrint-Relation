@@ -1,1 +1,1 @@
-{"parents": ["QA/Unused/Units/Monsters/Hodag/CR7_HodagAdvanced", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_CR5_HodagYoung", "Units/Monsters/Hodag/CR6_HodagStandard", "QA/Unused/Units/Monsters/Hodag/CR7_HodagTransmutation"], "children": ["Items/MonsterParts/HodagPelt"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_CR5_HodagYoung", "Units/Monsters/Hodag/CR6_HodagStandard", "QA/Unused/Units/Monsters/Hodag/CR7_HodagAdvanced", "QA/Unused/Units/Monsters/Hodag/CR7_HodagTransmutation"], "children": ["Items/MonsterParts/HodagPelt"]}

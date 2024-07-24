@@ -1,1 +1,1 @@
-{"children": ["Units/NPC/Commoners/Zombie/ZombieFeatureList/ChannelNegativeHarmZombieAIAction", "Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Zombie/ZombieFeatureList/ChannelNegativeHealZombieAIAction", "Brain/Actions/PrayerAiAction"]}
+{"children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Zombie/ZombieFeatureList/ChannelNegativeHarmZombieAIAction", "Brain/Actions/PrayerAiAction", "Units/NPC/Commoners/Zombie/ZombieFeatureList/ChannelNegativeHealZombieAIAction"]}

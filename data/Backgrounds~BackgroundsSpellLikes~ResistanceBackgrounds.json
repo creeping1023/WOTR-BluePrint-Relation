@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSpellLikes/ResistanceBackgroundsFeature"], "children": ["Spells/Level0/Resistance", "Spells/Level0/Resistance", "Spells/Level0/Resistance", "Spells/Level0/ResistanceBuff", "Spells/Level0/Resistance"]}
+{"parents": ["Backgrounds/BackgroundsSpellLikes/ResistanceBackgroundsFeature"], "children": ["Spells/Level0/ResistanceBuff", "Spells/Level0/Resistance"]}

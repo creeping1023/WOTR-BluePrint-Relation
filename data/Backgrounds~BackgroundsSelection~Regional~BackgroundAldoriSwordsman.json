@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSelection/Regional/BackgroundsRegionalSelection"], "children": ["Feats/Proficiencies/DuelingSwordProficiency", "Classes/Basic/Proficiencies/BucklerProficiency"]}
+{"parents": ["Backgrounds/BackgroundsSelection/Regional/BackgroundsRegionalSelection"], "children": ["Classes/Basic/Proficiencies/BucklerProficiency", "Feats/Proficiencies/DuelingSwordProficiency"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/NymphDialog/Answer_0013"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/NymphBoss/DLC5_CR12_NymphStorasta_Shifter", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/NymphDialog/Cue_0030"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/NymphDialog/Answer_0013"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/NymphDialog/Cue_0030", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/NymphBoss/DLC5_CR12_NymphStorasta_Shifter"]}

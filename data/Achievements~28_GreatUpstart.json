@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/ImportantStates/GameAchievements/28_GreatUpstart", "Root/BlueprintRoot"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/28_GreatUpstart"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/ImportantStates/GameAchievements/28_GreatUpstart"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/28_GreatUpstart"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Frada/Answer_0003"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Bureaucrat", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Frada/Cue_0009"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Frada/Answer_0003"], "children": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Frada/Cue_0009", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Bureaucrat"]}

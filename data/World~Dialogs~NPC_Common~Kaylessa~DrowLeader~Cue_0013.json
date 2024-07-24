@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/DrowLeader/Cue_0012"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Kaylessa_Ambush/Asty", "World/Cutscenes/WarCamp/WarCamp_Ambience_WarmHands/WarCamp_Ambience_WarmHands", "World/Dialogs/NPC_Common/Kaylessa/DrowLeader/AnswersList_0002"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/DrowLeader/Cue_0012"], "children": ["World/Dialogs/NPC_Common/Kaylessa/DrowLeader/AnswersList_0002", "World/Cutscenes/WarCamp/WarCamp_Ambience_WarmHands/WarCamp_Ambience_WarmHands", "Units/NPC/Unique/Act_2_SwordOfValor/Kaylessa_Ambush/Asty"]}

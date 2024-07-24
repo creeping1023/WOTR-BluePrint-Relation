@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/DigOut_DH_InfCultist/gate 1", "World/Cutscenes/DefendersHeart/DigOut_DH_InfCultist/DigOut_DH_InfCultist"], "children": ["World/Cutscenes/DefendersHeart/DigOut_DH_InfCultist/CommandAction"]}
+{"parents": ["World/Cutscenes/DefendersHeart/DigOut_DH_InfCultist/DigOut_DH_InfCultist", "World/Cutscenes/DefendersHeart/DigOut_DH_InfCultist/gate 1"], "children": ["World/Cutscenes/DefendersHeart/DigOut_DH_InfCultist/CommandAction"]}

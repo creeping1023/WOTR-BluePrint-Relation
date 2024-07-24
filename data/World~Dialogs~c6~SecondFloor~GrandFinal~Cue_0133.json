@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Answer_0132"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula", "World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0065"]}
+{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Answer_0132"], "children": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0065", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"]}

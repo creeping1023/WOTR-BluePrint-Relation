@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration", "Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmDamageAbility"]}
+{"parents": ["Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmBrain"], "children": ["Units/Monsters/SpiderSwarm/SpiderSwarmDamageAura/SpiderSwarmDamageAbility", "Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC1_AxisDungeon_mechanics", "World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_EndScene/CommandAction"], "children": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FX_scene/CommandDelay", "World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FX_scene/gate"]}
+{"parents": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_EndScene/CommandAction", "World/Etudes/Common/DLC1_AxisDungeon_mechanics"], "children": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FX_scene/gate", "World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_FX_scene/CommandDelay"]}

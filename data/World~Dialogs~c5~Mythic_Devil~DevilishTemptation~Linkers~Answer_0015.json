@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Linkers/AnswersList_0003"], "children": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Linkers/Cue_0016", "World/Quests/MythicQuests/Devil/DevilishTemptation/Obj2_TalkToLinkersAboutRaid"]}
+{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Linkers/AnswersList_0003"], "children": ["World/Quests/MythicQuests/Devil/DevilishTemptation/Obj2_TalkToLinkersAboutRaid", "World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Linkers/Cue_0016"]}

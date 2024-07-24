@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/HellknightsStronghold/RegillJoinOrLeave/AnswersList_0004"], "children": ["World/Cutscenes/HellknightsCamp/RegillBridgeIntro/RegillBridgeIntro", "GlobalMaps/WorldWoundGM/Area/WorldWoundGMAreaEnterPoint"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/HellknightsStronghold/RegillJoinOrLeave/AnswersList_0004"], "children": ["GlobalMaps/WorldWoundGM/Area/WorldWoundGMAreaEnterPoint", "World/Cutscenes/HellknightsCamp/RegillBridgeIntro/RegillBridgeIntro"]}

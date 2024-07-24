@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationScythe"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationScythe"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationScythe"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Feats/WeaponSpecialization/WeaponSpecializationScythe", "Classes/Fighter/FighterClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/Rushlight_SmithVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Speed"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/Rushlight_SmithVendorTable"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Speed"]}

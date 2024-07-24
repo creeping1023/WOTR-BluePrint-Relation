@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerSeizeTheMomentToggleAbility"], "children": ["Classes/Barbarian/Rage/StandartRageBuff", "Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerSeizeTheMomentAreaBuff"]}
+{"parents": ["Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerSeizeTheMomentToggleAbility"], "children": ["Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerSeizeTheMomentAreaBuff", "Classes/Barbarian/Rage/StandartRageBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0046"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/MythicAeon_DrezenHistoryChanged", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0739"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0046"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0739", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/MythicAeon_DrezenHistoryChanged"]}

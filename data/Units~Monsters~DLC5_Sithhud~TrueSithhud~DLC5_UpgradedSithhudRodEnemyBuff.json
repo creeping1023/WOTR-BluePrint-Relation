@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradedSithhudRodBuff"], "children": ["Buffs/Prone", "World/Encounters/LostChapel/Buffs/CantAct", "Buffs/Prone", "World/Encounters/LostChapel/Buffs/CantAct", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradeSithhudRodAreaEffect"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradedSithhudRodBuff"], "children": ["World/Encounters/LostChapel/Buffs/CantAct", "Buffs/Prone", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradeSithhudRodAreaEffect"]}

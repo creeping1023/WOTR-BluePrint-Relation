@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSelection/Scholar/BackgroundsWizardSpellLikeSelection", "Units/Companions/Nenio/Nenio_FeatureList"], "children": ["Backgrounds/BackgroundsSpellLikes/AcidSplashBackgrounds"]}
+{"parents": ["Units/Companions/Nenio/Nenio_FeatureList", "Backgrounds/BackgroundsSelection/Scholar/BackgroundsWizardSpellLikeSelection"], "children": ["Backgrounds/BackgroundsSpellLikes/AcidSplashBackgrounds"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Kakuen-taka/Brains/CR14_BhogaSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Units/Monsters/Demon Kakuen-taka/CR14_BhogaSwarmDamageAbility"]}
+{"parents": ["Units/Monsters/Demon Kakuen-taka/Brains/CR14_BhogaSwarmBrain"], "children": ["Units/Monsters/Demon Kakuen-taka/CR14_BhogaSwarmDamageAbility", "Brain/Considerations/SwarmTargetsPriority"]}

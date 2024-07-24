@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Shields/DLC5/TotalPlus4/AsziteBucklerItemPlus4"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/BucklerType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus4"]}
+{"parents": ["Equipment/Shields/DLC5/TotalPlus4/AsziteBucklerItemPlus4"], "children": ["Equipment/Shields/Types/BucklerType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus4", "Items/DestructibleItemsShards/MetalShardItem"]}

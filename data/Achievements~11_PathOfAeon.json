@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/ImportantStates/GameAchievements/11_PathOfAeon", "Root/BlueprintRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/ImportantStates/GameAchievements/11_PathOfAeon"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon"]}

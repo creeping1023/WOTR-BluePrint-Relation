@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Woljif/Cue_0077"], "children": ["World/Quests/Companions/Woljif/Q3Woljif_DarkMoonRising/Obj2_HelpWoljif", "World/Dialogs/Companions/CompanionDialogues/Woljif/AnswersList_0047"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Woljif/Cue_0077"], "children": ["World/Dialogs/Companions/CompanionDialogues/Woljif/AnswersList_0047", "World/Quests/Companions/Woljif/Q3Woljif_DarkMoonRising/Obj2_HelpWoljif"]}

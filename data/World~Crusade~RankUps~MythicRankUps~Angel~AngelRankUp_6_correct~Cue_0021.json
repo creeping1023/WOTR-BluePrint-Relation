@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Angel/AngelRankUp_6_correct/Cue_0020"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicAngel_Ch5/DisguisedAstralDeva", "World/Crusade/RankUps/MythicRankUps/Angel/AngelRankUp_6_correct/Cue_0022"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Angel/AngelRankUp_6_correct/Cue_0020"], "children": ["World/Crusade/RankUps/MythicRankUps/Angel/AngelRankUp_6_correct/Cue_0022", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicAngel_Ch5/DisguisedAstralDeva"]}

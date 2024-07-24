@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Trash/CR26/Forest_TrashGear"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Trash/CR26/Forest_TrashGear", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

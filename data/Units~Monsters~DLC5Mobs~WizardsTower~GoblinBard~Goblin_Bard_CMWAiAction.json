@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinBard/Goblin_Bard_Brain"], "children": ["Brain/Considerations/InjuryMedium", "Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level2/CureModerateWoundsCast"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinBard/Goblin_Bard_Brain"], "children": ["Brain/Considerations/InjuryMedium", "Spells/Level2/CureModerateWoundsCast", "Brain/Considerations/NoThreateningUnitsConsideration"]}

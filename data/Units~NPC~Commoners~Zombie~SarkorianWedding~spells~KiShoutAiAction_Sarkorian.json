@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_Skiled_Brain", "Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level7/KiShout"]}
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain", "Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_Skiled_Brain"], "children": ["Spells/Level7/KiShout", "Brain/Considerations/AttackTargetsPriority"]}

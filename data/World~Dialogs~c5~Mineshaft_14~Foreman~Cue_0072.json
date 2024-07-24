@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mineshaft_14/Foreman/Answer_0116"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Seilkind", "World/Cutscenes/Mineshaft14_Indoor/Teleport_OutOf_Mineshaft/Teleport_OutOf_Mineshaft", "World/Quests/c5/Mineshaft14/Obj4_TalkToTheForeman"]}
+{"parents": ["World/Dialogs/c5/Mineshaft_14/Foreman/Answer_0116"], "children": ["World/Quests/c5/Mineshaft14/Obj4_TalkToTheForeman", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Seilkind", "World/Cutscenes/Mineshaft14_Indoor/Teleport_OutOf_Mineshaft/Teleport_OutOf_Mineshaft"]}

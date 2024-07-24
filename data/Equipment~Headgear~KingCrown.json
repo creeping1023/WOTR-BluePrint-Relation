@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/KingCrownEnchant", "Equipment/CommonEnchantments/Charisma6", "Equipment/CommonEnchantments/Wisdom6", "Equipment/CommonEnchantments/Intelligence6"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Charisma6", "Equipment/CommonEnchantments/Intelligence6", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/KingCrownEnchant", "Equipment/CommonEnchantments/Wisdom6"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nexus_Camp/NexusMines/DyingSuccubus/Cue_0022"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/c4/Nexus_Camp/NexusMines/DyingSuccubus/CueSequence_0024"]}
+{"parents": ["World/Dialogs/c4/Nexus_Camp/NexusMines/DyingSuccubus/Cue_0022"], "children": ["World/Dialogs/c4/Nexus_Camp/NexusMines/DyingSuccubus/CueSequence_0024", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

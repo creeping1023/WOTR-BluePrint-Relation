@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/CoronationCrusadersGone/gate"], "children": ["World/Encounters/DrezenCapital/SummonPools/Coronation_DefaultArmy", "World/Cutscenes/LostChapel/UnitGoAwayParam/UnitGoAwayParam"]}
+{"parents": ["World/Cutscenes/DrezenCapital/CoronationCrusadersGone/gate"], "children": ["World/Cutscenes/LostChapel/UnitGoAwayParam/UnitGoAwayParam", "World/Encounters/DrezenCapital/SummonPools/Coronation_DefaultArmy"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/RenownExplorerSE/Cue_0135"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c5/RenownExplorerSE/Cue_0137"]}
+{"parents": ["World/Dialogs/c5/RenownExplorerSE/Cue_0135"], "children": ["World/Dialogs/c5/RenownExplorerSE/Cue_0137", "Units/Companions/Nenio/Nenio_Companion"]}

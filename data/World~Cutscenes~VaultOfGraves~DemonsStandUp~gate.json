@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/DemonsStandUp/CommandActivateGate", "World/Cutscenes/VaultOfGraves/DemonsStandUp/DemonsStandUp"], "children": ["World/Cutscenes/VaultOfGraves/DemonsStandUp/CommandDelay", "World/Cutscenes/VaultOfGraves/DemonsStandUp/gate1"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/DemonsStandUp/CommandActivateGate", "World/Cutscenes/VaultOfGraves/DemonsStandUp/DemonsStandUp"], "children": ["World/Cutscenes/VaultOfGraves/DemonsStandUp/gate1", "World/Cutscenes/VaultOfGraves/DemonsStandUp/CommandDelay"]}

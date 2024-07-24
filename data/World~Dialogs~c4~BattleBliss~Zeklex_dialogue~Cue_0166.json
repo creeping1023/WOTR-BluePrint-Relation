@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0113"], "children": ["Items/Utility/GoldCoins", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/AnswersList_0117"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0113"], "children": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/AnswersList_0117", "Items/Utility/GoldCoins"]}

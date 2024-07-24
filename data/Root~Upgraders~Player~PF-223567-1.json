@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Iz", "World/Dialogs/c5/Iz/Banner/Cue_0090", "World/Encounters/Iz/SummonPools/CampDefendersVictory"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Encounters/Iz/SummonPools/CampDefendersVictory", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Iz", "World/Dialogs/c5/Iz/Banner/Cue_0090"]}

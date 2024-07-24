@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/DistrustOfFellowsAbility", "Spells/CutsceneSpells/NegativeProjectileCutscene"], "children": ["FX/Spell Level None/NegativeCommonProjectile00_Trajectory"]}
+{"parents": ["Spells/CutsceneSpells/NegativeProjectileCutscene", "Mythic/DLC5ShardsAbilities/DistrustOfFellowsAbility"], "children": ["FX/Spell Level None/NegativeCommonProjectile00_Trajectory"]}

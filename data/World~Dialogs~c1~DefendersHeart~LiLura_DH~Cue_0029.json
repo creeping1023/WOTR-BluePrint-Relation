@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c1/DefendersHeart/LiLura_DH/Cue_0028"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres", "World/Dialogs/c1/DefendersHeart/LiLura_DH/AnswersList_0012"]}
+{"parents": ["World/Dialogs/c1/DefendersHeart/LiLura_DH/Cue_0028", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres", "World/Dialogs/c1/DefendersHeart/LiLura_DH/AnswersList_0012"]}

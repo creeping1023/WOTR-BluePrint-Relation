@@ -1,1 +1,1 @@
-{"children": ["Player Character", "Player Character", "Player Character", "Classes/Basic/Deities/ForbiddenDeityFeature", "Races/HumanRace", "Factions/Player", "Items/Weapons/CompositeLongbow", "Brain/Companions/Character_Brain", "WeaponEmptyHand"]}
+{"children": ["Brain/Companions/Character_Brain", "WeaponEmptyHand", "Factions/Player", "Player Character", "Items/Weapons/CompositeLongbow", "Classes/Basic/Deities/ForbiddenDeityFeature", "Races/HumanRace"]}

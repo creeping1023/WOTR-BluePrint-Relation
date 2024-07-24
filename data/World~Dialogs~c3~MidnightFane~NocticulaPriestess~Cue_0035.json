@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0034"], "children": ["World/Dialogs/c3/MidnightFane/NocticulaPriestess/AnswersList_0005", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/CueSequence_0067"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0034", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/MidnightFane/NocticulaPriestess/CueSequence_0067", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/AnswersList_0005"]}

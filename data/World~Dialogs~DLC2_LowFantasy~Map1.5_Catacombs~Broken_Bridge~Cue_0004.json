@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Broken_Bridge/Check_0002"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Cutscenes/DLC2_Catacombs/DLC2_Bridge_fixed/DLC2_Bridge_fixed", "Buffs/Fatigued"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Broken_Bridge/Check_0002"], "children": ["Buffs/Fatigued", "World/Cutscenes/DLC2_Catacombs/DLC2_Bridge_fixed/DLC2_Bridge_fixed", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

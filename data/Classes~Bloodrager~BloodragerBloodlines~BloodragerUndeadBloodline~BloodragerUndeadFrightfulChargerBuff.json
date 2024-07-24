@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadFrightfulCharger", "Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadBloodlineBaseBuff"], "children": ["Buffs/Shaken", "Classes/Bloodrager/BloodragerClass"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadBloodlineBaseBuff", "Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadFrightfulCharger"], "children": ["Buffs/Shaken", "Classes/Bloodrager/BloodragerClass"]}

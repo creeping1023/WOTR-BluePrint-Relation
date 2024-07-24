@@ -1,1 +1,1 @@
-{"children": ["World/Cutscenes/TestArea1/testfalling/CommandAction", "World/Cutscenes/TestArea1/testfalling/gate", "World/Cutscenes/TestArea1/testfalling/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/TestArea1/testfalling/CommandDelay"]}
+{"children": ["World/Cutscenes/TestArea1/testfalling/gate", "World/Cutscenes/TestArea1/testfalling/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/TestArea1/testfalling/CommandDelay", "World/Cutscenes/TestArea1/testfalling/CommandAction"]}

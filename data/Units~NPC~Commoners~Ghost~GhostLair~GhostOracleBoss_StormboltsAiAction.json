@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Ghost/GhostLair/GhostOracleBoss_Brain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/EnemiesNoBuff_ProtectionFromElectricity", "Brain/Considerations/EnemiesNoBuff_ResistElectricity", "Spells/Level8/Stormbolts"]}
+{"parents": ["Units/NPC/Commoners/Ghost/GhostLair/GhostOracleBoss_Brain"], "children": ["Brain/Considerations/EnemiesNoBuff_ResistElectricity", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/EnemiesNoBuff_ProtectionFromElectricity", "Spells/Level8/Stormbolts"]}

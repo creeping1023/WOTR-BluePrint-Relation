@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/FornWoundedOnGround/FornWoundedOnGround"], "children": ["Factions/CutsceneNeutrals", "Spells/Level4/InvisibilityGreaterBuff", "Spells/Level3/DisplacementBuff", "Spells/Level2/MirrorImageBuff"]}
+{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/FornWoundedOnGround/FornWoundedOnGround"], "children": ["Spells/Level2/MirrorImageBuff", "Spells/Level3/DisplacementBuff", "Spells/Level4/InvisibilityGreaterBuff", "Factions/CutsceneNeutrals"]}

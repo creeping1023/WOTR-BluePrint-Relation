@@ -1,1 +1,1 @@
-{"parents": ["Classes/Fighter/Archetypes/Swordlord/SwordlordArchetype", "Classes/Fighter/Archetypes/Swordlord/SwordlordDefensiveParryBuff"], "children": ["Classes/Fighter/Archetypes/Swordlord/SwordlordDefensiveParryBuff"]}
+{"parents": ["Classes/Fighter/Archetypes/Swordlord/SwordlordDefensiveParryBuff", "Classes/Fighter/Archetypes/Swordlord/SwordlordArchetype"], "children": ["Classes/Fighter/Archetypes/Swordlord/SwordlordDefensiveParryBuff"]}

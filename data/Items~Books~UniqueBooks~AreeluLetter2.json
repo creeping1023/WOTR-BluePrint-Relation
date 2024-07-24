@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/VaultOfGraves/AreeluLetter2"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/AreeluLetter2Feature", "Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/VaultOfGraves/AreeluLetter2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/AreeluLetter2Feature", "Items/DestructibleItemsShards/PaperShardItem"]}

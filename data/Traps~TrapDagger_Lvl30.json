@@ -1,1 +1,1 @@
-{"parents": ["Root/WeatherMechanics/CorruptionActor", "Dugeons/Loot/DungeonLootExclude", "Root/WeatherMechanics/RainActor", "Root/WeatherMechanics/HeatActor", "Traps/TrapActor_Lvl30", "Root/WeatherMechanics/SnowActor"], "children": ["Weapons/Types/SimpleLight/Dagger"]}
+{"parents": ["Root/WeatherMechanics/SnowActor", "Dugeons/Loot/DungeonLootExclude", "Traps/TrapActor_Lvl30", "Root/WeatherMechanics/RainActor", "Root/WeatherMechanics/CorruptionActor", "Root/WeatherMechanics/HeatActor"], "children": ["Weapons/Types/SimpleLight/Dagger"]}

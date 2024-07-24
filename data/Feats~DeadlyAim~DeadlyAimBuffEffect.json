@@ -1,1 +1,1 @@
-{"parents": ["Feats/DeadlyAim/DeadlyAimBuff", "Equipment/Headgear/MarksmansHatFeature"], "children": ["Mythic/Feats/DeadlyAimMythicFeat"]}
+{"parents": ["Equipment/Headgear/MarksmansHatFeature", "Feats/DeadlyAim/DeadlyAimBuff"], "children": ["Mythic/Feats/DeadlyAimMythicFeat"]}

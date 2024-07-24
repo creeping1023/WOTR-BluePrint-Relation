@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/WhatTheHell_dialogue"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/WhatTheHell_dialogue"], "children": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/AnswersList_0002", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

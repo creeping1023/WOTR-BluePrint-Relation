@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_2B/Cue_0027"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_2B/Cue_0029"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_2B/Cue_0027"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_2B/Cue_0029", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

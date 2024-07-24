@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_Storasta/ActionsHolders/DLC5_Storasta_Burn_Flower"], "children": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_Dance_2/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_Dance_2/CommandMarkUnitControlled"]}
+{"parents": ["World/Encounters/DLC5_Storasta/ActionsHolders/DLC5_Storasta_Burn_Flower"], "children": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_Dance_2/CommandMarkUnitControlled", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_Dance_2/CommandUnitPlayCutsceneAnimation"]}

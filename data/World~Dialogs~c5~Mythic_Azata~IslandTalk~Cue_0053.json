@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Azata/IslandTalk/CueSequence_0042"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_MidnightFaneReinforced", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_RankupSpeaker"]}
+{"parents": ["World/Dialogs/c5/Mythic_Azata/IslandTalk/CueSequence_0042"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_RankupSpeaker", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_MidnightFaneReinforced"]}

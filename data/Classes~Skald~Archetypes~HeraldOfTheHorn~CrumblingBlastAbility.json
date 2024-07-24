@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/Archetypes/HeraldOfTheHorn/CrumblingBlastFeature"], "children": ["FX/Spell Level None/SonicCone40Feet00", "Classes/Skald/Archetypes/HeraldOfTheHorn/CrumblingBlastResource", "Classes/Skald/SkaldClass"]}
+{"parents": ["Classes/Skald/Archetypes/HeraldOfTheHorn/CrumblingBlastFeature"], "children": ["Classes/Skald/Archetypes/HeraldOfTheHorn/CrumblingBlastResource", "Classes/Skald/SkaldClass", "FX/Spell Level None/SonicCone40Feet00"]}

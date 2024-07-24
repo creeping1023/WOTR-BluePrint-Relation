@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff", "Mythic/Demon/Aspects/BrimorakAspect/BrimorakAspectAbility"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "Mythic/Demon/Aspects/BrimorakAspect/BrimorakAspectEffectBuff"]}
+{"parents": ["Mythic/Demon/Aspects/BrimorakAspect/BrimorakAspectAbility", "Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff"], "children": ["Mythic/Demon/Aspects/BrimorakAspect/BrimorakAspectEffectBuff", "Mythic/Demon/DemonRage/DemonRageBuff"]}

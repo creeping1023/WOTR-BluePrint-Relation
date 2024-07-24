@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff", "Buffs/SwarmTargetBuff"]}
+{"parents": ["Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff"]}

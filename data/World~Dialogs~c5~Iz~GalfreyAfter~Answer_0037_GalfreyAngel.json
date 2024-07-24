@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/GalfreyAfter/AnswersList_0002"], "children": ["World/Dialogs/c5/Iz/GalfreyAfter/Cue_0038_GalfreyAngel", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel", "World/Quests/MythicQuests/Angel/C5_IAmTheLight/04_GalfreyFate"]}
+{"parents": ["World/Dialogs/c5/Iz/GalfreyAfter/AnswersList_0002"], "children": ["World/Quests/MythicQuests/Angel/C5_IAmTheLight/04_GalfreyFate", "World/Dialogs/c5/Iz/GalfreyAfter/Cue_0038_GalfreyAngel", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel"]}

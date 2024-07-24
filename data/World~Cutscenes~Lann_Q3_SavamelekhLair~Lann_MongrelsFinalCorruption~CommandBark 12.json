@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Lann_Q3_SavamelekhLair/Lann_MongrelsFinalCorruption/gate 8"], "children": ["World/Quests/Companions/Wenduag/Q3_TraitorsBlood/Q3_TraitorsBlood", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Cutscenes/Lann_Q3_SavamelekhLair/Lann_MongrelsFinalCorruption/gate 8"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Quests/Companions/Wenduag/Q3_TraitorsBlood/Q3_TraitorsBlood"]}

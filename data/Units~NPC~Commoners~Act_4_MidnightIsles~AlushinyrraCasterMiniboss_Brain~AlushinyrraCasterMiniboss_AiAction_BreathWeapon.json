@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss_Brain/AlushinyrraCasterMiniboss_BrainPhaseIII"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level8/FormOfTheDragonIIIBlueBreathWeaponAbility"]}
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss_Brain/AlushinyrraCasterMiniboss_BrainPhaseIII"], "children": ["Spells/Level8/FormOfTheDragonIIIBlueBreathWeaponAbility", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

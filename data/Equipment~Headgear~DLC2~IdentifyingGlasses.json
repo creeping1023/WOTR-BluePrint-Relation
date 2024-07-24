@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Headgear/DLC2/IdentifyingGlassesFeature", "Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/DLC2/IdentifyingGlassesFeature"]}

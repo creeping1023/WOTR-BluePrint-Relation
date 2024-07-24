@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Feats/RangerFeats/CursingArrows"], "children": ["Armies/Abilities/ArmySlowBuff", "Armies/Rituals/RitualBaneBuff", "Spells/Level3/CrushingDespairBuff"]}
+{"parents": ["Armies/Leaders/Feats/RangerFeats/CursingArrows"], "children": ["Armies/Rituals/RitualBaneBuff", "Spells/Level3/CrushingDespairBuff", "Armies/Abilities/ArmySlowBuff"]}

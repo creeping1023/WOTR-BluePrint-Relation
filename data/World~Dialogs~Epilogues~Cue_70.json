@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/BookPage_0006"], "children": ["World/Quests/DLC4_Shifter/Shifter_Q3/Shifter_Q3_quest", "World/Dialogs/Epilogues/Cue_0102_TE_with_Companions", "World/Dialogs/Epilogues/Cue_0105_TE_with_CompandAreelu"]}
+{"parents": ["World/Dialogs/Epilogues/BookPage_0006"], "children": ["World/Dialogs/Epilogues/Cue_0102_TE_with_Companions", "World/Dialogs/Epilogues/Cue_0105_TE_with_CompandAreelu", "World/Quests/DLC4_Shifter/Shifter_Q3/Shifter_Q3_quest"]}

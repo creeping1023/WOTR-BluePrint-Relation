@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_Boss", "Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_BossNoExp"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_Boss_DazzlingDisplayAIAction"]}
+{"parents": ["Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_Boss", "Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_BossNoExp"], "children": ["Units/Monsters/Minotaur/IvorySanctum/MinotaurGhost_Boss_DazzlingDisplayAIAction", "Brain/Actions/AttackAiAction"]}

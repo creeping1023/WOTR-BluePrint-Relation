@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Roc/RocTalon", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/TalonsType"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Roc/RocTalon"], "children": ["Weapons/Types/NaturalWeapon/TalonsType"]}

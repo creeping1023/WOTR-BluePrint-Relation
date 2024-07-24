@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TheatreThirdVisit/Cue_0026"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwin1", "World/Dialogs/c4/TheatreThirdVisit/Cue_0029"]}
+{"parents": ["World/Dialogs/c4/TheatreThirdVisit/Cue_0026"], "children": ["World/Dialogs/c4/TheatreThirdVisit/Cue_0029", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwin1"]}

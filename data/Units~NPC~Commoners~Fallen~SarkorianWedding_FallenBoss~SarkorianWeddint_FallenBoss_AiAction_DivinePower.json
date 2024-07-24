@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Fallen/SarkorianWedding_FallenBoss/SarkorianWedding_FallenBoss_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffDivinePower", "Brain/Considerations/TargetSelf", "Spells/Level4/DivinePower"]}
+{"parents": ["Units/NPC/Commoners/Fallen/SarkorianWedding_FallenBoss/SarkorianWedding_FallenBoss_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Spells/Level4/DivinePower", "Brain/Considerations/NoBuffDivinePower", "Brain/Considerations/TargetSelf"]}

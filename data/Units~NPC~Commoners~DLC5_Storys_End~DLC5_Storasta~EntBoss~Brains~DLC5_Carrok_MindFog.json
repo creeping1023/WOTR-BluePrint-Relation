@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/Brains/DLC5_CarrokBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/Brains/DLC5_CarrokCondition", "Spells/Level5/MindFog"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/Brains/DLC5_CarrokBrain"], "children": ["Spells/Level5/MindFog", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/Brains/DLC5_CarrokCondition"]}

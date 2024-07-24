@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/Cue_0001"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAeon_Ch3/AeonDevilCompanion", "World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/Cue_0001"], "children": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/AnswersList_0002", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAeon_Ch3/AeonDevilCompanion"]}

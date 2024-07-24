@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_NecromancerBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_HalfHealth", "Units/Monsters/Hellhound/HellhoundBrain/AoE_ChooseMoreThen3Friends", "Armies/Abilities/ArmyChannelNegativeEnergyHealAbility"]}
+{"parents": ["Armies/Brains/TacticalCombat_NecromancerBrain"], "children": ["Units/Monsters/Hellhound/HellhoundBrain/AoE_ChooseMoreThen3Friends", "Armies/Abilities/ArmyChannelNegativeEnergyHealAbility", "Armies/Brains/Considerations/TacticalConsideration_HalfHealth"]}

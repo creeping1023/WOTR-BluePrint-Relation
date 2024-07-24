@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonProgression"], "children": ["CreatureAbilities/Immunities/ImmunityToCurseEffects", "CreatureAbilities/Immunities/ImmunityToDeathEffects", "CreatureAbilities/Immunities/ImmunityToEnergyDrain"]}
+{"parents": ["Mythic/Aeon/AeonProgression"], "children": ["CreatureAbilities/Immunities/ImmunityToDeathEffects", "CreatureAbilities/Immunities/ImmunityToCurseEffects", "CreatureAbilities/Immunities/ImmunityToEnergyDrain"]}

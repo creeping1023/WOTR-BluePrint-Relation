@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0078"], "children": ["Units/Companions/Regill/Regill_Companion", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/GolarionSlaveLeader", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0080"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0078"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/GolarionSlaveLeader", "Units/Companions/Regill/Regill_Companion", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0080"]}

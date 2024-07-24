@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Carnivorous Crystal/MutasafenLair/CarnivorousCrystalMinibossl_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AoE_ChooseMoreEnemies", "Mythic/Demon/DemonSpells/ProfaneHymn"]}
+{"parents": ["Units/Monsters/Carnivorous Crystal/MutasafenLair/CarnivorousCrystalMinibossl_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AoE_ChooseMoreEnemies", "Mythic/Demon/DemonSpells/ProfaneHymn"]}

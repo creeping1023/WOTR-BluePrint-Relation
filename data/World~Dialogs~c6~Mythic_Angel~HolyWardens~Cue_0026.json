@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/Mythic_Angel/HolyWardens/Answer_0023", "World/Dialogs/c6/Mythic_Angel/HolyWardens/Answer_0024"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Eliandra", "World/Quests/MythicQuests/Angel/C6_IAmTheFlame/00_WaitTillDeskari"]}
+{"parents": ["World/Dialogs/c6/Mythic_Angel/HolyWardens/Answer_0024", "World/Dialogs/c6/Mythic_Angel/HolyWardens/Answer_0023"], "children": ["World/Quests/MythicQuests/Angel/C6_IAmTheFlame/00_WaitTillDeskari", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Eliandra"]}

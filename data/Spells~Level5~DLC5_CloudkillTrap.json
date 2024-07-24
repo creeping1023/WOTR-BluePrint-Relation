@@ -1,1 +1,1 @@
-{"children": ["Spells/Level5/DLC5_CloudkillTrapArea", "Classes/Wizard/WizardSpellList", "Classes/Magus/MagusSpellList", "Classes/Cleric/Domains/Air/AirDomainSpellList", "Classes/Witch/WitchSpellList", "Mythic/Lich/LichWizardSpelllist"]}
+{"children": ["Mythic/Lich/LichWizardSpelllist", "Classes/Wizard/WizardSpellList", "Classes/Cleric/Domains/Air/AirDomainSpellList", "Classes/Magus/MagusSpellList", "Spells/Level5/DLC5_CloudkillTrapArea", "Classes/Witch/WitchSpellList"]}

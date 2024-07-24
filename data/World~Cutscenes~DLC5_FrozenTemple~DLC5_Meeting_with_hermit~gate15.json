@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/gate7"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandMoveUnit10", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandUnitPlayCutsceneAnimation6"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/gate7"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandUnitPlayCutsceneAnimation6", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandMoveUnit10"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinBlightDruid/Brain/DLC5_CR7_Goblin_DruidBrain"], "children": ["Brain/Considerations/IsThreatedConsideration", "Spells/DLC5NewSpells/GhoulTouch/GhoulTouchCast"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinBlightDruid/Brain/DLC5_CR7_Goblin_DruidBrain"], "children": ["Spells/DLC5NewSpells/GhoulTouch/GhoulTouchCast", "Brain/Considerations/IsThreatedConsideration"]}

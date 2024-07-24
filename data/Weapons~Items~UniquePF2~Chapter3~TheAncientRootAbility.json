@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter3/TheAncientRootEnchantment"], "children": ["Units/Monsters/EarthElemental/SummonedEarthElementalHuge", "Buffs/SummonedCreatureSpawnMonsterIV-VI", "Spells/CutsceneSpells/SummonMonsterPool"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter3/TheAncientRootEnchantment"], "children": ["Buffs/SummonedCreatureSpawnMonsterIV-VI", "Units/Monsters/EarthElemental/SummonedEarthElementalHuge", "Spells/CutsceneSpells/SummonMonsterPool"]}

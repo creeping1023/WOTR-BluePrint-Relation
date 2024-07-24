@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoCaster", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffFreedomOfMovement", "Spells/Level5/HoldMonster"]}
+{"children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoCaster", "Brain/Considerations/NoBuffFreedomOfMovement", "Spells/Level5/HoldMonster"]}

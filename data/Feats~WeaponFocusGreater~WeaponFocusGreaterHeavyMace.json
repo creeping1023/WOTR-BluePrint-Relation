@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusHeavyMace"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Feats/WeaponFocus/WeaponFocusHeavyMace", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusHeavyMace"], "children": ["Feats/WeaponFocus/WeaponFocusHeavyMace", "Weapons/Types/SimpleOneHanded/HeavyMace", "Classes/Fighter/FighterClass"]}

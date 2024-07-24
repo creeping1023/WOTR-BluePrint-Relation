@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/AnimalFocus/HunterAnimalFocusForHimself", "Classes/Hunter/AnimalFocus/HunterAnimalFocusFeature", "Classes/Hunter/Archetypes/Forester/ForesterAnimalFocusFeature"], "children": ["Classes/Hunter/HunterClass"]}
+{"parents": ["Classes/Hunter/AnimalFocus/HunterAnimalFocusForHimself", "Classes/Hunter/Archetypes/Forester/ForesterAnimalFocusFeature", "Classes/Hunter/AnimalFocus/HunterAnimalFocusFeature"], "children": ["Classes/Hunter/HunterClass"]}

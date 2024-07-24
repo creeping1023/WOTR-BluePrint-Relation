@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/TargonaWings/Answer_0031", "World/Encounters/AreeluLab/ActionsHolders/AngelTargona_SpawnActions"], "children": ["Spells/Level5/HoldMonsterBuff"]}
+{"parents": ["World/Encounters/AreeluLab/ActionsHolders/AngelTargona_SpawnActions", "World/Dialogs/c3/AreeluLaboratory/TargonaWings/Answer_0031"], "children": ["Spells/Level5/HoldMonsterBuff"]}

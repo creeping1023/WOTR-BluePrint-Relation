@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Smith/CueSequence_0071", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0074"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Smith/CueSequence_0071", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0074", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

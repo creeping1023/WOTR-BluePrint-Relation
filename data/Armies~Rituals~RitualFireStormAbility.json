@@ -1,1 +1,1 @@
-{"parents": ["Armies/Rituals/RitualFireStorm"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}
+{"parents": ["Armies/Rituals/RitualFireStorm"], "children": ["Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff", "Armies/Leaders/LeaderManaResource"]}

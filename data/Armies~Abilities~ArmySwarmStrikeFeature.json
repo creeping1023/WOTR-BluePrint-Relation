@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyVescavorSwarmStandard", "Armies/UnitBlueprints/ArmyLocustSwarmStandard", "Armies/UnitBlueprints/ArmySpiderSwarmStandard"], "children": ["Armies/Abilities/ArmySwarmStrikeStopBuff", "Armies/Abilities/ArmySwarmStrike", "Armies/Abilities/ArmySwarmStrikeStopBuff"]}
+{"parents": ["Armies/UnitBlueprints/ArmyLocustSwarmStandard", "Armies/UnitBlueprints/ArmySpiderSwarmStandard", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"], "children": ["Armies/Abilities/ArmySwarmStrikeStopBuff", "Armies/Abilities/ArmySwarmStrike"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/AnswersList_0003", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/CallMinibosses"], "children": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0019"]}
+{"parents": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/CallMinibosses", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/AnswersList_0003"], "children": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0019"]}

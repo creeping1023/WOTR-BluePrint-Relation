@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Shadows_Phase_3/Shadows_Phase_3"], "children": ["World/Encounters/Arueshalae_Q3_WhatYouDreamOf/SummonPools/Wave_3", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Shadows_Phase_3/Shadows_Phase_3"], "children": ["Factions/Mobs", "World/Encounters/Arueshalae_Q3_WhatYouDreamOf/SummonPools/Wave_3"]}

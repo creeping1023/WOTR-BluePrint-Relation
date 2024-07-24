@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/CommandAction 3"], "children": ["World/Cutscenes/DrezenCitadel_Level1/SwordOfValorBuffsCrusader/CommandDelay", "World/Cutscenes/DrezenCitadel_Level1/SwordOfValorBuffsCrusader/CommandAction"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/CommandAction 3"], "children": ["World/Cutscenes/DrezenCitadel_Level1/SwordOfValorBuffsCrusader/CommandAction", "World/Cutscenes/DrezenCitadel_Level1/SwordOfValorBuffsCrusader/CommandDelay"]}

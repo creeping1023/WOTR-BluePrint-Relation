@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB01/AttackAfterRitual_WinOnB01", "World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB01/gate 1"], "children": ["World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB01/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB01/gate 1", "World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB01/AttackAfterRitual_WinOnB01"], "children": ["World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB01/CommandStartDialog"]}

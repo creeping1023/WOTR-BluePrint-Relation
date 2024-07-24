@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/Cue_0016", "World/Cutscenes/DrezenCapital/LannRomance_OnKneesUntilFlag/WaitFlag", "World/Cutscenes/DrezenCapital/LannRomance_OnKneesUntilFlag/CommandAction"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/Cue_0016", "World/Cutscenes/DrezenCapital/LannRomance_OnKneesUntilFlag/CommandAction", "World/Cutscenes/DrezenCapital/LannRomance_OnKneesUntilFlag/WaitFlag"]}

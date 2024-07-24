@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/Aslynn/Brain/NoImmunityToMindEffecting_Consideration", "Equipment/Rings/UniquePF2/Chapter3/MartyrsTestamentEnchantment"], "children": ["Equipment/Rings/BeastKingPetFeature", "Equipment/Rings/BeastKingPetFeature"]}
+{"parents": ["Equipment/Rings/UniquePF2/Chapter3/MartyrsTestamentEnchantment", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/Aslynn/Brain/NoImmunityToMindEffecting_Consideration"], "children": ["Equipment/Rings/BeastKingPetFeature"]}

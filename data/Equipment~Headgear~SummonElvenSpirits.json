@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Headgear/TheFirstCrown"], "children": ["Units/NPC/Commoners/Ghost/CR13_GhostlyGuardStandard", "Buffs/SummonedCreatureSpawnMonsterVI-IX", "Spells/CutsceneSpells/SummonMonsterPool"]}
+{"parents": ["Equipment/Headgear/TheFirstCrown"], "children": ["Units/NPC/Commoners/Ghost/CR13_GhostlyGuardStandard", "Spells/CutsceneSpells/SummonMonsterPool", "Buffs/SummonedCreatureSpawnMonsterVI-IX"]}

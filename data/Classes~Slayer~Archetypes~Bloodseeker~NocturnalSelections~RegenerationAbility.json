@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/RegenerationFeature"], "children": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/RegenerationBuff", "Classes/Slayer/Archetypes/Bloodseeker/BloodPoolResource"]}
+{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/RegenerationFeature"], "children": ["Classes/Slayer/Archetypes/Bloodseeker/BloodPoolResource", "Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/RegenerationBuff"]}

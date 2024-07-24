@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichUniqueAbilities/LichUniqueAbilitiesSelection"], "children": ["Mythic/Lich/LichUniqueAbilities/TaintedSneakAttackBuff", "Classes/Rogue/SneakAttack"]}
+{"parents": ["Mythic/Lich/LichUniqueAbilities/LichUniqueAbilitiesSelection"], "children": ["Classes/Rogue/SneakAttack", "Mythic/Lich/LichUniqueAbilities/TaintedSneakAttackBuff"]}

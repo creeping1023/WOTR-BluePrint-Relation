@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/EldritchArcher/EldritchArcherRangedSpellCombat", "Classes/Magus/SpellCombat/SpellCombatFeature"], "children": ["Classes/Magus/SpellCombat/SpellCombatBuff"]}
+{"parents": ["Classes/Magus/SpellCombat/SpellCombatFeature", "Classes/Magus/Archetypes/EldritchArcher/EldritchArcherRangedSpellCombat"], "children": ["Classes/Magus/SpellCombat/SpellCombatBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0520"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0531"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0520", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0531"]}

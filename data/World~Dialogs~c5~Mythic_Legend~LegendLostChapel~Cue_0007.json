@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Legend/LegendLostChapel/Cue_0006"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Encounters/DrezenCapital/ActionsHolders/Legend_Mythic_Revert", "World/Cutscenes/DrezenCapital/AreeluDisappear/AreeluDisappear"]}
+{"parents": ["World/Dialogs/c5/Mythic_Legend/LegendLostChapel/Cue_0006"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Cutscenes/DrezenCapital/AreeluDisappear/AreeluDisappear", "World/Encounters/DrezenCapital/ActionsHolders/Legend_Mythic_Revert"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/ArcaneScrollsVendorTableV", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level1/StoneFist"]}
+{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands", "Items/Vendors/ArcaneScrollsVendorTableV"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level1/StoneFist"]}

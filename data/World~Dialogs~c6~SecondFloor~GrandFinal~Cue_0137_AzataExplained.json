@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0050"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "Mythic/Azata/AzataMythicClass", "World/Dialogs/c6/SecondFloor/GrandFinal/AnswersList_0052"]}
+{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0050"], "children": ["World/Dialogs/c6/SecondFloor/GrandFinal/AnswersList_0052", "Mythic/Azata/AzataMythicClass", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata"]}

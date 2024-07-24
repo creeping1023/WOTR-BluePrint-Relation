@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0042", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0047", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0044"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0042", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0044", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0047", "Units/Companions/Nenio/Nenio_Companion"]}

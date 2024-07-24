@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Feats/RangerFeats/Preparation", "Armies/Leaders/Progression/WarlordRangerProgression"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerPitFact", "Armies/Leaders/Abilities/RangerAbilities/RangerPitAbility"]}
+{"parents": ["Armies/Leaders/Progression/WarlordRangerProgression", "Armies/Leaders/Feats/RangerFeats/Preparation"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerPitFact", "Armies/Leaders/Abilities/RangerAbilities/RangerPitAbility"]}

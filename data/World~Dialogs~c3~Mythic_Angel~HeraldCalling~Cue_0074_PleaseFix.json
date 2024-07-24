@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Angel/HeraldCalling/Answer_0012Pul"], "children": ["World/Quests/MythicQuests/Angel/C3_AngelAlignment/01_AngelFix", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Cue_0007Pul"]}
+{"parents": ["World/Dialogs/c3/Mythic_Angel/HeraldCalling/Answer_0012Pul"], "children": ["World/Dialogs/c3/Mythic_Angel/HeraldCalling/Cue_0007Pul", "World/Quests/MythicQuests/Angel/C3_AngelAlignment/01_AngelFix"]}

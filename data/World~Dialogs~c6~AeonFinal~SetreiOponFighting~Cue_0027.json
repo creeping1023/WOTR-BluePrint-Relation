@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/Check_0026"], "children": ["Units/NPC/Unique/Act_6/MythicAeon_Ch6/SetrayDevimaiHuman", "World/Encounters/ThresholdIndoor_Aeon/UnlockableFlags/SetreiSarkorisUnlocked", "World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0009"]}
+{"parents": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/Check_0026"], "children": ["World/Encounters/ThresholdIndoor_Aeon/UnlockableFlags/SetreiSarkorisUnlocked", "World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0009", "Units/NPC/Unique/Act_6/MythicAeon_Ch6/SetrayDevimaiHuman"]}

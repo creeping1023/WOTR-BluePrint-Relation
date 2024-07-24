@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0007"], "children": ["World/Encounters/LostChapel/SummonPools/NulkinethGroup", "Factions/Neutrals"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0007"], "children": ["Factions/Neutrals", "World/Encounters/LostChapel/SummonPools/NulkinethGroup"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/Presets/KohhDungeon_Default_Preset", "GlobalMaps/WorldWoundGM/Points/Location_NumerianLab"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon"]}
+{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_NumerianLab", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/Presets/KohhDungeon_Default_Preset"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon"]}

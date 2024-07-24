@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticOneHanded/Tongi", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Axiomatic", "Weapons/Enchantments/Radiant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Axiomatic", "Weapons/Enchantments/Enhancement1", "Weapons/Types/ExoticOneHanded/Tongi", "Weapons/Enchantments/Radiant"]}

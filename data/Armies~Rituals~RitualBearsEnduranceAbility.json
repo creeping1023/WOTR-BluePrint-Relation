@@ -1,1 +1,1 @@
-{"parents": ["Armies/Rituals/RitualBearsEndurance"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Rituals/RitualBearsEnduranceBuff", "Armies/Rituals/RitualBearsEnduranceDurationProperty", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}
+{"parents": ["Armies/Rituals/RitualBearsEndurance"], "children": ["Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff", "Armies/Rituals/RitualBearsEnduranceBuff", "Armies/Leaders/LeaderManaResource", "Armies/Rituals/RitualBearsEnduranceDurationProperty"]}

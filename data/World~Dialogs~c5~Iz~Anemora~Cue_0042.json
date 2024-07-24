@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Anemora/Answer_0037"], "children": ["World/Areas/Act_2_SwordOfValor/MarodersLair/Buffs/InitiativeBuff", "World/Dialogs/c5/Iz/Anemora/Cue_0045"]}
+{"parents": ["World/Dialogs/c5/Iz/Anemora/Answer_0037"], "children": ["World/Dialogs/c5/Iz/Anemora/Cue_0045", "World/Areas/Act_2_SwordOfValor/MarodersLair/Buffs/InitiativeBuff"]}

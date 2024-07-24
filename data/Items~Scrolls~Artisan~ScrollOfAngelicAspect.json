@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Cue_0067", "Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/PaperShardItem", "Spells/Level3/AngelicAspect"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot", "World/Dialogs/c3/SkeletalSalesmanSE/Cue_0067"], "children": ["Spells/Level3/AngelicAspect", "Items/DestructibleItemsShards/PaperShardItem"]}

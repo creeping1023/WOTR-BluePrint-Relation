@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Spear", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/BaneLongshankEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/BaneLongshankEnchant", "Weapons/Enchantments/Enhancement1", "Weapons/Types/SimpleTwoHanded/Spear"]}

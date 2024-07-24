@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/CueSequence_0065"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/CueSequence_0065"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed"]}

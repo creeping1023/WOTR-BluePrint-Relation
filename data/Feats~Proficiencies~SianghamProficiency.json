@@ -1,1 +1,1 @@
-{"parents": ["Units/Companions/PregenWeaponTestFeatureList", "Classes/Basic/Proficiencies/MartialWeaponProficiency"], "children": ["Classes/Basic/Proficiencies/MartialWeaponProficiency"]}
+{"parents": ["Classes/Basic/Proficiencies/MartialWeaponProficiency", "Units/Companions/PregenWeaponTestFeatureList"], "children": ["Classes/Basic/Proficiencies/MartialWeaponProficiency"]}

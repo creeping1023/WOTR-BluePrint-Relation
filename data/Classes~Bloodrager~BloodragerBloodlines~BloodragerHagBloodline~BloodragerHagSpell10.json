@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerHagBloodline/BloodragerHagBloodline"], "children": ["Classes/Bloodrager/BloodragerClass", "Spells/Level2/Blindness"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerHagBloodline/BloodragerHagBloodline"], "children": ["Spells/Level2/Blindness", "Classes/Bloodrager/BloodragerClass"]}

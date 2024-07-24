@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/AfterSummitDrezen/gate2", "World/Cutscenes/DrezenCapital/AfterSummitDrezen/AfterSummitDrezen"], "children": ["World/Cutscenes/DrezenCapital/AfterSummitDrezen/CommandAction", "World/Cutscenes/DrezenCapital/AfterSummitDrezen/CommandTeleport"]}
+{"parents": ["World/Cutscenes/DrezenCapital/AfterSummitDrezen/AfterSummitDrezen", "World/Cutscenes/DrezenCapital/AfterSummitDrezen/gate2"], "children": ["World/Cutscenes/DrezenCapital/AfterSummitDrezen/CommandAction", "World/Cutscenes/DrezenCapital/AfterSummitDrezen/CommandTeleport"]}

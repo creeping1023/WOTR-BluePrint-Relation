@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Angel/IomedaeSecondVisit/CueSequence_0002"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Herald/HeraldNotInPrison_Angel", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald"]}
+{"parents": ["World/Dialogs/c5/Mythic_Angel/IomedaeSecondVisit/CueSequence_0002"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Herald/HeraldNotInPrison_Angel"]}

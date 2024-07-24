@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/VeilOfPositiveEnergy", "Spells/Level1/VeilOfPositiveEnergySwift"], "children": ["Traits/Races/Common/UndeadType", "Traits/Races/Common/UndeadType", "Spells/Level1/VeilOfPositiveEnergySwift"]}
+{"parents": ["Spells/Level1/VeilOfPositiveEnergySwift", "Spells/Level1/VeilOfPositiveEnergy"], "children": ["Traits/Races/Common/UndeadType", "Spells/Level1/VeilOfPositiveEnergySwift"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/ArmyRoot"], "children": ["Armies/UnitBlueprints/ArmyMarilithStandard", "Armies/UnitBlueprints/ArmyMinotaurRanged", "Armies/UnitBlueprints/ArmyPainajaiRanged"]}
+{"parents": ["Root/Kingdom/ArmyRoot"], "children": ["Armies/UnitBlueprints/ArmyPainajaiRanged", "Armies/UnitBlueprints/ArmyMarilithStandard", "Armies/UnitBlueprints/ArmyMinotaurRanged"]}

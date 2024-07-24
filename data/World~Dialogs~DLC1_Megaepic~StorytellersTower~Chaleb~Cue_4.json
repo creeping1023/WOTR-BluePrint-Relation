@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/CueSequence_0001"], "children": ["World/Quests/Companions/Grimbor/DragonHunt/DragonHunt", "Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/Cue_8"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/CueSequence_0001"], "children": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/Cue_8", "Units/Companions/Greybor/Greybor_Companion", "World/Quests/Companions/Grimbor/DragonHunt/DragonHunt"]}

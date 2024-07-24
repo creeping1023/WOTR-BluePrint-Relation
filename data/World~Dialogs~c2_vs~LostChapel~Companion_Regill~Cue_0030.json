@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Companion_Regill/Cue_0028"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c2_vs/LostChapel/Companion_Regill/Cue_0029"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Companion_Regill/Cue_0028"], "children": ["World/Dialogs/c2_vs/LostChapel/Companion_Regill/Cue_0029", "Units/Companions/Nenio/Nenio_Companion"]}

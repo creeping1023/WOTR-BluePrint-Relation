@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/Answer_0015"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Mephisto", "World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/Cue_0013"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/Answer_0015"], "children": ["World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_5_correct/Cue_0013", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Mephisto"]}

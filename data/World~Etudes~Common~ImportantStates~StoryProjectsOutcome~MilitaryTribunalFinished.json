@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/CrusadeProjects/KTCProjects/MilitaryTribunal", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/ImportantStates/StoryProjectsOutcomes"]}
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "Kingdom/CrusadeProjects/KTCProjects/MilitaryTribunal"], "children": ["World/Etudes/Common/ImportantStates/StoryProjectsOutcomes"]}

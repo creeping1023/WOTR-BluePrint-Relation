@@ -1,1 +1,1 @@
-{"parents": ["Items/Oils/Artisan/OilAcid"], "children": ["Weapons/Enchantments/Corrosive", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Items/Oils/Artisan/OilAcid"], "children": ["Weapons/Types/Special/TouchItem", "Weapons/Enchantments/Corrosive"]}

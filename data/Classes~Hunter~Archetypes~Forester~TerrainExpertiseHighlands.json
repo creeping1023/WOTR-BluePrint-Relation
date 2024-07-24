@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/FavoriteTerrain/FavoriteTerrainHighlands", "Classes/Hunter/Archetypes/Forester/TerrainExpertiseSelection"], "children": ["Classes/Ranger/FavoriteTerrain/FavoriteTerrainHighlands"]}
+{"parents": ["Classes/Hunter/Archetypes/Forester/TerrainExpertiseSelection", "Classes/Ranger/FavoriteTerrain/FavoriteTerrainHighlands"], "children": ["Classes/Ranger/FavoriteTerrain/FavoriteTerrainHighlands"]}

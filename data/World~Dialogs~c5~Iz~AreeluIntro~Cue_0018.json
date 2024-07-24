@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/AreeluIntro/Cue_0011"], "children": ["World/Quests/c5/Iz/Obj2_FindFlag", "World/Quests/c5/Iz/Obj3_GoToStoneLibrary", "World/Dialogs/c5/Iz/AreeluIntro/Cue_0019"]}
+{"parents": ["World/Dialogs/c5/Iz/AreeluIntro/Cue_0011"], "children": ["World/Quests/c5/Iz/Obj3_GoToStoneLibrary", "World/Quests/c5/Iz/Obj2_FindFlag", "World/Dialogs/c5/Iz/AreeluIntro/Cue_0019"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Kukri", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Keen", "Weapons/Enchantments/Frost"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Frost", "Weapons/Enchantments/Keen", "Weapons/Types/MartialLight/Kukri", "Weapons/Enchantments/Enhancement2"]}

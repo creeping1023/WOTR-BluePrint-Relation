@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/MongrelsOutside/Answer_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Commoners/Mongrelman/KenabresBurning/MongrelmanMelee_Talking1", "World/Dialogs/c1/KenabresBurning/MongrelsOutside/Cue_0017"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/MongrelsOutside/Answer_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c1/KenabresBurning/MongrelsOutside/Cue_0017", "Units/NPC/Commoners/Mongrelman/KenabresBurning/MongrelmanMelee_Talking1"]}

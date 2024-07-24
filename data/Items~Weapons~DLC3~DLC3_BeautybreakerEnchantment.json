@@ -1,1 +1,1 @@
-{"parents": ["Items/Weapons/DLC3/DLC3_BeautybreakerGlaiveWeaponItem"], "children": ["Weapons/Types/MartialTwoHanded/Glaive", "Items/Weapons/DLC3/DLC3_BeautybreakerDebuff", "Weapons/Types/MartialTwoHanded/Glaive", "Items/Weapons/DLC3/DLC3_BeautybreakerFeature"]}
+{"parents": ["Items/Weapons/DLC3/DLC3_BeautybreakerGlaiveWeaponItem"], "children": ["Items/Weapons/DLC3/DLC3_BeautybreakerDebuff", "Items/Weapons/DLC3/DLC3_BeautybreakerFeature", "Weapons/Types/MartialTwoHanded/Glaive"]}

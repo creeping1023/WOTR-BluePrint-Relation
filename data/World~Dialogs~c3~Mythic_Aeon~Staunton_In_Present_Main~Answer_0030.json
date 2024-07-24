@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Present_Main/AnswersList_0003"], "children": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Present_Main/Cue_0033", "World/Quests/c5/DresenPartisans/Obj5_DefendDrezen", "World/Quests/c5/DrezenResistance/Obj5_DefendDrezen"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Present_Main/AnswersList_0003"], "children": ["World/Quests/c5/DrezenResistance/Obj5_DefendDrezen", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Present_Main/Cue_0033", "World/Quests/c5/DresenPartisans/Obj5_DefendDrezen"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Fallen/SarkorianWedding_FallenBoss/SarkorianWedding_FallenBoss_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/ColdIceStrike"]}
+{"parents": ["Units/NPC/Commoners/Fallen/SarkorianWedding_FallenBoss/SarkorianWedding_FallenBoss_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/ColdIceStrike", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

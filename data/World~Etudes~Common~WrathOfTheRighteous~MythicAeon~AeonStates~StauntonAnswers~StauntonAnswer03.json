@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Present_Welcome/Cue_0004", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Answer_0028"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonStates/StauntonAnswers"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Answer_0028", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Present_Welcome/Cue_0004"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonStates/StauntonAnswers"]}

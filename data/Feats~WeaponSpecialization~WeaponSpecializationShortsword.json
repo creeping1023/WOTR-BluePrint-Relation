@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterShortsword"], "children": ["Weapons/Types/MartialLight/Shortsword", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterShortsword"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterShortsword"], "children": ["Weapons/Types/MartialLight/Shortsword", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterShortsword", "Classes/Fighter/FighterClass"]}

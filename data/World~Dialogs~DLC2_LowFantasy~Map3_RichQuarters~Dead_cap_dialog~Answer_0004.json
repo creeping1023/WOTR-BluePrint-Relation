@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Dead_cap_dialog/AnswersList_0002"], "children": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Dead_cap_dialog/Cue_0007", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/AlchemistShop"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Dead_cap_dialog/AnswersList_0002"], "children": ["World/Encounters/DLC2_RichQuarter/UnlockableFlags/AlchemistShop", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Dead_cap_dialog/Cue_0007"]}

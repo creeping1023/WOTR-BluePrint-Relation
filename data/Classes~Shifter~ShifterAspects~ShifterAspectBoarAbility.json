@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ChimeraAspect/ShifterAspectChimeraBoarBuff", "Classes/Shifter/ShifterAspects/ShifterAspectBoar"], "children": ["Classes/Shifter/ShifterAspectResource", "Classes/Shifter/FinalShifterAspectFeature", "Classes/Shifter/ShifterAspects/ShifterAspectBoarBuff"]}
+{"parents": ["Classes/Shifter/ChimeraAspect/ShifterAspectChimeraBoarBuff", "Classes/Shifter/ShifterAspects/ShifterAspectBoar"], "children": ["Classes/Shifter/ShifterAspectResource", "Classes/Shifter/ShifterAspects/ShifterAspectBoarBuff", "Classes/Shifter/FinalShifterAspectFeature"]}

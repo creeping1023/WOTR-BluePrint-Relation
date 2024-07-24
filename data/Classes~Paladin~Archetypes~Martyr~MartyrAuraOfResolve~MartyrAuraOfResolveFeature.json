@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Evacuation/Brain/NoImmunityToCharm", "Classes/Paladin/Archetypes/Martyr/MartyrArchetype"], "children": ["Classes/Paladin/Archetypes/Martyr/MartyrAuraOfResolve/MartyrAuraOfResolveBuff"]}
+{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrArchetype", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Evacuation/Brain/NoImmunityToCharm"], "children": ["Classes/Paladin/Archetypes/Martyr/MartyrAuraOfResolve/MartyrAuraOfResolveBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyLifeGiverFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Weapons/Types/Special/TouchItem", "Traits/Races/Common/ConstructType", "Armies/Abilities/ArmyLifeGiverResource"]}
+{"parents": ["Armies/Abilities/ArmyLifeGiverFeature"], "children": ["Traits/Races/Common/ConstructType", "Weapons/Types/Special/TouchItem", "Armies/Abilities/ArmyLifeGiverResource", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower"]}

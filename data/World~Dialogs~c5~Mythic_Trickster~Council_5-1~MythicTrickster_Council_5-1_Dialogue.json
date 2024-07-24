@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/BookPage_0187", "World/Cutscenes/TricksterCouncil/Council5_1/CommandStartDialog"], "children": ["World/Dialogs/c5/Mythic_Trickster/Council_5-1/Cue_0001"]}
+{"parents": ["World/Cutscenes/TricksterCouncil/Council5_1/CommandStartDialog", "World/Dialogs/Epilogues/BookPage_0187"], "children": ["World/Dialogs/c5/Mythic_Trickster/Council_5-1/Cue_0001"]}

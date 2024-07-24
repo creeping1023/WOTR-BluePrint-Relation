@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/EE/PenaltyEnchantment"], "children": ["Classes/Inquisitor/Judgments/JudgmentResource", "Equipment/Armor/Enchantments/FireResistance10Feature"]}
+{"parents": ["Weapons/Items/Unique/EE/PenaltyEnchantment"], "children": ["Equipment/Armor/Enchantments/FireResistance10Feature", "Classes/Inquisitor/Judgments/JudgmentResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/ktc_YakerReportsAttack/Answer_0015"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/ktc_YakerReportsAttack/AnswersList_0022"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/ktc_YakerReportsAttack/Answer_0015"], "children": ["World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/ktc_YakerReportsAttack/AnswersList_0022", "Units/Companions/Regill/Regill_Companion"]}

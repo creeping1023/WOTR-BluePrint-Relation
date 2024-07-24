@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/AlushinyrraHeraldHide/AlushinyrraHeraldHide"], "children": ["Spells/Level4/InvisibilityGreaterBuff", "World/Encounters/AlushinyrraLowerCity/SummonPools/AlushinyrraHeraldSummonPool"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/AlushinyrraHeraldHide/AlushinyrraHeraldHide"], "children": ["World/Encounters/AlushinyrraLowerCity/SummonPools/AlushinyrraHeraldSummonPool", "Spells/Level4/InvisibilityGreaterBuff"]}

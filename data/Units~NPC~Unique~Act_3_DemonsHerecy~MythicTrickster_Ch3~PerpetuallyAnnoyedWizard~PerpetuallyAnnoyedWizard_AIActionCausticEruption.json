@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedWizard_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/ChaoticBehaviour", "Spells/Level7/CausticEruption"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedWizard_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level7/CausticEruption"]}

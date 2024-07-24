@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/ElementalFocus/Water/ShroudOfWater"], "children": ["Classes/Kineticist/ElementalFocus/Water/ShroudOfWaterArmorResource", "Classes/Kineticist/ElementalFocus/Water/ShroudOfWaterArmorEffectBuff"]}
+{"parents": ["Classes/Kineticist/ElementalFocus/Water/ShroudOfWater"], "children": ["Classes/Kineticist/ElementalFocus/Water/ShroudOfWaterArmorEffectBuff", "Classes/Kineticist/ElementalFocus/Water/ShroudOfWaterArmorResource"]}

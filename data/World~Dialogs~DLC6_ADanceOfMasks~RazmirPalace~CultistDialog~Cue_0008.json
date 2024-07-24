@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/CultistDialog/Answer_0005"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/RazmirCultists/RazmiranHighCultist", "World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/CultistDialog/AnswersList_0003"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/CultistDialog/Answer_0005"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/CultistDialog/AnswersList_0003", "Units/NPC/Commoners/DLC6_DanceOfMasks/RazmirCultists/RazmiranHighCultist"]}

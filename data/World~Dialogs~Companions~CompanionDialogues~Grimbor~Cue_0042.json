@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Grimbor/Answer_0033"], "children": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0002"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/Answer_0033", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0002"]}

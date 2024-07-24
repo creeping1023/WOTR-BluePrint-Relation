@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/PlayerIsLich"], "children": ["Achievements/13_PathOfLich", "World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Mythics"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/PlayerIsLich"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Mythics", "Achievements/13_PathOfLich"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/Projector_scene/gate"], "children": ["World/Cutscenes/VaultOfGraves/Projector_scene/CommandBark", "World/Cutscenes/VaultOfGraves/Projector_scene/gate 3", "World/Cutscenes/VaultOfGraves/Projector_scene/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/Projector_scene/gate"], "children": ["World/Cutscenes/VaultOfGraves/Projector_scene/gate 3", "World/Cutscenes/VaultOfGraves/Projector_scene/CommandBark", "World/Cutscenes/VaultOfGraves/Projector_scene/CommandUnitPlayCutsceneAnimation"]}

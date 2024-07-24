@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/Bladebound/IndependentEgo/BladeboundIndependentEgoBuff", "Classes/Magus/Archetypes/Bladebound/BlackBlade/MagusEnhancementDurationBuff"], "children": ["Weapons/Enchantments/Shock"]}
+{"parents": ["Classes/Magus/Archetypes/Bladebound/BlackBlade/MagusEnhancementDurationBuff", "Classes/Magus/Archetypes/Bladebound/IndependentEgo/BladeboundIndependentEgoBuff"], "children": ["Weapons/Enchantments/Shock"]}

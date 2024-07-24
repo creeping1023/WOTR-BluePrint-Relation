@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/DefendersHeart/LiLura_DH/Cue_0085", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem", "Weapons/Types/MartialLight/Shortsword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Flaming"]}
+{"parents": ["World/Dialogs/c1/DefendersHeart/LiLura_DH/Cue_0085", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Shortsword", "Weapons/Enchantments/Enhancement1", "Items/DestructibleItemsShards/DustShardItem", "Weapons/Enchantments/Flaming"]}

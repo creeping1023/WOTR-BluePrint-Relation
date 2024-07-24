@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/SEbosses/Echo/EchoDeskari_SEbosses_c4_dialog"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath", "Units/NPC/Unique/Act_4_MidnightIsles/Herald/AlushinyrraHerald"]}
+{"parents": ["World/Dialogs/c4/SEbosses/Echo/EchoDeskari_SEbosses_c4_dialog"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Herald/AlushinyrraHerald", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath"]}

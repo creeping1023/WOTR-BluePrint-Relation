@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c6/OutdoorDefense/Obj2_LastStand", "World/Quests/c6/OutdoorDefense/OutdoorDefense"], "children": ["World/Quests/c6/OutdoorDefense/OutdoorDefense"]}
+{"parents": ["World/Quests/c6/OutdoorDefense/OutdoorDefense", "World/Quests/c6/OutdoorDefense/Obj2_LastStand"], "children": ["World/Quests/c6/OutdoorDefense/OutdoorDefense"]}

@@ -1,1 +1,1 @@
-{"parents": ["Test/TestArea/1/TestArea1_Preset", "Test/TestArea/1/TestArea1_EnterPoint", "Test/TestArea/1/TestArea1_Preset_MountedNPC", "Test/TestArea/1/TestArea1_MountCombatPreset"], "children": ["Test/TestArea/1/TestArea1_Preset"]}
+{"parents": ["Test/TestArea/1/TestArea1_Preset_MountedNPC", "Test/TestArea/1/TestArea1_MountCombatPreset", "Test/TestArea/1/TestArea1_EnterPoint", "Test/TestArea/1/TestArea1_Preset"], "children": ["Test/TestArea/1/TestArea1_Preset"]}

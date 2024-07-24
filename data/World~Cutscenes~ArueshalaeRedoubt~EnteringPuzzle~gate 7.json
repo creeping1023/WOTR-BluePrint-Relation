@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate 6"], "children": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/CommandDelay", "World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/CommandMoveUnit", "World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate"]}
+{"parents": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate 6"], "children": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/CommandMoveUnit", "World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/CommandDelay", "World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate"]}

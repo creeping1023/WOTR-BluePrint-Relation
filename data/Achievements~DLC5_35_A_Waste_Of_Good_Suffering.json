@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/Cue_16", "Root/BlueprintRoot"], "children": ["DLC/DLC5/Dlc5Campaign", "Achievements/Groups/DLC5TrophyGroup"]}
+{"parents": ["Root/BlueprintRoot", "World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/Cue_16"], "children": ["Achievements/Groups/DLC5TrophyGroup", "DLC/DLC5/Dlc5Campaign"]}

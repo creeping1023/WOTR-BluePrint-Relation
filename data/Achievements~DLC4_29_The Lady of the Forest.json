@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot", "World/Encounters/DLC4_Wilds/ActionsHolders/DLC4_Wilds_Wolf"], "children": ["DLC/MainGame/MainCampaign", "Achievements/Groups/DLC4TrophyGroup"]}
+{"parents": ["Root/BlueprintRoot", "World/Encounters/DLC4_Wilds/ActionsHolders/DLC4_Wilds_Wolf"], "children": ["Achievements/Groups/DLC4TrophyGroup", "DLC/MainGame/MainCampaign"]}

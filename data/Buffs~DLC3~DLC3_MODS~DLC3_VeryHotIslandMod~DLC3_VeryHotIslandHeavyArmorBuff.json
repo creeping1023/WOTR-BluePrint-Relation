@@ -1,1 +1,1 @@
-{"parents": ["Buffs/DLC3/DLC3_MODS/DLC3_VeryHotIslandMod/DLC3_VeryHotIslandBuff", "Buffs/DLC3/DLC3_MODS/DLC3_VeryHotIslandMod/DLC3_VeryHotIslandMod", "Root/DungeonRoot"], "children": ["Spells/Level3/ProtectionFromFireBuff", "CreatureAbilities/EnergyImmunity/FireImmunity"]}
+{"parents": ["Buffs/DLC3/DLC3_MODS/DLC3_VeryHotIslandMod/DLC3_VeryHotIslandMod", "Root/DungeonRoot", "Buffs/DLC3/DLC3_MODS/DLC3_VeryHotIslandMod/DLC3_VeryHotIslandBuff"], "children": ["Spells/Level3/ProtectionFromFireBuff", "CreatureAbilities/EnergyImmunity/FireImmunity"]}

@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Shields/Items/Standard/Buckler"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/BucklerType"]}
+{"parents": ["Equipment/Shields/Items/Standard/Buckler"], "children": ["Equipment/Shields/Types/BucklerType", "Items/DestructibleItemsShards/MetalShardItem"]}

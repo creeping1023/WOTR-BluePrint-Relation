@@ -1,1 +1,1 @@
-{"parents": ["Units/Portraits/OdanHalfelfMale", "Root/BlueprintRoot", "Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SylvanTricsterRoguePregen"], "children": ["Races/ElfRace"]}
+{"parents": ["Root/BlueprintRoot", "Units/Portraits/OdanHalfelfMale", "Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SylvanTricsterRoguePregen"], "children": ["Races/ElfRace"]}

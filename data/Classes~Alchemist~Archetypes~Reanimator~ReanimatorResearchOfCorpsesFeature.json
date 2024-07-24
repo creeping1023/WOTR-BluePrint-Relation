@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/Archetypes/Reanimator/ReanimatorArchetype"], "children": ["Classes/Alchemist/Archetypes/Reanimator/ReanimatorBombsFeature", "Classes/Alchemist/Archetypes/Reanimator/ReanimatorResearchOfCorpsesBuff"]}
+{"parents": ["Classes/Alchemist/Archetypes/Reanimator/ReanimatorArchetype"], "children": ["Classes/Alchemist/Archetypes/Reanimator/ReanimatorResearchOfCorpsesBuff", "Classes/Alchemist/Archetypes/Reanimator/ReanimatorBombsFeature"]}

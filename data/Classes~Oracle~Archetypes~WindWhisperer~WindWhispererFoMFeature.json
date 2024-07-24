@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/Archetypes/WindWhisperer/WIndWhispererArchetype"], "children": ["Classes/Oracle/Archetypes/WindWhisperer/WindWhispererFoMResource", "Classes/Oracle/Archetypes/WindWhisperer/WindWhispererFoMAbility"]}
+{"parents": ["Classes/Oracle/Archetypes/WindWhisperer/WIndWhispererArchetype"], "children": ["Classes/Oracle/Archetypes/WindWhisperer/WindWhispererFoMAbility", "Classes/Oracle/Archetypes/WindWhisperer/WindWhispererFoMResource"]}

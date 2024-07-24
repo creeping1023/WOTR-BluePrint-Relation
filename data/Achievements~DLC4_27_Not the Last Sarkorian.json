@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/DLC4_Nobody_Ending", "World/Etudes/Common/DLC4_HappyEnding", "World/Etudes/Common/DLC4_Shaman_Ending", "World/Etudes/Common/DLC4_Warlord_Ending"], "children": ["DLC/MainGame/MainCampaign", "Achievements/Groups/DLC4TrophyGroup"]}
+{"parents": ["World/Etudes/Common/DLC4_Warlord_Ending", "World/Etudes/Common/DLC4_Nobody_Ending", "World/Etudes/Common/DLC4_HappyEnding", "Root/BlueprintRoot", "World/Etudes/Common/DLC4_Shaman_Ending"], "children": ["Achievements/Groups/DLC4TrophyGroup", "DLC/MainGame/MainCampaign"]}

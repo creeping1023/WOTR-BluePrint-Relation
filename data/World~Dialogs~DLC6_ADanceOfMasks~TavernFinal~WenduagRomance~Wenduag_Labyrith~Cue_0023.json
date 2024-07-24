@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/WenduagRomance/Wenduag_Labyrith/Answer_0016"], "children": ["Units/Companions/Wenduag/Wenduag_NPC_Level1_Cutscene", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/WenduagRomance/Wenduag_Labyrith/Cue_0022"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/WenduagRomance/Wenduag_Labyrith/Answer_0016"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/WenduagRomance/Wenduag_Labyrith/Cue_0022", "Units/Companions/Wenduag/Wenduag_NPC_Level1_Cutscene"]}

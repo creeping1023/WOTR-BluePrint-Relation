@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/NoElectricityImmunityConsideration", "Spells/Level3/LightningBolt"]}
+{"children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_AvoidFriends", "Spells/Level3/LightningBolt", "Brain/Considerations/NoElectricityImmunityConsideration"]}

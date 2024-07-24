@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_Graveyard/Graveyard_SlimeColumn2Scene/CommandAction3"], "children": ["Factions/Bandits", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_SlimePatrol"]}
+{"parents": ["World/Cutscenes/DLC2_Graveyard/Graveyard_SlimeColumn2Scene/CommandAction3"], "children": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_SlimePatrol", "Factions/Bandits"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToVellexia/gate 3"], "children": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToVellexia/CommandDelay 4", "World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToVellexia/gate"]}
+{"parents": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToVellexia/gate 3"], "children": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToVellexia/gate", "World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToVellexia/CommandDelay 4"]}

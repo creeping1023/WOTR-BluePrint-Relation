@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/IrabethSurvives/Cue_0029"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/IrabethTirabade_Iz", "World/Dialogs/c5/Iz/IrabethSurvives/Cue_0031"]}
+{"parents": ["World/Dialogs/c5/Iz/IrabethSurvives/Cue_0029"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/IrabethTirabade_Iz", "World/Dialogs/c5/Iz/IrabethSurvives/Cue_0031", "Units/Companions/Seelah/Seelah_Companion"]}

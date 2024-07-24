@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/WildHunt/ImbueArrow/ImbueArrowFeature"], "children": ["FX/Spell Level 3/VampiricTouch00", "Spells/Level3/VampiricTouchBuff", "Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType"]}
+{"parents": ["Units/Monsters/WildHunt/ImbueArrow/ImbueArrowFeature"], "children": ["Traits/Races/Common/UndeadType", "Traits/Races/Common/ConstructType", "Spells/Level3/VampiricTouchBuff", "FX/Spell Level 3/VampiricTouch00"]}

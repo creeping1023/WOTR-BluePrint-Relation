@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Enchantment/EnchantmentSchoolBaseFeature"], "children": ["Classes/Wizard/Enchantment/EnchantmentSchoolBaseResource", "Classes/Wizard/Enchantment/EnchantmentSchoolBaseAbility"]}
+{"parents": ["Classes/Wizard/Enchantment/EnchantmentSchoolBaseFeature"], "children": ["Classes/Wizard/Enchantment/EnchantmentSchoolBaseAbility", "Classes/Wizard/Enchantment/EnchantmentSchoolBaseResource"]}

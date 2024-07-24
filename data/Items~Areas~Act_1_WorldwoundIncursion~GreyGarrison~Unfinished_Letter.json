@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/GrayGarrison/UnfinishedLetter"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Quest/GrayGarrison/UnfinishedLetter", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

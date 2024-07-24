@@ -1,1 +1,1 @@
-{"children": ["Test/Blueprints/Enemy Character", "Buffs/Frightened", "Buffs/NPC_HealthGuard10", "Factions/Mobs", "Brain/Passive Monster Brain", "WeaponEmptyHand"]}
+{"children": ["Factions/Mobs", "Test/Blueprints/Enemy Character", "Brain/Passive Monster Brain", "Buffs/Frightened", "Buffs/NPC_HealthGuard10", "WeaponEmptyHand"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/Ch1_SeelahMeetsFriends/Cue_0053"], "children": ["Units/Companions/Seelah/Seelah_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/Ch1_SeelahMeetsFriends/Cue_0053", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Seelah/Seelah_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0020"], "children": ["World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0023", "World/Dialogs/c1/KenabresBurning/RunningThiefling/SequenceExit_0022"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0020"], "children": ["World/Dialogs/c1/KenabresBurning/RunningThiefling/SequenceExit_0022", "World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0023"]}

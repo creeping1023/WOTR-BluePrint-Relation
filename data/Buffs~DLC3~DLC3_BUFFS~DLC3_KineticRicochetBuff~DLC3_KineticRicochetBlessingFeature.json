@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Boons/DungeonBoon_Kinetic"], "children": ["Classes/Kineticist/KineticistProgression", "Buffs/DLC3/DLC3_BUFFS/DLC3_KineticRicochetBuff/DLC3_KineticRicochetBuff"]}
+{"parents": ["Dugeons/Boons/DungeonBoon_Kinetic"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_KineticRicochetBuff/DLC3_KineticRicochetBuff", "Classes/Kineticist/KineticistProgression"]}

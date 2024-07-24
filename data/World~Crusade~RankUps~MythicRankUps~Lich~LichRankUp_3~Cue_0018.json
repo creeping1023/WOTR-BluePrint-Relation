@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Lich/LichRankUp_3/Cue_0017"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicLich_Ch3/MythicLich_KTC_Septimus", "World/Crusade/RankUps/MythicRankUps/Lich/LichRankUp_3/AnswersList_0007"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Lich/LichRankUp_3/Cue_0017"], "children": ["World/Crusade/RankUps/MythicRankUps/Lich/LichRankUp_3/AnswersList_0007", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicLich_Ch3/MythicLich_KTC_Septimus"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Flaming", "Weapons/Enchantments/Enhancement2", "Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead"]}

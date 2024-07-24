@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c1/HuntingKaylessa/HuntingKaylessa_quest", "World/Dialogs/NPC_Common/Kaylessa/Forn_main/Answer_0034", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0012"], "children": ["World/Quests/c1/HuntingKaylessa/HuntingKaylessa_quest"]}
+{"parents": ["World/Quests/c1/HuntingKaylessa/HuntingKaylessa_quest", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0012", "World/Dialogs/NPC_Common/Kaylessa/Forn_main/Answer_0034"], "children": ["World/Quests/c1/HuntingKaylessa/HuntingKaylessa_quest"]}

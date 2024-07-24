@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_Special"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/TieflingInOurArmy", "World/Dialogs/Epilogues/Cue_32", "World/Dialogs/Epilogues/Cue_33", "World/Dialogs/Epilogues/Answer_0004"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_Special"], "children": ["World/Dialogs/Epilogues/Answer_0004", "World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/TieflingInOurArmy", "World/Dialogs/Epilogues/Cue_32", "World/Dialogs/Epilogues/Cue_33"]}

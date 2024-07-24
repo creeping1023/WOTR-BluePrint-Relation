@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/DruidMaze/Tree/AnswersList_0026", "World/Dialogs/c3/DruidMaze/Tree/Answer_0022", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/DruidMaze/Tree/Answer_0024"], "children": ["World/Dialogs/c3/DruidMaze/Tree/Cue_0029"]}
+{"parents": ["World/Dialogs/c3/DruidMaze/Tree/AnswersList_0026", "World/Dialogs/c3/DruidMaze/Tree/Answer_0022", "World/Dialogs/c3/DruidMaze/Tree/Answer_0024", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/DruidMaze/Tree/Cue_0029"]}

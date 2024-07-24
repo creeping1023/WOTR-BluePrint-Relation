@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/Mythic_Angel/HolyWardens/Answer_0005"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Eliandra", "World/Dialogs/c6/Mythic_Angel/HolyWardens/Cue_0020"]}
+{"parents": ["World/Dialogs/c6/Mythic_Angel/HolyWardens/Answer_0005"], "children": ["World/Dialogs/c6/Mythic_Angel/HolyWardens/Cue_0020", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Eliandra"]}

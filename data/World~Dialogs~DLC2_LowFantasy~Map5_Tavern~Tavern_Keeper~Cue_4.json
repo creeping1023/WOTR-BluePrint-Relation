@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_0002"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Tavern/DLC2_BarmenGemilHokks", "World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_0004"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_0002"], "children": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_0004", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Tavern/DLC2_BarmenGemilHokks"]}

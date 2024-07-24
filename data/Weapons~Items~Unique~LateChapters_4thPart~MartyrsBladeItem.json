@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticOneHanded/BastardSword", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Axiomatic", "Weapons/Enchantments/Holy", "Weapons/Enchantments/ViciousEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/ViciousEnchantment", "Weapons/Enchantments/Axiomatic", "Weapons/Types/ExoticOneHanded/BastardSword", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement5"]}

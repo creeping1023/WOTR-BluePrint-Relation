@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GreyborQ3_DryCrossroads/GreyborWithAssasins/GreyborWithAssasins", "World/Cutscenes/GreyborQ3_DryCrossroads/GreyborWithAssasins/gate2"], "children": ["World/Cutscenes/GreyborQ3_DryCrossroads/GreyborWithAssasins/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/GreyborQ3_DryCrossroads/GreyborWithAssasins/gate2", "World/Cutscenes/GreyborQ3_DryCrossroads/GreyborWithAssasins/GreyborWithAssasins"], "children": ["World/Cutscenes/GreyborQ3_DryCrossroads/GreyborWithAssasins/CommandStartDialog"]}

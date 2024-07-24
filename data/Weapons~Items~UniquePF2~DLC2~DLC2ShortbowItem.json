@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR0/PF2_RichHuman_Secret_Room_Loot", "Dugeons/Loot/DungeonLootExclude"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DLC2_Shortbow_Fake", "Weapons/Items/UniquePF2/DLC2/DLC2ShortbowEnchantment"]}
+{"parents": ["Loot/Good/CR0/PF2_RichHuman_Secret_Room_Loot", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/UniquePF2/DLC2/DLC2ShortbowEnchantment", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DLC2_Shortbow_Fake"]}

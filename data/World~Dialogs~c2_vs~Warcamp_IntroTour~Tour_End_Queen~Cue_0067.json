@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/Cue_0016", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/Cue_0068"]}
+{"parents": ["World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/Cue_0016", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/Cue_0068", "Units/Companions/Daeran/Daeran_Companion"]}

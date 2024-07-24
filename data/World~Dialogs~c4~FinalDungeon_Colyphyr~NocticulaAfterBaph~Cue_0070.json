@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0068"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula", "World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/AnswersList_0064"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0068"], "children": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/AnswersList_0064", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"]}

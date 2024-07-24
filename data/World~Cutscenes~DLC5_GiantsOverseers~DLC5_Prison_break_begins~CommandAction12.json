@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_Prison_break_begins/gate"], "children": ["World/Encounters/DLC5_GiantsOverseers/UnlockableFlags/DLC5_BraveSonsPlan", "Buffs/NPC_Immortality", "Buffs/NPC_Immortality"]}
+{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_Prison_break_begins/gate"], "children": ["Buffs/NPC_Immortality", "World/Encounters/DLC5_GiantsOverseers/UnlockableFlags/DLC5_BraveSonsPlan"]}

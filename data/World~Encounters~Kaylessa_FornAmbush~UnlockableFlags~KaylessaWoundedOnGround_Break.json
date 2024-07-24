@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/KaylessaWoundedOnGround/WaitFlag", "World/Cutscenes/Kaylessa_FornAmbush/FornDying/CommandAction", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"]}
+{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/FornDying/CommandAction", "World/Cutscenes/Kaylessa_FornAmbush/KaylessaWoundedOnGround/WaitFlag", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"]}

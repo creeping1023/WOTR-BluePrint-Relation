@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulMentalProwessBuff", "Classes/Kineticist/WildTalents/FlameShieldFeature"], "children": ["Classes/Kineticist/WildTalents/FlameShieldBuff"]}
+{"parents": ["Classes/Kineticist/WildTalents/FlameShieldFeature", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulMentalProwessBuff"], "children": ["Classes/Kineticist/WildTalents/FlameShieldBuff"]}

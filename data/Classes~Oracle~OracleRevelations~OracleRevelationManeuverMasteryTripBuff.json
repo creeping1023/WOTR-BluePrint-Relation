@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationManeuverMasteryTrip"], "children": ["Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationManeuverMasteryTrip"], "children": ["Classes/Arcanist/ArcanistClass", "Classes/Oracle/OracleClass"]}

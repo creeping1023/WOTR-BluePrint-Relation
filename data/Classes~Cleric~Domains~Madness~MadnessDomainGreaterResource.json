@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Madness/MadnessDomainGreaterAbility", "Classes/Cleric/Domains/Madness/MadnessDomainGreaterFeature"], "children": ["Classes/Cleric/ClericClass", "Classes/Inquisitor/InquisitorClass"]}
+{"parents": ["Classes/Cleric/Domains/Madness/MadnessDomainGreaterAbility", "Classes/Cleric/Domains/Madness/MadnessDomainGreaterFeature"], "children": ["Classes/Inquisitor/InquisitorClass", "Classes/Cleric/ClericClass"]}

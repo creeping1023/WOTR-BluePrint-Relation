@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Hag/GreenGate/Jarunnika_Brain"], "children": ["Units/Monsters/Hag/GreenGate/Jarunnika_ChargeRangeConsideration", "Brain/Considerations/Caster", "Brain/Considerations/AttackTargetsPriority", "Root/SystemMechanics/Abilities/ChargeAbility"]}
+{"parents": ["Units/Monsters/Hag/GreenGate/Jarunnika_Brain"], "children": ["Brain/Considerations/Caster", "Brain/Considerations/AttackTargetsPriority", "Root/SystemMechanics/Abilities/ChargeAbility", "Units/Monsters/Hag/GreenGate/Jarunnika_ChargeRangeConsideration"]}

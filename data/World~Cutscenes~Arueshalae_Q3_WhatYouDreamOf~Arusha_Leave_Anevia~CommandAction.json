@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Arusha_Leave_Anevia/Arusha_Leave_Anevia"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/ArueshalaeCompanion/Arueshalae_Q3/TalkToAnevia"]}
+{"parents": ["World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Arusha_Leave_Anevia/Arusha_Leave_Anevia"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/ArueshalaeCompanion/Arueshalae_Q3/TalkToAnevia", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

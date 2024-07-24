@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/CapeOfWaspsBuff", "World/Encounters/ReligionReactivityBuffs/Calistria_Buff", "Brain/Considerations/HasPoison"]}
+{"parents": ["Spells/Level4/CapeOfWaspsBuff", "Brain/Considerations/HasPoison", "World/Encounters/ReligionReactivityBuffs/Calistria_Buff"]}

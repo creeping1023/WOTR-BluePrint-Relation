@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Blessings/Madness/MadnessBlessingMajorFeature"], "children": ["Classes/Warpriest/Blessings/Madness/MadnessBlessingMajorAbilityDealDamageToSelfBuff", "Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWar", "Buffs/Confusion"]}
+{"parents": ["Classes/Warpriest/Blessings/Madness/MadnessBlessingMajorFeature"], "children": ["Buffs/Confusion", "Classes/Warpriest/Blessings/Madness/MadnessBlessingMajorAbilityDealDamageToSelfBuff", "Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWar"]}

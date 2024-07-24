@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/MilitaryProjects/MilitaryProjectsFlags/Event18AbnormalGiants", "World/Crusade/CrusadeArmy/Event_18_3", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["GlobalMaps/WorldWoundGM/Points/Point_Drezen", "Kingdom/CrusadeProjects/MilitaryProjects/MilitaryProjectsFlags/Event18AbnormalGiants", "World/Crusade/CrusadeArmy/Event_18_3"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Blessings/Sun/SunBlessingMajorFeature"], "children": ["Weapons/Enchantments/BaneUndead", "Weapons/Enchantments/Flaming", "Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWarBuff", "Classes/Warpriest/WarpriestAspectOfWarBuff"]}
+{"parents": ["Classes/Warpriest/Blessings/Sun/SunBlessingMajorFeature"], "children": ["Classes/Warpriest/Blessings/BlessingResource", "Weapons/Enchantments/BaneUndead", "Weapons/Enchantments/Flaming", "Classes/Warpriest/WarpriestAspectOfWarBuff"]}

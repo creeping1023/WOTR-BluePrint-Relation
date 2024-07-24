@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Seelah_Q1_Warcamp/QuasitIsCaptured/gate", "World/Cutscenes/Seelah_Q1_Warcamp/QuasitIsCaptured/QuasitIsCaptured"], "children": ["World/Cutscenes/Seelah_Q1_Warcamp/QuasitIsCaptured/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/Seelah_Q1_Warcamp/QuasitIsCaptured/QuasitIsCaptured", "World/Cutscenes/Seelah_Q1_Warcamp/QuasitIsCaptured/gate"], "children": ["World/Cutscenes/Seelah_Q1_Warcamp/QuasitIsCaptured/CommandStartDialog"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Answer_0115"], "children": ["World/Areas/Act_4_MidnightIsles/BattleBliss/EnterPoints/BattleBliss_Arena_Enter", "World/Encounters/BattleBliss/ActionsHolders/NormalFight"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Answer_0115"], "children": ["World/Encounters/BattleBliss/ActionsHolders/NormalFight", "World/Areas/Act_4_MidnightIsles/BattleBliss/EnterPoints/BattleBliss_Arena_Enter"]}

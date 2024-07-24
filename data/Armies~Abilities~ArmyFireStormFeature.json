@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Presets/DLC6_TavernRebuilded_SosielBadRomance_Preset", "Armies/UnitBlueprints/ArmyBalorStandard"], "children": ["Armies/Abilities/ArmyFireStorm", "Armies/Abilities/ArmyFireStormFact"]}
+{"parents": ["World/Areas/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Presets/DLC6_TavernRebuilded_SosielBadRomance_Preset", "Armies/UnitBlueprints/ArmyBalorStandard"], "children": ["Armies/Abilities/ArmyFireStormFact", "Armies/Abilities/ArmyFireStorm"]}

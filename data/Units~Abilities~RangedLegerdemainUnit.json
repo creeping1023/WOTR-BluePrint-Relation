@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot"], "children": ["Races/HumanRace", "Factions/Player", "Passive Monster Brain", "WeaponEmptyHand", "Classes/ArcaneTrickster/RangedLegerdemain/RangedLegerdemainUntargetable"]}
+{"parents": ["Root/BlueprintRoot"], "children": ["Classes/ArcaneTrickster/RangedLegerdemain/RangedLegerdemainUntargetable", "Factions/Player", "Passive Monster Brain", "Races/HumanRace", "WeaponEmptyHand"]}

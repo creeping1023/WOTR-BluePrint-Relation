@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/MamaDrezen_KTC/AnswersList_0002"], "children": ["World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/MamaDrezen_KTC/Cue_0007"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/MamaDrezen_KTC/AnswersList_0002", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/MamaDrezen_KTC/Cue_0007"]}

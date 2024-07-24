@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Flamelance_Leader_Klejm/Flamelance_Leader_Klejm_Dialog"], "children": ["World/Dialogs/NPC_Common/Flamelance_Leader_Klejm/AnswersList_0003"]}
+{"parents": ["World/Dialogs/NPC_Common/Flamelance_Leader_Klejm/Flamelance_Leader_Klejm_Dialog", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Flamelance_Leader_Klejm/AnswersList_0003"]}

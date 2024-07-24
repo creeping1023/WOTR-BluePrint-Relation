@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Magic/MagicDomainBaseFeature", "Classes/Cleric/Domains/Magic/MagicDomainBaseAbility"], "children": ["Classes/Cleric/ClericClass"]}
+{"parents": ["Classes/Cleric/Domains/Magic/MagicDomainBaseAbility", "Classes/Cleric/Domains/Magic/MagicDomainBaseFeature"], "children": ["Classes/Cleric/ClericClass"]}

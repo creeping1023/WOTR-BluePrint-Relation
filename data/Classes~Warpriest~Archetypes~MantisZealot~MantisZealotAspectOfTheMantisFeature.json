@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotArchetype"], "children": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisAbility", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisResource"]}
+{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotArchetype"], "children": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisResource", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisAbility"]}

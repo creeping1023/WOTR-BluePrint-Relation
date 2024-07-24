@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-509682_WarpriestProgression", "Classes/Warpriest/WarpriestProgression"], "children": ["Classes/Warpriest/WarpriestClass", "Classes/Fighter/FighterClass", "Classes/Warpriest/WarpriestClass", "Classes/Basic/BasicFeatSelection"]}
+{"parents": ["Classes/Warpriest/WarpriestProgression", "Root/Upgraders/Player/PF-509682_WarpriestProgression"], "children": ["Classes/Basic/BasicFeatSelection", "Classes/Warpriest/WarpriestClass", "Classes/Fighter/FighterClass"]}

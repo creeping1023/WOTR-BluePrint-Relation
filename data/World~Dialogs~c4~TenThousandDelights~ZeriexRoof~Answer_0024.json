@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/TenThousandDelights/ZeriexRoof/AnswersList_0002"], "children": ["World/Dialogs/c4/TenThousandDelights/ZeriexRoof/Cue_0025", "World/Dialogs/c4/TenThousandDelights/ZeriexRoof/Check_0020"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/ZeriexRoof/AnswersList_0002", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/TenThousandDelights/ZeriexRoof/Check_0020", "World/Dialogs/c4/TenThousandDelights/ZeriexRoof/Cue_0025"]}

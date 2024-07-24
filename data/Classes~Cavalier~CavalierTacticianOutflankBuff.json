@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianSupportFeature", "Classes/Cavalier/CavalierTacticianAbilitySwift", "Feats/Teamwork/Outflank"], "children": ["Feats/Teamwork/Outflank", "Feats/Teamwork/Outflank"]}
+{"parents": ["Classes/Cavalier/CavalierTacticianAbilitySwift", "Feats/Teamwork/Outflank", "Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianSupportFeature"], "children": ["Feats/Teamwork/Outflank"]}

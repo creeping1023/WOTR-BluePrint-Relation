@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/Archetypes/Chirurgeon/ChirurgeonArchetype"], "children": ["Classes/Alchemist/AlchemistClass", "Spells/Level5/BreathOfLifeCast"]}
+{"parents": ["Classes/Alchemist/Archetypes/Chirurgeon/ChirurgeonArchetype"], "children": ["Spells/Level5/BreathOfLifeCast", "Classes/Alchemist/AlchemistClass"]}

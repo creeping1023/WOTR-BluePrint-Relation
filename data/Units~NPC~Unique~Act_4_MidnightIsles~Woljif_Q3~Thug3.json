@@ -1,1 +1,1 @@
-{"children": ["Races/HumanRace", "Units/PortraitsGenerated/2d79cc6c44ba08f4abd5dda8b43c76ed_BCT_Peasant_HalfOrc_Male_2", "Sound/Barks/NPC/Bandits/EnemyHumanMale_Common_02_Barks", "Factions/CutsceneNeutrals", "Brain/Dumb Monster Brain", "WeaponEmptyHand"]}
+{"children": ["Sound/Barks/NPC/Bandits/EnemyHumanMale_Common_02_Barks", "Units/PortraitsGenerated/2d79cc6c44ba08f4abd5dda8b43c76ed_BCT_Peasant_HalfOrc_Male_2", "Brain/Dumb Monster Brain", "Races/HumanRace", "WeaponEmptyHand", "Factions/CutsceneNeutrals"]}

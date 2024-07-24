@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/DarrazandGoAway/Cue_0006"], "children": ["World/Dialogs/c3/Wintersun/DarrazandGoAway/Cue_0022", "World/Dialogs/c3/Wintersun/DarrazandGoAway/Cue_2", "World/Dialogs/c3/Wintersun/DarrazandGoAway/SequenceExit_0021"]}
+{"parents": ["World/Dialogs/c3/Wintersun/DarrazandGoAway/Cue_0006"], "children": ["World/Dialogs/c3/Wintersun/DarrazandGoAway/SequenceExit_0021", "World/Dialogs/c3/Wintersun/DarrazandGoAway/Cue_0022", "World/Dialogs/c3/Wintersun/DarrazandGoAway/Cue_2"]}

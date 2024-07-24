@@ -1,1 +1,1 @@
-{"parents": ["Loot/Quest/LostChapel/ShrineOfDesna", "World/Encounters/LostChapel/ComponentsLists/LC_Outdoor", "Dugeons/Loot/DungeonLootExclude", "World/Areas/Act_2_SwordOfValor/LostChapel/Presets/LostChapel_Azata_Preset"]}
+{"parents": ["World/Areas/Act_2_SwordOfValor/LostChapel/Presets/LostChapel_Azata_Preset", "Loot/Quest/LostChapel/ShrineOfDesna", "Dugeons/Loot/DungeonLootExclude", "World/Encounters/LostChapel/ComponentsLists/LC_Outdoor"]}

@@ -1,1 +1,1 @@
-{"parents": ["Feats/DragonStyle/DragonStyleToggleAbility"], "children": ["Feats/DragonStyle/DragonFerocity", "Feats/DragonStyle/DragonFerocityBuff"]}
+{"parents": ["Feats/DragonStyle/DragonStyleToggleAbility"], "children": ["Feats/DragonStyle/DragonFerocityBuff", "Feats/DragonStyle/DragonFerocity"]}

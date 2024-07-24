@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterEnd/SuccubusKnights/Answer_0008"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Succubus_And_Knights/CR1_RecruitCrusaderMeleeLevel2_npc", "World/Dialogs/c1/GreyGarrison_ChapterEnd/SuccubusKnights/Cue_0017"]}
+{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterEnd/SuccubusKnights/Answer_0008"], "children": ["World/Dialogs/c1/GreyGarrison_ChapterEnd/SuccubusKnights/Cue_0017", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Succubus_And_Knights/CR1_RecruitCrusaderMeleeLevel2_npc"]}

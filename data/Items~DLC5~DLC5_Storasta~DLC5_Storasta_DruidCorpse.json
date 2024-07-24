@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_Storasta/ConditionsHolders/Bowl_ItemRestriction", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5", "Loot/Quest/DLC5_Storasta/DruidCorpse"]}
+{"parents": ["Loot/Quest/DLC5_Storasta/DruidCorpse", "Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude", "World/Encounters/DLC5_Storasta/ConditionsHolders/Bowl_ItemRestriction"]}

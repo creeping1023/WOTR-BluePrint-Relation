@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Dwarf/UnstoppableDwarf", "Races/NPCRaces/DuargarRace/DuergarTyrantRace", "Races/NPCRaces/DuargarRace/DuergarRace", "Races/DwarfRace"]}
+{"parents": ["Races/NPCRaces/DuargarRace/DuergarRace", "Races/DwarfRace", "Traits/Races/Dwarf/UnstoppableDwarf", "Races/NPCRaces/DuargarRace/DuergarTyrantRace"]}

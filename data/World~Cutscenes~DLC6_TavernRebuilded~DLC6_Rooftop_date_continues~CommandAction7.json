@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_TavernRebuilded/DLC6_Rooftop_date_continues/gate14"], "children": ["Buffs/Areas/Act_1_WorldwoundIncursion/BlackWingRuins/Burning", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}
+{"parents": ["World/Cutscenes/DLC6_TavernRebuilded/DLC6_Rooftop_date_continues/gate14"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "Buffs/Areas/Act_1_WorldwoundIncursion/BlackWingRuins/Burning"]}

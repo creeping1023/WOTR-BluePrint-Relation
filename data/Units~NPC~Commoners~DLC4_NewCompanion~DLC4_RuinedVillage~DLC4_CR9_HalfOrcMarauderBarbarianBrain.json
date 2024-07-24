@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_RuinedVillage/DLC4_CR9_HalfOrcMarauderBarbarian"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/ChargeAiAction", "Brain/Actions/GreatCleaveAiAction"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_RuinedVillage/DLC4_CR9_HalfOrcMarauderBarbarian"], "children": ["Brain/Actions/ChargeAiAction", "Brain/Actions/GreatCleaveAiAction", "Brain/Actions/AttackAiAction"]}

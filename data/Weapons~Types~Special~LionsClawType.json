@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/DLC2/LionsClaw"], "children": ["Weapons/Types/ExoticOneHanded/Falcata", "Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Weapons/Items/Unique/DLC2/LionsClaw"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Types/ExoticOneHanded/Falcata"]}

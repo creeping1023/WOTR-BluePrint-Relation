@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Rings/KineticistRings/SigilOfCreationRingEnchant"], "children": ["Classes/Kineticist/WildTalents/KineticHealerAbility", "Equipment/Rings/ParagonOfWinterRingFeature"]}
+{"parents": ["Equipment/Rings/KineticistRings/SigilOfCreationRingEnchant"], "children": ["Equipment/Rings/ParagonOfWinterRingFeature", "Classes/Kineticist/WildTalents/KineticHealerAbility"]}

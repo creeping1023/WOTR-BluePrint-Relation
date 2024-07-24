@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/BatteSlaver_dialogue/Cue_0066"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/BatteSlaver_dialogue/Cue_0066"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/Companions/Nenio/Nenio_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Weapons/Types/ExoticLight/Sai", "Weapons/Enchantments/Enhancement3", "Items/DLC5/DLC5_ShadowPlane/SilverWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticLight/Sai", "Items/DLC5/DLC5_ShadowPlane/SilverWeaponEnchantment", "Weapons/Enchantments/Enhancement3"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Irabeth/Cue_0005"], "children": ["Units/NPC/Unique/DLC1_Megaepic/Irabeth_DLC1_IZ_Test", "World/Dialogs/DLC1_Megaepic/Iz/Irabeth/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Irabeth/Cue_0005"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/Irabeth/AnswersList_0002", "Units/NPC/Unique/DLC1_Megaepic/Irabeth_DLC1_IZ_Test"]}

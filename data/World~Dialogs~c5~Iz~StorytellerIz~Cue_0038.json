@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/StorytellerIz/Cue_0036"], "children": ["Units/Companions/Woljif/Woljif_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Storyteller", "World/Dialogs/c5/Iz/StorytellerIz/Cue_0039"]}
+{"parents": ["World/Dialogs/c5/Iz/StorytellerIz/Cue_0036"], "children": ["World/Dialogs/c5/Iz/StorytellerIz/Cue_0039", "Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Storyteller", "Units/Companions/Woljif/Woljif_Companion"]}

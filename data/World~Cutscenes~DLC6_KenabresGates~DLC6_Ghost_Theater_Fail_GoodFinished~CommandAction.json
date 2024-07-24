@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Ghost_Theater_Fail_GoodFinished/gate1"], "children": ["World/Cutscenes/DLC2_Catacombs/DLC2_Survivors_idle/Gravedigger_camp_idle/Gravedigger_camp_idle", "World/Cutscenes/WarCamp/AmbienceTalking(Unit)/AmbienceTalking(Unit)"]}
+{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Ghost_Theater_Fail_GoodFinished/gate1"], "children": ["World/Cutscenes/WarCamp/AmbienceTalking(Unit)/AmbienceTalking(Unit)", "World/Cutscenes/DLC2_Catacombs/DLC2_Survivors_idle/Gravedigger_camp_idle/Gravedigger_camp_idle"]}

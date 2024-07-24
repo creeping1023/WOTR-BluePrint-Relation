@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0049", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Bleed", "Weapons/Enchantments/Heartseeker"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0049"], "children": ["Weapons/Enchantments/Bleed", "Weapons/Enchantments/Heartseeker", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement5"]}

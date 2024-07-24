@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationBomb"], "children": ["Weapons/Types/Special/BombType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationBomb"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationBomb"], "children": ["Feats/WeaponSpecialization/WeaponSpecializationBomb", "Weapons/Types/Special/BombType", "Classes/Fighter/FighterClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/PF2_DLC5/Storasta/DLC5_StorastaEquipmentVendorTable"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/MarksmansHatEnchant"]}
+{"parents": ["Items/Vendors/PF2_DLC5/Storasta/DLC5_StorastaEquipmentVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Headgear/MarksmansHatEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

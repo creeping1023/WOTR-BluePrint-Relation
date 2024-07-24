@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level2/CureModerateWounds", "Weapons/Types/MartialOneHanded/Rapier", "Weapons/Enchantments/Bleed", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Agile"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Bleed", "Weapons/Types/MartialOneHanded/Rapier", "Spells/Level2/CureModerateWounds", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Agile"]}

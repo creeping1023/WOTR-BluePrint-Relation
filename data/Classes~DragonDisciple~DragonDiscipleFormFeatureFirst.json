@@ -1,1 +1,1 @@
-{"parents": ["Classes/DragonDisciple/DragonDiscipleProgression"], "children": ["Classes/DragonDisciple/DragonDiscipleClass", "Classes/DragonDisciple/DragonDiscipleFormFeatureSecond", "Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonDiscipleResource"]}
+{"parents": ["Classes/DragonDisciple/DragonDiscipleProgression"], "children": ["Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonDiscipleResource", "Classes/DragonDisciple/DragonDiscipleClass", "Classes/DragonDisciple/DragonDiscipleFormFeatureSecond"]}

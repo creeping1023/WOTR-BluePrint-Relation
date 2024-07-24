@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Seelah/SeelahTestLevel19"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/EvasiveRoundHelmetEnchant"]}
+{"parents": ["Units/Pregens/PartyPregenTests/Seelah/SeelahTestLevel19", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Headgear/EvasiveRoundHelmetEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

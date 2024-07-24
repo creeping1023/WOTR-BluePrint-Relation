@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus3/Keen/StandardDwarvenUrgroshKeenPlus2"], "children": ["Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Keen"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus3/Keen/StandardDwarvenUrgroshKeenPlus2"], "children": ["Weapons/Enchantments/Keen", "Weapons/Enchantments/Enhancement2", "Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead"]}

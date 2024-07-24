@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/MutasafenLair/MutasafenLair_TargonaFreed/CommandStartDialog"], "children": ["World/Dialogs/c5/Mythic_Angel/TargonaIntro/Cue_0001", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/MutasafenLabAngel/MutasafenLab_TargonaFollow"]}
+{"parents": ["World/Cutscenes/MutasafenLair/MutasafenLair_TargonaFreed/CommandStartDialog"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/MutasafenLabAngel/MutasafenLab_TargonaFollow", "World/Dialogs/c5/Mythic_Angel/TargonaIntro/Cue_0001"]}

@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR6/PF2_Demons_SecretFrozenLoot", "Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_FrozenTemple/DLC5_DeadCultistTreasure", "Dugeons/Loot/DungeonLootDLC5"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Loot/Good/CR6/PF2_Demons_SecretFrozenLoot", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_FrozenTemple/DLC5_DeadCultistTreasure", "Dugeons/Loot/DungeonLootExclude"]}

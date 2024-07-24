@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyDretchStandard", "Armies/UnitBlueprints/ArmyGibrilethStandard"], "children": ["Armies/Abilities/ArmyStinkingCloud", "Armies/Abilities/ArmyStinkingCloudFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyGibrilethStandard", "Armies/UnitBlueprints/ArmyDretchStandard"], "children": ["Armies/Abilities/ArmyStinkingCloudFact", "Armies/Abilities/ArmyStinkingCloud"]}

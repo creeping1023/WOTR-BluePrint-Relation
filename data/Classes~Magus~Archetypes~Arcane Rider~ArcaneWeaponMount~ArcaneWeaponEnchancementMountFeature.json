@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/Arcane Rider/ArcaneMountFeature"], "children": ["Classes/Magus/Archetypes/Arcane Rider/ArcaneWeaponMount/ArcaneWeaponEnchancementMountPreBuff", "Classes/Magus/ArcanePool/ArcaneWeaponSwitchAbility"]}
+{"parents": ["Classes/Magus/Archetypes/Arcane Rider/ArcaneMountFeature"], "children": ["Classes/Magus/ArcanePool/ArcaneWeaponSwitchAbility", "Classes/Magus/Archetypes/Arcane Rider/ArcaneWeaponMount/ArcaneWeaponEnchancementMountPreBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Alignments/DLC6_ProphetOfApollyonBrain/DLC6_ProphetOfApollyonBrain"], "children": ["Brain/Considerations/NoBuffUnholyAura", "Spells/Level8/UnholyAura"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Alignments/DLC6_ProphetOfApollyonBrain/DLC6_ProphetOfApollyonBrain"], "children": ["Spells/Level8/UnholyAura", "Brain/Considerations/NoBuffUnholyAura"]}

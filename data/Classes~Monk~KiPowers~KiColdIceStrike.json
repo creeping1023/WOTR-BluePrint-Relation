@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/KiPowers/KiColdIceStrikeFeature"], "children": ["FX/Spell Level None/ColdLine00", "Classes/Monk/MonkClass", "Classes/Monk/KiPowers/KiPowerResource", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/KiPowers/KiColdIceStrikeFeature"], "children": ["Classes/Monk/MonkClass", "FX/Spell Level None/ColdLine00", "Classes/Monk/KiPowers/KiPowerResource"]}

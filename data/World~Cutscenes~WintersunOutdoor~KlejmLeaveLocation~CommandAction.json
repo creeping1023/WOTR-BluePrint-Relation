@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WintersunOutdoor/KlejmLeaveLocation/KlejmLeaveLocation"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Klaem_LeaveCapital", "Buffs/NPC_Protection"]}
+{"parents": ["World/Cutscenes/WintersunOutdoor/KlejmLeaveLocation/KlejmLeaveLocation"], "children": ["Buffs/NPC_Protection", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Klaem_LeaveCapital"]}

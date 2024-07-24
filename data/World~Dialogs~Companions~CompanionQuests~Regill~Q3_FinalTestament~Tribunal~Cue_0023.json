@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/CueSequence_0012"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDevil/PlayerIsDevil", "Units/Companions/Regill/Regill_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/CueSequence_0012"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Etudes/Common/WrathOfTheRighteous/MythicDevil/PlayerIsDevil"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterProgression", "Classes/Shifter/Archetypes/Rageshaper/RageshaperShifterArchetype", "Feats/WeaponFocus/WeaponFocus"], "children": ["Classes/Shifter/ShifterClass", "Classes/Shifter/Archetypes/Rageshaper/TerribleSlam/TerribleSlamFeatureLevel1"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocus", "Classes/Shifter/Archetypes/Rageshaper/RageshaperShifterArchetype", "Classes/Shifter/ShifterProgression"], "children": ["Classes/Shifter/Archetypes/Rageshaper/TerribleSlam/TerribleSlamFeatureLevel1", "Classes/Shifter/ShifterClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_3"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_6"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_3"], "children": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_6", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

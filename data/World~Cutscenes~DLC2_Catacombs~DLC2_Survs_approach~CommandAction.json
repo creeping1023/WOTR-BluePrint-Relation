@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_Catacombs/DLC2_Survs_approach/gate"], "children": ["World/Encounters/DLC2_Catacombs/SummonPools/DLC2_Mercenaries", "World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Mercenaries_dialogue"]}
+{"parents": ["World/Cutscenes/DLC2_Catacombs/DLC2_Survs_approach/gate"], "children": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Mercenaries_dialogue", "World/Encounters/DLC2_Catacombs/SummonPools/DLC2_Mercenaries"]}

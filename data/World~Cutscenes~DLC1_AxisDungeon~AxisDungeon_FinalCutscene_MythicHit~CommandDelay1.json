@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_AxisDungeon/AxisDungeon_FinalCutscene_MythicHit/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend", "World/Etudes/Common/DLC1_SsilaWeak"]}
+{"parents": ["World/Cutscenes/DLC1_AxisDungeon/AxisDungeon_FinalCutscene_MythicHit/gate"], "children": ["World/Etudes/Common/DLC1_SsilaWeak", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level2/Invisibility"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression"], "children": ["Spells/Level2/Invisibility", "Classes/Witch/WitchClass"]}

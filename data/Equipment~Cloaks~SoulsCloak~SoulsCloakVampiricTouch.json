@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchCast"], "children": ["FX/Spell Level 3/VampiricTouch00", "Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchBuff", "Weapons/Types/Special/TouchItem", "Traits/Races/Common/UndeadType"]}
+{"parents": ["Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchCast"], "children": ["Weapons/Types/Special/TouchItem", "Traits/Races/Common/UndeadType", "Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchBuff", "FX/Spell Level 3/VampiricTouch00"]}

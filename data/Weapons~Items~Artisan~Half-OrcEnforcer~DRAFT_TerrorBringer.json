@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level2/Boneshaker", "Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement2"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Spells/Level2/Boneshaker", "Weapons/Enchantments/Enhancement2"]}

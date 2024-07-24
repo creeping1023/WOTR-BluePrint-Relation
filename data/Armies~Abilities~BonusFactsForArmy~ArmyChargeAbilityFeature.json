@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagMilitary5InfantryCharge", "Armies/CrusadeGlobalBuffs/FlagMilitary5CavalryCharge"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyChargeAbility"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagMilitary5CavalryCharge", "Armies/CrusadeGlobalBuffs/FlagMilitary5InfantryCharge"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyChargeAbility"]}

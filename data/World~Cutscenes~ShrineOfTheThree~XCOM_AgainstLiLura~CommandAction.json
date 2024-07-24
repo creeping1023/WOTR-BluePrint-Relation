@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ShrineOfTheThree/XCOM_AgainstLiLura/XCOM_AgainstLiLura"], "children": ["World/Encounters/ShrineOfTheThree/SummonPools/ShrineCycleSummonPool", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/ShrineOfTheThree/XCOM_AgainstLiLura/XCOM_AgainstLiLura"], "children": ["Factions/Mobs", "World/Encounters/ShrineOfTheThree/SummonPools/ShrineCycleSummonPool"]}

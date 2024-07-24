@@ -1,1 +1,1 @@
-{"parents": ["Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaHarpAreaBuff", "Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaHarpAreaBuffEnergized"], "children": ["Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaHarpEffectBuff", "Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaHarpEffectBuff"]}
+{"parents": ["Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaHarpAreaBuffEnergized", "Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaHarpAreaBuff"], "children": ["Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaHarpEffectBuff"]}

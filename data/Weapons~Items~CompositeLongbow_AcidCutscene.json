@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["FX/Spell Level 2/AcidArrow00", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement1"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialRanged/CompositeLongbow", "FX/Spell Level 2/AcidArrow00"]}

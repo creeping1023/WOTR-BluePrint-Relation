@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HellknightsCamp/PlayerAgreedToTeleportSolo/gate"], "children": ["World/Cutscenes/HellknightsCamp/PlayerAgreedToTeleportSolo/CommandUnitPlayCutsceneAnimation 8", "World/Cutscenes/HellknightsCamp/PlayerAgreedToTeleportSolo/CommandAction 10"]}
+{"parents": ["World/Cutscenes/HellknightsCamp/PlayerAgreedToTeleportSolo/gate"], "children": ["World/Cutscenes/HellknightsCamp/PlayerAgreedToTeleportSolo/CommandAction 10", "World/Cutscenes/HellknightsCamp/PlayerAgreedToTeleportSolo/CommandUnitPlayCutsceneAnimation 8"]}

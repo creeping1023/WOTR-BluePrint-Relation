@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonMammothFeature"], "children": ["Armies/UnitBlueprints/ArmyMammoth", "Buffs/SummonedCreatureSpawnAllyIV-VI", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/BonusFactsForArmy/ArmySummonMammothResource"]}
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonMammothFeature"], "children": ["Armies/UnitBlueprints/ArmyMammoth", "Buffs/ArmySummonedCreatureVisual", "Buffs/SummonedCreatureSpawnAllyIV-VI", "Armies/Abilities/BonusFactsForArmy/ArmySummonMammothResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_0070"], "children": ["Units/Monsters/Hag/GreenGate/Jarunnika", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/AnswersList_0072", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/CueSequence_0106"]}
+{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_0070"], "children": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/CueSequence_0106", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/AnswersList_0072", "Units/Monsters/Hag/GreenGate/Jarunnika"]}

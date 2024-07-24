@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/KestoglyrsCage/Answer_0005"], "children": ["World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KestoglyrCellBodaks", "Factions/NeutralGuards", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrBodaksFollow"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/KestoglyrsCage/Answer_0005"], "children": ["Factions/NeutralGuards", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrBodaksFollow", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KestoglyrCellBodaks"]}

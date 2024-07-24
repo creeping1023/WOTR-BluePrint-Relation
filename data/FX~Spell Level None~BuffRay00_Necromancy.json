@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/LostlarnKeep/LostlarnKeepSpecialWisp5Helper", "Classes/Oracle/OracleRevelations/OracleRevelationLifeLeachAbility", "Root/BlueprintRoot"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}
+{"parents": ["Root/BlueprintRoot", "Classes/Oracle/OracleRevelations/OracleRevelationLifeLeachAbility", "Spells/CutsceneSpells/LostlarnKeep/LostlarnKeepSpecialWisp5Helper"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MidnightFane/DarrazandHealer/DarrazandHealerBrain"], "children": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MidnightFane/DarrazandHealer/IsStartWarConsideration", "Brain/Considerations/AttackTargetsPriority"]}
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MidnightFane/DarrazandHealer/DarrazandHealerBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/Act_3_DemonsHerecy/MidnightFane/DarrazandHealer/IsStartWarConsideration"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyChannelNegativeEnergyHealFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegativeHeal"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyChannelNegativeEnergyHealAbilityResource"]}
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegativeHeal", "Armies/Abilities/ArmyChannelNegativeEnergyHealFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyChannelNegativeEnergyHealAbilityResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["Feats/CriticalFeats/SickeningCriticalBuff", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawSickeningCriticalToggleAbility"], "children": ["Buffs/Sickened"]}
+{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawSickeningCriticalToggleAbility", "Feats/CriticalFeats/SickeningCriticalBuff"], "children": ["Buffs/Sickened"]}

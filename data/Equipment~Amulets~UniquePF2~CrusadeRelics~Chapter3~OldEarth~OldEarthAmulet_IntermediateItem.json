@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/CrusadeProjects/RelicProjects/Chapter3/OldEarth/OldEarthAmuletProject_Enchanting", "Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch3/DirtySquealer_Reforge_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Kingdom/CrusadeProjects/RelicProjects/Chapter3/OldEarth/OldEarthAmuletProject_Enchanting", "World/Crusade/Events/Relics/Ch3/DirtySquealer_Reforge_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}

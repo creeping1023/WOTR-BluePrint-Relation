@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterStart/Irabeth_FirstMeet/Answer_0046"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/IrabethTirabade", "World/Dialogs/c1/GreyGarrison_ChapterStart/Irabeth_FirstMeet/Cue_0044"]}
+{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterStart/Irabeth_FirstMeet/Answer_0046"], "children": ["World/Dialogs/c1/GreyGarrison_ChapterStart/Irabeth_FirstMeet/Cue_0044", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/IrabethTirabade"]}

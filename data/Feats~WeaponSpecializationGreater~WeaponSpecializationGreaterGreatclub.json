@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationGreatclub"], "children": ["Weapons/Types/SimpleTwoHanded/Greatclub", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationGreatclub"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationGreatclub"], "children": ["Feats/WeaponSpecialization/WeaponSpecializationGreatclub", "Weapons/Types/SimpleTwoHanded/Greatclub", "Classes/Fighter/FighterClass"]}

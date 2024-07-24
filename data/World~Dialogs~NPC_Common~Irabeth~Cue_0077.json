@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Irabeth/MoltenScarQuestComplitingIrabeth"], "children": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/Cue_0027", "World/Dialogs/NPC_Common/Irabeth/AnswersList_0009"]}
+{"parents": ["World/Dialogs/NPC_Common/Irabeth/MoltenScarQuestComplitingIrabeth", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Irabeth/AnswersList_0009", "World/Dialogs/c3/MoltenScar/PrisonedKnight/Cue_0027"]}

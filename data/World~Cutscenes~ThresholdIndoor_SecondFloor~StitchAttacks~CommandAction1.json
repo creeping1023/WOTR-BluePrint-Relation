@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/StitchAttacks/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Stitch/Stitch_isMythic", "Spells/Level2/InvisibilityBuff"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/StitchAttacks/gate"], "children": ["Spells/Level2/InvisibilityBuff", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Stitch/Stitch_isMythic"]}

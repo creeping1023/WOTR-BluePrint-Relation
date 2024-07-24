@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Answer_0069"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0010"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Answer_0069"], "children": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0010", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

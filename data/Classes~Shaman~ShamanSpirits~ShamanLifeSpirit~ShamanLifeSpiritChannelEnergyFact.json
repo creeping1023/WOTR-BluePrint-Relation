@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shaman/ShamanSpirits/ShamanLifeSpirit/ShamanLifeSpiritChannelEnergyFeature"], "children": ["Classes/Shaman/ShamanSpirits/ShamanLifeSpirit/ShamanLifeSpiritChannelEnergyResource", "Classes/Cleric/ChannelEnergyFact", "Classes/Cleric/ChannelEnergyFact"]}
+{"parents": ["Classes/Shaman/ShamanSpirits/ShamanLifeSpirit/ShamanLifeSpiritChannelEnergyFeature"], "children": ["Classes/Cleric/ChannelEnergyFact", "Classes/Shaman/ShamanSpirits/ShamanLifeSpirit/ShamanLifeSpiritChannelEnergyResource"]}

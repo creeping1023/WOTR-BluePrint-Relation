@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter4/SickleOfWickedRitesEnchantment", "Weapons/Items/UniquePF2/Chapter4/SickleOfWickedRitesAbility", "Root/Upgraders/Player/PF-384606"], "children": ["Weapons/Items/UniquePF2/Chapter4/SickleOfWickedRitesAbility"]}
+{"parents": ["Root/Upgraders/Player/PF-384606", "Weapons/Items/UniquePF2/Chapter4/SickleOfWickedRitesEnchantment", "Weapons/Items/UniquePF2/Chapter4/SickleOfWickedRitesAbility"], "children": ["Weapons/Items/UniquePF2/Chapter4/SickleOfWickedRitesAbility"]}

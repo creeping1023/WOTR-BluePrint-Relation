@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahSecondCutscene/gate 14"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/HeraldDisapproval"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahSecondCutscene/gate 14"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/HeraldDisapproval", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath"]}

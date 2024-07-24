@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0023_AskAboutKaylessa"], "children": ["World/Dialogs/NPC_Common/Vendor_Quartermaster/Cue_0023"]}
+{"parents": ["World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0023_AskAboutKaylessa", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Vendor_Quartermaster/Cue_0023"]}

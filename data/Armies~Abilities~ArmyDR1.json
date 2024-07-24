@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBreweryClerics", "Armies/UnitBlueprints/ArmySkeletonArcher", "Armies/UnitBlueprints/ArmySkeletonStandard", "Armies/UnitBlueprints/ArmyHeavyInfantry"]}
+{"parents": ["Armies/UnitBlueprints/ArmySkeletonStandard", "Armies/UnitBlueprints/ArmySkeletonArcher", "Armies/UnitBlueprints/ArmyHeavyInfantry", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBreweryClerics"]}

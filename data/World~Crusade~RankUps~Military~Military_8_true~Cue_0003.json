@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_8_true/Answer_0002"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Crusade/RankUps/Military/Military_8_true/AnswersList_0031", "World/Crusade/RankUps/Military/Military_8_true/Cue_2"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_8_true/Answer_0002"], "children": ["World/Crusade/RankUps/Military/Military_8_true/Cue_2", "World/Crusade/RankUps/Military/Military_8_true/AnswersList_0031", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

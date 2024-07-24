@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Lich/TheDarkestRitual/Answer_0020"], "children": ["World/Encounters/Ziggurat/UnlockableFlags/DarkestRitual_SkipSacrifice", "World/Dialogs/c5/Mythic_Lich/TheDarkestRitual/Cue_0025"]}
+{"parents": ["World/Dialogs/c5/Mythic_Lich/TheDarkestRitual/Answer_0020"], "children": ["World/Dialogs/c5/Mythic_Lich/TheDarkestRitual/Cue_0025", "World/Encounters/Ziggurat/UnlockableFlags/DarkestRitual_SkipSacrifice"]}

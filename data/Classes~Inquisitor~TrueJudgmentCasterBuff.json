@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/TrueJudgmentAbility"], "children": ["Classes/Inquisitor/TrueJudgmentCooldownBuff", "Classes/Inquisitor/TrueJudgmentDamageBuff", "Classes/Inquisitor/TrueJudgmentCooldownBuff"]}
+{"parents": ["Classes/Inquisitor/TrueJudgmentAbility"], "children": ["Classes/Inquisitor/TrueJudgmentDamageBuff", "Classes/Inquisitor/TrueJudgmentCooldownBuff"]}

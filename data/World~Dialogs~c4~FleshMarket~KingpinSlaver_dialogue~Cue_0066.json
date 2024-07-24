@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/KingpinSlaver_dialogue/Cue_0016"], "children": ["Units/Monsters/Demon Dretch/Alushinyrra/StitchAlushinyrra", "World/Dialogs/c4/FleshMarket/KingpinSlaver_dialogue/AnswersList_0010"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/KingpinSlaver_dialogue/Cue_0016"], "children": ["World/Dialogs/c4/FleshMarket/KingpinSlaver_dialogue/AnswersList_0010", "Units/Monsters/Demon Dretch/Alushinyrra/StitchAlushinyrra"]}

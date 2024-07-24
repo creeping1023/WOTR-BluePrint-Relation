@@ -1,1 +1,1 @@
-{"parents": ["Achievements/38_PrelatesNemesis", "World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_AreasDefault/KenabresBurning_Default"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/Achievements_LevelDesign"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_AreasDefault/KenabresBurning_Default", "Achievements/38_PrelatesNemesis"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/Achievements_LevelDesign"]}

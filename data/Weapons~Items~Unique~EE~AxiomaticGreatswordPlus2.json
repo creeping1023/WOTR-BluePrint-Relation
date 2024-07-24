@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/PartyPregenTests/Player/PlayerTestLevel7", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Greatsword", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Axiomatic"]}
+{"parents": ["Units/Pregens/PartyPregenTests/Player/PlayerTestLevel7", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Greatsword", "Weapons/Enchantments/Axiomatic", "Weapons/Enchantments/Enhancement2"]}

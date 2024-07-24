@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Wounded_cap_dialog/Cue_0010", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_Militia_dialog/Answer_0011"], "children": ["World/Cutscenes/DLC2_RichQuarter/Cap_wounded/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_Militia_dialog/Answer_0011", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Wounded_cap_dialog/Cue_0010"], "children": ["World/Cutscenes/DLC2_RichQuarter/Cap_wounded/CommandUnitPlayCutsceneAnimation"]}

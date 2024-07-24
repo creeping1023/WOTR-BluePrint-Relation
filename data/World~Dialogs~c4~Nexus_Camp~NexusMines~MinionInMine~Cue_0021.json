@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/Nexus_Camp/NexusMines/MinionInMine/Answer_0018"], "children": ["World/Dialogs/c4/Nexus_Camp/NexusMines/MinionInMine/AnswersList_0015"]}
+{"parents": ["World/Dialogs/c4/Nexus_Camp/NexusMines/MinionInMine/Answer_0018", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/Nexus_Camp/NexusMines/MinionInMine/AnswersList_0015"]}

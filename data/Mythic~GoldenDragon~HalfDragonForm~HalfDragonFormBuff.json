@@ -1,1 +1,1 @@
-{"parents": ["Mythic/GoldenDragon/HalfDragonForm/HalfDragonFormAbility"], "children": ["Classes/Basic/Wings/BuffWingsDraconicGold", "Weapons/Items/Standard/NaturalWeapon/BiteTwoHanded1d6"]}
+{"parents": ["Mythic/GoldenDragon/HalfDragonForm/HalfDragonFormAbility"], "children": ["Weapons/Items/Standard/NaturalWeapon/BiteTwoHanded1d6", "Classes/Basic/Wings/BuffWingsDraconicGold"]}

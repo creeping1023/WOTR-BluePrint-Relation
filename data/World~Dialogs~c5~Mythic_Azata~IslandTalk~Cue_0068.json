@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Azata/IslandTalk/Cue_0067"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Dialogs/c5/Mythic_Azata/IslandTalk/Cue_0069"]}
+{"parents": ["World/Dialogs/c5/Mythic_Azata/IslandTalk/Cue_0067"], "children": ["World/Dialogs/c5/Mythic_Azata/IslandTalk/Cue_0069", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}

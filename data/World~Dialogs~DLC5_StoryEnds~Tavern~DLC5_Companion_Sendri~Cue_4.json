@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Companion_Sendri/Cue_0057"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Companion_Sendri/AnswersList_0013"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Companion_Sendri/Cue_0057"], "children": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Companion_Sendri/AnswersList_0013", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

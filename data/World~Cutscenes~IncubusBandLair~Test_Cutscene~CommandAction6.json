@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/IncubusBandLair/Test_Cutscene/gate16"], "children": ["Spells/Level3/HoldPersonBuff", "Buffs/Stunned"]}
+{"parents": ["World/Cutscenes/IncubusBandLair/Test_Cutscene/gate16"], "children": ["Buffs/Stunned", "Spells/Level3/HoldPersonBuff"]}

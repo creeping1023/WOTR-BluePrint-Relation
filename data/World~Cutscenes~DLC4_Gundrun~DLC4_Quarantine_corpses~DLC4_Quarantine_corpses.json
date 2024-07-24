@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC4_Gundrun/ScriptZones/DLC4_QuarantineCorpses_SZ"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_Quarantine_corpses/CommandDelay", "World/Cutscenes/DLC4_Gundrun/DLC4_Quarantine_corpses/gate"]}
+{"parents": ["World/Encounters/DLC4_Gundrun/ScriptZones/DLC4_QuarantineCorpses_SZ"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_Quarantine_corpses/gate", "World/Cutscenes/DLC4_Gundrun/DLC4_Quarantine_corpses/CommandDelay"]}

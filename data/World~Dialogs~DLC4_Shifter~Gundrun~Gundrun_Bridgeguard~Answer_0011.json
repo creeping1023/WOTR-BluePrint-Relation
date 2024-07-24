@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Bridgeguard/Cue_0009"], "children": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Bridgeguard/Cue_0012", "Items/Utility/GoldCoins"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Bridgeguard/Cue_0009"], "children": ["Items/Utility/GoldCoins", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Bridgeguard/Cue_0012"]}

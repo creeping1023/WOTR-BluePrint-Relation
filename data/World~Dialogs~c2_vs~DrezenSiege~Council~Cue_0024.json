@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Council/Answer_0020", "QA/Clockwork/Scenario/Act_2_SwordOfValor/Drezen_MainEntrance_Preset"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/IrabethTirabade", "World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0029"]}
+{"parents": ["QA/Clockwork/Scenario/Act_2_SwordOfValor/Drezen_MainEntrance_Preset", "World/Dialogs/c2_vs/DrezenSiege/Council/Answer_0020"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/IrabethTirabade", "World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0029"]}

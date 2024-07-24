@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/IamARegularMaskBuff"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/IamAHostMaskBuff", "FX/Creatures/ShadowBoss_Infusion00_Projectile_DLC3"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/IamARegularMaskBuff"], "children": ["FX/Creatures/ShadowBoss_Infusion00_Projectile_DLC3", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/IamAHostMaskBuff"]}

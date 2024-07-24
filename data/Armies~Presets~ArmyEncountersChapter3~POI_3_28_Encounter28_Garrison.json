@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/MoraleFlags/KingdomMoraleFlagChapter3", "GlobalMaps/WorldWoundGM/Points/Chapter03_28Army_Garrison06"], "children": ["Armies/UnitBlueprints/ArmyAshGiantStandart", "Armies/UnitBlueprints/ArmyDemonicKnights", "Armies/UnitBlueprints/ArmyOmoxStandard"]}
+{"parents": ["GlobalMaps/WorldWoundGM/Points/Chapter03_28Army_Garrison06", "Kingdom/MoraleFlags/KingdomMoraleFlagChapter3"], "children": ["Armies/UnitBlueprints/ArmyOmoxStandard", "Armies/UnitBlueprints/ArmyAshGiantStandart", "Armies/UnitBlueprints/ArmyDemonicKnights"]}

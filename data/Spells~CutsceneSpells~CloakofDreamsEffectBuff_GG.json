@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/DesnitsCastSleep/CommandAction", "World/Cutscenes/GrayGarrison/DesnitsCastSleep/CommandAction 1"], "children": ["Spells/CutsceneSpells/CloakofDreamsEffectBuff2_GG"]}
+{"parents": ["World/Cutscenes/GrayGarrison/DesnitsCastSleep/CommandAction 1", "World/Cutscenes/GrayGarrison/DesnitsCastSleep/CommandAction"], "children": ["Spells/CutsceneSpells/CloakofDreamsEffectBuff2_GG"]}

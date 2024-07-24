@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/Brains/BlizzardElementalBrain"], "children": ["Units/Monsters/AirElemental/AirElementalBrain/UnitsEnoughForWhirlwind", "Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/BlizzardElementalHugeWhirlwindAbility"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/Brains/BlizzardElementalBrain"], "children": ["Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/BlizzardElementalHugeWhirlwindAbility", "Units/Monsters/AirElemental/AirElementalBrain/UnitsEnoughForWhirlwind"]}

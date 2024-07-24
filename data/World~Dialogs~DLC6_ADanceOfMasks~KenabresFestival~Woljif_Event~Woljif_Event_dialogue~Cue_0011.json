@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Woljif_Event/Woljif_Event_dialogue/Answer_0010"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Quests/DLC6_ADanceOfMasks/Errands/Woljif_Event/Objective_0001", "Buffs/LocalMapMarker_Unit_ShowAlways"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Woljif_Event/Woljif_Event_dialogue/Answer_0010"], "children": ["Buffs/LocalMapMarker_Unit_ShowAlways", "World/Quests/DLC6_ADanceOfMasks/Errands/Woljif_Event/Objective_0001", "Units/Companions/Woljif/Woljif_Companion"]}

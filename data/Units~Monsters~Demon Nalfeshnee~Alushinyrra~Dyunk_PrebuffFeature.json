@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Nalfeshnee/Alushinyrra/DyunkSlaveTrader"], "children": ["Spells/Level1/MageArmorBuff", "Spells/Level3/HeroismBuff", "Spells/Level2/BullsStrengthBuff", "Spells/Level2/OwlsWisdomBuff", "Spells/Level2/BearsEnduranceBuff", "Spells/Level6/HeroismGreaterBuff"]}
+{"parents": ["Units/Monsters/Demon Nalfeshnee/Alushinyrra/DyunkSlaveTrader"], "children": ["Spells/Level2/BearsEnduranceBuff", "Spells/Level2/BullsStrengthBuff", "Spells/Level6/HeroismGreaterBuff", "Spells/Level3/HeroismBuff", "Spells/Level2/OwlsWisdomBuff", "Spells/Level1/MageArmorBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Galfrey_Incognito/Messenger_PseudoDialog/MessengerKnight_Pseudo_dialog"], "children": ["World/Dialogs/NPC_Common/Galfrey_Incognito/Messenger_PseudoDialog/AnswersList_0002"]}
+{"parents": ["World/Dialogs/NPC_Common/Galfrey_Incognito/Messenger_PseudoDialog/MessengerKnight_Pseudo_dialog", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Galfrey_Incognito/Messenger_PseudoDialog/AnswersList_0002"]}

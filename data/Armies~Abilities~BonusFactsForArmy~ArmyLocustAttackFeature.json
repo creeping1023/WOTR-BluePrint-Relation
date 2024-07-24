@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagLocust2Locust", "Armies/CrusadeGlobalBuffs/FlagLocust2Vescavor", "Armies/CrusadeGlobalBuffs/FlagLocust2Spiders"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyLocustAttack", "Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackFact"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagLocust2Spiders", "Armies/CrusadeGlobalBuffs/FlagLocust2Locust", "Armies/CrusadeGlobalBuffs/FlagLocust2Vescavor"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackFact", "Armies/Abilities/BonusFactsForArmy/ArmyLocustAttack"]}

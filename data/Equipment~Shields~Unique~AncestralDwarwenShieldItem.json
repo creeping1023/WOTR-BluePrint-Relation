@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Items/Standard/MartialOneHanded/StandardWeaponHeavyShield", "Equipment/Shields/Unique/AncestralDwarwenShieldArmorItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Shields/Unique/AncestralDwarwenShieldArmorItem", "Weapons/Items/Standard/MartialOneHanded/StandardWeaponHeavyShield", "Items/DestructibleItemsShards/MetalShardItem"]}

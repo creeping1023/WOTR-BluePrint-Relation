@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/EmberQ2_HealDemon/EmberQ2_HealDemon"], "children": ["Units/Companions/Ember/Ember_Companion", "Spells/Level3/CureSeriousWoundsCast"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/EmberQ2_HealDemon/EmberQ2_HealDemon"], "children": ["Spells/Level3/CureSeriousWoundsCast", "Units/Companions/Ember/Ember_Companion"]}

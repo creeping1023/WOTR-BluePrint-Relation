@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Ember/AnswersList_0003"], "children": ["World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0064", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Ember/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0064", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra"]}

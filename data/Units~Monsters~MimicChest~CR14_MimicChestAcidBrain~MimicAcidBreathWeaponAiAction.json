@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/MimicChest/CR14_MimicChestAcidBrain/CR14_MimicChestAcidBreath"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/MimicChest/MimicChestAcidWeapon"]}
+{"parents": ["Units/Monsters/MimicChest/CR14_MimicChestAcidBrain/CR14_MimicChestAcidBreath"], "children": ["Units/Monsters/MimicChest/MimicChestAcidWeapon", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

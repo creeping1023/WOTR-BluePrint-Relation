@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_WakeUp/gate4"], "children": ["Buffs/NPC_Untargetable", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_WakeUp/gate4"], "children": ["Factions/Mobs", "Buffs/NPC_Untargetable"]}

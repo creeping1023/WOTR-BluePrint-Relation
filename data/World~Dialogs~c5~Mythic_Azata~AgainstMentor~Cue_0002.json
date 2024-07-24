@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Azata/AgainstMentor/Cue_0001"], "children": ["World/Quests/MythicQuests/Azata/C4_WheresMyDragon/05_HeyMentor", "World/Dialogs/c5/Mythic_Azata/AgainstMentor/Cue_0012"]}
+{"parents": ["World/Dialogs/c5/Mythic_Azata/AgainstMentor/Cue_0001"], "children": ["World/Dialogs/c5/Mythic_Azata/AgainstMentor/Cue_0012", "World/Quests/MythicQuests/Azata/C4_WheresMyDragon/05_HeyMentor"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_EmberScene/gate1"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/EmberCompanion/EmberStates/EmberKilledInKenabres", "Units/Companions/Ember/Ember_Companion"]}
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_EmberScene/gate1"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/EmberCompanion/EmberStates/EmberKilledInKenabres"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIIBuff"], "children": ["Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIIEffectBuff", "Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastToggleSwitchActivateBuff"]}
+{"parents": ["Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIIBuff"], "children": ["Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastToggleSwitchActivateBuff", "Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIIEffectBuff"]}

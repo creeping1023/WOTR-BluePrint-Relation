@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyAssassin"], "children": ["Armies/Abilities/ArmyTeleportAtWillFeature", "Armies/Abilities/ArmyTeleportAtWillFeature", "Armies/Abilities/ArmyTeleportAtWillAbility", "Armies/Abilities/ArmyTeleportAtWillFeature"]}
+{"parents": ["Armies/UnitBlueprints/ArmyAssassin"], "children": ["Armies/Abilities/ArmyTeleportAtWillAbility", "Armies/Abilities/ArmyTeleportAtWillFeature"]}

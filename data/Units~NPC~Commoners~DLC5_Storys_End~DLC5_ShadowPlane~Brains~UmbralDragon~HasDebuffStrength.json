@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/UmbralDragon/DLC5_UmbralDragonBreathWeaponShadowAiAction"], "children": ["Root/SystemMechanics/Conditions/StrengthDamage", "Root/SystemMechanics/Conditions/StrengthDrain"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/UmbralDragon/DLC5_UmbralDragonBreathWeaponShadowAiAction"], "children": ["Root/SystemMechanics/Conditions/StrengthDrain", "Root/SystemMechanics/Conditions/StrengthDamage"]}

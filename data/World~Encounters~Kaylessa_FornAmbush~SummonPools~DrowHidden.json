@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Forn_Ambush_dialogue", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0025", "World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/CommandAction", "World/Cutscenes/Kaylessa_FornAmbush/PlayerGoesToForn/CommandAction 1"]}
+{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/PlayerGoesToForn/CommandAction 1", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Forn_Ambush_dialogue", "World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/CommandAction", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0025"]}

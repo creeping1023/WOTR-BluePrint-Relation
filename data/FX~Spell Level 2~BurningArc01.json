@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Aasimar/BurningArcAasimar", "Spells/Level2/BurningArc", "Spells/CutsceneSpells/BurningArc_Cutscene"], "children": ["FX/Spell Level 2/Scorching Ray00_Trajectory"]}
+{"parents": ["Spells/Level2/BurningArc", "Traits/Races/Aasimar/BurningArcAasimar", "Spells/CutsceneSpells/BurningArc_Cutscene"], "children": ["FX/Spell Level 2/Scorching Ray00_Trajectory"]}

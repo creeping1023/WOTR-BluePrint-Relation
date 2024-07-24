@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/Arsinoe_Defense/Answer_0005"], "children": ["World/Quests/c6/OutdoorDefense/Obj1_PrepareToStand", "World/Quests/c6/OutdoorDefense/Obj2_LastStand", "World/Cutscenes/ThresholdOutdoor/OutdoorAttacked/OutdoorAttacked"]}
+{"parents": ["World/Dialogs/Test/Arsinoe_Defense/Answer_0005"], "children": ["World/Cutscenes/ThresholdOutdoor/OutdoorAttacked/OutdoorAttacked", "World/Quests/c6/OutdoorDefense/Obj1_PrepareToStand", "World/Quests/c6/OutdoorDefense/Obj2_LastStand"]}

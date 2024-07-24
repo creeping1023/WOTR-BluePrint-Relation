@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/EstrodTower/MythicVisionsSpawn/gate 4"], "children": ["World/Cutscenes/EstrodTower/MythicVisionsSpawn/CommandAction 3", "World/Cutscenes/EstrodTower/MythicVisionsSpawn/CommandDelay 2", "World/Cutscenes/EstrodTower/MythicVisionsSpawn/gate 7"]}
+{"parents": ["World/Cutscenes/EstrodTower/MythicVisionsSpawn/gate 4"], "children": ["World/Cutscenes/EstrodTower/MythicVisionsSpawn/CommandDelay 2", "World/Cutscenes/EstrodTower/MythicVisionsSpawn/gate 7", "World/Cutscenes/EstrodTower/MythicVisionsSpawn/CommandAction 3"]}

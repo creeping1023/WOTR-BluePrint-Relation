@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Dragon/Hal_companion/Answer_0062", "World/Dialogs/c5/Mythic_Dragon/SevalrosDying/Cue_0009"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon/SevalrosLair"]}
+{"parents": ["World/Dialogs/c5/Mythic_Dragon/SevalrosDying/Cue_0009", "World/Dialogs/c5/Mythic_Dragon/Hal_companion/Answer_0062"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon/SevalrosLair"]}

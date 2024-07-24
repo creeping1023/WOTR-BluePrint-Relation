@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/LowerCity_WenduagTavernSleep/LowerCity_WenduagTavernSleep"], "children": ["World/Areas/Act_4_MidnightIsles/AlushinyrraLowerCity/EnterPoints/BadLuck_AfterSleep_Enter", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/LowerCity_WenduagTavernSleep/LowerCity_WenduagTavernSleep"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Areas/Act_4_MidnightIsles/AlushinyrraLowerCity/EnterPoints/BadLuck_AfterSleep_Enter"]}

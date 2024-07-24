@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0073", "Loot/Quest/GrayGarrison/LexiconPageGG"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Quest/GrayGarrison/LexiconPageGG", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0073", "Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Chapter02"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

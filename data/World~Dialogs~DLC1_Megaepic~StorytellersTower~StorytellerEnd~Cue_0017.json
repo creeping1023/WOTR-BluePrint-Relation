@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/StorytellerEnd/Answer_0013"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Storyteller", "World/Dialogs/DLC1_Megaepic/StorytellersTower/StorytellerEnd/Cue_5"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/StorytellerEnd/Answer_0013"], "children": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/StorytellerEnd/Cue_5", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Storyteller"]}

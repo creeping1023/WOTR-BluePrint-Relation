@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonBlackHoleAbility", "Mythic/Aeon/AeonSpells/BlackHole", "Spells/CutsceneSpells/MythicPowerUse_Cutscene_Aeon"]}
+{"parents": ["Spells/CutsceneSpells/MythicPowerUse_Cutscene_Aeon", "Mythic/Aeon/AeonBlackHoleAbility", "Mythic/Aeon/AeonSpells/BlackHole"]}

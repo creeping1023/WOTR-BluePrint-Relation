@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Labyrinth/Attack_Savameleh_Demon/CommandUnitCastSpell"], "children": ["Spells/CutsceneSpells/DemonPolymorph_Cutscene", "Spells/CutsceneSpells/DemonPolymorph_Cutscene", "FX/Cutscenes/DemonStrike00_Projectile", "Weapons/Types/Special/RayItem"]}
+{"parents": ["World/Cutscenes/Prologue_Labyrinth/Attack_Savameleh_Demon/CommandUnitCastSpell"], "children": ["Weapons/Types/Special/RayItem", "Spells/CutsceneSpells/DemonPolymorph_Cutscene", "FX/Cutscenes/DemonStrike00_Projectile"]}

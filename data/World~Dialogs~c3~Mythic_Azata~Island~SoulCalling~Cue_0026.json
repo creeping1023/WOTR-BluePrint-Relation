@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/SoulCalling/Answer_0019"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Ileks_DesnaPriest", "World/Dialogs/c3/Mythic_Azata/Island/SoulCalling/AnswersList_0017"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/SoulCalling/Answer_0019"], "children": ["World/Dialogs/c3/Mythic_Azata/Island/SoulCalling/AnswersList_0017", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Ileks_DesnaPriest"]}

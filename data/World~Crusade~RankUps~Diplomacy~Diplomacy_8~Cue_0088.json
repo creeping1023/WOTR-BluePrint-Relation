@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_8/CueSequence_0044"], "children": ["World/Crusade/RankUps/Diplomacy/Diplomacy_8/Cue_0063", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Drezen/DiplomatFromAndoran", "World/Crusade/RankUps/Diplomacy/Diplomacy_8/Cue_0089"]}
+{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_8/CueSequence_0044"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Drezen/DiplomatFromAndoran", "World/Crusade/RankUps/Diplomacy/Diplomacy_8/Cue_0089", "World/Crusade/RankUps/Diplomacy/Diplomacy_8/Cue_0063"]}

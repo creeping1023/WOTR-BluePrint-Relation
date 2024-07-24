@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Unique/LateChapters/WyrmwallArmorItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Shields/Unique/LateChapters/WyrmwallArmorItem", "Items/DestructibleItemsShards/MetalShardItem"]}

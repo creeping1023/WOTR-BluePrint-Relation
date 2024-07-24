@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/MoltenScar/Vorimeraak/Vorimeraak_main"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra/VorimeraakMet", "World/Dialogs/c3/MoltenScar/Vorimeraak/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c3/MoltenScar/Vorimeraak/Vorimeraak_main", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra/VorimeraakMet", "World/Dialogs/c3/MoltenScar/Vorimeraak/AnswersList_0002"]}

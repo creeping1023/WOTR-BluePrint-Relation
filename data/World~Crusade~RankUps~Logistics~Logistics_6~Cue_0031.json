@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Logistics/Logistics_6/CueSequence_0004"], "children": ["World/Crusade/RankUps/Logistics/Logistics_6/Cue_0008", "Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Crusade/RankUps/Logistics/Logistics_6/CueSequence_0004"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Crusade/RankUps/Logistics/Logistics_6/Cue_0008"]}

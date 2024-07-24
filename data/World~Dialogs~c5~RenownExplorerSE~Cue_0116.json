@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/RenownExplorerSE/Cue_0115"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c5/RenownExplorerSE/Cue_0162"]}
+{"parents": ["World/Dialogs/c5/RenownExplorerSE/Cue_0115"], "children": ["World/Dialogs/c5/RenownExplorerSE/Cue_0162", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

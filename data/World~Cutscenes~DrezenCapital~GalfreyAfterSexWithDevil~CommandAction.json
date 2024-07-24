@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/gate 2"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Galfrey/GalfreyRomance_AfterSexWithDevil", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff"]}
+{"parents": ["World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/gate 2"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Galfrey/GalfreyRomance_AfterSexWithDevil"]}

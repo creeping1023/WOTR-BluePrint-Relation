@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/RottenGutting/TorlekBrain/TorlekFeature"], "children": ["Spells/Level3/DisplacementBuff", "Spells/Level2/MirrorImageBuff", "Spells/Level1/MageShieldBuff", "Spells/Level4/DivinePowerBuff"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/RottenGutting/TorlekBrain/TorlekFeature"], "children": ["Spells/Level2/MirrorImageBuff", "Spells/Level3/DisplacementBuff", "Spells/Level4/DivinePowerBuff", "Spells/Level1/MageShieldBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialOneHanded/Battleaxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Shock"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Enchantments/Shock", "Weapons/Enchantments/Enhancement2", "Weapons/Types/MartialOneHanded/Battleaxe"]}

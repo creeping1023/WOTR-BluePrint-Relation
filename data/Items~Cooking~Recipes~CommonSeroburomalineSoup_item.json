@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/Tier1/VendorPortScrollsAndPotions/DLC3_Tier1VendorTableCooking", "Dugeons/Loot/DungeonLootExclude"], "children": ["Recipes/DefaultRecipe", "Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/Tier1/VendorPortScrollsAndPotions/DLC3_Tier1VendorTableCooking", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem", "Recipes/DefaultRecipe"]}

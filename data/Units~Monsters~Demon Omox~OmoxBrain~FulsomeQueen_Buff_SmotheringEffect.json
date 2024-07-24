@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Omox/OmoxBrain/FulsomeQueen_AreaEffect_Smothering"], "children": ["Buffs/Sickened", "Buffs/Nauseated", "Buffs/Sickened", "Buffs/Nauseated"]}
+{"parents": ["Units/Monsters/Demon Omox/OmoxBrain/FulsomeQueen_AreaEffect_Smothering"], "children": ["Buffs/Nauseated", "Buffs/Sickened"]}

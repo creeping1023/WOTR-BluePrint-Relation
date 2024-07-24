@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/gate2", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/DLC6_LannEvent_FreeFood"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/CommandAction1"]}
+{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/DLC6_LannEvent_FreeFood", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/gate2"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/CommandAction1"]}

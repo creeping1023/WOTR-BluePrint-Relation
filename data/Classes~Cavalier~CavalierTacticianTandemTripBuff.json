@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianSupportFeature", "Feats/Teamwork/TandemTrip", "Classes/Cavalier/CavalierTacticianAbilitySwift"], "children": ["Feats/Teamwork/TandemTrip", "Feats/Teamwork/TandemTrip"]}
+{"parents": ["Classes/Cavalier/CavalierTacticianAbilitySwift", "Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianSupportFeature", "Feats/Teamwork/TandemTrip"], "children": ["Feats/Teamwork/TandemTrip"]}

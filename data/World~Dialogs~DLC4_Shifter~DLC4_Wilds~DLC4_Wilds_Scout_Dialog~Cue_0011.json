@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_Scout_Dialog/Answer_0010"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Rangers/DLC4_Human_Ranger_Male_CR7", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_Scout_Dialog/AnswersList_0001"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_Scout_Dialog/Answer_0010"], "children": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_Scout_Dialog/AnswersList_0001", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Rangers/DLC4_Human_Ranger_Male_CR7"]}

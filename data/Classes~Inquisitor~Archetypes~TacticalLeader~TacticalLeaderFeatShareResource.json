@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderFeatShareAbility", "Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderFeatShareFeature"], "children": ["Classes/Inquisitor/InquisitorClass"]}
+{"parents": ["Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderFeatShareFeature", "Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderFeatShareAbility"], "children": ["Classes/Inquisitor/InquisitorClass"]}

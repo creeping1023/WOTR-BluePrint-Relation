@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusDagger"], "children": ["Weapons/Types/SimpleLight/Dagger", "Feats/WeaponFocus/WeaponFocusDagger", "Classes/Fighter/FighterClass", "Weapons/Types/SimpleLight/PunchingDagger"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusDagger"], "children": ["Feats/WeaponFocus/WeaponFocusDagger", "Weapons/Types/SimpleLight/Dagger", "Weapons/Types/SimpleLight/PunchingDagger", "Classes/Fighter/FighterClass"]}

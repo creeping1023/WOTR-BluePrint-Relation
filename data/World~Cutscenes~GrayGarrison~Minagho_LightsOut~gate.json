@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/Minagho_LightsOut/Minagho_LightsOut"], "children": ["World/Cutscenes/GrayGarrison/Minagho_LightsOut/CommandStartDialog", "World/Cutscenes/GrayGarrison/Minagho_LightsOut/gate 1"]}
+{"parents": ["World/Cutscenes/GrayGarrison/Minagho_LightsOut/Minagho_LightsOut"], "children": ["World/Cutscenes/GrayGarrison/Minagho_LightsOut/gate 1", "World/Cutscenes/GrayGarrison/Minagho_LightsOut/CommandStartDialog"]}

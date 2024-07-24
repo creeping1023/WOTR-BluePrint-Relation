@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Act_4_MidnightIsles/BattleBliss/EnterPoints/ExitFromArena", "World/Encounters/BattleBliss/ScriptZones/Lava", "World/Cutscenes/Ziggurat/AttackAfterRitual_CounselorKilled/CommandAction 6"]}
+{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_CounselorKilled/CommandAction 6", "World/Encounters/BattleBliss/ScriptZones/Lava", "World/Areas/Act_4_MidnightIsles/BattleBliss/EnterPoints/ExitFromArena"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/WarCamp/ScriptZones/EmberWithSoldier"], "children": ["World/Dialogs/c2_vs/Ember_Soldier_Event/Cue_0001", "World/Etudes/WarCamp/WarCamp_EmberWithSoldier"]}
+{"parents": ["World/Encounters/WarCamp/ScriptZones/EmberWithSoldier"], "children": ["World/Etudes/WarCamp/WarCamp_EmberWithSoldier", "World/Dialogs/c2_vs/Ember_Soldier_Event/Cue_0001"]}

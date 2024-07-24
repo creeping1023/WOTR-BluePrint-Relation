@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/Cue_0044"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/Cue_0015"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/Cue_0044"], "children": ["World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/Cue_0015", "Units/Companions/Seelah/Seelah_Companion"]}

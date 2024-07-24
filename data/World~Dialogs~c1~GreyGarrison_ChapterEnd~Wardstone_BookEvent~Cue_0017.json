@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterEnd/Wardstone_BookEvent/BookPage_0013", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["Weapons/Items/UniquePF2/Chapter1/CrystalDaggerItem", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerAcceptedAeonEyes"]}
+{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterEnd/Wardstone_BookEvent/BookPage_0013", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerAcceptedAeonEyes", "Weapons/Items/UniquePF2/Chapter1/CrystalDaggerItem"]}

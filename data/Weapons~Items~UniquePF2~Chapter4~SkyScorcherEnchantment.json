@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter4/SkyScorcherItem"], "children": ["CreatureAbilities/Subtypes/Airborne", "Buffs/Stunned"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter4/SkyScorcherItem"], "children": ["Buffs/Stunned", "CreatureAbilities/Subtypes/Airborne"]}

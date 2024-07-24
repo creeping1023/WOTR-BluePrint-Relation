@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0881"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Galfrey/GalfreyTrueFeelings", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0883"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0881"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0883", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Galfrey/GalfreyTrueFeelings"]}

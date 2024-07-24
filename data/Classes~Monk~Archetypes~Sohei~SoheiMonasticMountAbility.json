@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/Sohei/SoheiMonasticMountFeature"], "children": ["Classes/Monk/Archetypes/Sohei/SoheiMonasticMountBuff", "Classes/Monk/KiPowers/KiPowerResource", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/Archetypes/Sohei/SoheiMonasticMountFeature"], "children": ["Classes/Monk/MonkClass", "Classes/Monk/KiPowers/KiPowerResource", "Classes/Monk/Archetypes/Sohei/SoheiMonasticMountBuff"]}

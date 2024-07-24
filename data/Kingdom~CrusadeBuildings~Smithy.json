@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingSmithy", "Kingdom/Settlement/Settlement00_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/Settlement/Settlement00_Drezen", "Armies/Abilities/BonusFactsForArmy/ArmyBuildingSmithy"]}

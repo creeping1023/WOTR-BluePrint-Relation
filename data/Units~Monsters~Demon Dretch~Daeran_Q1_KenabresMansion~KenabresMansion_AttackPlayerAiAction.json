@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/KenabresMansion_Brain_AttackPlayer"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/NoTastyBuff_Consideration"]}
+{"parents": ["Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/KenabresMansion_Brain_AttackPlayer"], "children": ["Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/NoTastyBuff_Consideration", "Brain/Considerations/AttackTargetsPriority"]}

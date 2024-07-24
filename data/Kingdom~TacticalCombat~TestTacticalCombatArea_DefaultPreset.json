@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/TacticalCombat/TestTacticalCombatArea"], "children": ["Kingdom/TacticalCombat/TestTacticalCombatArea", "Kingdom/TacticalCombat/TestTacticalCombatArea_Enter", "PlayerFighterPregen", "DLC/MainGame/MainCampaign"]}
+{"parents": ["Kingdom/TacticalCombat/TestTacticalCombatArea"], "children": ["PlayerFighterPregen", "Kingdom/TacticalCombat/TestTacticalCombatArea", "Kingdom/TacticalCombat/TestTacticalCombatArea_Enter", "DLC/MainGame/MainCampaign"]}

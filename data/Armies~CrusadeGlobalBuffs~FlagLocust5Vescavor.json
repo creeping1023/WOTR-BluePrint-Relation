@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp05_Option04"], "children": ["Armies/UnitBlueprints/ArmyVescavorSwarmStandard", "Armies/Abilities/BonusFactsForArmy/ArmyLocust5Speed"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp05_Option04"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyLocust5Speed", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]}

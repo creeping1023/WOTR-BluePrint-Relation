@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/TotalPlus4/Holy/StandardDoubleAxeHolyPlus3", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus4/Holy/StandardDoubleAxeHolyPlus3"], "children": ["Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

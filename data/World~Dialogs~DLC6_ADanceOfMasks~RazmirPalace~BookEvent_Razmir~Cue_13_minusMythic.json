@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/BookEvent_Razmir/BookPage_0015"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend", "World/Encounters/DC6_RazmirDungeon/UnlockableFlags/DLC6_RazmirCurse"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/BookEvent_Razmir/BookPage_0015"], "children": ["World/Encounters/DC6_RazmirDungeon/UnlockableFlags/DLC6_RazmirCurse", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend"]}

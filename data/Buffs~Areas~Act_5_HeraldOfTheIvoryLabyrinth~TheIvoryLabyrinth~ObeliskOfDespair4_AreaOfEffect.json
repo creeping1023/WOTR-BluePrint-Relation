@@ -1,1 +1,1 @@
-{"parents": ["Buffs/Areas/Act_5_HeraldOfTheIvoryLabyrinth/TheIvoryLabyrinth/ObeliskOfDespair_CarrierBuff"], "children": ["Spells/Level3/GoodHopeBuff", "Spells/CutsceneSpells/TheIvoryLabyrinth/ObeliskOfDespair_CrushingDespairBuff", "Spells/CutsceneSpells/TheIvoryLabyrinth/ObeliskOfDespair_CrushingDespairBuff"]}
+{"parents": ["Buffs/Areas/Act_5_HeraldOfTheIvoryLabyrinth/TheIvoryLabyrinth/ObeliskOfDespair_CarrierBuff"], "children": ["Spells/CutsceneSpells/TheIvoryLabyrinth/ObeliskOfDespair_CrushingDespairBuff", "Spells/Level3/GoodHopeBuff"]}

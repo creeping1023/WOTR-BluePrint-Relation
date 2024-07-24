@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/KTC_GreyborAlarm/Check_0014"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/KTC_GreyborAlarm/AnswersList_0004"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/KTC_GreyborAlarm/Check_0014"], "children": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/KTC_GreyborAlarm/AnswersList_0004", "Units/Companions/Greybor/Greybor_Companion"]}

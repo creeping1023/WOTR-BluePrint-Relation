@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot", "Classes/Prototype/PrototypeProgression", "Classes/Sorcerer/SorcererProgression"], "children": ["Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}
+{"parents": ["Classes/Prototype/PrototypeProgression", "Classes/Sorcerer/SorcererProgression", "Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}

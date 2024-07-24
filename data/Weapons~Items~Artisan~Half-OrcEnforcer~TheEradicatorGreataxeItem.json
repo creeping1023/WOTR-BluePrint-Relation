@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level5/SlayLiving", "Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Unholy"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Unholy", "Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement4", "Spells/Level5/SlayLiving"]}

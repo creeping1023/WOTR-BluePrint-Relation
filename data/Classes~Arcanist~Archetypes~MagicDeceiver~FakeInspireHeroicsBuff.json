@@ -1,1 +1,1 @@
-{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/FakeInspireHeroicsToggleAbility"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/FakeInspireHeroicsArea", "Feats/DLC6/HarmonicSpell", "Classes/Bard/BardicPerformances/BardicPerformanceResource"]}
+{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/FakeInspireHeroicsToggleAbility"], "children": ["Feats/DLC6/HarmonicSpell", "Classes/Arcanist/Archetypes/MagicDeceiver/FakeInspireHeroicsArea", "Classes/Bard/BardicPerformances/BardicPerformanceResource"]}

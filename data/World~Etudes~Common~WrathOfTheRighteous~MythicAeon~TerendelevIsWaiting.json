@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonStates/TerendelevWasNotKilled"], "children": ["World/Dialogs/c5/Mythic_Aeon/TerendelevPresent/TerendelevPresent_dialogue", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonKenabresRebuildedMechanic"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonStates/TerendelevWasNotKilled"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonKenabresRebuildedMechanic", "World/Dialogs/c5/Mythic_Aeon/TerendelevPresent/TerendelevPresent_dialogue"]}

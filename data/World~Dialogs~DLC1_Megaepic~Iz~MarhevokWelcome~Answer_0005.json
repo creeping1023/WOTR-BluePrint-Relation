@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokWelcome/AnswersList_0001", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokWelcome/Answer_0009", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokMain/MarhevokMain_dialogue"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokWelcome/Cue_0006"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokMain/MarhevokMain_dialogue", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokWelcome/AnswersList_0001", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokWelcome/Answer_0009"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokWelcome/Cue_0006"]}

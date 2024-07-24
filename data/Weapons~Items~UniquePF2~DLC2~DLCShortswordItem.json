@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/PF2_RichHuman_MarketBox_on_OrchPit"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DLC2_Shortsword_Fake", "Weapons/Items/UniquePF2/DLC2/DLCShortswordEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/PF2_RichHuman_MarketBox_on_OrchPit"], "children": ["Weapons/Items/UniquePF2/DLC2/DLCShortswordEnchantment", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DLC2_Shortsword_Fake"]}

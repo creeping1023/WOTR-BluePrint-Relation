@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Ziggurat/KTC_ZachariusFirstCall/KTC_ZachariusFirstCall"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/Zacharius/Zacharius", "World/Dialogs/c3/Ziggurat/KTC_ZachariusFirstCall/Cue_0013"]}
+{"parents": ["World/Dialogs/c3/Ziggurat/KTC_ZachariusFirstCall/KTC_ZachariusFirstCall"], "children": ["World/Dialogs/c3/Ziggurat/KTC_ZachariusFirstCall/Cue_0013", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/Zacharius/Zacharius"]}

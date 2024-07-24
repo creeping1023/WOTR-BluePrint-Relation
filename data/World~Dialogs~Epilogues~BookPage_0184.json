@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_Mythics"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "World/Dialogs/Epilogues/Cue_0521", "World/Dialogs/Epilogues/Cue_0197", "World/Dialogs/Epilogues/Cue_0510", "World/Dialogs/Epilogues/Answer_0198"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_Mythics"], "children": ["World/Dialogs/Epilogues/Cue_0197", "World/Dialogs/Epilogues/Answer_0198", "World/Dialogs/Epilogues/Cue_0510", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "World/Dialogs/Epilogues/Cue_0521"]}

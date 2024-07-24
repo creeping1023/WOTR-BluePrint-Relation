@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_Scout_Dialog/Answer_0001"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Rangers/DLC4_Human_Ranger_Male_CR7", "World/Cutscenes/DLC4_Wilds/DLC4_WolfSacra_Scouts/DLC4_WolfSacra_Scouts"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_Scout_Dialog/Answer_0001"], "children": ["World/Cutscenes/DLC4_Wilds/DLC4_WolfSacra_Scouts/DLC4_WolfSacra_Scouts", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Rangers/DLC4_Human_Ranger_Male_CR7"]}

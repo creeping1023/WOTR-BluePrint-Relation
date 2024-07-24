@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/MutasafenLair/MutasafenNotesTargona"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Quest/MutasafenLair/MutasafenNotesTargona", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

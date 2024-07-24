@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaAfterBear/Cue_0056", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c3/Wintersun/SoanaAfterBear/Cue_0057"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c3/Wintersun/SoanaAfterBear/Cue_0057", "World/Dialogs/c3/Wintersun/SoanaAfterBear/Cue_0056"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

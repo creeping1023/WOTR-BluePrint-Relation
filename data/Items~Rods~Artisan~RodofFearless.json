@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/Rods/Artisan/RodofFearless/FearlessRodFeature", "Items/DestructibleItemsShards/MetalShardItem", "Items/Rods/Artisan/RodofFearless/FearlessFearlessAbility"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Rods/Artisan/RodofFearless/FearlessRodFeature", "Items/Rods/Artisan/RodofFearless/FearlessFearlessAbility"]}

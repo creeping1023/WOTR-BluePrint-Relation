@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHead", "Weapons/Enchantments/Enhancement3", "Weapons/Items/Unique/EE/SoporiferousEnchantment", "Weapons/Items/Unique/EE/SoporiferousSecondItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/EE/SoporiferousSecondItem", "Weapons/Items/Unique/EE/SoporiferousEnchantment", "Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHead", "Weapons/Enchantments/Enhancement3"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/Disenchanter/BanishEnchantmentFeature"], "children": ["Classes/Warpriest/WarpriestFervorResource", "Classes/Warpriest/WarpriestClass"]}
+{"parents": ["Classes/Warpriest/Archetypes/Disenchanter/BanishEnchantmentFeature"], "children": ["Classes/Warpriest/WarpriestClass", "Classes/Warpriest/WarpriestFervorResource"]}

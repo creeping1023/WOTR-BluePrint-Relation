@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_NalfeshneeBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Abilities/ArmySummonVrock"]}
+{"parents": ["Armies/Brains/TacticalCombat_NalfeshneeBrain"], "children": ["Armies/Abilities/ArmySummonVrock", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"]}

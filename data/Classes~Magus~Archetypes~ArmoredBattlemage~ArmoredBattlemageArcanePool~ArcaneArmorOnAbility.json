@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArmoredBattlemageArcanePoolFeature"], "children": ["Classes/Magus/ArcanePool/ArcanePoolResourse", "Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorOnBuff"]}
+{"parents": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArmoredBattlemageArcanePoolFeature"], "children": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorOnBuff", "Classes/Magus/ArcanePool/ArcanePoolResourse"]}

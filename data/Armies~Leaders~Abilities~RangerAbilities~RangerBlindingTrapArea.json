@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerBlindingTrapAbility"], "children": ["Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower", "Buffs/Stunned"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerBlindingTrapAbility"], "children": ["Buffs/Stunned", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}

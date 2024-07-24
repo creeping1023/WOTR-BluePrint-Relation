@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/Chapter2/LongshankBane"], "children": ["Races/HumanRace", "Races/HalfElfRace", "Races/ElfRace", "Races/HalfOrcRace", "Traits/Races/Common/GiantSubtype", "Races/HumanRace", "Races/HalfElfRace", "Races/ElfRace", "Races/HalfOrcRace", "Traits/Races/Common/GiantSubtype"]}
+{"parents": ["Weapons/Items/Unique/Chapter2/LongshankBane"], "children": ["Races/HalfOrcRace", "Traits/Races/Common/GiantSubtype", "Races/HalfElfRace", "Races/ElfRace", "Races/HumanRace"]}

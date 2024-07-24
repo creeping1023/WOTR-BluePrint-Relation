@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryFrostEnchantment", "Weapons/Enchantments/Frost"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Frost", "Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryFrostEnchantment"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/AnswersList_0014", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Answer_0025"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0018"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Answer_0025", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/AnswersList_0014", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0018"]}

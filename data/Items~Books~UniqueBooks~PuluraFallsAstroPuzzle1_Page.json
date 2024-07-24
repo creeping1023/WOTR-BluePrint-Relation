@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/PuluraFall/dagger [6] + PuzzleLoot", "Loot/Quest/PuluraFall/LootPoor_18"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/PuluraFall/dagger [6] + PuzzleLoot", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/PuluraFall/LootPoor_18"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

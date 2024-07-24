@@ -1,1 +1,1 @@
-{"parents": ["Items/Quivers/HolyArrowsQuiver/HolyArrowsQuiverItem", "Items/Quivers/ColorlessRemainsQuiver/ColorlessRemainsQuiver_IntermediateItem"], "children": ["Items/Quivers/HolyArrowsQuiver/HolyArrowsQuiverBuff"]}
+{"parents": ["Items/Quivers/ColorlessRemainsQuiver/ColorlessRemainsQuiver_IntermediateItem", "Items/Quivers/HolyArrowsQuiver/HolyArrowsQuiverItem"], "children": ["Items/Quivers/HolyArrowsQuiver/HolyArrowsQuiverBuff"]}

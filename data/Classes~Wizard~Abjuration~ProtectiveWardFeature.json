@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Abjuration/SpecializationSchoolAbjuration"], "children": ["Classes/Wizard/Abjuration/ProtectiveWardAbility", "Classes/Wizard/Abjuration/ProtectiveWardAbility", "Classes/Wizard/Abjuration/ProtectiveWardResource"]}
+{"parents": ["Classes/Wizard/Abjuration/SpecializationSchoolAbjuration"], "children": ["Classes/Wizard/Abjuration/ProtectiveWardResource", "Classes/Wizard/Abjuration/ProtectiveWardAbility"]}

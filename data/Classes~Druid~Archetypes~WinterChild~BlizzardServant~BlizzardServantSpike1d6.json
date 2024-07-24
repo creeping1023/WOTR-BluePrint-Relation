@@ -1,1 +1,1 @@
-{"parents": ["Classes/Druid/Archetypes/WinterChild/BlizzardServant/BlizzardServantUnit", "Dugeons/Loot/DungeonLootExclude"], "children": ["FX/Spell Level 1/SnowBall00", "Weapons/Types/NaturalWeapon/SpikeType", "Weapons/Types/MartialRanged/StrengthThrown"]}
+{"parents": ["Classes/Druid/Archetypes/WinterChild/BlizzardServant/BlizzardServantUnit", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/SpikeType", "FX/Spell Level 1/SnowBall00", "Weapons/Types/MartialRanged/StrengthThrown"]}

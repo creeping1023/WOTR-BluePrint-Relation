@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/Answer_0029"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/Answer_0029"], "children": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/RadianceFound/AnswersList_0002", "Units/Companions/Seelah/Seelah_Companion"]}

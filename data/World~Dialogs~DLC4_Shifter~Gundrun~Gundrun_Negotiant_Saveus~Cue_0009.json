@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Negotiant_Saveus/Cue_0008"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/DLC4_NegociantSecondState", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Negotiant_Saveus/AnswersList_0001"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Negotiant_Saveus/Cue_0008"], "children": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Negotiant_Saveus/AnswersList_0001", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/DLC4_NegociantSecondState"]}

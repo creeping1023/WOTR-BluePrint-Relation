@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Healer"], "children": ["World/Encounters/DLC2_RichQuarter/LesserRestorationBuff_Healer", "Spells/Level2/RestorationLesser", "World/Encounters/DLC2_RichQuarter/LesserRestorationBuff_Healer", "Traits/Races/Aasimar/RestorationLesserAasimar"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Healer"], "children": ["Traits/Races/Aasimar/RestorationLesserAasimar", "Spells/Level2/RestorationLesser", "World/Encounters/DLC2_RichQuarter/LesserRestorationBuff_Healer"]}

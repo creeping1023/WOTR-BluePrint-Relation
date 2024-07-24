@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/MidnightFane/MidnightFane_SuccubusDialogStart/gate"], "children": ["World/Encounters/MidnightFane/SummonPools/MidnightFane_SuccubusPriestessPool", "World/Cutscenes/WarCamp/WarCamp_Ambience_Relax/WarCamp_Ambience_Relax"]}
+{"parents": ["World/Cutscenes/MidnightFane/MidnightFane_SuccubusDialogStart/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_Ambience_Relax/WarCamp_Ambience_Relax", "World/Encounters/MidnightFane/SummonPools/MidnightFane_SuccubusPriestessPool"]}

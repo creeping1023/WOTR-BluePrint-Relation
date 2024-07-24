@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_Flowers/DLC5_Storasta_Flowers"], "children": ["Buffs/NPC_Untargetable", "Factions/CutsceneNeutrals"]}
+{"parents": ["World/Cutscenes/DLC5_Storasta/DLC5_Storasta_Flowers/DLC5_Storasta_Flowers"], "children": ["Factions/CutsceneNeutrals", "Buffs/NPC_Untargetable"]}

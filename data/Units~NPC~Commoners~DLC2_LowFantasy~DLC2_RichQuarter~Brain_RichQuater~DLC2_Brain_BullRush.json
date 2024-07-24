@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_RichQuarter/CR2_Cultist_FighterMeleeV4_RichQuater_DLC2"], "children": ["Brain/Actions/ChargeAiAction", "Brain/Actions/AttackAiAction", "Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/HepzamirahBrain/Hepzamirah_BullRushAIAction"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_RichQuarter/CR2_Cultist_FighterMeleeV4_RichQuater_DLC2"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/HepzamirahBrain/Hepzamirah_BullRushAIAction", "Brain/Actions/ChargeAiAction", "Brain/Actions/AttackAiAction"]}

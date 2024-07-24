@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/LostChapel/ActionsHolders/RiseLadder_CheckPassedActions"], "children": ["World/Cutscenes/LostChapel/RiseLadder/CommandFadeout", "World/Cutscenes/LostChapel/RiseLadder/CommandDelay", "World/Cutscenes/LostChapel/RiseLadder/CommandAction"]}
+{"parents": ["World/Encounters/LostChapel/ActionsHolders/RiseLadder_CheckPassedActions"], "children": ["World/Cutscenes/LostChapel/RiseLadder/CommandFadeout", "World/Cutscenes/LostChapel/RiseLadder/CommandAction", "World/Cutscenes/LostChapel/RiseLadder/CommandDelay"]}

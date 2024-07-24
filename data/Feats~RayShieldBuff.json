@@ -1,1 +1,1 @@
-{"parents": ["Feats/RayShield"], "children": ["Equipment/Shields/Types/BucklerType", "Equipment/Shields/Types/LightShieldType", "Equipment/Shields/Types/HeavyShieldType", "Equipment/Shields/Types/TowerShieldType"]}
+{"parents": ["Feats/RayShield"], "children": ["Equipment/Shields/Types/TowerShieldType", "Equipment/Shields/Types/BucklerType", "Equipment/Shields/Types/HeavyShieldType", "Equipment/Shields/Types/LightShieldType"]}

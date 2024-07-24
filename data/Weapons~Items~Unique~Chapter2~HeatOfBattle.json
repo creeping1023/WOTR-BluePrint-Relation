@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Greataxe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Flaming"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Flaming", "Weapons/Enchantments/Enhancement3", "Weapons/Types/MartialTwoHanded/Greataxe"]}

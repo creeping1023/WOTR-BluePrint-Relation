@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_DerakniDrone", "Armies/Brains/Actions/TacticalCombatAiAttackMad"]}
+{"parents": ["Armies/Brains/Actions/TacticalCombatAiAttackMad", "Armies/Brains/Actions/TacticalCombat_AIAction_DerakniDrone"]}

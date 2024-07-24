@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenKiPoisonFeature"], "children": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowerResource", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenKiPoison", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenKiPoisonFeature"], "children": ["Classes/Monk/MonkClass", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowerResource", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenKiPoison"]}

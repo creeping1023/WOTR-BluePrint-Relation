@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demon Incubus/IncubusBandLair/IncubusBandLair_IncubusBoss_Brain"], "children": ["Units/NPC/Commoners/Duergars/DuergarDruidBrain/DuergarDruid_VinetrapConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level8/Vinetrap"]}
+{"parents": ["Units/NPC/Commoners/Demon Incubus/IncubusBandLair/IncubusBandLair_IncubusBoss_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/NPC/Commoners/Duergars/DuergarDruidBrain/DuergarDruid_VinetrapConsideration", "Spells/Level8/Vinetrap"]}

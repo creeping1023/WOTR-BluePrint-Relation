@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Irabeth/Check_0101", "World/Dialogs/NPC_Common/Irabeth/Check_0096", "World/Quests/c3/Errands/SolemnHour/Objective_0001", "World/Dialogs/NPC_Common/Irabeth/Check_0097"], "children": ["World/Quests/c3/Errands/SolemnHour/Objective_0001"]}
+{"parents": ["World/Dialogs/NPC_Common/Irabeth/Check_0097", "World/Quests/c3/Errands/SolemnHour/Objective_0001", "World/Dialogs/NPC_Common/Irabeth/Check_0096", "World/Dialogs/NPC_Common/Irabeth/Check_0101"], "children": ["World/Quests/c3/Errands/SolemnHour/Objective_0001"]}

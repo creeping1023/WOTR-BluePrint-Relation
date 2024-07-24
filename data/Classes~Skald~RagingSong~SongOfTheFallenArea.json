@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/RagingSong/SongOfTheFallenBuff"], "children": ["Mythic/Lich/LichSpells/SongOfTheFallenResurrectionBuff", "Classes/Skald/RagingSong/SongOfTheFallenEffectBuff"]}
+{"parents": ["Classes/Skald/RagingSong/SongOfTheFallenBuff"], "children": ["Classes/Skald/RagingSong/SongOfTheFallenEffectBuff", "Mythic/Lich/LichSpells/SongOfTheFallenResurrectionBuff"]}

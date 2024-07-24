@@ -1,1 +1,1 @@
-{"parents": ["Root/TrashLootSettings", "Loot/Trash/CR0/Forest_DLC6_FKTrashLoot_01", "Loot/Trash/CR15/PF2_Demons_market_place_box_01 (1)", "Root/TrashLootSettings_DLC3", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Trash/CR0/Forest_DLC6_FKTrashLoot_01", "Root/TrashLootSettings_DLC3", "Root/TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Trash/CR15/PF2_Demons_market_place_box_01 (1)"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

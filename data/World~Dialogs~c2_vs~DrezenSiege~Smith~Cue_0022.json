@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0020"], "children": ["Weapons/Items/UniquePF2/RadianceMasterwork", "Weapons/Items/UniquePF2/RadiancePlus1ITem", "Weapons/Items/UniquePF2/RadiancePlus2", "World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0023"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0020"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0023", "Weapons/Items/UniquePF2/RadianceMasterwork", "Weapons/Items/UniquePF2/RadiancePlus1ITem", "Weapons/Items/UniquePF2/RadiancePlus2"]}

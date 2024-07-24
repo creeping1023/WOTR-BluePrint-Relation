@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Hepzamirah", "Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/HepzamirahBrain/Hepzamirah_ShatteringAbilityAIAction", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/HepzamirahFleshmarket"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/HepzamirahBrain/Hepzamirah_ShatteringAbilityAIAction", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/HepzamirahFleshmarket", "Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Hepzamirah"]}

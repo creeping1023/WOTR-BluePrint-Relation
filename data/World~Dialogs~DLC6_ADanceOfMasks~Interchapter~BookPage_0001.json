@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/Interchapter/DLC6_interchapter_after"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust", "World/Dialogs/DLC6_ADanceOfMasks/Interchapter/Cue_0002", "World/Dialogs/DLC6_ADanceOfMasks/Interchapter/Answer_0003"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/Interchapter/DLC6_interchapter_after"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/Interchapter/Answer_0003", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust", "World/Dialogs/DLC6_ADanceOfMasks/Interchapter/Cue_0002"]}

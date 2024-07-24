@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/ArueshalaeFirstSex/ArueshalaeFirstSex"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/Companions/CompanionRomances/Arueshalae/Main_C5/BestEnding/Arueshalae_Romance_BestEnding_Dialogue"]}
+{"parents": ["World/Cutscenes/DrezenCapital/ArueshalaeFirstSex/ArueshalaeFirstSex"], "children": ["World/Dialogs/Companions/CompanionRomances/Arueshalae/Main_C5/BestEnding/Arueshalae_Romance_BestEnding_Dialogue", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

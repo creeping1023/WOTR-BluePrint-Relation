@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/GateGuard/CueSequence_0109"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Encounters/AlushinyrraCity/UnlockableFlags/GateRenown", "World/Dialogs/c4/GateGuard/Cue_0112"]}
+{"parents": ["World/Dialogs/c4/GateGuard/CueSequence_0109", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c4/GateGuard/Cue_0112", "World/Encounters/AlushinyrraCity/UnlockableFlags/GateRenown"]}

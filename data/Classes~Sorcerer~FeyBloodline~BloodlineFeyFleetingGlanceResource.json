@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/FeyBloodline/BloodlineFeyFleetingGlanceAbilily", "Classes/Sorcerer/FeyBloodline/BloodlineFeyFleetingGlanceFeature"], "children": ["Classes/Sorcerer/SorcererClass", "Classes/Magus/MagusClass", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype"]}
+{"parents": ["Classes/Sorcerer/FeyBloodline/BloodlineFeyFleetingGlanceAbilily", "Classes/Sorcerer/FeyBloodline/BloodlineFeyFleetingGlanceFeature"], "children": ["Classes/Sorcerer/SorcererClass", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusClass"]}

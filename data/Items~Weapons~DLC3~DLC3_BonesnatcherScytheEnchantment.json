@@ -1,1 +1,1 @@
-{"parents": ["Items/Weapons/DLC3/DLC3_BonesnatcherScytheWeaponItem"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "CreatureAbilities/Incorporeal"]}
+{"parents": ["Items/Weapons/DLC3/DLC3_BonesnatcherScytheWeaponItem"], "children": ["CreatureAbilities/Incorporeal", "Weapons/Types/MartialTwoHanded/Scythe"]}

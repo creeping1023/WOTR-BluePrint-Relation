@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC4_Wilds/ActionsHolders/Wilds_corpse_true"], "children": ["World/Cutscenes/DLC4_Wilds/Corpse_cutscene/CommandFadeout", "World/Cutscenes/DLC4_Wilds/Corpse_cutscene/CommandDelay", "World/Cutscenes/DLC4_Wilds/Corpse_cutscene/CommandAction"]}
+{"parents": ["World/Encounters/DLC4_Wilds/ActionsHolders/Wilds_corpse_true"], "children": ["World/Cutscenes/DLC4_Wilds/Corpse_cutscene/CommandDelay", "World/Cutscenes/DLC4_Wilds/Corpse_cutscene/CommandFadeout", "World/Cutscenes/DLC4_Wilds/Corpse_cutscene/CommandAction"]}

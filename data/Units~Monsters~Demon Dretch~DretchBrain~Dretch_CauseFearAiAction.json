@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Dretch/DretchBrain/Dretch_Brain_CauseFear"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffShaken", "Brain/Considerations/NoBuffFrightened", "Spells/Level1/CauseFear"]}
+{"parents": ["Units/Monsters/Demon Dretch/DretchBrain/Dretch_Brain_CauseFear"], "children": ["Spells/Level1/CauseFear", "Brain/Considerations/NoBuffShaken", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffFrightened"]}

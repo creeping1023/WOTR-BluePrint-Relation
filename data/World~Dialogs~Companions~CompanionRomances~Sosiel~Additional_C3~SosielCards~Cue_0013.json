@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Additional_C3/SosielCards/Cue_0012"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/Companions/CompanionRomances/Sosiel/Additional_C3/SosielCards/AnswersList_0014"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Additional_C3/SosielCards/Cue_0012"], "children": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Additional_C3/SosielCards/AnswersList_0014", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

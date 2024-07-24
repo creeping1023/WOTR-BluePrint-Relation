@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR19/PF2_CoolDemons_AbyssPolitics"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Good/CR19/PF2_CoolDemons_AbyssPolitics", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

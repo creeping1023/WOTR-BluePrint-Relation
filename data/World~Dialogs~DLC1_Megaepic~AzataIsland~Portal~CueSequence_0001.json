@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_5"], "children": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_23", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_18", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/SequenceExit_0002"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_5"], "children": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/SequenceExit_0002", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_23", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_18"]}

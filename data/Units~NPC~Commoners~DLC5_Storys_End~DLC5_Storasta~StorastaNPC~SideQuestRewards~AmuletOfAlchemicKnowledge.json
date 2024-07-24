@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR10/Forest_Mo", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/StorastaNPC/SideQuestRewards/AmuletOfAlchemicKnowledgeEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Loot/Good/CR10/Forest_Mo", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/StorastaNPC/SideQuestRewards/AmuletOfAlchemicKnowledgeEnchantment"]}

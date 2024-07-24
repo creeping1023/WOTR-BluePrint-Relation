@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceDiamondSoulMass", "Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceDiamondSoulSingle"], "children": ["Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceDiamondSoulSingle", "Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceDiamondSoulMass"], "children": ["Classes/Monk/MonkClass"]}

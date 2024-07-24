@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Answer_0069"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/EmberNotJoined", "Factions/Player", "Factions/Player"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Answer_0069"], "children": ["Factions/Player", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/EmberNotJoined"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/MoltenScar/IntroCutscene/gate 5"], "children": ["World/Quests/c3/MoltenScar/Add4_GotoMoltenScar", "World/Quests/c3/MoltenScar/Obj_1_InvestigateEnemiesBehindTheLine"]}
+{"parents": ["World/Cutscenes/MoltenScar/IntroCutscene/gate 5"], "children": ["World/Quests/c3/MoltenScar/Obj_1_InvestigateEnemiesBehindTheLine", "World/Quests/c3/MoltenScar/Add4_GotoMoltenScar"]}

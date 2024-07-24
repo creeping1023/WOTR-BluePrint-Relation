@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornArchetype"], "children": ["Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornItemBondAbility", "Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornItemBondResource"]}
+{"parents": ["Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornArchetype"], "children": ["Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornItemBondResource", "Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornItemBondAbility"]}

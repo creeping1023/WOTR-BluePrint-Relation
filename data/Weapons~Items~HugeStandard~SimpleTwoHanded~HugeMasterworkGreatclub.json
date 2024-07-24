@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Greatclub", "Weapons/Enchantments/Masterwork"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Masterwork", "Weapons/Types/SimpleTwoHanded/Greatclub"]}

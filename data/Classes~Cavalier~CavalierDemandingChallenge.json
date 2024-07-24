@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierProgression", "Classes/Cavalier/Archetypes/KnightOfTheWall/KnightOfTheWallArchetype"], "children": ["Classes/Cavalier/CavalierDemandingChallengeAreaBuff", "Classes/Cavalier/CavalierDemandingChallengeAreaBuff"]}
+{"parents": ["Classes/Cavalier/Archetypes/KnightOfTheWall/KnightOfTheWallArchetype", "Classes/Cavalier/CavalierProgression"], "children": ["Classes/Cavalier/CavalierDemandingChallengeAreaBuff"]}

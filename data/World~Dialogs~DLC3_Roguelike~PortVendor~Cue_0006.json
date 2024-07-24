@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/PortVendor/Answer_0003"], "children": ["DLC/DLC3/Dlc3Campaign", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_VendorInPort_tier1_original", "World/Dialogs/DLC3_Roguelike/PortVendor/AnswersList_0007"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/PortVendor/Answer_0003"], "children": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_VendorInPort_tier1_original", "DLC/DLC3/Dlc3Campaign", "World/Dialogs/DLC3_Roguelike/PortVendor/AnswersList_0007"]}

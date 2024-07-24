@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0002"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Claim_Crusader", "World/Encounters/Iz/SummonPools/FlamingLanceVictory", "World/Cutscenes/Iz/SoldiersHurrahParam(Unit)/SoldiersHurrahParam(Unit)"]}
+{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0002"], "children": ["World/Encounters/Iz/SummonPools/FlamingLanceVictory", "Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Claim_Crusader", "World/Cutscenes/Iz/SoldiersHurrahParam(Unit)/SoldiersHurrahParam(Unit)"]}

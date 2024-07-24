@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment", "Classes/Bard/BardicPerformances/InspireCompetence/InspireCompetenceArea"], "children": ["Classes/Monk/Archetypes/Sensei/SenseiArchetype", "Classes/Bard/BardClass", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Bard/BardicPerformances/InspireCompetence/InspireCompetenceArea", "Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment"], "children": ["Classes/Monk/MonkClass", "Classes/Bard/BardClass", "Classes/Monk/Archetypes/Sensei/SenseiArchetype"]}

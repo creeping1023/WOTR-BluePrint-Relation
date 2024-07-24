@@ -1,1 +1,1 @@
-{"parents": ["Units/Companions/PregenWizardFeatureList", "Units/Companions/PregenFighterFeatureList", "Units/Companions/PregenWeaponTestFeatureList", "Races/HumanRace", "Races/HumanThinRace", "Races/SarcorianRace", "Units/Companions/PregenClericFeatureList"]}
+{"parents": ["Units/Companions/PregenWeaponTestFeatureList", "Races/HumanThinRace", "Races/SarcorianRace", "Units/Companions/PregenClericFeatureList", "Units/Companions/PregenWizardFeatureList", "Units/Companions/PregenFighterFeatureList", "Races/HumanRace"]}

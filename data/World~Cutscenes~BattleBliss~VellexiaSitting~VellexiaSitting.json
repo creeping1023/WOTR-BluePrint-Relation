@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/RaptureOfRupture/Velexia_First_Date/Cue_0077", "World/Cutscenes/Nexus/TeleportToVIP/CommandAction"], "children": ["World/Cutscenes/BattleBliss/VellexiaSitting/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Cutscenes/Nexus/TeleportToVIP/CommandAction", "World/Dialogs/c4/RaptureOfRupture/Velexia_First_Date/Cue_0077"], "children": ["World/Cutscenes/BattleBliss/VellexiaSitting/CommandUnitPlayCutsceneAnimation"]}

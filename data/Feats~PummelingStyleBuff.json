@@ -1,1 +1,1 @@
-{"parents": ["Feats/PummelingStyleToggleAbility"], "children": ["Feats/PummelingCharge", "Feats/PummelingChargeBuff", "Feats/PummelingBully", "Feats/PummelingBullyBuff"]}
+{"parents": ["Feats/PummelingStyleToggleAbility"], "children": ["Feats/PummelingBully", "Feats/PummelingBullyBuff", "Feats/PummelingChargeBuff", "Feats/PummelingCharge"]}

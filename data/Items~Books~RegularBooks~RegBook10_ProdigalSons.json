@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/HorgusManor/PoorLootLibrary02", "Loot/Good/CR10/PF2_CoolDemons_ProdigalSons"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Good/CR10/PF2_CoolDemons_ProdigalSons", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/HorgusManor/PoorLootLibrary02"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Devil/DevilMythicClass", "Mythic/Devil/DevilProgression"], "children": ["Mythic/Devil/HellsDecree/HellsDecreeResource", "Mythic/Devil/HellsDecree/HellsDecreeResource", "Mythic/Devil/HellsDecree/HellsDecreeBaseAbility"]}
+{"parents": ["Mythic/Devil/DevilProgression", "Mythic/Devil/DevilMythicClass"], "children": ["Mythic/Devil/HellsDecree/HellsDecreeResource", "Mythic/Devil/HellsDecree/HellsDecreeBaseAbility"]}

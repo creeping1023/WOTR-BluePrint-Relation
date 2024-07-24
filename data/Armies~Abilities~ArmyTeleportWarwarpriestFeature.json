@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyWarlocksWarwarpriests"], "children": ["Armies/Abilities/ArmyTeleportAtWillFeature", "Armies/Abilities/ArmyTeleportAtWillFeature", "Armies/Abilities/ArmyTeleportWarwarpriestAbility", "Armies/Abilities/ArmyTeleportAtWillFeature"]}
+{"parents": ["Armies/UnitBlueprints/ArmyWarlocksWarwarpriests"], "children": ["Armies/Abilities/ArmyTeleportWarwarpriestAbility", "Armies/Abilities/ArmyTeleportAtWillFeature"]}

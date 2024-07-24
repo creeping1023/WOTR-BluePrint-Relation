@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/CueSequence_0068"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_0071"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/CueSequence_0068"], "children": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_0071", "Units/Companions/Regill/Regill_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0134"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula", "Units/Companions/Ember/Ember_Companion", "World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0136"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0134"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0136", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"]}

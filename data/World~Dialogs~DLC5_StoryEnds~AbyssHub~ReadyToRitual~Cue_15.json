@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/Check_0003"], "children": ["World/Quests/DLC5_StoryEnds/DLC5_EvilPath/Obj_00_hidden", "World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/Cue_0027"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/Check_0003"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/Cue_0027", "World/Quests/DLC5_StoryEnds/DLC5_EvilPath/Obj_00_hidden"]}

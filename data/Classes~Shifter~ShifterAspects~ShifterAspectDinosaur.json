@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterAspectSelectionFeature", "Classes/Shifter/ShifterMajorForms/MajorFormFeature", "Feats/WeaponFocus/WeaponFocus"], "children": ["Classes/Shifter/ShifterAspects/ShifterAspectDinosaurAbility", "Classes/Shifter/ShifterAspectResource"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocus", "Classes/Shifter/ShifterMajorForms/MajorFormFeature", "Classes/Shifter/ShifterAspectSelectionFeature"], "children": ["Classes/Shifter/ShifterAspectResource", "Classes/Shifter/ShifterAspects/ShifterAspectDinosaurAbility"]}

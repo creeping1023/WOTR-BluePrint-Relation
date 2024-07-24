@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Shields/Unique/LateChapters/GrimBarrierShieldItem"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/HeavyShieldType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus5"]}
+{"parents": ["Equipment/Shields/Unique/LateChapters/GrimBarrierShieldItem"], "children": ["Equipment/Shields/Enchantments/ShieldEnhancementBonus5", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/HeavyShieldType"]}

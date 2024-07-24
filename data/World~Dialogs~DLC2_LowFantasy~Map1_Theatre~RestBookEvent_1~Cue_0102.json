@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/RestBookEvent_1/BookPage_0100"], "children": ["World/Encounters/DLC2_Catacombs/UnlockableFlags/BookEvent/DLC2_BE_Underground_Stage3_Traps", "Buffs/Areas/DLC2_LowFantasy/DLC2_LowFantasy_Catacomb_Buff"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/RestBookEvent_1/BookPage_0100"], "children": ["Buffs/Areas/DLC2_LowFantasy/DLC2_LowFantasy_Catacomb_Buff", "World/Encounters/DLC2_Catacombs/UnlockableFlags/BookEvent/DLC2_BE_Underground_Stage3_Traps"]}

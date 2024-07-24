@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Derakni/DerakniBrain/DerakniDroneAiAction", "Units/NPC/Unique/Act_4_MidnightIsles/Battlebliss/DemonDuoBrain/DemonDuo_AiAction_Enervation"]}
+{"children": ["Units/Monsters/Demon Derakni/DerakniBrain/DerakniDroneAiAction", "Units/NPC/Unique/Act_4_MidnightIsles/Battlebliss/DemonDuoBrain/DemonDuo_AiAction_Enervation", "Brain/Actions/AttackAiAction"]}

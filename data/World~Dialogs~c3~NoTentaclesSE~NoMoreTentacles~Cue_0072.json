@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0071"], "children": ["Units/Companions/Woljif/Woljif_Companion", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0071"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/Companions/Woljif/Woljif_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Shields/Items/TotalPlus1/TowerShieldItemPlus1"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/TowerShieldType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus1"]}
+{"parents": ["Equipment/Shields/Items/TotalPlus1/TowerShieldItemPlus1"], "children": ["Equipment/Shields/Enchantments/ShieldEnhancementBonus1", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/TowerShieldType"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison_3rdFloor/Legend_Faint/Legend_Faint"], "children": ["World/Cutscenes/GrayGarrison_3rdFloor/Legend_Faint/CommandTeleport", "World/Cutscenes/GrayGarrison_3rdFloor/Legend_Faint/gate1"]}
+{"parents": ["World/Cutscenes/GrayGarrison_3rdFloor/Legend_Faint/Legend_Faint"], "children": ["World/Cutscenes/GrayGarrison_3rdFloor/Legend_Faint/gate1", "World/Cutscenes/GrayGarrison_3rdFloor/Legend_Faint/CommandTeleport"]}

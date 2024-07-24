@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/Chapter3/Pulura_Chapter3VendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootJunk", "Loot/Trash/CR2/PF2_RichHuman_LootBox#1"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Trash/CR2/PF2_RichHuman_LootBox#1", "Items/Vendors/Chapter3/Pulura_Chapter3VendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootJunk"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

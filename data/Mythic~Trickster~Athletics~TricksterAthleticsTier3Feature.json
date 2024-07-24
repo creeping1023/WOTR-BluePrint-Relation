@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Trickster/DLC6_TricksterAnotherUniverse", "Mythic/Trickster/TricksterRank3Selection", "Mythic/Trickster/Athletics/TricksterAthleticsTier2Feature"], "children": ["Mythic/Trickster/Athletics/TricksterAthleticsTier2Feature"]}
+{"parents": ["Mythic/Trickster/TricksterRank3Selection", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Trickster/DLC6_TricksterAnotherUniverse", "Mythic/Trickster/Athletics/TricksterAthleticsTier2Feature"], "children": ["Mythic/Trickster/Athletics/TricksterAthleticsTier2Feature"]}

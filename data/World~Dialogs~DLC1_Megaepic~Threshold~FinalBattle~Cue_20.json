@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Answer_0036"], "children": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik", "World/Etudes/Common/DLC1_Megaepic/DLC1Paradox", "World/Cutscenes/DLC1_Threshold_FinalDungeon/SsilameshnikGoAway/SsilameshnikGoAway"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Answer_0036"], "children": ["World/Etudes/Common/DLC1_Megaepic/DLC1Paradox", "Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik", "World/Cutscenes/DLC1_Threshold_FinalDungeon/SsilameshnikGoAway/SsilameshnikGoAway"]}

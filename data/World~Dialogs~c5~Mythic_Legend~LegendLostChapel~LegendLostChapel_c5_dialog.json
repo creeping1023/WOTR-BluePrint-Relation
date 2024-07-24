@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/After_Shadows/CommandAction", "World/Cutscenes/LostChapel/Enter_Dialog/CommandAction"], "children": ["World/Dialogs/c5/Mythic_Legend/LegendLostChapel/Cue_0001", "World/Dialogs/c5/Mythic_Legend/LegendLostChapel/Cue_0011"]}
+{"parents": ["World/Cutscenes/LostChapel/After_Shadows/CommandAction", "World/Cutscenes/LostChapel/Enter_Dialog/CommandAction"], "children": ["World/Dialogs/c5/Mythic_Legend/LegendLostChapel/Cue_0011", "World/Dialogs/c5/Mythic_Legend/LegendLostChapel/Cue_0001"]}

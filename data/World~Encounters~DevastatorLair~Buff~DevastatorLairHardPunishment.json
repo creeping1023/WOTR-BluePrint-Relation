@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Angel/EchoLair/Final/Cue_0017", "World/Cutscenes/DevastatorLair/DevastatorLair_EpicIncenerationExit/CommandAction 6", "World/Dialogs/c4/Mythic_Angel/EchoLair/Final/Cue_0013"], "children": ["Buffs/Sickened", "Buffs/Sickened"]}
+{"parents": ["World/Dialogs/c4/Mythic_Angel/EchoLair/Final/Cue_0017", "World/Cutscenes/DevastatorLair/DevastatorLair_EpicIncenerationExit/CommandAction 6", "World/Dialogs/c4/Mythic_Angel/EchoLair/Final/Cue_0013"], "children": ["Buffs/Sickened"]}

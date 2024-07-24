@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/EstrodTower/UnlockableFlags/FaxonDialogPlayed", "World/Cutscenes/EstrodTower/FaxonDialogAfterDHAttack/FaxonDialogAfterDHAttack", "World/Encounters/EstrodTower/UnlockableFlags/EnteredThru"]}
+{"children": ["World/Cutscenes/EstrodTower/FaxonDialogAfterDHAttack/FaxonDialogAfterDHAttack", "World/Encounters/EstrodTower/UnlockableFlags/EnteredThru", "World/Encounters/EstrodTower/UnlockableFlags/FaxonDialogPlayed"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Rituals/RitualCauseFear", "Armies/Brains/LeadersBrain/CultistLeader_CauseFear"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Rituals/RitualCauseFearMoraleProperty", "Armies/Rituals/RitualCauseFearMoraleProperty", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}
+{"parents": ["Armies/Rituals/RitualCauseFear", "Armies/Brains/LeadersBrain/CultistLeader_CauseFear"], "children": ["Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff", "Armies/Leaders/LeaderManaResource", "Armies/Rituals/RitualCauseFearMoraleProperty"]}

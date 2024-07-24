@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0097"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielRomance/SosielRomance_Active", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}
+{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0097"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielRomance/SosielRomance_Active"]}

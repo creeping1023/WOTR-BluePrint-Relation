@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/LostChapel/Buffs/CantMove", "World/Encounters/LostChapel/Buffs/CantAct", "Buffs/NPC_Untargetable", "Factions/Mobs"]}
+{"children": ["World/Encounters/LostChapel/Buffs/CantMove", "Factions/Mobs", "World/Encounters/LostChapel/Buffs/CantAct", "Buffs/NPC_Untargetable"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Answer_0346", "Items/Books/UniqueBooks/LEXICON_Part2", "World/Encounters/VaultOfGraves/Items/LexiconHalf2"], "children": ["World/Etudes/Common/ImportantStates"]}
+{"parents": ["World/Encounters/VaultOfGraves/Items/LexiconHalf2", "Items/Books/UniqueBooks/LEXICON_Part2", "World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Answer_0346"], "children": ["World/Etudes/Common/ImportantStates"]}

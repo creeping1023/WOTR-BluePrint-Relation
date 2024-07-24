@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/PuluraFall/PuluraFall_RitualScene/gate 11"], "children": ["World/Cutscenes/PuluraFall/PuluraFall_RitualScene/CommandMoveUnit", "World/Cutscenes/PuluraFall/PuluraFall_RitualScene/gate 9"]}
+{"parents": ["World/Cutscenes/PuluraFall/PuluraFall_RitualScene/gate 11"], "children": ["World/Cutscenes/PuluraFall/PuluraFall_RitualScene/gate 9", "World/Cutscenes/PuluraFall/PuluraFall_RitualScene/CommandMoveUnit"]}

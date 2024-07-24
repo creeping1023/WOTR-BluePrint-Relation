@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Shifter_Warcamp/Cue_0008"], "children": ["World/Quests/DLC4_Shifter/Shifter_Q1/Obj_01_GoVillage", "GlobalMaps/WorldWoundGM/Points/Location_Ulbrig_Q1_RuinedVillage"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Shifter_Warcamp/Cue_0008"], "children": ["GlobalMaps/WorldWoundGM/Points/Location_Ulbrig_Q1_RuinedVillage", "World/Quests/DLC4_Shifter/Shifter_Q1/Obj_01_GoVillage"]}

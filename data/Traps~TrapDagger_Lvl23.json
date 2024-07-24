@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Traps/TrapActor_Lvl23"], "children": ["Weapons/Types/SimpleLight/Dagger"]}
+{"parents": ["Traps/TrapActor_Lvl23", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/Dagger"]}

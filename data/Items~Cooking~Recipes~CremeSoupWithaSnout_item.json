@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootCookingRecipes", "Loot/Good/CR26/PF2_Worldwound_LootCart", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Cooking/IvorySanctum/luxery_chest_02 (2)"], "children": ["Recipes/CremeSoupWithaSnoutRecipe", "Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootCookingRecipes", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Cooking/IvorySanctum/luxery_chest_02 (2)", "Loot/Good/CR26/PF2_Worldwound_LootCart"], "children": ["Recipes/CremeSoupWithaSnoutRecipe", "Items/DestructibleItemsShards/DustShardItem"]}

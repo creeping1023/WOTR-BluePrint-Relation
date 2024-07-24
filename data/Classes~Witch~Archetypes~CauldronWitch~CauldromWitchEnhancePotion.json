@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/CauldronWitch/CauldronWitchArchetype"], "children": ["Classes/Witch/WitchClass", "Classes/Witch/Archetypes/CauldronWitch/CauldronWitchArchetype"]}
+{"parents": ["Classes/Witch/Archetypes/CauldronWitch/CauldronWitchArchetype"], "children": ["Classes/Witch/Archetypes/CauldronWitch/CauldronWitchArchetype", "Classes/Witch/WitchClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_Buff_Curse", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level3/RemoveCurse"]}
+{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Spells/Level3/RemoveCurse", "Brain/Considerations/SwiftActionOffCooldown", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_Buff_Curse"]}

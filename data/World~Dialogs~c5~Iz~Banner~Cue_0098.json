@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Banner/Cue_0038"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Miammir_Wintersun", "World/Dialogs/c5/Iz/Banner/Cue_0099"]}
+{"parents": ["World/Dialogs/c5/Iz/Banner/Cue_0038"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Miammir_Wintersun", "World/Dialogs/c5/Iz/Banner/Cue_0099", "Units/Companions/Nenio/Nenio_Companion"]}

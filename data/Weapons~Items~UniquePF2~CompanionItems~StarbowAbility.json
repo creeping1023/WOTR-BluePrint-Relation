@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/CompanionItems/StarbowItem"], "children": ["Traits/Races/Common/UndeadType", "Spells/Level1/FaerieFireBuff", "FX/Spell Level None/StarknifeCone30Feet00"]}
+{"parents": ["Weapons/Items/UniquePF2/CompanionItems/StarbowItem"], "children": ["Traits/Races/Common/UndeadType", "FX/Spell Level None/StarknifeCone30Feet00", "Spells/Level1/FaerieFireBuff"]}

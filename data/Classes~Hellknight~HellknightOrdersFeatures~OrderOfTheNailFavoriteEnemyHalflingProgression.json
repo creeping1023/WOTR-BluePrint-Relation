@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hellknight/HellknightOrdersFeatures/OrderOfTheNailFavoriteEnemySelection"], "children": ["Classes/Hellknight/HellknightClass", "Classes/Ranger/FavoriteEnemy/FavoriteEnemyHalfling", "Classes/Ranger/FavoriteEnemy/FavoriteEnemyHalfling", "Classes/Ranger/FavoriteEnemy/FavoriteEnemyHalfling"]}
+{"parents": ["Classes/Hellknight/HellknightOrdersFeatures/OrderOfTheNailFavoriteEnemySelection"], "children": ["Classes/Ranger/FavoriteEnemy/FavoriteEnemyHalfling", "Classes/Hellknight/HellknightClass"]}

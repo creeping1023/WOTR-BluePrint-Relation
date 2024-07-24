@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/AnswersList_0038"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_3", "Classes/Loremaster/LoremasterClass", "Equipment/Boots/PF2/Chapter3/AbyssWalkersItem"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/AnswersList_0038"], "children": ["Equipment/Boots/PF2/Chapter3/AbyssWalkersItem", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_3", "Classes/Loremaster/LoremasterClass"]}

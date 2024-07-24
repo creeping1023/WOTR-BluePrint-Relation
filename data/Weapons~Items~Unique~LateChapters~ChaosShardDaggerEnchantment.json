@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/ChaosShardDaggerItem"], "children": ["Weapons/Items/Unique/LateChapters/ChaosShardDaggerFeature", "Buffs/Confusion"]}
+{"parents": ["Weapons/Items/Unique/LateChapters/ChaosShardDaggerItem"], "children": ["Buffs/Confusion", "Weapons/Items/Unique/LateChapters/ChaosShardDaggerFeature"]}

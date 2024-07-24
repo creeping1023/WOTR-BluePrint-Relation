@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/FleshMarket/MeatSlaver_dialogue/Answer_0028"], "children": ["World/Quests/c4/GoodSamaritan/Add1_TalkWithLatverk", "World/Quests/c4/GoodSamaritan/GoodSamaritan", "World/Quests/c4/GoodSamaritan/Add1_TalkWithLatverk"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/MeatSlaver_dialogue/Answer_0028", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c4/GoodSamaritan/GoodSamaritan", "World/Quests/c4/GoodSamaritan/Add1_TalkWithLatverk"]}

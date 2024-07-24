@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_GhostHunter_Dialog/Answer_5"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Ghostbusters/DLC4_Halfling_GhostBuster_Male3", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_GhostHunter_Dialog/AnswersList_0001"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_GhostHunter_Dialog/Answer_5"], "children": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_GhostHunter_Dialog/AnswersList_0001", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Ghostbusters/DLC4_Halfling_GhostBuster_Male3"]}

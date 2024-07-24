@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Scimitar", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Mageblade"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Mageblade", "Weapons/Types/MartialOneHanded/Scimitar"]}

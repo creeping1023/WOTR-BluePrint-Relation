@@ -1,1 +1,1 @@
-{"parents": ["Buffs/DLC5/ShadowPlane/ZonKuthonBuff"], "children": ["Buffs/DLC5/ShadowPlane/HalfHPProperty", "Buffs/DLC5/ShadowPlane/ZonKuthonScarHalfHPBuff"]}
+{"parents": ["Buffs/DLC5/ShadowPlane/ZonKuthonBuff"], "children": ["Buffs/DLC5/ShadowPlane/ZonKuthonScarHalfHPBuff", "Buffs/DLC5/ShadowPlane/HalfHPProperty"]}

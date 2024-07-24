@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/ThrowingAxe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Furious", "Weapons/Items/Unique/EE/FrozenCrescentEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/EE/FrozenCrescentEnchantment", "Weapons/Enchantments/Furious", "Weapons/Types/MartialLight/ThrowingAxe", "Weapons/Enchantments/Enhancement3"]}

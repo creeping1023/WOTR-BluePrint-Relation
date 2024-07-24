@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/AasimarSlaves_dialogue/Answer_0009"], "children": ["Factions/Mobs", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/AasimarsKilled", "World/Dialogs/c4/FleshMarket/AasimarSlaves_dialogue/Cue_0025"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/AasimarSlaves_dialogue/Answer_0009"], "children": ["Factions/Mobs", "World/Dialogs/c4/FleshMarket/AasimarSlaves_dialogue/Cue_0025", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/AasimarsKilled"]}

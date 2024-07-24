@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/FN4_cutscene/gate1", "World/Cutscenes/VaultOfGraves/FN4_cutscene/gate 4"], "children": ["World/Cutscenes/VaultOfGraves/FN4_cutscene/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/FN4_cutscene/gate 4", "World/Cutscenes/VaultOfGraves/FN4_cutscene/gate1"], "children": ["World/Cutscenes/VaultOfGraves/FN4_cutscene/CommandStartDialog"]}

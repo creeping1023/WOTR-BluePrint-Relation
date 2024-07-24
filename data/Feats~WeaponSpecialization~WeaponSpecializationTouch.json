@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterTouch"], "children": ["Weapons/Types/Special/TouchType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterTouch"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterTouch"], "children": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterTouch", "Classes/Fighter/FighterClass", "Weapons/Types/Special/TouchType"]}

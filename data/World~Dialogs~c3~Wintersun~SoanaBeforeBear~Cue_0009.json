@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaBeforeBear/Answer_0004"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Soana_Wintersun", "World/Dialogs/c3/Wintersun/SoanaBeforeBear/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaBeforeBear/Answer_0004"], "children": ["World/Dialogs/c3/Wintersun/SoanaBeforeBear/AnswersList_0003", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Soana_Wintersun"]}

@@ -1,1 +1,1 @@
-{"children": ["Traps/TrapActor_Lvl10", "Spells/Level3/Fireball", "World/Encounters/GrayGarrison/UnlockableFlags/SuperTrapDisarmed"]}
+{"children": ["World/Encounters/GrayGarrison/UnlockableFlags/SuperTrapDisarmed", "Traps/TrapActor_Lvl10", "Spells/Level3/Fireball"]}

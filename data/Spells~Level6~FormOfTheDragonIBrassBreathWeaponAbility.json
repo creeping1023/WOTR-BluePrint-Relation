@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level6/FormOfTheDragonIBrassBuff", "Spells/Level6/FormOfTheDragonIBrassBreathWeaponBuff", "Spells/Level7/PolymorphGreaterDragonBrassBuff"], "children": ["FX/Spell Level None/FireLine00", "Spells/Level6/FormOfTheDragonIBrassBreathWeaponBuff"]}
+{"parents": ["Spells/Level6/FormOfTheDragonIBrassBuff", "Spells/Level7/PolymorphGreaterDragonBrassBuff", "Spells/Level6/FormOfTheDragonIBrassBreathWeaponBuff"], "children": ["Spells/Level6/FormOfTheDragonIBrassBreathWeaponBuff", "FX/Spell Level None/FireLine00"]}

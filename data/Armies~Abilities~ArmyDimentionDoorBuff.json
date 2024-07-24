@@ -1,1 +1,1 @@
-{"parents": ["Armies/Rituals/RitualDimensionDoorAbility", "Armies/Abilities/ArmyDimentionDoor"], "children": ["Armies/Abilities/ArmyTeleportAtWillFeature"]}
+{"parents": ["Armies/Abilities/ArmyDimentionDoor", "Armies/Rituals/RitualDimensionDoorAbility"], "children": ["Armies/Abilities/ArmyTeleportAtWillFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/CommandAction 7", "World/Encounters/FatefulNight1_Kenabres/ActionsHolders/FatefulNight3_DisguisedAreelu_SpawnActions"], "children": ["Spells/Level5/PolymorphTurnBackAbility"]}
+{"parents": ["World/Encounters/FatefulNight1_Kenabres/ActionsHolders/FatefulNight3_DisguisedAreelu_SpawnActions", "World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/CommandAction 7"], "children": ["Spells/Level5/PolymorphTurnBackAbility"]}

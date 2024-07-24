@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidEvokerBrain"], "children": ["Units/Monsters/Nymph/NymphBrain/TarPoolAiAction", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/TarPool"]}
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidEvokerBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/TarPool", "Units/Monsters/Nymph/NymphBrain/TarPoolAiAction"]}

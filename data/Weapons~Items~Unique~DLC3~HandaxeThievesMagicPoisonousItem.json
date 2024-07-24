@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Handaxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive2d6", "Weapons/Enchantments/ShockingBurst", "Weapons/Enchantments/Shock"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Handaxe", "Weapons/Enchantments/ShockingBurst", "Weapons/Enchantments/Shock", "Weapons/Enchantments/Corrosive2d6", "Weapons/Enchantments/Enhancement2"]}

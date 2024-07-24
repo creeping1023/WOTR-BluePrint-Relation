@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/PaperShardItem", "Spells/Level5/VampiricShadowShield"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot"], "children": ["Spells/Level5/VampiricShadowShield", "Items/DestructibleItemsShards/PaperShardItem"]}

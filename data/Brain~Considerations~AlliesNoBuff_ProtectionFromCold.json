@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/ProtectionFromColdCommunalAiAction", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBoss/AreshkaBrains/1_Areshkagal_First_ShadowColdIceStrike_AiAction"], "children": ["Spells/Level3/ProtectionFromColdBuff"]}
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBoss/AreshkaBrains/1_Areshkagal_First_ShadowColdIceStrike_AiAction", "Brain/Actions/ProtectionFromColdCommunalAiAction"], "children": ["Spells/Level3/ProtectionFromColdBuff"]}

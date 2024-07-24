@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmySleepFeature"], "children": ["Armies/Abilities/ArmySleepBuff", "Armies/Abilities/ArmySleepResource"]}
+{"parents": ["Armies/Abilities/ArmySleepFeature"], "children": ["Armies/Abilities/ArmySleepResource", "Armies/Abilities/ArmySleepBuff"]}

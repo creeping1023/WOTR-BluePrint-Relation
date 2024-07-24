@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/AnswersList_0032"], "children": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Cue_0057", "Classes/Basic/Deities/ErastilFeature"]}
+{"parents": ["World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/AnswersList_0032"], "children": ["Classes/Basic/Deities/ErastilFeature", "World/Dialogs/c3/TempleOfDelamere/Kyado_main_dialogue/Cue_0057"]}

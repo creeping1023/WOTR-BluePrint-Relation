@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/PuluraFallsC5/PuluraLeaderSaved/AnswersList_0008"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel", "World/Encounters/PuluraFall/SummonPools/PuluraFall_Captives_c5", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/c5/PuluraFallsC5/PuluraLeaderSaved/AnswersList_0008"], "children": ["Factions/Mobs", "World/Encounters/PuluraFall/SummonPools/PuluraFall_Captives_c5", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/FeatMagePersonalChoice3", "Armies/Leaders/Progression/FeatMagePersonalChoice1", "Armies/Leaders/Feats/MageFeats/MagusSparringRank2"], "children": ["Armies/Leaders/Feats/MageFeats/MagusSparringRank1Ability"]}
+{"parents": ["Armies/Leaders/Feats/MageFeats/MagusSparringRank2", "Armies/Leaders/Progression/FeatMagePersonalChoice3", "Armies/Leaders/Progression/FeatMagePersonalChoice1"], "children": ["Armies/Leaders/Feats/MageFeats/MagusSparringRank1Ability"]}

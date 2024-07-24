@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/Answer_0019"], "children": ["Units/Monsters/BlackDragon/WoundWormsLair/DLC1_WoundWormsLair_BlackDragon", "World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/Cue_5"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/Answer_0019"], "children": ["World/Dialogs/DLC1_Megaepic/StorytellersTower/Chaleb/Cue_5", "Units/Monsters/BlackDragon/WoundWormsLair/DLC1_WoundWormsLair_BlackDragon"]}

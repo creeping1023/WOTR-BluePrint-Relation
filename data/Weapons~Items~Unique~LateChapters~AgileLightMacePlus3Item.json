@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/LightMace", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Agile"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC3_RogueLike/Tier2/DLC3_Tier2VendorTableWeaponsArmor"], "children": ["Weapons/Types/SimpleLight/LightMace", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Agile"]}

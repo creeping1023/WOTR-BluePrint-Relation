@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC5NewSpells/FungalInfestation/FungalInfestationAreaEffectBuff", "Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff"], "children": ["Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff"]}
+{"parents": ["Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff", "Spells/DLC5NewSpells/FungalInfestation/FungalInfestationAreaEffectBuff"], "children": ["Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff"]}

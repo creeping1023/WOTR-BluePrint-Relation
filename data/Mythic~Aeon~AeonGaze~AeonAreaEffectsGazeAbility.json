@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonAreaEffectsGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeResource", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonAreaEffectsGazeBaseBuff"]}
+{"parents": ["Mythic/Aeon/AeonGaze/AeonAreaEffectsGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonAreaEffectsGazeBaseBuff", "Mythic/Aeon/AeonGaze/AeonGazeResource"]}

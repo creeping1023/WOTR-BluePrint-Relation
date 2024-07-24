@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/Archetypes/DualCursedOracle/MisfortuneRevelationBuff"], "children": ["Classes/Oracle/Archetypes/DualCursedOracle/MisfortuneCooldownBuff", "Classes/Oracle/Archetypes/DualCursedOracle/MisfortuneEffectBuff", "Classes/Oracle/Archetypes/DualCursedOracle/MisfortuneEffectBuff"]}
+{"parents": ["Classes/Oracle/Archetypes/DualCursedOracle/MisfortuneRevelationBuff"], "children": ["Classes/Oracle/Archetypes/DualCursedOracle/MisfortuneCooldownBuff", "Classes/Oracle/Archetypes/DualCursedOracle/MisfortuneEffectBuff"]}

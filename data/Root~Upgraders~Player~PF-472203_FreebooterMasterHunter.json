@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Ranger/MasterHunter", "Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/Freebooter/FreebooterArchetype", "Classes/Ranger/FreebooterMasterHunter", "Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/Freebooter/FreebooterArchetype"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Ranger/RangerProgression", "Classes/Ranger/MasterHunter", "Classes/Ranger/Archetypes/Freebooter/FreebooterArchetype", "Classes/Ranger/FreebooterMasterHunter"]}

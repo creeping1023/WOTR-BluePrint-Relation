@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp04_Option06"], "children": ["Armies/UnitBlueprints/ArmySpiderSwarmStandard", "Armies/UnitBlueprints/ArmyLocustSwarmStandard", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp04_Option06"], "children": ["Armies/UnitBlueprints/ArmyLocustSwarmStandard", "Armies/UnitBlueprints/ArmySpiderSwarmStandard", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]}

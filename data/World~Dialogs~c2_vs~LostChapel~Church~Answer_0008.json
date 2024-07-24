@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/LostChapel/Church/AnswersList_0006"], "children": ["World/Dialogs/c2_vs/LostChapel/Church/Check_0010"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Church/AnswersList_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/LostChapel/Church/Check_0010"]}

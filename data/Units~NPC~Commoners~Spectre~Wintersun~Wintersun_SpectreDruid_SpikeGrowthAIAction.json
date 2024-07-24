@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_OutOfCombatBrain 2"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/SpikeGrowth"]}
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_OutOfCombatBrain 2"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level3/SpikeGrowth", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

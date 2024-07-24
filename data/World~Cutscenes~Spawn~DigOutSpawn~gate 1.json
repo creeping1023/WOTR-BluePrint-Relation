@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Spawn/DigOutSpawn/DigOutSpawn"], "children": ["World/Cutscenes/Spawn/DigOutSpawn/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Spawn/DigOutSpawn/gate"]}
+{"parents": ["World/Cutscenes/Spawn/DigOutSpawn/DigOutSpawn"], "children": ["World/Cutscenes/Spawn/DigOutSpawn/gate", "World/Cutscenes/Spawn/DigOutSpawn/CommandUnitPlayCutsceneAnimation"]}

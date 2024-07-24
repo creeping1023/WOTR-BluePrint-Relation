@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronTransformation/WitchTransformationhPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level8/FormOfTheDragonIII"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronTransformation/WitchTransformationhPatronProgression"], "children": ["Spells/Level8/FormOfTheDragonIII", "Classes/Witch/WitchClass"]}

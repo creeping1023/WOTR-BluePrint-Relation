@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC1_Megaepic/Threshold_IndoorStart_Mechanics", "World/Etudes/Common/WrathOfTheRighteous/Chapter02/Chapter02_MainQuest/SiegeOfDrezen/DrezenCitadel_Level2_MainEtude/BannerActivaAndBuffing"], "children": ["Buffs/Areas/Act_2_SwordOfValor/SwordofValorArea"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02/Chapter02_MainQuest/SiegeOfDrezen/DrezenCitadel_Level2_MainEtude/BannerActivaAndBuffing", "World/Etudes/Common/DLC1_Megaepic/Threshold_IndoorStart_Mechanics"], "children": ["Buffs/Areas/Act_2_SwordOfValor/SwordofValorArea"]}

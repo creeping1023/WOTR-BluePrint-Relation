@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_First/CueSequence_0013"], "children": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Units/Companions/Finnean/Finnean_Companion"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_First/CueSequence_0013", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Units/Companions/Finnean/Finnean_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/AnswersList_0022"], "children": ["World/Dialogs/c1/EstrodTower/Faxon/Cue_0055", "Classes/Basic/Deities/AbadarFeature", "World/Dialogs/c1/EstrodTower/Faxon/Answer_0004", "World/Dialogs/c1/EstrodTower/Faxon/Answer_0008"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/AnswersList_0022"], "children": ["World/Dialogs/c1/EstrodTower/Faxon/Answer_0004", "World/Dialogs/c1/EstrodTower/Faxon/Answer_0008", "Classes/Basic/Deities/AbadarFeature", "World/Dialogs/c1/EstrodTower/Faxon/Cue_0055"]}

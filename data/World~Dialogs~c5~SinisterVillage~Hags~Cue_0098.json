@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0097"], "children": ["Units/Monsters/Hag/SinisterVillage/Hag_Lavixia", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0099"]}
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0097"], "children": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0099", "Units/Monsters/Hag/SinisterVillage/Hag_Lavixia"]}

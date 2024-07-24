@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Rings/RingOfCircumstances/RingOfCircumstancesFeature"], "children": ["Equipment/Rings/RingOfCircumstances/RingOfCircumstancesResourse", "Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSkills/RingOfCircumstancesSkillsBuff"]}
+{"parents": ["Equipment/Rings/RingOfCircumstances/RingOfCircumstancesFeature"], "children": ["Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSkills/RingOfCircumstancesSkillsBuff", "Equipment/Rings/RingOfCircumstances/RingOfCircumstancesResourse"]}

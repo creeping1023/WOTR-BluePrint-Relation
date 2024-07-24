@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q1WoljifTraitor/Answer_0081"], "children": ["World/Quests/Companions/Woljif/Q1Woljif_StolenMoon/Add2_GolemKnows", "World/Dialogs/Companions/CompanionQuests/Woljif/Q1WoljifTraitor/AnswersList_0041"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q1WoljifTraitor/Answer_0081"], "children": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q1WoljifTraitor/AnswersList_0041", "World/Quests/Companions/Woljif/Q1Woljif_StolenMoon/Add2_GolemKnows"]}

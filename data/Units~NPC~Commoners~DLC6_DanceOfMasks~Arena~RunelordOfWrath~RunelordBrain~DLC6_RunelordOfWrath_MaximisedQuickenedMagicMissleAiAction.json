@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/RunelordOfWrath/RunelordBrain/DLC6_RunelordOfWrathBrain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Spells/Level1/MagicMissile"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/RunelordOfWrath/RunelordBrain/DLC6_RunelordOfWrathBrain"], "children": ["Spells/Level1/MagicMissile", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority"]}

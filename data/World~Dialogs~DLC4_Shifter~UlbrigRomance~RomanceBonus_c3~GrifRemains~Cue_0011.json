@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceBonus_c3/GrifRemains/Answer_0008"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceBonus_c3/GrifRemains/Cue_2"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceBonus_c3/GrifRemains/Answer_0008"], "children": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceBonus_c3/GrifRemains/Cue_2", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

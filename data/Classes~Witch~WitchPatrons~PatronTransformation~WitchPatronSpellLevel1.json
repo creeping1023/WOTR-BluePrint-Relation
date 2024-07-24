@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronTransformation/WitchTransformationhPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level1/Longstrider"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronTransformation/WitchTransformationhPatronProgression"], "children": ["Spells/Level1/Longstrider", "Classes/Witch/WitchClass"]}

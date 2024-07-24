@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/Buff_for_FX/DLC2_WizardDamage_TestSpell2", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/New_Mechanic/DLC2_Abrikandilu_Damage_Spell"], "children": ["FX/AbyssTest/FrostWizard_VampiricSpell_FailFinishProjectile_Trajectory"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/New_Mechanic/DLC2_Abrikandilu_Damage_Spell", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/Buff_for_FX/DLC2_WizardDamage_TestSpell2"], "children": ["FX/AbyssTest/FrostWizard_VampiricSpell_FailFinishProjectile_Trajectory"]}

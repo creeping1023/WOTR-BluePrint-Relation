@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_StandardCleric"], "children": ["Brain/Considerations/AoE_ChooseAtLeastOneEnemy", "Classes/Cleric/ChannelNegativeEnergy"]}
+{"parents": ["Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_StandardCleric"], "children": ["Classes/Cleric/ChannelNegativeEnergy", "Brain/Considerations/AoE_ChooseAtLeastOneEnemy"]}

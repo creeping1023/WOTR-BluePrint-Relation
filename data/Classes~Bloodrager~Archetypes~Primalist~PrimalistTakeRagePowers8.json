@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/Archetypes/Primalist/PrimalistLevel8Selection", "Root/Upgraders/Player/PF-208051"], "children": ["Classes/Bloodrager/BloodragerClass", "Classes/Barbarian/RagePowers/RagePowerSelection", "Classes/Barbarian/RagePowers/RagePowerSelection"]}
+{"parents": ["Root/Upgraders/Player/PF-208051", "Classes/Bloodrager/Archetypes/Primalist/PrimalistLevel8Selection"], "children": ["Classes/Barbarian/RagePowers/RagePowerSelection", "Classes/Bloodrager/BloodragerClass"]}

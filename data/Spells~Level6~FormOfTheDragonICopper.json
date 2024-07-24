@@ -1,1 +1,1 @@
-{"parents": ["Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonICopperDragonDisciple", "Spells/Level6/FormOfTheDragonI", "Items/Scrolls/Level6/ScrollOfFormOfTheDragonICopper"], "children": ["Spells/Level6/FormOfTheDragonICopperBuff"]}
+{"parents": ["Items/Scrolls/Level6/ScrollOfFormOfTheDragonICopper", "Spells/Level6/FormOfTheDragonI", "Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonICopperDragonDisciple"], "children": ["Spells/Level6/FormOfTheDragonICopperBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC1_Threshold_FinalDungeon/ActionsHolders/RotatingBridgeDevice_Actions", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/DLC1_Threshold_FinalDungeon/RepairDevice"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Encounters/DLC1_Threshold_FinalDungeon/ActionsHolders/RotatingBridgeDevice_Actions", "Loot/Quest/DLC1_Threshold_FinalDungeon/RepairDevice"]}

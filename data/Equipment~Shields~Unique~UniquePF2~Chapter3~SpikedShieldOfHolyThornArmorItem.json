@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Weapons/Items/TotalPlus5/SpikedHeavyShieldHolyPlus3", "Equipment/Shields/Items/TotalPlus3/Enhancement3/HeavyShieldArmorItemPlus3"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/TotalPlus5/SpikedHeavyShieldHolyPlus3", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Items/TotalPlus3/Enhancement3/HeavyShieldArmorItemPlus3"]}

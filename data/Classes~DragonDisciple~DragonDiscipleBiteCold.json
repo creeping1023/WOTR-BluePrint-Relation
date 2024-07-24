@@ -1,1 +1,1 @@
-{"parents": ["Classes/DragonDisciple/DragonDiscipleBiteFeatureCold", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/BiteDragonType", "Weapons/Enchantments/Frost"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/DragonDisciple/DragonDiscipleBiteFeatureCold"], "children": ["Weapons/Types/NaturalWeapon/BiteDragonType", "Weapons/Enchantments/Frost"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/LeatherType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus3", "Equipment/Armor/Items/Unique/LateChapters/GhostLeatherEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Enchantments/ArmorEnhancementBonus3", "Equipment/Armor/Types/LeatherType", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Items/Unique/LateChapters/GhostLeatherEnchant"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/WarpriestFervorNegativeFeature"], "children": ["Classes/Warpriest/WarpriestFervorResource", "Classes/Warpriest/WarpriestFervorNegativeAbility"]}
+{"parents": ["Classes/Warpriest/WarpriestFervorNegativeFeature"], "children": ["Classes/Warpriest/WarpriestFervorNegativeAbility", "Classes/Warpriest/WarpriestFervorResource"]}

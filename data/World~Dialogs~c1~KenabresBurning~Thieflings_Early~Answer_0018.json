@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Thieflings_Early/AnswersList_0007"], "children": ["World/Dialogs/c1/KenabresBurning/Thieflings_Early/Cue_0040", "World/Quests/c1/C1_MainQuest/Obj3_FindBackdoor"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Thieflings_Early/AnswersList_0007"], "children": ["World/Quests/c1/C1_MainQuest/Obj3_FindBackdoor", "World/Dialogs/c1/KenabresBurning/Thieflings_Early/Cue_0040"]}

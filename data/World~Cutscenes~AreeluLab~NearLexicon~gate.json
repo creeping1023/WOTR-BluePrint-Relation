@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLab/NearLexicon/NearLexicon"], "children": ["World/Cutscenes/AreeluLab/NearLexicon/CommandStartDialog", "World/Cutscenes/AreeluLab/NearLexicon/gate1"]}
+{"parents": ["World/Cutscenes/AreeluLab/NearLexicon/NearLexicon"], "children": ["World/Cutscenes/AreeluLab/NearLexicon/gate1", "World/Cutscenes/AreeluLab/NearLexicon/CommandStartDialog"]}

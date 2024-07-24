@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Dragon/HalDragonForm/CueSequence_0032"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed", "Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Dialogs/c3/Mythic_Dragon/HalDragonForm/Cue_0035"]}
+{"parents": ["World/Dialogs/c3/Mythic_Dragon/HalDragonForm/CueSequence_0032"], "children": ["World/Dialogs/c3/Mythic_Dragon/HalDragonForm/Cue_0035", "Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed"]}

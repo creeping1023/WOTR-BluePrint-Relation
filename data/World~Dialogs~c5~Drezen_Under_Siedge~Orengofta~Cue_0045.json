@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0055"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DrezenUnderSiedge/Orengofta", "World/Cutscenes/ReturnToDrezen/TricksterMythicPowers_2/TricksterMythicPowers_2"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0055"], "children": ["World/Cutscenes/ReturnToDrezen/TricksterMythicPowers_2/TricksterMythicPowers_2", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DrezenUnderSiedge/Orengofta"]}

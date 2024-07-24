@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Ramien/RamienDead", "World/Quests/c1/StarlightPath/Obj_hiddenFail"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/c1/StarlightPath/Obj_hiddenFail", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Ramien/RamienDead"]}

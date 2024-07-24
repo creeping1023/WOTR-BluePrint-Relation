@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Anevia/Cue_55"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_AneviaTirabade_Broken", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Anevia/Cue_90"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Anevia/Cue_55"], "children": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Anevia/Cue_90", "Units/NPC/Unique/DLC1_Megaepic/DLC1_AneviaTirabade_Broken"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Arbiter/Scenario/DLC3/DLC3_Lava_Temple_4", "World/Areas/DLC3_RogueLike/DLC3_SA_lvl3/Presets/DLC3_SA_lvl3_Default_Preset"], "children": ["World/Areas/DLC3_RogueLike/DLC3_SA_lvl3/DLC3_Lava_Temple_4", "World/Areas/DLC3_RogueLike/DLC3_SA_lvl3/DLC3_Lava_Temple_4"]}
+{"parents": ["World/Areas/DLC3_RogueLike/DLC3_SA_lvl3/Presets/DLC3_SA_lvl3_Default_Preset", "QA/Arbiter/Scenario/DLC3/DLC3_Lava_Temple_4"], "children": ["World/Areas/DLC3_RogueLike/DLC3_SA_lvl3/DLC3_Lava_Temple_4"]}

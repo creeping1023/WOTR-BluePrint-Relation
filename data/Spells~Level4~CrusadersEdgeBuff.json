@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/CrusadersEdge"], "children": ["Traits/Races/Common/OutsiderType", "CreatureAbilities/Subtypes/SubtypeEvil", "Buffs/Sickened", "Buffs/Nauseated", "Weapons/Enchantments/BaneOutsiderEvil"]}
+{"parents": ["Spells/Level4/CrusadersEdge"], "children": ["Buffs/Nauseated", "Traits/Races/Common/OutsiderType", "CreatureAbilities/Subtypes/SubtypeEvil", "Buffs/Sickened", "Weapons/Enchantments/BaneOutsiderEvil"]}

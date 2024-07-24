@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype"], "children": ["Classes/Ranger/RangerClass", "Spells/Level5/FlameStrike", "Classes/Ranger/RangerClass", "Spells/Level4/VolcanicStorm", "Classes/Ranger/RangerClass", "Spells/Level5/SummonElementalLargeFire"]}
+{"parents": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype", "Classes/Ranger/RangerProgression"], "children": ["Spells/Level5/FlameStrike", "Spells/Level5/SummonElementalLargeFire", "Spells/Level4/VolcanicStorm", "Classes/Ranger/RangerClass"]}

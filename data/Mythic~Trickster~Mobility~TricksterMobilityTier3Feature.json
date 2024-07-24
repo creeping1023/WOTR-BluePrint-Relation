@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenRogueFeatureList", "Mythic/Trickster/Mobility/TricksterMobilityTier2Feature", "Mythic/Trickster/TricksterRank3Selection"], "children": ["Mythic/Trickster/Mobility/TricksterMobilityTier2Feature"]}
+{"parents": ["Mythic/Trickster/TricksterRank3Selection", "Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenRogueFeatureList", "Mythic/Trickster/Mobility/TricksterMobilityTier2Feature"], "children": ["Mythic/Trickster/Mobility/TricksterMobilityTier2Feature"]}

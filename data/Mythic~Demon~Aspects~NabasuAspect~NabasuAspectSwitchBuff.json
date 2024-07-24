@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff", "Mythic/Demon/Aspects/NabasuAspect/NabasuAspectAbility"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "Mythic/Demon/Aspects/NabasuAspect/NabasuAspectEffectBuff"]}
+{"parents": ["Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff", "Mythic/Demon/Aspects/NabasuAspect/NabasuAspectAbility"], "children": ["Mythic/Demon/Aspects/NabasuAspect/NabasuAspectEffectBuff", "Mythic/Demon/DemonRage/DemonRageBuff"]}

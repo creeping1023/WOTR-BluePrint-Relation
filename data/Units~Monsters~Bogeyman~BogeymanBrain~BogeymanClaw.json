@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_AnyTir_ElementalsFeyMagiccalBeasts/DLC3_CR10_BogeymanStandard", "Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Bogeyman/BogeymanSummoned", "Units/Monsters/Bogeyman/CR10_BogeymanStandard"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Units/Monsters/Bogeyman/BogeymanSummoned", "Dugeons/Loot/DungeonLootExclude", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_ElementalsFeyMagiccalBeasts/DLC3_CR10_BogeymanStandard", "Units/Monsters/Bogeyman/CR10_BogeymanStandard"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}

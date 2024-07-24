@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Bracers/GearsRuleFeature", "Equipment/Bracers/GearsRuleEnchantment"], "children": ["Equipment/Bracers/ArcheryBonuses", "Equipment/Bracers/ArcheryBonuses"]}
+{"parents": ["Equipment/Bracers/GearsRuleEnchantment", "Equipment/Bracers/GearsRuleFeature"], "children": ["Equipment/Bracers/ArcheryBonuses"]}

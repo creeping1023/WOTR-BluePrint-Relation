@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/KiPowers/MonkKiPowerSelection", "Units/Pregens/PartyPregenTests/Lann/LannPregenTestFeatureList", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenMonkKiPowerSelection"], "children": ["Classes/Monk/KiPowers/KiPoisonCast", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/KiPowers/MonkKiPowerSelection", "Units/Pregens/PartyPregenTests/Lann/LannPregenTestFeatureList", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenMonkKiPowerSelection"], "children": ["Classes/Monk/MonkClass", "Classes/Monk/KiPowers/KiPoisonCast"]}

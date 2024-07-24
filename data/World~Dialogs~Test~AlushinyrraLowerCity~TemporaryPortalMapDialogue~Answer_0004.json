@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/AlushinyrraLowerCity/TemporaryPortalMapDialogue/Cue_0001"], "children": ["World/Encounters/AlushinyrraCity/Items/TeleportationMarks/BadLuckArk_Mark", "World/Areas/Act_4_MidnightIsles/AlushinyrraLowerCity/EnterPoints/AlushinyrraLowerCity_TavernPortalArk"]}
+{"parents": ["World/Dialogs/Test/AlushinyrraLowerCity/TemporaryPortalMapDialogue/Cue_0001"], "children": ["World/Areas/Act_4_MidnightIsles/AlushinyrraLowerCity/EnterPoints/AlushinyrraLowerCity_TavernPortalArk", "World/Encounters/AlushinyrraCity/Items/TeleportationMarks/BadLuckArk_Mark"]}

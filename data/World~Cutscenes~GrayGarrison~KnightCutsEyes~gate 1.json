@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/KnightCutsEyes/gate", "World/Cutscenes/GrayGarrison/KnightCutsEyes/KnightCutsEyes"], "children": ["World/Cutscenes/GrayGarrison/KnightCutsEyes/CommandAction1"]}
+{"parents": ["World/Cutscenes/GrayGarrison/KnightCutsEyes/KnightCutsEyes", "World/Cutscenes/GrayGarrison/KnightCutsEyes/gate"], "children": ["World/Cutscenes/GrayGarrison/KnightCutsEyes/CommandAction1"]}

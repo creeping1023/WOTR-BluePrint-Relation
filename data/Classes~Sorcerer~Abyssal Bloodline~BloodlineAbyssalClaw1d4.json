@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClawsBuffLevel2", "Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClawsBuffLevel1"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClawsBuffLevel1", "Dugeons/Loot/DungeonLootExclude", "Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClawsBuffLevel2"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}

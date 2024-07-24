@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DrezenCitadel_Level1/ActionsHolders/EscortAfterBattle"], "children": ["World/Encounters/DrezenCitadel_Level1/UnlockableFlags/EscortedPaladins", "World/Encounters/DrezenCitadel_Level1/UnlockableFlags/EscortedPaladins", "Buffs/SummonedCreatureVisual", "Buffs/SummonedCreatureVisual"]}
+{"parents": ["World/Encounters/DrezenCitadel_Level1/ActionsHolders/EscortAfterBattle"], "children": ["World/Encounters/DrezenCitadel_Level1/UnlockableFlags/EscortedPaladins", "Buffs/SummonedCreatureVisual"]}

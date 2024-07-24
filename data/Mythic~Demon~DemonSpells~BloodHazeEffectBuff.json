@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/DemonSpells/BloodHazeBuff", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/BossFight/DLC4_ShifterBossAbilityBrains/DLC4_StartCombatBuffs"], "children": ["Mythic/Demon/DemonSpells/BloodHazeBuff", "Mythic/Demon/DemonSpells/BloodHazeBuff"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/BossFight/DLC4_ShifterBossAbilityBrains/DLC4_StartCombatBuffs", "Mythic/Demon/DemonSpells/BloodHazeBuff"], "children": ["Mythic/Demon/DemonSpells/BloodHazeBuff"]}

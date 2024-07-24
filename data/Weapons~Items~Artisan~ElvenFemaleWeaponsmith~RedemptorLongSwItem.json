@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level6/Transformation", "Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/CriticalMultiplierIncrease"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/CriticalMultiplierIncrease", "Weapons/Types/MartialOneHanded/Longsword", "Spells/Level6/Transformation", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Enhancement5"]}

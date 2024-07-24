@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/LightArmorConsideration", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/ShrineOfThree/Brains/Shrine_Consideration_HasBuffInstantEnemy"]}
+{"children": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/ShrineOfThree/Brains/Shrine_Consideration_HasBuffInstantEnemy", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/LightArmorConsideration"]}

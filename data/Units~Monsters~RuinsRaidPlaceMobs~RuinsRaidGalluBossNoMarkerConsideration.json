@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossCorpseBlastAction", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossCorpseFirstBlastAction"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBlastCorpseMarkerBuff"]}
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossCorpseFirstBlastAction", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossCorpseBlastAction"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBlastCorpseMarkerBuff"]}

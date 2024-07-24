@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/Lann_EatenToDeath/gate 1"], "children": ["World/Cutscenes/LannWenduagQ1_Neathholm/Wendu_ImYourQueen/Wendu_ImYourQueen", "Classes/Barbarian/Rage/StandartRageBuff", "Units/Companions/Wenduag/Wenduag_Companion", "Classes/Barbarian/Rage/StandartRageBuff"]}
+{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/Lann_EatenToDeath/gate 1"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "Classes/Barbarian/Rage/StandartRageBuff", "World/Cutscenes/LannWenduagQ1_Neathholm/Wendu_ImYourQueen/Wendu_ImYourQueen"]}

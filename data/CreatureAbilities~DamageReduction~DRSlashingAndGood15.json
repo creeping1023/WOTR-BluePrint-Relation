@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Mandragora/CR20_ModifiedMandragoraKiller", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraMagic", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraSuicide"], "children": ["CreatureAbilities/DamageReduction/DRSlashingAndGood10"]}
+{"parents": ["Units/Monsters/Mandragora/CR20_ModifiedMandragoraKiller", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraSuicide", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraMagic"], "children": ["CreatureAbilities/DamageReduction/DRSlashingAndGood10"]}

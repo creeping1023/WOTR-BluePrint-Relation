@@ -1,1 +1,1 @@
-{"parents": ["Classes/Druid/Archetypes/ElementalRampager/AcidRampage/RampageExtraEffect11Buff"], "children": ["Classes/Druid/Archetypes/ElementalRampager/AcidRampage/RampageExtraEffect20DamageBuff", "Classes/Druid/DruidClass"]}
+{"parents": ["Classes/Druid/Archetypes/ElementalRampager/AcidRampage/RampageExtraEffect11Buff"], "children": ["Classes/Druid/DruidClass", "Classes/Druid/Archetypes/ElementalRampager/AcidRampage/RampageExtraEffect20DamageBuff"]}

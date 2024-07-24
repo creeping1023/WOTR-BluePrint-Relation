@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_PlaneOfShadow_Basement_1/ActionsHolders/DLC5_LC_Wight"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WightSpawn/CommandDelay3", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WightSpawn/gate"]}
+{"parents": ["World/Encounters/DLC5_PlaneOfShadow_Basement_1/ActionsHolders/DLC5_LC_Wight"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WightSpawn/gate", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WightSpawn/CommandDelay3"]}

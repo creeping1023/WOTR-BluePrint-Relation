@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/HorgusRevealsTruth/Cue_0051"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/HorgusRevealsTruth/Cue_0053"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/HorgusRevealsTruth/Cue_0051"], "children": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/HorgusRevealsTruth/Cue_0053", "Units/Companions/Camelia/Camelia_Companion"]}

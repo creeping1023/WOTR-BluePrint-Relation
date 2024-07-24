@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/AlushynirraCity/YouOnlyMortalsLeaderBrain/YouOnlyMortalsLeader_Brain"], "children": ["Brain/Considerations/NoBuffDivinePower", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level4/DivinePower"]}
+{"parents": ["Units/Monsters/Deathsnatcher/AlushynirraCity/YouOnlyMortalsLeaderBrain/YouOnlyMortalsLeader_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffDivinePower", "Spells/Level4/DivinePower"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradedSithhudRodEnemyBuff"], "children": ["Items/Rods/PF2DLC2/SithhudsRodCountBuff", "Items/Rods/PF2DLC2/SithhudsRodCountBuff", "Buffs/Prone", "Items/Rods/PF2DLC2/SithhudsRodCountBuff"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradedSithhudRodEnemyBuff"], "children": ["Items/Rods/PF2DLC2/SithhudsRodCountBuff", "Buffs/Prone"]}

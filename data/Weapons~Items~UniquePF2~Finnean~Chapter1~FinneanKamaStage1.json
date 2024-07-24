@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticLight/Kama", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Enchantments/GhostTouch"]}
+{"parents": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticLight/Kama", "Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/GhostTouch"]}

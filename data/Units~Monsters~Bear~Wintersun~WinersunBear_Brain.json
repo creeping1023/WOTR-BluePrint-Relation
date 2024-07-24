@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Bear/Wintersun/DLC1_WintersunBear", "Units/Monsters/Bear/Wintersun/WintersunBear"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Bear/Wintersun/WintersunBear_DimensionDoorAIAction"]}
+{"parents": ["Units/Monsters/Bear/Wintersun/DLC1_WintersunBear", "Units/Monsters/Bear/Wintersun/WintersunBear"], "children": ["Units/Monsters/Bear/Wintersun/WintersunBear_DimensionDoorAIAction", "Brain/Actions/AttackAiAction"]}

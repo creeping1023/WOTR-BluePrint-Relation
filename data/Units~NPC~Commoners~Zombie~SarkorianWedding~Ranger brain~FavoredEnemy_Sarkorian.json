@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Ranger brain/SarkorianRanger_AiAction_Attack"], "children": ["Races/HumanRace", "Races/ElfRace", "Races/DwarfRace"]}
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Ranger brain/SarkorianRanger_AiAction_Attack"], "children": ["Races/DwarfRace", "Races/HumanRace", "Races/ElfRace"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Boss_Start/SequenceExit_0019", "World/Dialogs/c2_vs/LostChapel/Boss_Start/Answer_0010"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/StauntonVane_LostChapel", "World/Dialogs/c2_vs/LostChapel/Boss_Start/Cue_0015"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Boss_Start/Answer_0010", "World/Dialogs/c2_vs/LostChapel/Boss_Start/SequenceExit_0019"], "children": ["World/Dialogs/c2_vs/LostChapel/Boss_Start/Cue_0015", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/StauntonVane_LostChapel"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Debrief_Nocta_Dialogue", "Root/Upgraders/Player/PF-415518"], "children": ["World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0002"]}
+{"parents": ["Root/Upgraders/Player/PF-415518", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Debrief_Nocta_Dialogue"], "children": ["World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0002"]}

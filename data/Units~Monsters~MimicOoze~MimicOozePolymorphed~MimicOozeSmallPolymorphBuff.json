@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicOozeSmallPolymorph"], "children": ["Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicOozeSMallDelayBuff", "Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicMoveRotationBanBuff"]}
+{"parents": ["Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicOozeSmallPolymorph"], "children": ["Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicMoveRotationBanBuff", "Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicOozeSMallDelayBuff"]}

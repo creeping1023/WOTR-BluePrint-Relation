@@ -1,1 +1,1 @@
-{"parents": ["Classes/Duelist/DuelistProgression"], "children": ["Classes/Duelist/DuelistParry/DuelistParryOthersAbility", "Classes/Duelist/DuelistParry/DuelistParrySelfAbility"]}
+{"parents": ["Classes/Duelist/DuelistProgression"], "children": ["Classes/Duelist/DuelistParry/DuelistParrySelfAbility", "Classes/Duelist/DuelistParry/DuelistParryOthersAbility"]}

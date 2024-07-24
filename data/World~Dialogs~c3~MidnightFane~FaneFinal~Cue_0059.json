@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0055", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald", "World/Dialogs/c3/MidnightFane/FaneFinal/AnswersList_0054"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0055", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/MidnightFane/FaneFinal/AnswersList_0054", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald"]}

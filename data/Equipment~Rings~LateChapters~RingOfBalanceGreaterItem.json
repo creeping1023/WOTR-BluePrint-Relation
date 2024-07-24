@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/LateChapters/RingOfBalanceGreaterEnchantment", "Equipment/CommonEnchantments/Deflection5"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/CommonEnchantments/Deflection5", "Equipment/Rings/LateChapters/RingOfBalanceGreaterEnchantment"]}

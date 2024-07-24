@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/gate2"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/CommandAction", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/gate"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/gate2"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/gate", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/CommandAction"]}

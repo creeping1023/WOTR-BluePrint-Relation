@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/RoguePaladin_SE2/RoguePaladin_SE2_BerengarRelax/CommandUnitCastSpell 1"], "children": ["Traits/Races/Common/ConstructType", "CreatureAbilities/NegativeEnergyAffinity"]}
+{"parents": ["World/Cutscenes/RoguePaladin_SE2/RoguePaladin_SE2_BerengarRelax/CommandUnitCastSpell 1"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Traits/Races/Common/ConstructType"]}

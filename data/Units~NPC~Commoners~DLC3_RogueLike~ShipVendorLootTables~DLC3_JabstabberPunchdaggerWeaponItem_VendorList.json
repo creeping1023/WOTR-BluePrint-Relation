@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_JabstabberPunchdaggerWeapon", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items"], "children": ["Items/Weapons/DLC3/DLC3_JabstabberPunchdaggerWeaponItem"]}
+{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_JabstabberPunchdaggerWeapon"], "children": ["Items/Weapons/DLC3/DLC3_JabstabberPunchdaggerWeaponItem"]}

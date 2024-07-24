@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Kakuen-taka/Brains/CR21_GluttonousBhogaSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Units/Monsters/Demon Kakuen-taka/SecondState/CR21_BhogaSwarmDamageAbility"]}
+{"parents": ["Units/Monsters/Demon Kakuen-taka/Brains/CR21_GluttonousBhogaSwarmBrain"], "children": ["Units/Monsters/Demon Kakuen-taka/SecondState/CR21_BhogaSwarmDamageAbility", "Brain/Considerations/SwarmTargetsPriority"]}

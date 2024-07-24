@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/BestowGraceOfTheChampionCast"], "children": ["Spells/Level4/BestowGraceOfTheChampionBuff", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Spells/Level4/BestowGraceOfTheChampionCast"], "children": ["Weapons/Types/Special/TouchItem", "Spells/Level4/BestowGraceOfTheChampionBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["CreatureAbilities/Templates/PlaguedBeast/PlaguedBeastTemplate"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "CreatureAbilities/Templates/PlaguedBeast/DemonPlague", "Weapons/Types/NaturalWeapon/BiteDragonType", "CreatureAbilities/Templates/PlaguedBeast/DemonPlague"]}
+{"parents": ["CreatureAbilities/Templates/PlaguedBeast/PlaguedBeastTemplate"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "CreatureAbilities/Templates/PlaguedBeast/DemonPlague", "Weapons/Types/NaturalWeapon/BiteDragonType"]}

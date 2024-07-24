@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata"], "children": ["Achievements/10_PathOfAzata", "World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Mythics"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Mythics", "Achievements/10_PathOfAzata"]}

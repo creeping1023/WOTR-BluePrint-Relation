@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Adviser/Answer_0007"], "children": ["World/Encounters/DLC4_Gundrun/SummonPools/DLC4_CounselorSquad", "Factions/Mobs", "World/Encounters/DLC4_Gundrun/UnlockableFlags/DLC4_QuarantineHouseUnlocked", "Factions/HelpingPlayer"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Adviser/Answer_0007"], "children": ["Factions/Mobs", "World/Encounters/DLC4_Gundrun/SummonPools/DLC4_CounselorSquad", "Factions/HelpingPlayer", "World/Encounters/DLC4_Gundrun/UnlockableFlags/DLC4_QuarantineHouseUnlocked"]}

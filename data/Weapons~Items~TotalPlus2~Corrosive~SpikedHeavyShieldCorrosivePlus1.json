@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/Act_2_SwordOfValor/WarCamp_REVendorTableArmor", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_RewardsTier1_VendorTableArmor"], "children": ["Weapons/Types/MartialOneHanded/SpikedHeavyShield", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_RewardsTier1_VendorTableArmor", "Items/Vendors/Act_2_SwordOfValor/WarCamp_REVendorTableArmor"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive", "Weapons/Types/MartialOneHanded/SpikedHeavyShield"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_NoFact_Undead", "Spells/Level2/Boneshaker"]}
+{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level2/Boneshaker", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_NoFact_Undead"]}

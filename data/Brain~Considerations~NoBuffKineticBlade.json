@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/WaterBlastAiAction", "Brain/Actions/FireBlastAiAction"], "children": ["Classes/Kineticist/Burn/KineticBladeEnableBuff"]}
+{"parents": ["Brain/Actions/FireBlastAiAction", "Brain/Actions/WaterBlastAiAction"], "children": ["Classes/Kineticist/Burn/KineticBladeEnableBuff"]}

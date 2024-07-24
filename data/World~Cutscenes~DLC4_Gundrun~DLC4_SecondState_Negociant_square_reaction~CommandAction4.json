@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Negociant_square_reaction/gate"], "children": ["World/Cutscenes/LostChapel/FOWRevealParam/FOWRevealParam", "Factions/NeutralGuards", "Factions/NeutralGuards", "Factions/NeutralGuards", "Factions/NeutralGuards"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Negociant_square_reaction/gate"], "children": ["Factions/NeutralGuards", "World/Cutscenes/LostChapel/FOWRevealParam/FOWRevealParam"]}

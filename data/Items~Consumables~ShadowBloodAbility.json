@@ -1,1 +1,1 @@
-{"parents": ["Items/Consumables/ShadowBloodItem"], "children": ["Items/Consumables/ShadowbloodBuff", "Items/Consumables/ShadowbloodAddictionDebuff", "Buffs/Nauseated", "Items/Consumables/ShadowbloodBuff"]}
+{"parents": ["Items/Consumables/ShadowBloodItem"], "children": ["Buffs/Nauseated", "Items/Consumables/ShadowbloodAddictionDebuff", "Items/Consumables/ShadowbloodBuff"]}

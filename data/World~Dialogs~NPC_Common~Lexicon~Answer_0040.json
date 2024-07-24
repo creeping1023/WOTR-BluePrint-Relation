@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Lexicon/Cue_0041", "World/Dialogs/NPC_Common/Lexicon/BookPage_0022"], "children": ["World/Dialogs/NPC_Common/Lexicon/BookPage_0032", "Items/Archeology/LexiconPages/LexiconSecretPage "]}
+{"parents": ["World/Dialogs/NPC_Common/Lexicon/Cue_0041", "World/Dialogs/NPC_Common/Lexicon/BookPage_0022"], "children": ["Items/Archeology/LexiconPages/LexiconSecretPage ", "World/Dialogs/NPC_Common/Lexicon/BookPage_0032"]}

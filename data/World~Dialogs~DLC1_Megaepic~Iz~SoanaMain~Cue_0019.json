@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/SoanaMain/Answer_0018"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Soana", "World/Dialogs/DLC1_Megaepic/Iz/SoanaMain/AnswersList_0012"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/SoanaMain/Answer_0018"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/SoanaMain/AnswersList_0012", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Soana"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyRanger", "Armies/UnitBlueprints/KTC_ArmyRanger"], "children": ["CreatureAbilities/Subtypes/SubtypeDemon"]}
+{"parents": ["Armies/UnitBlueprints/KTC_ArmyRanger", "Armies/UnitBlueprints/ArmyRanger"], "children": ["CreatureAbilities/Subtypes/SubtypeDemon"]}

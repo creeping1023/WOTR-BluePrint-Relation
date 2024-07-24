@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype", "Classes/Barbarian/Archetypes/InstinctualWarrior/RageUnarmedStrikeBuff", "Classes/Monk/MonkProgression"], "children": ["Weapons/Items/Standard/NaturalWeapon/Unarmed2d8"]}
+{"parents": ["Classes/Monk/MonkProgression", "Classes/Barbarian/Archetypes/InstinctualWarrior/RageUnarmedStrikeBuff", "Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype"], "children": ["Weapons/Items/Standard/NaturalWeapon/Unarmed2d8"]}

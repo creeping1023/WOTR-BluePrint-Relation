@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Azata/AzataSpells/RainbowStarfallStormAbility", "Mythic/Azata/AzataSpells/RainbowStarfall"], "children": ["Mythic/Azata/AzataSpells/RainbowStarfallStormAbility", "Mythic/Azata/AzataSpells/RainbowStarfallStormAbility"]}
+{"parents": ["Mythic/Azata/AzataSpells/RainbowStarfall", "Mythic/Azata/AzataSpells/RainbowStarfallStormAbility"], "children": ["Mythic/Azata/AzataSpells/RainbowStarfallStormAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra/DLC5_ChainedDarknessReward_Visible"], "children": ["World/Cutscenes/LostChapel/ChainedDarknessReward_Appear/WaitFlag", "World/Cutscenes/LostChapel/ChainedDarknessReward_Appear/gate"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra/DLC5_ChainedDarknessReward_Visible"], "children": ["World/Cutscenes/LostChapel/ChainedDarknessReward_Appear/gate", "World/Cutscenes/LostChapel/ChainedDarknessReward_Appear/WaitFlag"]}

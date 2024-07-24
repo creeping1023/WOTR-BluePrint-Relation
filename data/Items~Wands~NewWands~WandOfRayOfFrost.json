@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/ArcaneScrollsVendorTableII", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level0/RayOfFrost"]}
+{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands", "Items/Vendors/ArcaneScrollsVendorTableII"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level0/RayOfFrost"]}

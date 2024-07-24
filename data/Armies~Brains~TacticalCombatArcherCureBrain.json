@@ -1,1 +1,1 @@
-{"children": ["Armies/Brains/Actions/TacticalCombatAiAttackArcher", "Armies/Brains/Actions/TacticalCombat_AIAction_CureModerateWounds"]}
+{"children": ["Armies/Brains/Actions/TacticalCombat_AIAction_CureModerateWounds", "Armies/Brains/Actions/TacticalCombatAiAttackArcher"]}

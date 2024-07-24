@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Druid/DruidClass", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/BreastplateType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Enchantments/SingingSteelEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Enchantments/SingingSteelEnchant", "Classes/Druid/DruidClass", "Equipment/Armor/Types/BreastplateType", "Classes/Monster/Dragon/DragonClass"]}

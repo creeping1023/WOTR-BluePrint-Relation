@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Nenio/AnswersList_0289"], "children": ["World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0304", "Units/Companions/Greybor/Greybor_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Nenio/AnswersList_0289"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0304"]}

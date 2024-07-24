@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/CueSequence_0038"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c1/EstrodTower/Faxon/Cue_0047"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/CueSequence_0038"], "children": ["World/Dialogs/c1/EstrodTower/Faxon/Cue_0047", "Units/Companions/Nenio/Nenio_Companion"]}

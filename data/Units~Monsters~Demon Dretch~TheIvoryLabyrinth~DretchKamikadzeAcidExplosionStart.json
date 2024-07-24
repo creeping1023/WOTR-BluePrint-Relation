@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Dretch/TheIvoryLabyrinth/DretchKamikadzeAcidAiAction", "Units/Monsters/Demon Dretch/TheIvoryLabyrinth/DretchKamikadze"], "children": ["Units/Monsters/Demon Dretch/TheIvoryLabyrinth/DretchKamikadzeAcidBuff"]}
+{"parents": ["Units/Monsters/Demon Dretch/TheIvoryLabyrinth/DretchKamikadze", "Units/Monsters/Demon Dretch/TheIvoryLabyrinth/DretchKamikadzeAcidAiAction"], "children": ["Units/Monsters/Demon Dretch/TheIvoryLabyrinth/DretchKamikadzeAcidBuff"]}

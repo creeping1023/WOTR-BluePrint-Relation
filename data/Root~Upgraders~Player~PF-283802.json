@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss", "World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBlissArena", "Buffs/NPC_Untargetable"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBlissArena", "World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss", "Buffs/NPC_Untargetable"]}

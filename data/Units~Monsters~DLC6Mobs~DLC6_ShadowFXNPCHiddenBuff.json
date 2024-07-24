@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DLC6_MasterOfArena", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DLC6_ArenaAnnouncer", "World/Cutscenes/DLC6_KenabresGates/DLC6_ArenaMasterStarted/CommandAction"]}
+{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_ArenaMasterStarted/CommandAction", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DLC6_MasterOfArena", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DLC6_ArenaAnnouncer"]}

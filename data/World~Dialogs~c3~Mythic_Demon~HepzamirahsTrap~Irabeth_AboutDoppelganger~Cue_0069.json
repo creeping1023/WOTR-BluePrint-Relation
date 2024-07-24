@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Demon/HepzamirahsTrap/Irabeth_AboutDoppelganger/Cue_0040"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/TenThousandDelights/Doppelganger", "World/Dialogs/c3/Mythic_Demon/HepzamirahsTrap/Irabeth_AboutDoppelganger/Cue_0064"]}
+{"parents": ["World/Dialogs/c3/Mythic_Demon/HepzamirahsTrap/Irabeth_AboutDoppelganger/Cue_0040"], "children": ["World/Dialogs/c3/Mythic_Demon/HepzamirahsTrap/Irabeth_AboutDoppelganger/Cue_0064", "Units/NPC/Unique/Act_4_MidnightIsles/TenThousandDelights/Doppelganger"]}

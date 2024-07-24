@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Kingdom/CrusadeProjects/MilitaryProjects/MilitaryProjectsFlags/Event07RaisingHeroes", "World/Crusade/CrusadeArmy/Event_7_5", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Crusade/CrusadeArmy/Event_7_5", "GlobalMaps/WorldWoundGM/Points/Point_Drezen", "Kingdom/CrusadeProjects/MilitaryProjects/MilitaryProjectsFlags/Event07RaisingHeroes"]}

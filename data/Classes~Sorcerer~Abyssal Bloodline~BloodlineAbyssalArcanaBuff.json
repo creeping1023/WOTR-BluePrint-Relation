@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalArcana"], "children": ["Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Sorcerer/SorcererClass", "Classes/Magus/MagusClass"]}
+{"parents": ["Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalArcana"], "children": ["Classes/Sorcerer/SorcererClass", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusClass"]}

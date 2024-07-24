@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/GargoyleAttack/Irabeth/AnswersList_0005"], "children": ["World/Dialogs/c2_vs/GargoyleAttack/Irabeth/Cue_0007"]}
+{"parents": ["World/Dialogs/c2_vs/GargoyleAttack/Irabeth/AnswersList_0005", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/GargoyleAttack/Irabeth/Cue_0007"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/HologramTrade/HologramTrade_azata_c4_dialog"], "children": ["World/Dialogs/c4/Mythic_Azata/HologramTrade/Answer_0015", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "World/Dialogs/c4/Mythic_Azata/HologramTrade/Cue_0017"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/HologramTrade/HologramTrade_azata_c4_dialog"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "World/Dialogs/c4/Mythic_Azata/HologramTrade/Cue_0017", "World/Dialogs/c4/Mythic_Azata/HologramTrade/Answer_0015"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenClaws/HagRivenClawAbilityLevel13"], "children": ["Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenClaws/HagRivenClaw1d6x3", "Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenClaws/HagRivenClawAbilityLevel13"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenClaws/HagRivenClaw1d6x3"]}

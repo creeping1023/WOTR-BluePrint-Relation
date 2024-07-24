@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/PuzzleSolved/PuzzleSolved", "World/Cutscenes/ArueshalaeRedoubt/PuzzleSolved/gate"], "children": ["World/Cutscenes/ArueshalaeRedoubt/PuzzleSolved/CommandStartDialog 1"]}
+{"parents": ["World/Cutscenes/ArueshalaeRedoubt/PuzzleSolved/gate", "World/Cutscenes/ArueshalaeRedoubt/PuzzleSolved/PuzzleSolved"], "children": ["World/Cutscenes/ArueshalaeRedoubt/PuzzleSolved/CommandStartDialog 1"]}

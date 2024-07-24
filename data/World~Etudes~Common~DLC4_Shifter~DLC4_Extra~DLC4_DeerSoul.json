@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC4_Wilds/ActionsHolders/DeerSoul", "World/Etudes/Common/DLC4_Shifter/DLC4_Extra/DLC4_Deer_day", "World/Etudes/Common/DLC4_Shifter/DLC4_Extra/DLC4_Deer_Night"], "children": ["World/Etudes/Common/DLC4_Shifter/DLC4_Extra/DLC4_Wilds_Extra"]}
+{"parents": ["World/Encounters/DLC4_Wilds/ActionsHolders/DeerSoul", "World/Etudes/Common/DLC4_Shifter/DLC4_Extra/DLC4_Deer_Night", "World/Etudes/Common/DLC4_Shifter/DLC4_Extra/DLC4_Deer_day"], "children": ["World/Etudes/Common/DLC4_Shifter/DLC4_Extra/DLC4_Wilds_Extra"]}

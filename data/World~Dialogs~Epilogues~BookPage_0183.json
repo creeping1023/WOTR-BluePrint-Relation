@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_Mythics"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon", "World/Dialogs/Epilogues/Cue_0195", "World/Dialogs/Epilogues/Cue_0533", "World/Dialogs/Epilogues/Answer_0196"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_Mythics"], "children": ["World/Dialogs/Epilogues/Cue_0533", "World/Dialogs/Epilogues/Answer_0196", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon", "World/Dialogs/Epilogues/Cue_0195"]}

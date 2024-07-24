@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/FirstVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Equipment/CommonEnchantments/Stealth10", "Equipment/CommonEnchantments/BlindnessImmunity"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/FirstVendorTable"], "children": ["Equipment/CommonEnchantments/BlindnessImmunity", "Equipment/CommonEnchantments/Stealth10", "Items/DestructibleItemsShards/ClothShardItem"]}

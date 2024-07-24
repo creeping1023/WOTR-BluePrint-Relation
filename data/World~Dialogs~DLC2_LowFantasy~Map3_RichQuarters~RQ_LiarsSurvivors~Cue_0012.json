@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_LiarsSurvivors/CueSequence_0002"], "children": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_Survivors/Musician/DLC2_Sv_Musician_Alive", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Musician"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_LiarsSurvivors/CueSequence_0002"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Musician", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Survivors/Musician/DLC2_Sv_Musician_Alive"]}

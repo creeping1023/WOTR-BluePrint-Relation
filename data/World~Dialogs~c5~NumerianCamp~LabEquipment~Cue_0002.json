@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/NumerianCamp/LabEquipment/LabEquipment_dialogue"], "children": ["World/Dialogs/c5/NumerianCamp/LabEquipment/AnswersList_0003", "World/Dialogs/c5/NumerianCamp/LabEquipment/CueSequence_0027"]}
+{"parents": ["World/Dialogs/c5/NumerianCamp/LabEquipment/LabEquipment_dialogue"], "children": ["World/Dialogs/c5/NumerianCamp/LabEquipment/CueSequence_0027", "World/Dialogs/c5/NumerianCamp/LabEquipment/AnswersList_0003"]}

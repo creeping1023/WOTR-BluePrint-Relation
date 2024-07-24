@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Ritual_with_hermit/DLC5_Ritual_with_hermit"], "children": ["World/Cutscenes/LostChapel/FOWRevealParam/FOWRevealParam", "World/Cutscenes/GenericScenes/PartyDismountCycle/PartyDismountCycle"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Ritual_with_hermit/DLC5_Ritual_with_hermit"], "children": ["World/Cutscenes/GenericScenes/PartyDismountCycle/PartyDismountCycle", "World/Cutscenes/LostChapel/FOWRevealParam/FOWRevealParam"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/CampAttack/gate 2"], "children": ["World/Encounters/Iz/SummonPools/CampDefenders", "World/Cutscenes/Iz/CampDefendersLookAndCombatMode/CampDefendersLookAndCombatMode"]}
+{"parents": ["World/Cutscenes/Iz/CampAttack/gate 2"], "children": ["World/Cutscenes/Iz/CampDefendersLookAndCombatMode/CampDefendersLookAndCombatMode", "World/Encounters/Iz/SummonPools/CampDefenders"]}

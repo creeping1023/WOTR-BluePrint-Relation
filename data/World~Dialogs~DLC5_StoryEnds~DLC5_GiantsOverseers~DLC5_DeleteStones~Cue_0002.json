@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/DLC5_GiantsOverseers/DLC5_DeleteStones/Cue_14"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "World/Dialogs/DLC5_StoryEnds/DLC5_GiantsOverseers/DLC5_DeleteStones/AnswersList_6"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/DLC5_GiantsOverseers/DLC5_DeleteStones/Cue_14"], "children": ["World/Dialogs/DLC5_StoryEnds/DLC5_GiantsOverseers/DLC5_DeleteStones/AnswersList_6", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]}

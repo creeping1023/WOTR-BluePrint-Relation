@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/BanditLightMaceItem"], "children": ["Weapons/Items/Unique/LateChapters/BanditLightMaceFeature", "Buffs/Shaken", "Buffs/Frightened", "Buffs/Frightened"]}
+{"parents": ["Weapons/Items/Unique/LateChapters/BanditLightMaceItem"], "children": ["Buffs/Shaken", "Buffs/Frightened", "Weapons/Items/Unique/LateChapters/BanditLightMaceFeature"]}

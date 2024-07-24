@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/UniquePF2/Chapter3/SequenceOfMurderFirstItem"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement3", "Weapons/Items/UniquePF2/Chapter3/SequenceOfMurderSecondEnchantment"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter3/SequenceOfMurderFirstItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/UniquePF2/Chapter3/SequenceOfMurderSecondEnchantment", "Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

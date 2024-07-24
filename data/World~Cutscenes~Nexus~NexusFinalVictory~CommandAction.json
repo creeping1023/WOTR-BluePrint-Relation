@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/NexusFinalVictory/NexusFinalVictory"], "children": ["World/Encounters/Nexus/SummonPools/Nexus_CampDefendersOutside", "Buffs/NPC_Immortality"]}
+{"parents": ["World/Cutscenes/Nexus/NexusFinalVictory/NexusFinalVictory"], "children": ["Buffs/NPC_Immortality", "World/Encounters/Nexus/SummonPools/Nexus_CampDefendersOutside"]}

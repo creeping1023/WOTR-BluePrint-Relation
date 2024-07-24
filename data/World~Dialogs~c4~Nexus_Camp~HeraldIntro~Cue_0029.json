@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/Answer_0011"], "children": ["World/Encounters/Nexus/Items/PortalKey", "World/Quests/c4/MidnightIsles/Add_KeyToHerald", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/AnswersList_0032"]}
+{"parents": ["World/Dialogs/c4/Nexus_Camp/HeraldIntro/Answer_0011", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Encounters/Nexus/Items/PortalKey", "World/Quests/c4/MidnightIsles/Add_KeyToHerald", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/AnswersList_0032"]}

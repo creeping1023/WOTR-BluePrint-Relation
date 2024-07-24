@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC5NewSpells/VengefulCometsBuff"], "children": ["FX/Spell Level None/ColdCommonProjectile00", "Weapons/Types/Special/RayItem"]}
+{"parents": ["Spells/DLC5NewSpells/VengefulCometsBuff"], "children": ["Weapons/Types/Special/RayItem", "FX/Spell Level None/ColdCommonProjectile00"]}

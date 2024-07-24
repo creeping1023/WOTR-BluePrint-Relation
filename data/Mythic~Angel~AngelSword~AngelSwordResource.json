@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Angel/AngelSword/AngelSwordSwitchAbility", "Equipment/Rings/DLC4/RingOfAroden/RingofArodenMythicResourcesBuff", "Mythic/Angel/AngelSword/AngelSwordFeature", "Mythic/Angel/AngelReward/AngelUnbrokenFeature"], "children": ["Mythic/Angel/AngelMythicClass"]}
+{"parents": ["Equipment/Rings/DLC4/RingOfAroden/RingofArodenMythicResourcesBuff", "Mythic/Angel/AngelSword/AngelSwordSwitchAbility", "Mythic/Angel/AngelSword/AngelSwordFeature", "Mythic/Angel/AngelReward/AngelUnbrokenFeature"], "children": ["Mythic/Angel/AngelMythicClass"]}

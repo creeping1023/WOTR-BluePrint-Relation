@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"], "children": ["Achievements/09_PathOfDemon", "World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Mythics"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Mythics", "Achievements/09_PathOfDemon"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/CrusadeEventTimeline"], "children": ["Armies/CrusadeGlobalBuffs/GrowthRankCompensation", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel", "Armies/CrusadeGlobalBuffs/FlagExampleForSoldiers"]}
+{"parents": ["Root/Kingdom/CrusadeEventTimeline"], "children": ["Armies/CrusadeGlobalBuffs/FlagExampleForSoldiers", "Armies/CrusadeGlobalBuffs/GrowthRankCompensation", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel"]}

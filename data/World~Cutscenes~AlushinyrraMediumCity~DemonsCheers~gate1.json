@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraMediumCity/DemonsCheers/gate"], "children": ["World/Cutscenes/AlushinyrraMediumCity/DemonsCheers/CommandActivateGate", "World/Cutscenes/AlushinyrraMediumCity/DemonsCheers/CommandAction"]}
+{"parents": ["World/Cutscenes/AlushinyrraMediumCity/DemonsCheers/gate"], "children": ["World/Cutscenes/AlushinyrraMediumCity/DemonsCheers/CommandAction", "World/Cutscenes/AlushinyrraMediumCity/DemonsCheers/CommandActivateGate"]}

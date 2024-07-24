@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/DragonDisciple/DragonDiscipleBiteFeatureAcid"], "children": ["Weapons/Types/NaturalWeapon/BiteDragonType", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Classes/DragonDisciple/DragonDiscipleBiteFeatureAcid", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/BiteDragonType", "Weapons/Enchantments/Corrosive"]}

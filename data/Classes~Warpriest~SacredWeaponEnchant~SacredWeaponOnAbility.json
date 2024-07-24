@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/SacredWeaponEnchant/SacredWeaponEnchantFeature"], "children": ["Classes/Warpriest/SacredWeaponEnchant/SacredWeaponOnAbilityPrimary", "Classes/Warpriest/SacredWeaponEnchant/SacredWeaponOnAbilitySecondary"]}
+{"parents": ["Classes/Warpriest/SacredWeaponEnchant/SacredWeaponEnchantFeature"], "children": ["Classes/Warpriest/SacredWeaponEnchant/SacredWeaponOnAbilitySecondary", "Classes/Warpriest/SacredWeaponEnchant/SacredWeaponOnAbilityPrimary"]}

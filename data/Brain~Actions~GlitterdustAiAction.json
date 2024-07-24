@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/AoE_ChooseAtLeastOneEnemy", "Brain/Considerations/HasBuffInvisibility", "Spells/Level2/Glitterdust"]}
+{"children": ["Spells/Level2/Glitterdust", "Brain/Considerations/AoE_ChooseAtLeastOneEnemy", "Brain/Considerations/HasBuffInvisibility"]}

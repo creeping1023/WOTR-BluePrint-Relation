@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraBandits/MercenaryBrain/CR17_Mercenary_Dwarf_Ranged_Brain_Standart"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level5/PhantasmalWeb"]}
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraBandits/MercenaryBrain/CR17_Mercenary_Dwarf_Ranged_Brain_Standart"], "children": ["Spells/Level5/PhantasmalWeb", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

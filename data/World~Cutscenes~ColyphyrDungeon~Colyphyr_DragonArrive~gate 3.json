@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/Colyphyr_DragonArrive", "World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/gate 4"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/CommandAction 1"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/gate 4", "World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/Colyphyr_DragonArrive"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/CommandAction 1"]}

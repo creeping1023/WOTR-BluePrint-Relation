@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level5/DisruptingWeaponCast"], "children": ["Weapons/Enchantments/Unique/DisruptingWeapon", "Spells/Level5/DisruptingWeaponFakeBuff", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Spells/Level5/DisruptingWeaponCast"], "children": ["Weapons/Types/Special/TouchItem", "Spells/Level5/DisruptingWeaponFakeBuff", "Weapons/Enchantments/Unique/DisruptingWeapon"]}

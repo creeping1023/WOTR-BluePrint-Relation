@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeAllyBuff", "Spells/Level5/RighteousMight", "Brain/Considerations/NoBuffRighteousMight"]}
+{"parents": ["Brain/Considerations/NoBuffRighteousMight", "Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeAllyBuff", "Spells/Level5/RighteousMight"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Basic/BasicFeatSelection", "World/Encounters/DLC3_ToxicPrison_1/ActionsHolders/DLC3_RewardStatueFeature_Actions", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["Races/HalfElfRace", "Traits/Races/Elf/ElvenMagic"]}
+{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/Feats/ExtraFeatMythicFeat", "World/Encounters/DLC3_ToxicPrison_1/ActionsHolders/DLC3_RewardStatueFeature_Actions", "Mythic/GoldenDragon/DragonLevel2FeatSelection"], "children": ["Traits/Races/Elf/ElvenMagic", "Races/HalfElfRace"]}

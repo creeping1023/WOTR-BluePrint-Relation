@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/CommonEnchantments/Dexterity4", "Equipment/CommonEnchantments/NaturalArmorEnhancement3", "Equipment/Headgear/NokNokHelmet/StubbornHeadEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Dexterity4", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/CommonEnchantments/NaturalArmorEnhancement3", "Equipment/Headgear/NokNokHelmet/StubbornHeadEnchant"]}

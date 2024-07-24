@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Leadership/KTC_AfterRankUp8/Answer_0012"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/RankUpOfficer_Leadership", "World/Crusade/RankUps/Leadership/KTC_AfterRankUp8/Cue_0045"]}
+{"parents": ["World/Crusade/RankUps/Leadership/KTC_AfterRankUp8/Answer_0012"], "children": ["World/Crusade/RankUps/Leadership/KTC_AfterRankUp8/Cue_0045", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/RankUpOfficer_Leadership"]}

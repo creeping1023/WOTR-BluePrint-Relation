@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/ViewFromTheCliff/ViewFromTheCliff"], "children": ["World/Cutscenes/Iz/ViewFromTheCliff/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Iz/ViewFromTheCliff/CommandDelay", "World/Cutscenes/Iz/ViewFromTheCliff/gate1"]}
+{"parents": ["World/Cutscenes/Iz/ViewFromTheCliff/ViewFromTheCliff"], "children": ["World/Cutscenes/Iz/ViewFromTheCliff/gate1", "World/Cutscenes/Iz/ViewFromTheCliff/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Iz/ViewFromTheCliff/CommandDelay"]}

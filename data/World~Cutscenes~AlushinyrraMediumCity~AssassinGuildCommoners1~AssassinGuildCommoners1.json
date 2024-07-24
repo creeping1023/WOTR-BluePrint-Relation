@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/AlushinyrraMediumCity/ScriptZones/AssassinsGuildCutscene"], "children": ["World/Cutscenes/AlushinyrraMediumCity/AssassinGuildCommoners1/CommandDelay2", "World/Cutscenes/AlushinyrraMediumCity/AssassinGuildCommoners1/gate"]}
+{"parents": ["World/Encounters/AlushinyrraMediumCity/ScriptZones/AssassinsGuildCutscene"], "children": ["World/Cutscenes/AlushinyrraMediumCity/AssassinGuildCommoners1/gate", "World/Cutscenes/AlushinyrraMediumCity/AssassinGuildCommoners1/CommandDelay2"]}

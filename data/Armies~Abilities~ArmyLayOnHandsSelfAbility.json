@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyLayOnHandsFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyLayOnHandsSelfCooldownBuff", "Armies/Abilities/ArmyLayOnHandsResource", "Armies/Abilities/ArmyLayOnHandsSelfCooldownBuff"]}
+{"parents": ["Armies/Abilities/ArmyLayOnHandsFeature"], "children": ["Armies/Abilities/ArmyLayOnHandsSelfCooldownBuff", "Armies/Abilities/ArmyLayOnHandsResource", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower"]}

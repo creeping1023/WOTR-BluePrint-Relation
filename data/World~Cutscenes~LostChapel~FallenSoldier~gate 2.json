@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/FallenSoldier/FallenSoldier"], "children": ["World/Cutscenes/LostChapel/FallenSoldier/CommandRequireUnits", "World/Cutscenes/LostChapel/FallenSoldier/gate"]}
+{"parents": ["World/Cutscenes/LostChapel/FallenSoldier/FallenSoldier"], "children": ["World/Cutscenes/LostChapel/FallenSoldier/gate", "World/Cutscenes/LostChapel/FallenSoldier/CommandRequireUnits"]}

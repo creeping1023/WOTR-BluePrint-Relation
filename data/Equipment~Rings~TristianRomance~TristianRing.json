@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/TristianRomance/TristanRingActivatableAbility", "Equipment/CommonEnchantments/Deflection4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Deflection4", "Equipment/Rings/TristianRomance/TristanRingActivatableAbility", "Items/DestructibleItemsShards/MetalShardItem"]}

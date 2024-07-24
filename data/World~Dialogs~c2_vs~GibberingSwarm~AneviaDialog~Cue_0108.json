@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Answer_0110", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/CueSequence_0089"], "children": ["Classes/Basic/Deities/GozrehFeature"]}
+{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/CueSequence_0089", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Answer_0110"], "children": ["Classes/Basic/Deities/GozrehFeature"]}

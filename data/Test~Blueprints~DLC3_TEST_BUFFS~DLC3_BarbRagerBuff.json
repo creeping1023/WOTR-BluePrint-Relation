@@ -1,1 +1,1 @@
-{"children": ["Test/Blueprints/DLC3_TEST_BUFFS/DLC3_BarbRagerProp", "Classes/Barbarian/Rage/RageFeature", "Classes/Bloodrager/BloodragerRage/BloodragerRageFeature"]}
+{"children": ["Classes/Bloodrager/BloodragerRage/BloodragerRageFeature", "Classes/Barbarian/Rage/RageFeature", "Test/Blueprints/DLC3_TEST_BUFFS/DLC3_BarbRagerProp"]}

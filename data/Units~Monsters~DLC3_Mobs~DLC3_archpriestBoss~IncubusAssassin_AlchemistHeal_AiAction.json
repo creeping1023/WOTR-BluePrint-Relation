@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Abrikandilu/AbrikandiluBrain/DLC3_CR21_IncubusAssassin_Alchemist_level13_MiniBoss_Brain"], "children": ["Brain/Considerations/InjuryMedium", "Brain/Considerations/TargetSelf", "Spells/Level6/Heal"]}
+{"parents": ["Units/Monsters/Demon Abrikandilu/AbrikandiluBrain/DLC3_CR21_IncubusAssassin_Alchemist_level13_MiniBoss_Brain"], "children": ["Brain/Considerations/InjuryMedium", "Spells/Level6/Heal", "Brain/Considerations/TargetSelf"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Travel/TravelDomainBaseAbility", "Classes/Cleric/Domains/Travel/TravelDomainBaseFeature"], "children": ["Classes/Cleric/ClericClass"]}
+{"parents": ["Classes/Cleric/Domains/Travel/TravelDomainBaseFeature", "Classes/Cleric/Domains/Travel/TravelDomainBaseAbility"], "children": ["Classes/Cleric/ClericClass"]}

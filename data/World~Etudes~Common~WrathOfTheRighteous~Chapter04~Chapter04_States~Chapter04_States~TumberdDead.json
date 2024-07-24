@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrDefaultMechanics", "World/Dialogs/c4/AirAdventures/Cue_0482"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Tumberd"]}
+{"parents": ["World/Dialogs/c4/AirAdventures/Cue_0482", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrDefaultMechanics"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Tumberd"]}

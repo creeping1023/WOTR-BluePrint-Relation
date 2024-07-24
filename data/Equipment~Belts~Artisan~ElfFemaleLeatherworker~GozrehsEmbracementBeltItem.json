@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level3/LightningBolt", "Equipment/CommonEnchantments/Dexterity4", "Equipment/CommonEnchantments/Charisma4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level3/LightningBolt", "Equipment/CommonEnchantments/Charisma4", "Equipment/CommonEnchantments/Dexterity4", "Items/DestructibleItemsShards/LeatherShardItem"]}

@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseAtLeastOneEnemy", "Spells/Level5/FlameStrike"]}
+{"children": ["Brain/Considerations/ChaoticBehaviour", "Spells/Level5/FlameStrike", "Brain/Considerations/AoE_ChooseAtLeastOneEnemy", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority"]}

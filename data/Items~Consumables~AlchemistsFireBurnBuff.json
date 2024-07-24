@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/Archetypes/Grenadier/GrenadierAlchemistFireBuff", "Items/Consumables/AlchemistsFireAbility"]}
+{"parents": ["Items/Consumables/AlchemistsFireAbility", "Classes/Alchemist/Archetypes/Grenadier/GrenadierAlchemistFireBuff"]}

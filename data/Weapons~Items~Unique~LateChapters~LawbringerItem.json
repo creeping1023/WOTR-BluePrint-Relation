@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/C71_GoblinVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleRanged/LightCrossbow", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Axiomatic", "Weapons/Items/Unique/LateChapters/LawbringerEnchantment"]}
+{"parents": ["Items/Vendors/C71_GoblinVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleRanged/LightCrossbow", "Weapons/Enchantments/Axiomatic", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/LateChapters/LawbringerEnchantment"]}

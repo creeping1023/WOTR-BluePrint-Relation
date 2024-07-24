@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/KTC_Portrait_Invitation/Answer_0004"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/KTC_Portrait_Invitation/Cue_0008"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/KTC_Portrait_Invitation/Answer_0004"], "children": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/KTC_Portrait_Invitation/Cue_0008", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

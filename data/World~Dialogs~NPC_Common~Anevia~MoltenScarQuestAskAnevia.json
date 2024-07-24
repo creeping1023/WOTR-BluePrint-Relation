@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Anevia/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Anevia/Cue_0047", "World/Quests/c3/MoltenScar/Add1_TalkToAnevia", "World/Quests/c3/MoltenScar/Add1_TalkToAnevia"]}
+{"parents": ["World/Dialogs/NPC_Common/Anevia/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c3/MoltenScar/Add1_TalkToAnevia", "World/Dialogs/NPC_Common/Anevia/Cue_0047"]}

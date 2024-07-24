@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_3_TeleportGemGolemCh4"], "children": ["World/Cutscenes/StorytellerTower/RecolorGolem_EE_Show_Tower/RecolorGolem_EE_Show_Tower", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/AnswersList_0004"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_3_TeleportGemGolemCh4"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/AnswersList_0004", "World/Cutscenes/StorytellerTower/RecolorGolem_EE_Show_Tower/RecolorGolem_EE_Show_Tower"]}

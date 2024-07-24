@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/Cue_0005", "World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/Cue_0006"], "children": ["World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/AnswersList_0008", "World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/CueSequence_0029"]}
+{"parents": ["World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/Cue_0005", "World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/Cue_0006"], "children": ["World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/CueSequence_0029", "World/Dialogs/c5/AreshkagalTomb/EnygmaEnter/AnswersList_0008"]}

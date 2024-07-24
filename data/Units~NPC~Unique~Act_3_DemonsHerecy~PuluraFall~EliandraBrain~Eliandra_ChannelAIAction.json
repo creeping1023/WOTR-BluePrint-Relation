@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/EliandraBrain/Eliandra_Brain"], "children": ["Brain/Considerations/InjuryAroundMedium", "Classes/Cleric/ChannelEnergy"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/EliandraBrain/Eliandra_Brain"], "children": ["Classes/Cleric/ChannelEnergy", "Brain/Considerations/InjuryAroundMedium"]}

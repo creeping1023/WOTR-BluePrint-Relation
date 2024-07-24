@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Babau/MythicBabauBrain/MythicBabau_AiAction_OverwhelmingPresence", "Units/Monsters/Demon Babau/MythicBabauBrain/MythicBabau_AiAction_HoldPersonMass"]}
+{"children": ["Units/Monsters/Demon Babau/MythicBabauBrain/MythicBabau_AiAction_HoldPersonMass", "Units/Monsters/Demon Babau/MythicBabauBrain/MythicBabau_AiAction_OverwhelmingPresence", "Brain/Actions/AttackAiAction"]}

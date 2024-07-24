@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyEnslaveSoul", "Brain/Considerations/NoBuffEnslaveSoul"], "children": ["Armies/Abilities/ArmyEnslaveSoulSelfBuff"]}
+{"parents": ["Brain/Considerations/NoBuffEnslaveSoul", "Armies/Abilities/ArmyEnslaveSoul"], "children": ["Armies/Abilities/ArmyEnslaveSoulSelfBuff"]}

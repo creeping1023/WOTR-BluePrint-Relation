@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monster/Outsider/OutsiderClass"], "children": ["Classes/Monster/Outsider/OutsiderEmptyFeature", "Classes/Basic/SavesHigh", "Classes/Basic/SavesHigh", "Classes/Basic/SavesLow"]}
+{"parents": ["Classes/Monster/Outsider/OutsiderClass"], "children": ["Classes/Basic/SavesHigh", "Classes/Basic/SavesLow", "Classes/Monster/Outsider/OutsiderEmptyFeature"]}

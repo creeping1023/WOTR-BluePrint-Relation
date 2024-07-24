@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/NoTentaclesSE/ThankYouCommanderTentacles/Answer_0007"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfrey", "World/Dialogs/c3/NoTentaclesSE/ThankYouCommanderTentacles/Cue_0010"]}
+{"parents": ["World/Dialogs/c3/NoTentaclesSE/ThankYouCommanderTentacles/Answer_0007"], "children": ["World/Dialogs/c3/NoTentaclesSE/ThankYouCommanderTentacles/Cue_0010", "Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfrey"]}

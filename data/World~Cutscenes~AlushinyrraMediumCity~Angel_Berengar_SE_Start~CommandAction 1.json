@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraMediumCity/Angel_Berengar_SE_Start/gate 1"], "children": ["World/Encounters/AlushinyrraMediumCity/SummonPools/Angel_Berengar_SE_Demons", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/AlushinyrraMediumCity/Angel_Berengar_SE_Start/gate 1"], "children": ["Factions/Mobs", "World/Encounters/AlushinyrraMediumCity/SummonPools/Angel_Berengar_SE_Demons"]}

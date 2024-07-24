@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot", "Mythic/SwarmThatWalks/SwarmThatWalksProgression"], "children": ["Buffs/Exhausted", "Buffs/Fatigued"]}
+{"parents": ["Mythic/SwarmThatWalks/SwarmThatWalksProgression", "Root/PlayerUpgradeActionsRoot"], "children": ["Buffs/Fatigued", "Buffs/Exhausted"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Portraits/NPC/Nurah_Portrait", "Root/BlueprintRoot"], "children": ["Races/HalflingRace"]}
+{"parents": ["Root/BlueprintRoot", "Units/Portraits/NPC/Nurah_Portrait"], "children": ["Races/HalflingRace"]}

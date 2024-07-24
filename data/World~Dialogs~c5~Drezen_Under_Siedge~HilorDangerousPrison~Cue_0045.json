@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/HilorDangerousPrison/Answer_0044"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/VentureCaptainHilor", "World/Dialogs/c5/Drezen_Under_Siedge/HilorDangerousPrison/AnswersList_0006"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/HilorDangerousPrison/Answer_0044"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/HilorDangerousPrison/AnswersList_0006", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/VentureCaptainHilor"]}

@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level6/FormOfTheDragonI", "Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonIBronzeDragonDisciple", "Units/Abilities/Mounts/MountedBuff", "Items/Scrolls/Level6/ScrollOfFormOfTheDragonIBronze"], "children": ["Spells/Level6/FormOfTheDragonIBronzeBuff"]}
+{"parents": ["Items/Scrolls/Level6/ScrollOfFormOfTheDragonIBronze", "Units/Abilities/Mounts/MountedBuff", "Spells/Level6/FormOfTheDragonI", "Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonIBronzeDragonDisciple"], "children": ["Spells/Level6/FormOfTheDragonIBronzeBuff"]}

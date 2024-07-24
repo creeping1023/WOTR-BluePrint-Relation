@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Answer_0001", "Root/Upgraders/Player/PF-406343"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0003"]}
+{"parents": ["Root/Upgraders/Player/PF-406343", "World/Dialogs/c2_vs/DrezenSiege/Smith/Answer_0001"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0003"]}

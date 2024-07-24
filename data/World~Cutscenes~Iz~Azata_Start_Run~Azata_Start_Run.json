@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/Azata_start/CommandAction 2", "World/Cutscenes/Iz/Azata_start/CommandAction 1"], "children": ["World/Cutscenes/Iz/Azata_Start_Run/CommandDelay", "World/Cutscenes/Iz/Azata_Start_Run/CommandMoveUnit"]}
+{"parents": ["World/Cutscenes/Iz/Azata_start/CommandAction 1", "World/Cutscenes/Iz/Azata_start/CommandAction 2"], "children": ["World/Cutscenes/Iz/Azata_Start_Run/CommandMoveUnit", "World/Cutscenes/Iz/Azata_Start_Run/CommandDelay"]}

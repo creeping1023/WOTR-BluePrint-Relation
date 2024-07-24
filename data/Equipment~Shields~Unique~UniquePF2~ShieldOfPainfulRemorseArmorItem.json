@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Shields/Unique/UniquePF2/ShieldOfPainfulRemorseShieldItem"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/HeavyShieldType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus2"]}
+{"parents": ["Equipment/Shields/Unique/UniquePF2/ShieldOfPainfulRemorseShieldItem"], "children": ["Equipment/Shields/Enchantments/ShieldEnhancementBonus2", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/HeavyShieldType"]}

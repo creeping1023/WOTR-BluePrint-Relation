@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GreyborQ3_DryCrossroads/DyingParam/DyingParam"], "children": ["World/Cutscenes/GreyborQ3_DryCrossroads/DyingParam/CommandUnitPlayCutsceneAnimation1", "World/Cutscenes/GreyborQ3_DryCrossroads/DyingParam/gate"]}
+{"parents": ["World/Cutscenes/GreyborQ3_DryCrossroads/DyingParam/DyingParam"], "children": ["World/Cutscenes/GreyborQ3_DryCrossroads/DyingParam/gate", "World/Cutscenes/GreyborQ3_DryCrossroads/DyingParam/CommandUnitPlayCutsceneAnimation1"]}

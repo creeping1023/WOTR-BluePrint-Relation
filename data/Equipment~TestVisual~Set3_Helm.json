@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HelmetKettleHat", "Equipment/Headgear/CrownOfFearEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Headgear/CrownOfFearEnchant", "Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HelmetKettleHat"]}

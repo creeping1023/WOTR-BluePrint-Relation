@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hellknight/HellknightOrdersFeatures/HellKnightOrderOfThePyreFeatureMain1"], "children": ["Classes/Hellknight/HellknightOrdersFeatures/HellKnightOrderOfThePyreTier1Buff", "Classes/Hellknight/HellknightClass", "Classes/HellknightSignifer/HellknightSigniferClass"]}
+{"parents": ["Classes/Hellknight/HellknightOrdersFeatures/HellKnightOrderOfThePyreFeatureMain1"], "children": ["Classes/Hellknight/HellknightClass", "Classes/Hellknight/HellknightOrdersFeatures/HellKnightOrderOfThePyreTier1Buff", "Classes/HellknightSignifer/HellknightSigniferClass"]}

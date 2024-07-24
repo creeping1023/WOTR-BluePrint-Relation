@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/AbundantSmiteChaos", "Classes/Hellknight/SmiteChaosFeature", "Classes/Hellknight/SmiteChaosAbility", "Classes/Hellknight/SmiteChaosAdditionalUse"]}
+{"parents": ["Classes/Hellknight/SmiteChaosAdditionalUse", "Mythic/MythicAbilities/AbundantSmiteChaos", "Classes/Hellknight/SmiteChaosAbility", "Classes/Hellknight/SmiteChaosFeature"]}

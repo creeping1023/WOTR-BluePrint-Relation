@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/TestRankUp_3/Cue_0001"], "children": ["World/Dialogs/Test/TestRankUp_3/Cue_0003", "World/Dialogs/Test/TestRankUp_3/Cue_0004", "World/Dialogs/Test/TestRankUp_3/Cue_0005", "World/Dialogs/Test/TestRankUp_3/SequenceExit_0006"]}
+{"parents": ["World/Dialogs/Test/TestRankUp_3/Cue_0001"], "children": ["World/Dialogs/Test/TestRankUp_3/Cue_0004", "World/Dialogs/Test/TestRankUp_3/SequenceExit_0006", "World/Dialogs/Test/TestRankUp_3/Cue_0003", "World/Dialogs/Test/TestRankUp_3/Cue_0005"]}

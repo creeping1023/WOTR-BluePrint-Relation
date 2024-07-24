@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype"], "children": ["Classes/Ranger/RangerClass", "Spells/Level2/ScorchingRay"]}
+{"parents": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype", "Classes/Ranger/RangerProgression"], "children": ["Spells/Level2/ScorchingRay", "Classes/Ranger/RangerClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/TorturedCrusader/TorturedCrusader"], "children": ["Classes/Paladin/PaladinSpellLevels", "Classes/Paladin/PaladinSpellList", "Classes/Paladin/PaladinClass"]}
+{"parents": ["Classes/Paladin/Archetypes/TorturedCrusader/TorturedCrusader"], "children": ["Classes/Paladin/PaladinSpellList", "Classes/Paladin/PaladinClass", "Classes/Paladin/PaladinSpellLevels"]}

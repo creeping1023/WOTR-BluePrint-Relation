@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Ziggurat/Zacharius_Main/Cue_0146", "World/Dialogs/c3/Ziggurat/Zacharius_Main/Answer_0151"], "children": ["World/Quests/MythicQuests/Lich/LichFixAlignment/Obj1_FixAlignmentLich", "World/Dialogs/c3/Ziggurat/Zacharius_Main/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c3/Ziggurat/Zacharius_Main/Answer_0151", "World/Dialogs/c3/Ziggurat/Zacharius_Main/Cue_0146"], "children": ["World/Quests/MythicQuests/Lich/LichFixAlignment/Obj1_FixAlignmentLich", "World/Dialogs/c3/Ziggurat/Zacharius_Main/AnswersList_0003"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Frost Giant/FrostGiantSummoned", "Units/Monsters/DLC5Mobs/SecondHub/DLC5_cr19_FrostGiantMercUnit", "Units/Monsters/Frost Giant/CR9_FrostGiantStandard"], "children": ["Brain/Actions/GreatCleaveAiAction", "Brain/Actions/AttackAiAction"]}
+{"parents": ["Units/Monsters/Frost Giant/CR9_FrostGiantStandard", "Units/Monsters/DLC5Mobs/SecondHub/DLC5_cr19_FrostGiantMercUnit", "Units/Monsters/Frost Giant/FrostGiantSummoned"], "children": ["Brain/Actions/GreatCleaveAiAction", "Brain/Actions/AttackAiAction"]}

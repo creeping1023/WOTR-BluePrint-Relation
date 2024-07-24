@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level7/ElementalBodyIVFireBuff"], "children": ["Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireHugeBurnBuff", "Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireHugeBurnBuff", "Classes/Druid/DruidClass"]}
+{"parents": ["Spells/Level7/ElementalBodyIVFireBuff"], "children": ["Classes/Druid/DruidClass", "Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireHugeBurnBuff"]}

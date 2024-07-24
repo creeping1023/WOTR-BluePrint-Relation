@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Cessily/Answer_0026"], "children": ["Units/Companions/LichCompanions/Kestoglyr/Kestoglyr_Companion", "World/Dialogs/c5/LabyrinthOfBaphometh/Cessily/Cue_0031"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Cessily/Answer_0026"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Cessily/Cue_0031", "Units/Companions/LichCompanions/Kestoglyr/Kestoglyr_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_CR9_ManticoreVenomous"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_ManticoreVenomous/DLC5_ManticoreVenomous_Spike_Ability_Ai_Action"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_CR9_ManticoreVenomous"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_ManticoreVenomous/DLC5_ManticoreVenomous_Spike_Ability_Ai_Action", "Brain/Actions/AttackAiAction"]}

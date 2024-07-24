@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot", "Classes/Basic/BasicFeatsProgression", "Feats/TwoWeaponFightingGreater", "Feats/TwoWeaponFightingImproved", "Feats/TwoWeaponFighting"], "children": ["Mythic/Feats/TwoWeaponFightingMythicFeat"]}
+{"parents": ["Feats/TwoWeaponFighting", "Classes/Basic/BasicFeatsProgression", "Feats/TwoWeaponFightingImproved", "Root/BlueprintRoot", "Feats/TwoWeaponFightingGreater"], "children": ["Mythic/Feats/TwoWeaponFightingMythicFeat"]}

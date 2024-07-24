@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/DruidMaze/HiddenDemon/Answer_0029"], "children": ["Units/Monsters/Demon Lilitu/CR18_LilituAdvancedFromMaze", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/c3/DruidMaze/HiddenDemon/Answer_0029"], "children": ["Factions/Mobs", "Units/Monsters/Demon Lilitu/CR18_LilituAdvancedFromMaze"]}

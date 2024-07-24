@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/TotalPlus3/Frost/StandardGnomeHookedHammerFrostPlus2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus3/Frost/StandardGnomeHookedHammerFrostPlus2"], "children": ["Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost", "Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook"]}

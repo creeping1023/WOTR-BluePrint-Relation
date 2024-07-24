@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Lich/Alinythia/Check_0026", "World/Dialogs/c4/Mythic_Lich/Alinythia/Cue_0028"], "children": ["World/Cutscenes/Nexus/Lich_AlinythiaDeath/Lich_AlinythiaDeath", "World/Dialogs/c4/Mythic_Lich/Alinythia/Cue_0029"]}
+{"parents": ["World/Dialogs/c4/Mythic_Lich/Alinythia/Cue_0028", "World/Dialogs/c4/Mythic_Lich/Alinythia/Check_0026"], "children": ["World/Cutscenes/Nexus/Lich_AlinythiaDeath/Lich_AlinythiaDeath", "World/Dialogs/c4/Mythic_Lich/Alinythia/Cue_0029"]}

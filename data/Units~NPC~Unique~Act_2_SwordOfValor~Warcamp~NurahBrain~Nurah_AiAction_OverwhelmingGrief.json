@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/NurahBrain/NurahBrain"], "children": ["Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/NoBuffOverwhelmingGrief", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/OverwhelmingGrief"]}
+{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/NurahBrain/NurahBrain"], "children": ["Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffOverwhelmingGrief", "Spells/Level3/OverwhelmingGrief"]}

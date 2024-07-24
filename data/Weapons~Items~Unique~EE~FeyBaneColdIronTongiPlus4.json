@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticOneHanded/Tongi", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/BaneFey", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Enchantments/BaneFey", "Weapons/Types/ExoticOneHanded/Tongi"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceFastMovementSingle", "Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceFastMovementMass"], "children": ["Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceFastMovementMass", "Classes/Monk/Archetypes/Sensei/SenseiAdvice/SenseiAdviceFastMovementSingle"], "children": ["Classes/Monk/MonkClass"]}

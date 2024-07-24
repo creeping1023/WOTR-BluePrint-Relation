@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-372585", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/TerendelevIsWaiting"], "children": ["World/Dialogs/c5/Mythic_Aeon/TerendelevPresent/Cue_0001"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/TerendelevIsWaiting", "Root/Upgraders/Player/PF-372585"], "children": ["World/Dialogs/c5/Mythic_Aeon/TerendelevPresent/Cue_0001"]}

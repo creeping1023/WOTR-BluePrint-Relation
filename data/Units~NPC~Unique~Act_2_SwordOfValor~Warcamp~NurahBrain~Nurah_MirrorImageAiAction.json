@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/NurahBrain/NurahBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffMirrorImage", "Spells/Level2/MirrorImage"]}
+{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/NurahBrain/NurahBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level2/MirrorImage", "Brain/Considerations/NoBuffMirrorImage"]}

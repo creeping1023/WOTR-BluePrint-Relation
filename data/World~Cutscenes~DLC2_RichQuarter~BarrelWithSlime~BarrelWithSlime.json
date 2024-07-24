@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC2_RichQuarter/ScriptZones/SlimeBarrel"], "children": ["World/Cutscenes/DLC2_RichQuarter/BarrelWithSlime/CommandDelay", "World/Cutscenes/DLC2_RichQuarter/BarrelWithSlime/CommandBark"]}
+{"parents": ["World/Encounters/DLC2_RichQuarter/ScriptZones/SlimeBarrel"], "children": ["World/Cutscenes/DLC2_RichQuarter/BarrelWithSlime/CommandBark", "World/Cutscenes/DLC2_RichQuarter/BarrelWithSlime/CommandDelay"]}

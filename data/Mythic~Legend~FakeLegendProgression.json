@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Legend/FakeLegendClass"], "children": ["Mythic/Aeon/AeonDemythication", "Mythic/Legend/FakeLegendClass", "Mythic/Legend/FakeLegendFeature", "Mythic/Legend/FakeLegend_UniqueRestFeature"]}
+{"parents": ["Mythic/Legend/FakeLegendClass"], "children": ["Mythic/Legend/FakeLegendClass", "Mythic/Legend/FakeLegendFeature", "Mythic/Aeon/AeonDemythication", "Mythic/Legend/FakeLegend_UniqueRestFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Types/NaturalWeapon/SpikeType", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_ManticoreVenomous/DLC5_ManticoreVenomous_Spike_Ability"], "children": ["Arrow_Trajectory"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_ManticoreVenomous/DLC5_ManticoreVenomous_Spike_Ability", "Weapons/Types/NaturalWeapon/SpikeType"], "children": ["Arrow_Trajectory"]}

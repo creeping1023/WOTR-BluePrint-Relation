@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/CueSequence_0026"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/Cue_0029"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/CueSequence_0026"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/Cue_0029", "Units/Companions/Seelah/Seelah_Companion"]}

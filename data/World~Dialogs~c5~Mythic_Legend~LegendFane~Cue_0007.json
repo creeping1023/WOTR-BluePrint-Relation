@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Legend/LegendFane/Answer_0004"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Dialogs/c5/Mythic_Legend/LegendFane/Cue_0010"]}
+{"parents": ["World/Dialogs/c5/Mythic_Legend/LegendFane/Answer_0004"], "children": ["World/Dialogs/c5/Mythic_Legend/LegendFane/Cue_0010", "Units/NPC/Unique/Areelu/Areelu"]}

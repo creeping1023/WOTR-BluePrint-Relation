@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings"], "children": ["Weapons/Types/MartialOneHanded/SpikedHeavyShield", "Weapons/Enchantments/Enhancement1"]}
+{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialOneHanded/SpikedHeavyShield"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level6/OverwhelmingPresence", "Equipment/Amulets/Artisan/AmuletOfInnerVirtueEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Amulets/Artisan/AmuletOfInnerVirtueEnchant", "Items/DestructibleItemsShards/MetalShardItem", "Spells/Level6/OverwhelmingPresence"]}

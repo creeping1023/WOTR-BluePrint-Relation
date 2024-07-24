@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Longspear", "Weapons/Enchantments/Enhancement3", "Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment", "Weapons/Enchantments/Enhancement3", "Weapons/Types/SimpleTwoHanded/Longspear"]}

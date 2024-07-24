@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Answer_0016"], "children": ["Spells/CutsceneSpells/TheIvoryLabyrinth/HeraldGeasBuff", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Answer_0016"], "children": ["Factions/Mobs", "Spells/CutsceneSpells/TheIvoryLabyrinth/HeraldGeasBuff"]}

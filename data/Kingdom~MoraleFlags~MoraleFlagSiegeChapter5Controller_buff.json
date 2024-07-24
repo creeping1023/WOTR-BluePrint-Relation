@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-217801", "World/Etudes/Common/WrathOfTheRighteous/Chapter05"], "children": ["Kingdom/MoraleFlags/KingdomMoraleFlagChapter5Siege", "Kingdom/MoraleFlags/KingdomMoraleFlagChapter5Siege"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05", "Root/Upgraders/Player/PF-217801"], "children": ["Kingdom/MoraleFlags/KingdomMoraleFlagChapter5Siege"]}

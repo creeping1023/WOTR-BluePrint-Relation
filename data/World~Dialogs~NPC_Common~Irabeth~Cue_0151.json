@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Irabeth/Answer_0150"], "children": ["Items/Areas/Act_1_WorldwoundIncursion/GreyGarrison/IrabethScabbard", "World/Dialogs/NPC_Common/Irabeth/Cue_0152"]}
+{"parents": ["World/Dialogs/NPC_Common/Irabeth/Answer_0150", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Irabeth/Cue_0152", "Items/Areas/Act_1_WorldwoundIncursion/GreyGarrison/IrabethScabbard"]}

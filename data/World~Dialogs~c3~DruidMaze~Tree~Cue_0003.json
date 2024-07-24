@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/DruidMaze/Tree/CueSequence_0001"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c3/DruidMaze/Tree/Cue_8"]}
+{"parents": ["World/Dialogs/c3/DruidMaze/Tree/CueSequence_0001"], "children": ["World/Dialogs/c3/DruidMaze/Tree/Cue_8", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

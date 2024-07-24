@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionUnitElk", "Classes/Pets/AnimalCompanionUpgradeElk"], "children": ["Classes/Pets/ElkTrippingChargeBuff", "Root/SystemMechanics/Abilities/ChargeAbility", "Root/SystemMechanics/Abilities/ChargeAbility"]}
+{"parents": ["Classes/Pets/AnimalCompanionUpgradeElk", "Classes/Pets/AnimalCompanionUnitElk"], "children": ["Root/SystemMechanics/Abilities/ChargeAbility", "Classes/Pets/ElkTrippingChargeBuff"]}

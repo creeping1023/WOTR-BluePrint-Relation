@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_Militia_dialog/Cue_0019"], "children": ["World/Encounters/DLC2_RichQuarter/UnlockableFlags/AlchemistShop", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_Militia_dialog/Cue_0019"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/AlchemistShop"]}

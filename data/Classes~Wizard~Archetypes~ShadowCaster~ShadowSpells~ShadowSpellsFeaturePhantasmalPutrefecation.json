@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/ShadowSpells/ShadowCasterBonusSpellsProgression"], "children": ["Classes/Wizard/WizardClass", "Spells/Level6/PhantasmalPutrefaction"]}
+{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/ShadowSpells/ShadowCasterBonusSpellsProgression"], "children": ["Spells/Level6/PhantasmalPutrefaction", "Classes/Wizard/WizardClass"]}

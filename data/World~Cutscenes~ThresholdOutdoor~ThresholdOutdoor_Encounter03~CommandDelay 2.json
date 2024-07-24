@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter03/gate 1"], "children": ["World/Quests/c3/FlamingLance/FlamingLance_Quest", "World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/Chapter05_Outcomes/CrusadersGone"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter03/gate 1"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/Chapter05_Outcomes/CrusadersGone", "World/Quests/c3/FlamingLance/FlamingLance_Quest"]}

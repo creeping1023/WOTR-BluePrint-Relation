@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Forn_main/Answer_0062", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Forn_main/AnswersList_0016"]}
+{"parents": ["QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "World/Dialogs/NPC_Common/Kaylessa/Forn_main/Answer_0062", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Forn_main/AnswersList_0016"]}

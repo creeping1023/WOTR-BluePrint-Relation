@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/TempleOfDelamere/DelamereInTomb/DelamereInTomb"], "children": ["World/Quests/c5/PulurasFall/Obj1_FindMutasafen", "World/Dialogs/c3/TempleOfDelamere/DelamereInTomb/Cue_0029", "World/Dialogs/c3/TempleOfDelamere/DelamereInTomb/AnswersList_0048"]}
+{"parents": ["World/Dialogs/c3/TempleOfDelamere/DelamereInTomb/DelamereInTomb"], "children": ["World/Dialogs/c3/TempleOfDelamere/DelamereInTomb/AnswersList_0048", "World/Dialogs/c3/TempleOfDelamere/DelamereInTomb/Cue_0029", "World/Quests/c5/PulurasFall/Obj1_FindMutasafen"]}

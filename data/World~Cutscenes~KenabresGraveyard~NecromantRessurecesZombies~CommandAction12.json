@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresGraveyard/NecromantRessurecesZombies/gate3"], "children": ["Factions/CutsceneNeutrals", "World/Encounters/KenabresGraveyard/SummonPools/ZombieAttackSosiel"]}
+{"parents": ["World/Cutscenes/KenabresGraveyard/NecromantRessurecesZombies/gate3"], "children": ["World/Encounters/KenabresGraveyard/SummonPools/ZombieAttackSosiel", "Factions/CutsceneNeutrals"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Items/Vendors/FirstVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Unique/Chapter2/FlameguardArmorItem"]}
+{"parents": ["Dugeons/Rewards/RewardLoot_UnqiueRanomItem", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/FirstVendorTable"], "children": ["Equipment/Shields/Unique/Chapter2/FlameguardArmorItem", "Items/DestructibleItemsShards/MetalShardItem"]}

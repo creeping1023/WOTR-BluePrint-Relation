@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nocticula_main/Answer_0005", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0707", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_Outcomes"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0707", "World/Dialogs/c4/Nocticula_main/Answer_0005", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_Outcomes"]}

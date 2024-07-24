@@ -1,1 +1,1 @@
-{"parents": ["Classes/Assassin/AssassinCreatePoisonAbilityStrBuffEffect", "Root/Upgraders/Player/PF-505565(1-5lvl)", "Classes/Assassin/AssassinCreatePoisonAbilityDexBuffEffect", "Classes/Assassin/AssassinProgression", "Classes/Assassin/AssassinCreatePoisonAbilityConBuffEffect"]}
+{"parents": ["Root/Upgraders/Player/PF-505565(1-5lvl)", "Classes/Assassin/AssassinCreatePoisonAbilityConBuffEffect", "Classes/Assassin/AssassinCreatePoisonAbilityStrBuffEffect", "Classes/Assassin/AssassinCreatePoisonAbilityDexBuffEffect", "Classes/Assassin/AssassinProgression"]}

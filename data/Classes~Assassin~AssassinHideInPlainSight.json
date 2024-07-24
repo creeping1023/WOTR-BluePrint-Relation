@@ -1,1 +1,1 @@
-{"parents": ["Classes/Assassin/AssassinProgression", "Root/Upgraders/Player/PF-516991", "Root/Upgraders/Player/PF-505565(6-10lvl)"], "children": ["Classes/Assassin/AssassinHideInPlainSightAbility"]}
+{"parents": ["Root/Upgraders/Player/PF-505565(6-10lvl)", "Root/Upgraders/Player/PF-516991", "Classes/Assassin/AssassinProgression"], "children": ["Classes/Assassin/AssassinHideInPlainSightAbility"]}

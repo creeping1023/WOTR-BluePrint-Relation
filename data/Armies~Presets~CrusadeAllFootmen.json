@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Area/WorldWoundGMChapter3NearDrezenPreset", "World/Etudes/Common/WrathOfTheRighteous/Chapter02"], "children": ["Armies/UnitBlueprints/ArmyInfantry"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter02", "GlobalMaps/WorldWoundGM/Area/WorldWoundGMChapter3NearDrezenPreset"], "children": ["Armies/UnitBlueprints/ArmyInfantry"]}

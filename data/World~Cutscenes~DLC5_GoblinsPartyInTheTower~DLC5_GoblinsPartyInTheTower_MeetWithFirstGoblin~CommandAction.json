@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_MeetWithFirstGoblin/gate"], "children": ["World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_RoomOfGoblin", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_MeetWithFirstGoblin/gate"], "children": ["Factions/Mobs", "World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_RoomOfGoblin"]}

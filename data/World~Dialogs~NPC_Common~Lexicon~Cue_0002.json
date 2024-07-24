@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Lexicon/BookPage_0022"], "children": ["World/Encounters/AreeluLab/Items/LexiconHalf", "World/Encounters/VaultOfGraves/Items/LexiconHalf2"]}
+{"parents": ["World/Dialogs/NPC_Common/Lexicon/BookPage_0022", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Encounters/AreeluLab/Items/LexiconHalf", "World/Encounters/VaultOfGraves/Items/LexiconHalf2"]}

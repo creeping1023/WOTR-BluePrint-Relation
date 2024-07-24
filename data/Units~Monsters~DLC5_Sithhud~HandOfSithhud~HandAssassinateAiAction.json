@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/HandBrain"], "children": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/TargetMarkofDeathYESConsideration", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/TargetBlindConsideration", "Classes/Assassin/AssassinMarkOfDeathAbility"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/HandBrain"], "children": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/TargetBlindConsideration", "Classes/Assassin/AssassinMarkOfDeathAbility", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/TargetMarkofDeathYESConsideration"]}

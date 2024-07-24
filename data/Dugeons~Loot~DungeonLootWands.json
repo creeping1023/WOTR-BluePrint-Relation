@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootAlchemyIngredients", "Root/DungeonRoot"], "children": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootBudgetWands"]}
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Root/DungeonRoot", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootAlchemyIngredients"], "children": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootBudgetWands"]}

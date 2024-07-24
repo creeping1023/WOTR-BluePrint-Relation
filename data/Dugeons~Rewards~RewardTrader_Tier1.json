@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Expeditions/Tier1_exp_2", "Dugeons/Expeditions/Tier1_exp_4", "Dugeons/Expeditions/Tier1_exp_3"], "children": ["Dugeons/Tiers/DungeonTier1", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier1_original1"]}
+{"parents": ["Dugeons/Expeditions/Tier1_exp_3", "Dugeons/Expeditions/Tier1_exp_4", "Dugeons/Expeditions/Tier1_exp_2"], "children": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier1_original1", "Dugeons/Tiers/DungeonTier1"]}

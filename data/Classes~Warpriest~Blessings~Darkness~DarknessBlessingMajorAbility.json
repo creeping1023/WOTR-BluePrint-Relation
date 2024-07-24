@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Blessings/Darkness/DarknessBlessingMajorFeature"], "children": ["Buffs/Blind", "Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWarBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisBuff"]}
+{"parents": ["Classes/Warpriest/Blessings/Darkness/DarknessBlessingMajorFeature"], "children": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisBuff", "Buffs/Blind", "Classes/Warpriest/Blessings/BlessingResource", "Classes/Warpriest/WarpriestAspectOfWarBuff"]}

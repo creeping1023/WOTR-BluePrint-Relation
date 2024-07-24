@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter6/AizerghaulItem"], "children": ["CreatureAbilities/Subtypes/SubtypeDevil", "Weapons/Items/UniquePF2/Chapter6/AizerghaulBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter6/AizerghaulItem"], "children": ["Weapons/Items/UniquePF2/Chapter6/AizerghaulBuff", "CreatureAbilities/Subtypes/SubtypeDevil"]}

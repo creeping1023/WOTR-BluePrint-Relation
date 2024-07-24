@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0073"], "children": ["World/Quests/MythicQuests/Angel/C3_PuluraFalls/C3_PuluraFalls_main/C3_PuluraFalls_main_quest", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0069"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0073"], "children": ["World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0069", "World/Quests/MythicQuests/Angel/C3_PuluraFalls/C3_PuluraFalls_main/C3_PuluraFalls_main_quest", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald"]}

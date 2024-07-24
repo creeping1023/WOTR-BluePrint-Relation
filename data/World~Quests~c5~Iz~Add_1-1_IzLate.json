@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Iz/ActionsHolders/Iz_DeskariAngel_Preset_Holder", "World/Quests/c5/Iz/Obj1_SeekGalfrey", "World/Cutscenes/Iz/DeskariArrives/CommandAction1", "World/Quests/c5/Iz/Iz_quest"], "children": ["World/Quests/c5/Iz/Iz_quest"]}
+{"parents": ["World/Quests/c5/Iz/Obj1_SeekGalfrey", "World/Encounters/Iz/ActionsHolders/Iz_DeskariAngel_Preset_Holder", "World/Quests/c5/Iz/Iz_quest", "World/Cutscenes/Iz/DeskariArrives/CommandAction1"], "children": ["World/Quests/c5/Iz/Iz_quest"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Weapons/DLC3/DLC3_SplintershredGreataxeWeaponItem"], "children": ["ThrowingAxe_projectile", "Items/Weapons/DLC3/DLC3_SplintershredGreataxeWeaponItem", "Items/Weapons/DLC3/DLC3_SplintershredGreataxeProperty"]}
+{"parents": ["Items/Weapons/DLC3/DLC3_SplintershredGreataxeWeaponItem"], "children": ["Items/Weapons/DLC3/DLC3_SplintershredGreataxeProperty", "Items/Weapons/DLC3/DLC3_SplintershredGreataxeWeaponItem", "ThrowingAxe_projectile"]}

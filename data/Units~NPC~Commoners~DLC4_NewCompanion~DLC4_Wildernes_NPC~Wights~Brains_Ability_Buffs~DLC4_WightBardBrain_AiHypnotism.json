@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Wights/Brains_Ability_Buffs/DLC4_WightBardBrain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level2/Hypnotism"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Wights/Brains_Ability_Buffs/DLC4_WightBardBrain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Spells/Level2/Hypnotism", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

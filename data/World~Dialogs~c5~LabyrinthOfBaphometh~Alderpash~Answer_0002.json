@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/AnswersList_0001"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0005", "World/Quests/c5/Errands/FindPool/Objective_0001", "World/Encounters/TheIvoryLabyrinth/ActionsHolders/SearchPhylactery"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/AnswersList_0001"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0005", "World/Encounters/TheIvoryLabyrinth/ActionsHolders/SearchPhylactery", "World/Quests/c5/Errands/FindPool/Objective_0001"]}

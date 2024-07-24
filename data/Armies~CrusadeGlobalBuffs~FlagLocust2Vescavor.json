@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp02_Option04"], "children": ["Armies/UnitBlueprints/ArmyVescavorSwarmStandard", "Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackFeature"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp02_Option04"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackFeature", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]}

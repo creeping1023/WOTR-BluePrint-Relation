@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/InevitableKolyarut/AzataBralaniBrain/InevitableKolyarutMiniboss_AiAction_GreaterVital"]}
+{"children": ["Units/Monsters/InevitableKolyarut/AzataBralaniBrain/InevitableKolyarutMiniboss_AiAction_GreaterVital", "Brain/Actions/AttackAiAction"]}

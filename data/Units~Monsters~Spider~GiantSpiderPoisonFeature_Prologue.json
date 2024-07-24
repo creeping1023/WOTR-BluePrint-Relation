@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Spider/CR0.5_GiantSpiderStandard_Prologue", "QA/Unused/Units/Monsters/Spider/CR1_GiantSpiderAdvanced_Prologue", "QA/Unused/Units/Monsters/Spider/CR3_GiantSpider_Prologue"], "children": ["Weapons/Types/NaturalWeapon/BiteType", "Buffs/Sickened"]}
+{"parents": ["Units/Monsters/Spider/CR0.5_GiantSpiderStandard_Prologue", "QA/Unused/Units/Monsters/Spider/CR3_GiantSpider_Prologue", "QA/Unused/Units/Monsters/Spider/CR1_GiantSpiderAdvanced_Prologue"], "children": ["Buffs/Sickened", "Weapons/Types/NaturalWeapon/BiteType"]}

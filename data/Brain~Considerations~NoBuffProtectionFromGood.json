@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/ProtectionFromGoodAiAction", "Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditCleric/PositiveClericBrain/BanditProtectionFromGoodCommunalAiAction"], "children": ["Spells/Level1/ProtectionFromGoodBuff"]}
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditCleric/PositiveClericBrain/BanditProtectionFromGoodCommunalAiAction", "Brain/Actions/ProtectionFromGoodAiAction"], "children": ["Spells/Level1/ProtectionFromGoodBuff"]}

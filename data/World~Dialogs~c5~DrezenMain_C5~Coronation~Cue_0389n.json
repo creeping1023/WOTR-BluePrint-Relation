@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0110", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0048"], "children": ["Units/Monsters/Demon Lord Deskari/DemonLordDeskari", "World/Dialogs/c5/DrezenMain_C5/Coronation/AnswersList_0390n"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0048", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0110"], "children": ["World/Dialogs/c5/DrezenMain_C5/Coronation/AnswersList_0390n", "Units/Monsters/Demon Lord Deskari/DemonLordDeskari"]}

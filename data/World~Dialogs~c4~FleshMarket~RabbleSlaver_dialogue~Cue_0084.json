@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0083"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/GolarionSlaveLeader"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0083"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/GolarionSlaveLeader", "Units/Companions/Seelah/Seelah_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Glory/GloryDomainGreaterAbility", "Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainGreaterAbilitySeparatist"], "children": ["Classes/Cleric/Domains/Glory/GloryDomainGreaterArea", "Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainGreaterAbilitySeparatist", "Classes/Cleric/Domains/Glory/GloryDomainGreaterAbility"], "children": ["Classes/Cleric/Domains/Glory/GloryDomainGreaterArea", "Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]}

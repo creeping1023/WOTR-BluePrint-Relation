@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/EnneoVendorTable"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Shock"]}
+{"parents": ["Items/Vendors/EnneoVendorTable", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Shock"]}

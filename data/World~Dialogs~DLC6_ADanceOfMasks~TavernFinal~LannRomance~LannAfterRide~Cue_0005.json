@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/LannRomance/LannAfterRide/Cue_0004"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/Companions/Lann/Lann_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/LannRomance/LannAfterRide/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/LannRomance/LannAfterRide/Cue_0004"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/LannRomance/LannAfterRide/AnswersList_0002", "Units/Companions/Seelah/Seelah_Companion"]}

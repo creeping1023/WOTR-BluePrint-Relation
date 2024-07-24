@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shaman/ShamanSpirits/ShamanWavesSpirit/ShamanWavesSpiritGreaterFeature"], "children": ["Classes/Shaman/ShamanSpirits/ShamanWavesSpirit/ShamanWavesSpiritGreaterResource", "Classes/Shaman/ShamanClass", "FX/Spell Level None/ColdCone15Feet00"]}
+{"parents": ["Classes/Shaman/ShamanSpirits/ShamanWavesSpirit/ShamanWavesSpiritGreaterFeature"], "children": ["Classes/Shaman/ShamanClass", "FX/Spell Level None/ColdCone15Feet00", "Classes/Shaman/ShamanSpirits/ShamanWavesSpirit/ShamanWavesSpiritGreaterResource"]}

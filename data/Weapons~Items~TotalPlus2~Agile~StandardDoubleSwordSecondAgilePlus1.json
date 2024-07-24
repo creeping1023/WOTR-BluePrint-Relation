@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus2/Agile/StandardDoubleSwordAgilePlus1"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleSword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Agile"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus2/Agile/StandardDoubleSwordAgilePlus1"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleSword", "Weapons/Enchantments/Agile", "Weapons/Enchantments/Enhancement1"]}

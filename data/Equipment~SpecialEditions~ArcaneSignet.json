@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SylvanSorcererPregen", "Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level1/MagicMissile"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra", "Dugeons/Loot/DungeonLootExclude", "Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SylvanSorcererPregen"], "children": ["Spells/Level1/MagicMissile", "Items/DestructibleItemsShards/MetalShardItem"]}

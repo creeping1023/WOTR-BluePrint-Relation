@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/KTC_SosielQ3/gate"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q03_Prisoner/KTC/Dialogue_Sosiel_Q3_KTC"]}
+{"parents": ["World/Cutscenes/Nexus/KTC_SosielQ3/gate"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q03_Prisoner/KTC/Dialogue_Sosiel_Q3_KTC", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

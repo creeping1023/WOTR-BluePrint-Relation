@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierBanner", "Armies/Abilities/ArmyDamageBanner"], "children": ["Classes/Cavalier/CavalierBannerArea"]}
+{"parents": ["Armies/Abilities/ArmyDamageBanner", "Classes/Cavalier/CavalierBanner"], "children": ["Classes/Cavalier/CavalierBannerArea"]}

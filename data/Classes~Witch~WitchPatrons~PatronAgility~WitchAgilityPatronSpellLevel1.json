@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronAgility/WitchAgilityPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level1/ExpeditiousRetreat"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronAgility/WitchAgilityPatronProgression"], "children": ["Spells/Level1/ExpeditiousRetreat", "Classes/Witch/WitchClass"]}

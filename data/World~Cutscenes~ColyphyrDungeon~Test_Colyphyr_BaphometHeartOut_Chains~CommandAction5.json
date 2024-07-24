@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Test_Colyphyr_BaphometHeartOut_Chains/gate"], "children": ["FX/Cutscenes/Cutscene_Baphomet_HeartOut_Chains_01", "World/Encounters/ColyphyrDungeon/SummonPools/Test_Colyphyr"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Test_Colyphyr_BaphometHeartOut_Chains/gate"], "children": ["World/Encounters/ColyphyrDungeon/SummonPools/Test_Colyphyr", "FX/Cutscenes/Cutscene_Baphomet_HeartOut_Chains_01"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Arrival_to_Sithhud_lair/gate", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Arrival_to_Sithhud_lair/DLC5_Arrival_to_Sithhud_lair"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Arrival_to_Sithhud_lair/CommandAction2"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Arrival_to_Sithhud_lair/DLC5_Arrival_to_Sithhud_lair", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Arrival_to_Sithhud_lair/gate"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Arrival_to_Sithhud_lair/CommandAction2"]}

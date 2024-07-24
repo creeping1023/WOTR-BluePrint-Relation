@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/DLC4_Table_Ulbrig_conversation/gate"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Cutscenes/Daeran_Q1_KenabresMansion/Sitting_Param/Sitting_Param", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}
+{"parents": ["World/Cutscenes/DefendersHeart/DLC4_Table_Ulbrig_conversation/gate"], "children": ["World/Cutscenes/Daeran_Q1_KenabresMansion/Sitting_Param/Sitting_Param", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

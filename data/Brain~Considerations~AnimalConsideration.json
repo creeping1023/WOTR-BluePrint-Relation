@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/AnimalGrowthAiAction", "Units/Monsters/DLC5Mobs/WizardsTower/GoblinBlightDruid/Brain/DominateAnimalAIAction"], "children": ["Classes/Monster/Animal/AnimalClass"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinBlightDruid/Brain/DominateAnimalAIAction", "Brain/Actions/AnimalGrowthAiAction"], "children": ["Classes/Monster/Animal/AnimalClass"]}

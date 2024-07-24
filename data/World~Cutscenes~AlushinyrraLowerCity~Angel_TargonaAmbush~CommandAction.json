@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/Angel_TargonaAmbush/gate 2"], "children": ["World/Encounters/AlushinyrraLowerCity/SummonPools/Angel_TargonaAbmushDemons", "Factions/Mobs", "Buffs/NPC_Immortality", "Buffs/NPC_Protection"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/Angel_TargonaAmbush/gate 2"], "children": ["Factions/Mobs", "Buffs/NPC_Protection", "World/Encounters/AlushinyrraLowerCity/SummonPools/Angel_TargonaAbmushDemons", "Buffs/NPC_Immortality"]}

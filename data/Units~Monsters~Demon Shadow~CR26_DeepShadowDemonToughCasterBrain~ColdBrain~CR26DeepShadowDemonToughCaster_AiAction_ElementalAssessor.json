@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/ElementalAssessor", "Spells/Level8/PolarRay", "Spells/Level8/Sunburst", "Spells/Level8/Stormbolts"]}
+{"children": ["Brain/Considerations/ChaoticBehaviour", "Spells/Level8/PolarRay", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level6/ElementalAssessor", "Brain/Considerations/AttackTargetsPriority", "Spells/Level8/Stormbolts", "Spells/Level8/Sunburst"]}

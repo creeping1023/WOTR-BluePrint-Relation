@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GoddesSummit_Start/GoddesSummit_Start", "World/Cutscenes/GoddesSummit_Start/gate1"], "children": ["World/Cutscenes/GoddesSummit_Start/CommandAction", "World/Cutscenes/GoddesSummit_Start/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/GoddesSummit_Start/gate1", "World/Cutscenes/GoddesSummit_Start/GoddesSummit_Start"], "children": ["World/Cutscenes/GoddesSummit_Start/CommandStartDialog", "World/Cutscenes/GoddesSummit_Start/CommandAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR9_GundrunNecromant/CR9_GundrunNecromantBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/InRangeConsideration", "Spells/Level5/WavesOfFatigue"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR9_GundrunNecromant/CR9_GundrunNecromantBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level5/WavesOfFatigue", "Brain/Considerations/InRangeConsideration"]}

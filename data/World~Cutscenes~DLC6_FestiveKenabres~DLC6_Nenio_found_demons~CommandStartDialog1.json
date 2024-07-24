@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Nenio_found_demons/gate1"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Nenio_Event/Nenio_Event_NotADemon/Nenio_Event_NotADemon_dialogue"]}
+{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Nenio_found_demons/gate1"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Nenio_Event/Nenio_Event_NotADemon/Nenio_Event_NotADemon_dialogue", "Units/Companions/Nenio/Nenio_Companion"]}

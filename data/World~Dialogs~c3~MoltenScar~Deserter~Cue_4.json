@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MoltenScar/Deserter/Cue_0039"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c3/MoltenScar/Deserter/Cue_0050"]}
+{"parents": ["World/Dialogs/c3/MoltenScar/Deserter/Cue_0039"], "children": ["World/Dialogs/c3/MoltenScar/Deserter/Cue_0050", "Units/Companions/Seelah/Seelah_Companion"]}

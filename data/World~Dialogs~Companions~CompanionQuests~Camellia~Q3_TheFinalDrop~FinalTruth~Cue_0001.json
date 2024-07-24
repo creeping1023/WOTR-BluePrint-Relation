@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/FinalTruth/FinalTruth_dialogue"], "children": ["World/Encounters/HorgusManor/UnlockableFlags/Q3_AfterMassacre", "World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/FinalTruth/Cue_0003"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/FinalTruth/FinalTruth_dialogue"], "children": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/FinalTruth/Cue_0003", "World/Encounters/HorgusManor/UnlockableFlags/Q3_AfterMassacre"]}

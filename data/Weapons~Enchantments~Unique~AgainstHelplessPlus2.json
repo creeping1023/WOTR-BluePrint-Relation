@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/Chapter2/GiftOfDeath"], "children": ["Buffs/Stunned", "Buffs/Paralyzed", "Buffs/Nauseated", "Buffs/Frightened"]}
+{"parents": ["Weapons/Items/Unique/Chapter2/GiftOfDeath"], "children": ["Buffs/Nauseated", "Buffs/Paralyzed", "Buffs/Stunned", "Buffs/Frightened"]}

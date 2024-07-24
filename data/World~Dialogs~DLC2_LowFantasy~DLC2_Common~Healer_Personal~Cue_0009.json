@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/DLC2_Common/Healer_Personal/Answer_10"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Healer", "World/Dialogs/DLC2_LowFantasy/DLC2_Common/Healer_Personal/AnswersList_0003"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/DLC2_Common/Healer_Personal/Answer_10"], "children": ["World/Dialogs/DLC2_LowFantasy/DLC2_Common/Healer_Personal/AnswersList_0003", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Healer"]}

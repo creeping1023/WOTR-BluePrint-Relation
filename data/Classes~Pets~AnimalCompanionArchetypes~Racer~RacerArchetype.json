@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monster/Animal/AnimalCompanionClass"], "children": ["Classes/Pets/AnimalCompanionArchetypes/Racer/RacerSpeedFeature", "Classes/Pets/AnimalCompanionArchetypes/Racer/RacerSpeedFeature", "Classes/Pets/AnimalCompanionDevotion"]}
+{"parents": ["Classes/Monster/Animal/AnimalCompanionClass"], "children": ["Classes/Pets/AnimalCompanionArchetypes/Racer/RacerSpeedFeature", "Classes/Pets/AnimalCompanionDevotion"]}

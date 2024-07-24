@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Arcanas/QuickenedArcana/QuickenedArcanaFeature"], "children": ["Classes/Magus/Arcanas/QuickenedArcana/QuickenedArcanaBuff", "Classes/Magus/Arcanas/QuickenedArcana/QuickenedArcanaResource"]}
+{"parents": ["Classes/Magus/Arcanas/QuickenedArcana/QuickenedArcanaFeature"], "children": ["Classes/Magus/Arcanas/QuickenedArcana/QuickenedArcanaResource", "Classes/Magus/Arcanas/QuickenedArcana/QuickenedArcanaBuff"]}

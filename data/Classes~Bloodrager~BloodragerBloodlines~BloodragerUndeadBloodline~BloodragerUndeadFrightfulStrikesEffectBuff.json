@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadFrightfulStrikesAbility"], "children": ["Buffs/Shaken", "Buffs/Frightened", "Buffs/Shaken"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadFrightfulStrikesAbility"], "children": ["Buffs/Shaken", "Buffs/Frightened"]}

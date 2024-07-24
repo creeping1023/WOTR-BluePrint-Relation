@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Iz_Patrol_Hulrun_Dialogue", "World/Dialogs/c5/Iz/StorytellerIz/Cue_0021", "World/Dialogs/c5/Iz/StorytellerIz/Cue_0015"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hulrun"]}
+{"parents": ["World/Dialogs/c5/Iz/StorytellerIz/Cue_0015", "World/Dialogs/c5/Iz/Patrol_Hulrun/Iz_Patrol_Hulrun_Dialogue", "World/Dialogs/c5/Iz/StorytellerIz/Cue_0021"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hulrun"]}

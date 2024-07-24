@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/MagicalNullification/MagicalNullificationBuff", "Spells/Level6/AcidFog"], "children": ["Spells/Level4/FreedomOfMovementBuff", "Spells/Level6/AcidFogBuff"]}
+{"parents": ["Spells/Level6/AcidFog", "Mythic/MythicAbilities/MagicalNullification/MagicalNullificationBuff"], "children": ["Spells/Level4/FreedomOfMovementBuff", "Spells/Level6/AcidFogBuff"]}

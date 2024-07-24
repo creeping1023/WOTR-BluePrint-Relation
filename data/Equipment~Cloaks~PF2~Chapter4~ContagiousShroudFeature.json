@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Cloaks/PF2/Chapter4/ContagiousShroudEnchantment"], "children": ["Buffs/Sickened", "Equipment/Cloaks/PF2/Chapter4/ContagiousShroudBuff", "Equipment/Cloaks/CloakWyvernFeature", "Equipment/Cloaks/CloakWyvernFeature"]}
+{"parents": ["Equipment/Cloaks/PF2/Chapter4/ContagiousShroudEnchantment"], "children": ["Equipment/Cloaks/CloakWyvernFeature", "Buffs/Sickened", "Equipment/Cloaks/PF2/Chapter4/ContagiousShroudBuff"]}

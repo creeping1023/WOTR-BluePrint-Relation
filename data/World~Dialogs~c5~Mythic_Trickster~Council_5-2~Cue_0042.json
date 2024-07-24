@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Trickster/Council_5-2/Cue_0041"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Socothbenoth", "World/Cutscenes/TricksterCouncil/SocotSeesNocta/SocotSeesNocta", "World/Dialogs/c5/Mythic_Trickster/Council_5-2/AnswersList_0043"]}
+{"parents": ["World/Dialogs/c5/Mythic_Trickster/Council_5-2/Cue_0041"], "children": ["World/Cutscenes/TricksterCouncil/SocotSeesNocta/SocotSeesNocta", "World/Dialogs/c5/Mythic_Trickster/Council_5-2/AnswersList_0043", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Socothbenoth"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/TestLevel", "World/Etudes/Common/WrathOfTheRighteous/TestLevel_BabauAmbush"], "children": ["World/Etudes/Common/WrathOfTheRighteous/TestLevel", "World/Areas/Test_Areas/Test_Level/Test_Level"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/TestLevel", "World/Etudes/Common/WrathOfTheRighteous/TestLevel_BabauAmbush"], "children": ["World/Areas/Test_Areas/Test_Level/Test_Level", "World/Etudes/Common/WrathOfTheRighteous/TestLevel"]}

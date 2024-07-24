@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_KytonGotSeal/CommandAction2", "World/Cutscenes/DLC5_PlaneOfShadow_Basement_2/Kyton_Run/CommandAction"], "children": ["DLC/DLC5/Dlc5Campaign", "Achievements/Groups/DLC5TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_KytonGotSeal/CommandAction2", "World/Cutscenes/DLC5_PlaneOfShadow_Basement_2/Kyton_Run/CommandAction"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2", "DLC/DLC5/Dlc5Campaign"]}

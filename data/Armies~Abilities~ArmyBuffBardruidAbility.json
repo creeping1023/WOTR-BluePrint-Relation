@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyBuffBardruid"], "children": ["Armies/Abilities/ArmyBuffBardruidBuff", "Armies/Abilities/ArmyBuffBardruidResource"]}
+{"parents": ["Armies/Abilities/ArmyBuffBardruid"], "children": ["Armies/Abilities/ArmyBuffBardruidResource", "Armies/Abilities/ArmyBuffBardruidBuff"]}

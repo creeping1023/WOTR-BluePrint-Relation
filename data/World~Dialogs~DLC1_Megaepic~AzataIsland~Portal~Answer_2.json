@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Answer_0004", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0002"], "children": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_10", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0002", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Answer_0004"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_10"]}

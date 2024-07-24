@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0018"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0019"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0018"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0019", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

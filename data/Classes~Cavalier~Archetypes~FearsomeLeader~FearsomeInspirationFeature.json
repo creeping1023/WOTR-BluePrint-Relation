@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/Archetypes/FearsomeLeader/FearsomeLeaderArchetype"], "children": ["Classes/Cavalier/Archetypes/FearsomeLeader/FearsomeInspirationHiddenAbility", "Feats/ActionFeats/DazzlingDisplayAction"]}
+{"parents": ["Classes/Cavalier/Archetypes/FearsomeLeader/FearsomeLeaderArchetype"], "children": ["Feats/ActionFeats/DazzlingDisplayAction", "Classes/Cavalier/Archetypes/FearsomeLeader/FearsomeInspirationHiddenAbility"]}

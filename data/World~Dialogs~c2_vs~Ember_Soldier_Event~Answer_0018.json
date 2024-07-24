@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0061", "World/Dialogs/c2_vs/Ember_Soldier_Event/AnswersList_0016"], "children": ["World/Dialogs/c2_vs/Ember_Soldier_Event/Cue_0020", "World/UnlockableFlags/Companions/EmberEnding_Law"]}
+{"parents": ["World/Dialogs/c2_vs/Ember_Soldier_Event/AnswersList_0016", "World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0061"], "children": ["World/Dialogs/c2_vs/Ember_Soldier_Event/Cue_0020", "World/UnlockableFlags/Companions/EmberEnding_Law"]}

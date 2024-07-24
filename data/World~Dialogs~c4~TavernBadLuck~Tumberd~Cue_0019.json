@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/TavernBadLuck/Tumberd/Answer_0018"], "children": ["World/Dialogs/c4/TavernBadLuck/Tumberd/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c4/TavernBadLuck/Tumberd/Answer_0018", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/TavernBadLuck/Tumberd/AnswersList_0003"]}

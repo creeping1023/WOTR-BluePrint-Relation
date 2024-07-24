@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_SealOfSithhud", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/CR25_HandOfSithhud", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_HeadOfSithhud"], "children": ["Equipment/Rings/BeastKingPetFeature", "Equipment/Rings/BeastKingPetFeature"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_HeadOfSithhud", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_SealOfSithhud", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/CR25_HandOfSithhud"], "children": ["Equipment/Rings/BeastKingPetFeature"]}

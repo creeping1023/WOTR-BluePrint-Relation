@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/ArmyRoot", "GlobalMaps/WorldWoundGM/Edges/Edge_ArmySpawn5_3_Chapter05_Army31", "GlobalMaps/WorldWoundGM/WorldWoundGM"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM"]}
+{"parents": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "Root/Kingdom/ArmyRoot", "GlobalMaps/WorldWoundGM/Edges/Edge_ArmySpawn5_3_Chapter05_Army31"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM"]}

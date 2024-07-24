@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level9/FieryBodyBuff", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/Special/Unarmed", "Weapons/Enchantments/FieryBody"]}
+{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Spells/Level9/FieryBodyBuff"], "children": ["Weapons/Enchantments/FieryBody", "Weapons/Types/Special/Unarmed"]}

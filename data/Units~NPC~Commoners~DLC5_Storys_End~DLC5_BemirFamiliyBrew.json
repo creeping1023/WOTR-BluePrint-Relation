@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Bemir/Cue_2", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_BemirBrewAbility"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Bemir/Cue_2"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_BemirBrewAbility"]}

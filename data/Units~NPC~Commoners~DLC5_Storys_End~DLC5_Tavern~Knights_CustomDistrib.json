@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Tavern/Knights_CustomizationPresetDLC5"], "children": ["Races/HumanRace", "Races/HalfOrcRace", "Races/OreadRace", "Races/AasimarRace"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Tavern/Knights_CustomizationPresetDLC5"], "children": ["Races/AasimarRace", "Races/HumanRace", "Races/HalfOrcRace", "Races/OreadRace"]}

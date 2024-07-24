@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/Archetypes/Preservationist/PreservationistArchetype"], "children": ["Classes/Alchemist/AlchemistClass", "Spells/Level7/SummonNaturesAllyVII"]}
+{"parents": ["Classes/Alchemist/Archetypes/Preservationist/PreservationistArchetype"], "children": ["Spells/Level7/SummonNaturesAllyVII", "Classes/Alchemist/AlchemistClass"]}

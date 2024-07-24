@@ -1,1 +1,1 @@
-{"parents": ["Feats/CombatExpertise/CombatExpertiseToggleAbility", "Feats/CombatExpertise/CombatExpertiseBuff"], "children": ["Equipment/Headgear/HelmOfBattlefieldClarityFeature", "Equipment/Headgear/HelmOfBattlefieldClarityFeature", "Classes/Swordlord/AdaptiveTactics"]}
+{"parents": ["Feats/CombatExpertise/CombatExpertiseBuff", "Feats/CombatExpertise/CombatExpertiseToggleAbility"], "children": ["Classes/Swordlord/AdaptiveTactics", "Equipment/Headgear/HelmOfBattlefieldClarityFeature"]}

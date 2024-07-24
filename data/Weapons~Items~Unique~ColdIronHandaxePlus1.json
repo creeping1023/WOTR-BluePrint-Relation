@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/SmithVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Handaxe", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/SmithVendorTable"], "children": ["Weapons/Types/MartialLight/Handaxe", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}

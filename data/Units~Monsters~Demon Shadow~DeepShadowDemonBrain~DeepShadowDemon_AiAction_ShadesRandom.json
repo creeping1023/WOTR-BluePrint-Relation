@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Shadow/DeepShadowDemonBrain/DeepShadowDemon_Brain_Evocation_Shades"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level9/Shades", "Spells/Level8/PolarRay", "Spells/Level8/PolarRay", "Spells/Level8/Sunburst"]}
+{"parents": ["Units/Monsters/Demon Shadow/DeepShadowDemonBrain/DeepShadowDemon_Brain_Evocation_Shades"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level9/Shades", "Spells/Level8/Sunburst", "Spells/Level8/PolarRay"]}

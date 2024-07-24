@@ -1,1 +1,1 @@
-{"parents": ["Feats/DLC5/FlayingCriticalToggleAbility"], "children": ["Feats/DLC5/FlayingCriticalTargetBuff", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawFlayingCriticalBuff"]}
+{"parents": ["Feats/DLC5/FlayingCriticalToggleAbility"], "children": ["Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawFlayingCriticalBuff", "Feats/DLC5/FlayingCriticalTargetBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level6/CloakofDreams", "Equipment/Gloves/Artisan/TrickstersGlovesEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Gloves/Artisan/TrickstersGlovesEnchantment", "Spells/Level6/CloakofDreams"]}

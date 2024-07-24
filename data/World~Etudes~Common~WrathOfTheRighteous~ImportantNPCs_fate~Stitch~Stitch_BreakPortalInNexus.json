@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/SutureFleshMarket_dialogue/Answer_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/Nexus_Camp/HeraldLetsGo/Cue_0005"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Stitch"]}
+{"parents": ["World/Dialogs/c4/Nexus_Camp/HeraldLetsGo/Cue_0005", "World/Dialogs/c4/FleshMarket/SutureFleshMarket_dialogue/Answer_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Stitch"]}

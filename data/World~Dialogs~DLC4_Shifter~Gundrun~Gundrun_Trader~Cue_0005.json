@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Trader/Answer_2"], "children": ["World/Quests/DLC4_Shifter/DLC4_Gundrun_WagonEscort/Objective_0001", "Buffs/LocalMapMarker_POI_ShowAlways", "Buffs/LocalMapMarker_POI_ShowAlways", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Trader/AnswersList_0005"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Trader/Answer_2"], "children": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Trader/AnswersList_0005", "Buffs/LocalMapMarker_POI_ShowAlways", "World/Quests/DLC4_Shifter/DLC4_Gundrun_WagonEscort/Objective_0001"]}

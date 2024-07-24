@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchProgression", "Classes/Witch/Archetypes/DarkSisterWitch/DarkSisterArchetype"], "children": ["Classes/Witch/Archetypes/DarkSisterWitch/SunderHopeAbility", "Classes/Witch/Archetypes/DarkSisterWitch/SunderHopeAbilityResource"]}
+{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/DarkSisterArchetype", "Classes/Witch/WitchProgression"], "children": ["Classes/Witch/Archetypes/DarkSisterWitch/SunderHopeAbilityResource", "Classes/Witch/Archetypes/DarkSisterWitch/SunderHopeAbility"]}

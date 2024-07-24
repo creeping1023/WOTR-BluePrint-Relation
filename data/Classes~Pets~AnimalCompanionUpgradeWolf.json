@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionFeatureWolf"], "children": ["CreatureAbilities/ReducedReach", "Classes/Pets/WolfTeardownFeature", "Classes/Pets/IterativeNaturalAttacksBuff"]}
+{"parents": ["Classes/Pets/AnimalCompanionFeatureWolf"], "children": ["Classes/Pets/WolfTeardownFeature", "CreatureAbilities/ReducedReach", "Classes/Pets/IterativeNaturalAttacksBuff"]}

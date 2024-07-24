@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/Archetypes/BattleScion/BattleProwessFeature"], "children": ["Classes/Skald/RagingSong/RagingSongResource", "Feats/DLC6/DivaStyleBuff", "Feats/DLC6/DivaStyleFreeFaintBuff", "Classes/Skald/Archetypes/BattleScion/BattleProwessBuff"]}
+{"parents": ["Classes/Skald/Archetypes/BattleScion/BattleProwessFeature"], "children": ["Classes/Skald/RagingSong/RagingSongResource", "Feats/DLC6/DivaStyleFreeFaintBuff", "Feats/DLC6/DivaStyleBuff", "Classes/Skald/Archetypes/BattleScion/BattleProwessBuff"]}

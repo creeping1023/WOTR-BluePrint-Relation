@@ -1,1 +1,1 @@
-{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryInfiltratorMaskGold", "Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryMaskFeatureGold"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryInfiltratorMaskGold"]}
+{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryMaskFeatureGold", "Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryInfiltratorMaskGold"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/RazmiryInfiltratorMaskGold"]}

@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationRapier"], "children": ["Weapons/Types/MartialOneHanded/Rapier", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationRapier"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationRapier"], "children": ["Weapons/Types/MartialOneHanded/Rapier", "Feats/WeaponSpecialization/WeaponSpecializationRapier", "Classes/Fighter/FighterClass"]}

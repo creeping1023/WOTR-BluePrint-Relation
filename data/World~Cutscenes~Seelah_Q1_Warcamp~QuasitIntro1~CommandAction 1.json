@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Seelah_Q1_Warcamp/QuasitIntro1/QuasitIntro1"], "children": ["World/Areas/Act_2_SwordOfValor/Seelah_Q1_Warcamp/EnterPoints/PartyPositionEnterPoint", "Units/Companions/Seelah/Seelah_Companion"]}
+{"parents": ["World/Cutscenes/Seelah_Q1_Warcamp/QuasitIntro1/QuasitIntro1"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Areas/Act_2_SwordOfValor/Seelah_Q1_Warcamp/EnterPoints/PartyPositionEnterPoint"]}

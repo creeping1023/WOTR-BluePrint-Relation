@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC1_Megaepic/Threshold_IndoorStart_InactiveCompanions"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Etudes/Common/DLC1_Megaepic/Threshold_IndoorStart_InactiveCompanions", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Etudes/Common/DLC1_Megaepic/Threshold_IndoorStart_InactiveCompanions"], "children": ["World/Etudes/Common/DLC1_Megaepic/Threshold_IndoorStart_InactiveCompanions", "Units/Companions/Daeran/Daeran_Companion"]}

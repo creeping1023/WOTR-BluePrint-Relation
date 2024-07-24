@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/Shadowform/ShadowFormPolymorph"], "children": ["Buffs/Exhausted", "Classes/Wizard/Archetypes/ShadowCaster/Shadowform/LimitedUseShadowCapstone"]}
+{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/Shadowform/ShadowFormPolymorph"], "children": ["Classes/Wizard/Archetypes/ShadowCaster/Shadowform/LimitedUseShadowCapstone", "Buffs/Exhausted"]}

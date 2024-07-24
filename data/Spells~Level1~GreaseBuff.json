@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandAction3", "Spells/Level1/GreaseArea"], "children": ["Units/Abilities/Mounts/MountedBuff", "Buffs/Prone", "Units/Abilities/Mounts/MountedBuff", "Buffs/Prone"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandAction3", "Spells/Level1/GreaseArea"], "children": ["Units/Abilities/Mounts/MountedBuff", "Buffs/Prone"]}

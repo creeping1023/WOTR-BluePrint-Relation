@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/Actions/TacticalCombatAiAttackProvoked", "Brain/Actions/ManualTouchSpellAiAction", "Brain/Actions/ManualAttackAiAction"]}
+{"parents": ["Armies/Brains/Actions/TacticalCombatAiAttackProvoked", "Brain/Actions/ManualAttackAiAction", "Brain/Actions/ManualTouchSpellAiAction"]}

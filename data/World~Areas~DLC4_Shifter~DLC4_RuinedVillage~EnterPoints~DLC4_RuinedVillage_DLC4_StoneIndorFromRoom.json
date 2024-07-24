@@ -1,1 +1,1 @@
-{"parents": ["QA/Arbiter/Scenario/DLC4/DLC4_RuinedVillage"], "children": ["World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_RuinedVillage", "World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_StoneIndoor_RuinedVillage"]}
+{"parents": ["QA/Arbiter/Scenario/DLC4/DLC4_RuinedVillage"], "children": ["World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_StoneIndoor_RuinedVillage", "World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_RuinedVillage"]}

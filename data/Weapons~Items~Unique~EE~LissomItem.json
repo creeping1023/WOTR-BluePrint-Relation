@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/LightPick", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Agile", "Weapons/Items/Unique/EE/LissomEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/EE/LissomEnchantment", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Agile", "Weapons/Types/MartialLight/LightPick"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/ArushaAfterBattle/Answer_0005"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/ArushaAfterBattle/Cue_0014"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/ArushaAfterBattle/Answer_0005"], "children": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/ArushaAfterBattle/Cue_0014", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Amulets/UniquePF2/CrusadeRelics/Chapter5/CursedBardVoice/CursedBardVoiceAmulet_SirenEnchantment"], "children": ["Classes/Bard/BardicPerformances/BardicPerformanceResource", "Classes/Skald/RagingSong/RagingSongResource"]}
+{"parents": ["Equipment/Amulets/UniquePF2/CrusadeRelics/Chapter5/CursedBardVoice/CursedBardVoiceAmulet_SirenEnchantment"], "children": ["Classes/Skald/RagingSong/RagingSongResource", "Classes/Bard/BardicPerformances/BardicPerformanceResource"]}

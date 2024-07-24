@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MoltenScar/Deserter/AnswersList_0030", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsQuest/SeelahQ"], "children": ["World/Cutscenes/MoltenScar/KillSeelah/KillSeelah"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsQuest/SeelahQ", "World/Dialogs/c3/MoltenScar/Deserter/AnswersList_0030"], "children": ["World/Cutscenes/MoltenScar/KillSeelah/KillSeelah"]}

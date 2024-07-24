@@ -1,1 +1,1 @@
-{"parents": ["Test/TestArea/2/TestArea2"], "children": ["Test/TestArea/2/TestArea2", "Test/TestArea/2/TestArea2_EnterPoint", "PlayerFighterPregen", "DLC/MainGame/MainCampaign"]}
+{"parents": ["Test/TestArea/2/TestArea2"], "children": ["PlayerFighterPregen", "Test/TestArea/2/TestArea2", "Test/TestArea/2/TestArea2_EnterPoint", "DLC/MainGame/MainCampaign"]}

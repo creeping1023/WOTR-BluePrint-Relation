@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/Arcane Rider/ArcaneMountFeature", "Classes/MagusEldritchScion/Arcanas/EldritchPrescientAttackAbility", "Classes/Magus/Arcanas/PrescientAttackAbility", "Classes/Magus/Archetypes/Arcane Rider/PrescientAttackMountBuff"]}
+{"parents": ["Classes/Magus/Arcanas/PrescientAttackAbility", "Classes/Magus/Archetypes/Arcane Rider/ArcaneMountFeature", "Classes/MagusEldritchScion/Arcanas/EldritchPrescientAttackAbility", "Classes/Magus/Archetypes/Arcane Rider/PrescientAttackMountBuff"]}

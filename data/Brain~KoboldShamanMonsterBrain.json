@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Brain/Actions/BlessItemAiAction", "Brain/Actions/MagicMissileAiAction", "Brain/Actions/ScorchingRayAiAction"]}
+{"children": ["Brain/Actions/BlessItemAiAction", "Brain/Actions/MagicMissileAiAction", "Brain/Actions/ScorchingRayAiAction", "Brain/Actions/AttackAiAction"]}

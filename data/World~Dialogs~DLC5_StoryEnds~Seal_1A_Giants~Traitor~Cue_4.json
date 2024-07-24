@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/Traitor/Check_0002"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_Translator", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_GiantOverseers/DLC5_TranslatorFollows"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/Traitor/Check_0002"], "children": ["World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_GiantOverseers/DLC5_TranslatorFollows", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_Translator"]}

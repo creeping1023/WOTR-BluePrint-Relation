@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilitySelection", "Mythic/Feats/ExtraMythicAbilityMythicFeat"], "children": ["Classes/Kineticist/GatherPower/GatherPowerFeature", "Classes/Kineticist/KineticistClass"]}
+{"parents": ["Mythic/Feats/ExtraMythicAbilityMythicFeat", "Mythic/MythicAbilitySelection"], "children": ["Classes/Kineticist/KineticistClass", "Classes/Kineticist/GatherPower/GatherPowerFeature"]}

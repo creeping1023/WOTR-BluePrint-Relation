@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/TempleOfDelamere/KyadoPityPriest/CueSequence_0020"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/c3/TempleOfDelamere/KyadoPityPriest/Cue_0030"]}
+{"parents": ["World/Dialogs/c3/TempleOfDelamere/KyadoPityPriest/CueSequence_0020"], "children": ["World/Dialogs/c3/TempleOfDelamere/KyadoPityPriest/Cue_0030", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

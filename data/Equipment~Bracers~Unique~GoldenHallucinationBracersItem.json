@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Bracers/KEE_Bracers_BracersArcaneNormalGems", "Equipment/Bracers/Unique/GoldenHallucinationBracersEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Bracers/Unique/GoldenHallucinationBracersEnchantment", "EquipmentEntities/Bracers/KEE_Bracers_BracersArcaneNormalGems", "Items/DestructibleItemsShards/MetalShardItem"]}

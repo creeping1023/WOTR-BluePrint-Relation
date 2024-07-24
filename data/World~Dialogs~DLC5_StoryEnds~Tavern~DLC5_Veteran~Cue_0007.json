@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Veteran/Answer_0002"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Tavern/DLC5_Venerad", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Veteran/Cue_0002"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Veteran/Answer_0002"], "children": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Veteran/Cue_0002", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Tavern/DLC5_Venerad"]}

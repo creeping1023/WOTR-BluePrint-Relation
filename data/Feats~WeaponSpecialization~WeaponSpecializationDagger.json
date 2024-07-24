@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterDagger"], "children": ["Weapons/Types/SimpleLight/Dagger", "Classes/Fighter/FighterClass", "Weapons/Types/SimpleLight/PunchingDagger", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterDagger"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterDagger"], "children": ["Weapons/Types/SimpleLight/Dagger", "Weapons/Types/SimpleLight/PunchingDagger", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterDagger", "Classes/Fighter/FighterClass"]}

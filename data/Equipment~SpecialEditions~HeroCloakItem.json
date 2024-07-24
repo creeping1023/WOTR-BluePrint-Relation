@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Spells/Level3/Heroism", "EquipmentEntities/Capes/KEE_CapeArcane1_Colored"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra", "Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level3/Heroism", "EquipmentEntities/Capes/KEE_CapeArcane1_Colored", "Items/DestructibleItemsShards/ClothShardItem"]}

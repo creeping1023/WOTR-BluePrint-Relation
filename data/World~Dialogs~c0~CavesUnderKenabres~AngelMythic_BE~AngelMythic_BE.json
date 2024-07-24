@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Prologue_Caves_1/ActionsHolders/Angel_Sword_Actions", "World/Cutscenes/Prologue_Caves_1/Sword_Found/CommandAction 1"], "children": ["World/Dialogs/c0/CavesUnderKenabres/AngelMythic_BE/BookPage_0001"]}
+{"parents": ["World/Cutscenes/Prologue_Caves_1/Sword_Found/CommandAction 1", "World/Encounters/Prologue_Caves_1/ActionsHolders/Angel_Sword_Actions"], "children": ["World/Dialogs/c0/CavesUnderKenabres/AngelMythic_BE/BookPage_0001"]}

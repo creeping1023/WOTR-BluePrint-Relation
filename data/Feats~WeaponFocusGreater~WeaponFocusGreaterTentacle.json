@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusTentacle"], "children": ["Weapons/Types/NaturalWeapon/TentacleType", "Feats/WeaponFocus/WeaponFocusTentacle", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusTentacle"], "children": ["Feats/WeaponFocus/WeaponFocusTentacle", "Weapons/Types/NaturalWeapon/TentacleType", "Classes/Fighter/FighterClass"]}

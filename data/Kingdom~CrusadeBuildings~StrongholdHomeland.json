@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLogistics8StrongholdHomeland", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingStrongholdHomeland", "Kingdom/Settlement/Settlement00_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingStrongholdHomeland", "Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLogistics8StrongholdHomeland", "Kingdom/Settlement/Settlement00_Drezen"]}

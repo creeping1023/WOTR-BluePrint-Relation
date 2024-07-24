@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0001", "World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Answer_0012"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0005"]}
+{"parents": ["World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0001", "World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Answer_0012"], "children": ["World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0005", "Units/Companions/Nenio/Nenio_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/RagePowers/DaemonTotem/DaemonTotemGreaterFeature", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic", "Classes/Skald/RagingSong/InspiredRageEffectBuff"], "children": ["Classes/Barbarian/RagePowers/DaemonTotem/DaemonTotemGreaterTempHPBuff"]}
+{"parents": ["Classes/Skald/RagingSong/InspiredRageEffectBuffMythic", "Classes/Barbarian/RagePowers/DaemonTotem/DaemonTotemGreaterFeature", "Classes/Skald/RagingSong/InspiredRageEffectBuff"], "children": ["Classes/Barbarian/RagePowers/DaemonTotem/DaemonTotemGreaterTempHPBuff"]}

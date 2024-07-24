@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/CompositeShortbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/BaneDragon"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/BaneDragon", "Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialRanged/CompositeShortbow"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Skald/SkaldClass", "Classes/Skald/SkaldSpellbook"]}
+{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Skald/SkaldSpellbook", "Classes/Skald/SkaldClass"]}

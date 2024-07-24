@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationBattlecry"], "children": ["Classes/Oracle/OracleRevelations/OracleRevelationBattlecryBuff", "Classes/Oracle/OracleRevelations/OracleRevelationBattlecryResource"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationBattlecry"], "children": ["Classes/Oracle/OracleRevelations/OracleRevelationBattlecryResource", "Classes/Oracle/OracleRevelations/OracleRevelationBattlecryBuff"]}

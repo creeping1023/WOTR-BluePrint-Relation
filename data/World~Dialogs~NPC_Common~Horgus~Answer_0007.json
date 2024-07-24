@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Horgus/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["World/Dialogs/NPC_Common/Horgus/Check_0021", "World/Dialogs/NPC_Common/Horgus/Answer_0006"]}
+{"parents": ["World/Dialogs/NPC_Common/Horgus/AnswersList_0003", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Horgus/Check_0021", "World/Dialogs/NPC_Common/Horgus/Answer_0006"]}

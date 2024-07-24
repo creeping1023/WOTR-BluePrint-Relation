@@ -1,1 +1,1 @@
-{"parents": ["Items/Potions/Level3/PotionOfHaste"], "children": ["Spells/Level3/SlowBuff", "Spells/Level3/SlowBuff", "Spells/Level3/HasteBuff"]}
+{"parents": ["Items/Potions/Level3/PotionOfHaste"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/SlowBuff"]}

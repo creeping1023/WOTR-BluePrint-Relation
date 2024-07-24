@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Treant/TreantBrain/BlightedTreant_Brain_Caster"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/ChaoticBehaviour", "Spells/Level5/CallLightningStorm"]}
+{"parents": ["Units/Monsters/Treant/TreantBrain/BlightedTreant_Brain_Caster"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level5/CallLightningStorm"]}

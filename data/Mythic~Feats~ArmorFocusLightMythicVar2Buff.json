@@ -1,1 +1,1 @@
-{"parents": ["Feats/ArmorFocus/ArmorFocusLight", "Mythic/Feats/ArmorFocusLightMythicFeatureVar2"], "children": ["Mythic/Feats/ArmorFocusLightMythicVar2SubBuff", "Mythic/Feats/ArmorFocusLightMythicVar2SubBuff"]}
+{"parents": ["Mythic/Feats/ArmorFocusLightMythicFeatureVar2", "Feats/ArmorFocus/ArmorFocusLight"], "children": ["Mythic/Feats/ArmorFocusLightMythicVar2SubBuff"]}

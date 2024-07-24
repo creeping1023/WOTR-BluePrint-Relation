@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter", "World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter/PinkBarrel"], "children": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Purple"]}
+{"parents": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter/PinkBarrel", "World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter"], "children": ["World/Encounters/DLC2_RichQuarter/UnlockableFlags/Purple", "World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter"]}

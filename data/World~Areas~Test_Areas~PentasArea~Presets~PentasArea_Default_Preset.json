@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Test_Areas/PentasArea/PentasArea"], "children": ["World/Areas/Test_Areas/PentasArea/PentasArea", "World/Areas/Test_Areas/PentasArea/EnterPoints/PentasArea_Enter", "Player Character", "DLC/MainGame/MainCampaign"]}
+{"parents": ["World/Areas/Test_Areas/PentasArea/PentasArea"], "children": ["Player Character", "World/Areas/Test_Areas/PentasArea/PentasArea", "World/Areas/Test_Areas/PentasArea/EnterPoints/PentasArea_Enter", "DLC/MainGame/MainCampaign"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Q3/FinalDream/Cue_0026"], "children": ["Units/NPC/Commoners/Shadow/CR0_ArueshalaeNightmare", "World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Shadows_Phase_2/Shadows_Phase_2"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Q3/FinalDream/Cue_0026"], "children": ["World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Shadows_Phase_2/Shadows_Phase_2", "Units/NPC/Commoners/Shadow/CR0_ArueshalaeNightmare"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Logistics/Logistics_7/Answer_0015", "World/Crusade/RankUps/Logistics/Logistics_7/Answer_0022", "World/Crusade/RankUps/Logistics/Logistics_7/CueSequence_0003"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Crusade/RankUps/Logistics/Logistics_7/CueSequence_0003", "World/Crusade/RankUps/Logistics/Logistics_7/Answer_0015", "World/Crusade/RankUps/Logistics/Logistics_7/Answer_0022"], "children": ["Units/Companions/Wenduag/Wenduag_Companion"]}

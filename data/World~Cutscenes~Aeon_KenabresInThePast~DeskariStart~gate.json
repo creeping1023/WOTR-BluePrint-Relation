@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Aeon_KenabresInThePast/DeskariStart/gate 1", "World/Cutscenes/Aeon_KenabresInThePast/DeskariStart/DeskariStart"], "children": ["World/Cutscenes/Aeon_KenabresInThePast/DeskariStart/CommandAction 1"]}
+{"parents": ["World/Cutscenes/Aeon_KenabresInThePast/DeskariStart/DeskariStart", "World/Cutscenes/Aeon_KenabresInThePast/DeskariStart/gate 1"], "children": ["World/Cutscenes/Aeon_KenabresInThePast/DeskariStart/CommandAction 1"]}

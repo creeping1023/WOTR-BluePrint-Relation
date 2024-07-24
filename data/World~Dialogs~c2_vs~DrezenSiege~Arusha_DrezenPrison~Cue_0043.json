@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Arusha_DrezenPrison/Answer_0042"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/DrezenCitadelLevel2/ArueshalaeImprisoned", "World/Dialogs/c2_vs/DrezenSiege/Arusha_DrezenPrison/AnswersList_0006"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Arusha_DrezenPrison/Answer_0042"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Arusha_DrezenPrison/AnswersList_0006", "Units/NPC/Unique/Act_2_SwordOfValor/DrezenCitadelLevel2/ArueshalaeImprisoned"]}

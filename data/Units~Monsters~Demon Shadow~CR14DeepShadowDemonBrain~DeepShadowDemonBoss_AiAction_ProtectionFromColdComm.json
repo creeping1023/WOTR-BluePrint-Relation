@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level4/ProtectionFromEnergyCommunal", "Spells/Level4/ProtectionFromColdCommunal", "Spells/Level8/PolarRay", "Spells/Level8/Sunburst", "Spells/Level8/Stormbolts"]}
+{"children": ["Spells/Level4/ProtectionFromColdCommunal", "Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level8/PolarRay", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level4/ProtectionFromEnergyCommunal", "Spells/Level8/Stormbolts", "Spells/Level8/Sunburst"]}

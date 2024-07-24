@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level2/BullsStrength", "Equipment/CommonEnchantments/Strength4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Strength4", "Spells/Level2/BullsStrength", "Items/DestructibleItemsShards/MetalShardItem"]}

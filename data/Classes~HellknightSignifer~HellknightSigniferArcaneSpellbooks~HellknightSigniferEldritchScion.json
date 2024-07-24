@@ -1,1 +1,1 @@
-{"parents": ["Classes/HellknightSignifer/HellknightSigniferSpellbook"], "children": ["Classes/Magus/MagusClass", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusClass", "Classes/MagusEldritchScion/EldritchScionSpellbook"]}
+{"parents": ["Classes/HellknightSignifer/HellknightSigniferSpellbook"], "children": ["Classes/MagusEldritchScion/EldritchScionSpellbook", "Classes/Magus/Archetypes/EldritchScion/EldritchScionArchetype", "Classes/Magus/MagusClass"]}

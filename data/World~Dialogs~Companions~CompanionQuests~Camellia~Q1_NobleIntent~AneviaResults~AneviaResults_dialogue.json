@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/CamelliaQ1_FinalDialogue/CommandStartDialog"], "children": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/AneviaResults/Cue_0001", "World/Quests/Companions/Camellia/Q1_ANobleIntent/Obj03_TalkToAnevia"]}
+{"parents": ["World/Cutscenes/DrezenCapital/CamelliaQ1_FinalDialogue/CommandStartDialog"], "children": ["World/Quests/Companions/Camellia/Q1_ANobleIntent/Obj03_TalkToAnevia", "World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/AneviaResults/Cue_0001"]}

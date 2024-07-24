@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Holgan/Answer_0014"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR7_GundrunRangerLocalHero", "World/Quests/DLC4_Shifter/Shifter_Q3/Obj_02_GotoWarlordsHome"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Holgan/Answer_0014"], "children": ["World/Quests/DLC4_Shifter/Shifter_Q3/Obj_02_GotoWarlordsHome", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR7_GundrunRangerLocalHero"]}

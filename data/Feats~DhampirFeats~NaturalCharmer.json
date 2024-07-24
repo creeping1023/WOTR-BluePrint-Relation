@@ -1,1 +1,1 @@
-{"parents": ["Races/DhampirRace", "Classes/Basic/BasicFeatSelection", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["Races/DhampirRace", "Feats/DhampirFeats/NaturalCharmerResource", "Feats/DhampirFeats/NaturalCharmerAbility"]}
+{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/Feats/ExtraFeatMythicFeat", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Races/DhampirRace"], "children": ["Feats/DhampirFeats/NaturalCharmerResource", "Races/DhampirRace", "Feats/DhampirFeats/NaturalCharmerAbility"]}

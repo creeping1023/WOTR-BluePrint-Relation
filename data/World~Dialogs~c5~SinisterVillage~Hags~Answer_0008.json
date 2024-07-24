@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Answer_0033", "World/Dialogs/c5/SinisterVillage/Hags/Answer_0066", "World/Dialogs/c5/SinisterVillage/Hags/AnswersList_0006"], "children": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0012"]}
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/AnswersList_0006", "World/Dialogs/c5/SinisterVillage/Hags/Answer_0066", "World/Dialogs/c5/SinisterVillage/Hags/Answer_0033"], "children": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0012"]}

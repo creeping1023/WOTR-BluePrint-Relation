@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleRanged/HeavyCrossbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/SimpleRanged/HeavyCrossbow", "Weapons/Enchantments/Corrosive"]}

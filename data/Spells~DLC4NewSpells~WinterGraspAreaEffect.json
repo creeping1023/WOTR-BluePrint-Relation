@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC4NewSpells/WinterGrasp"], "children": ["Spells/DLC4NewSpells/WinterGraspAreaBuff", "Spells/DLC4NewSpells/WinterGraspDifficultTerrainBuff", "Spells/DLC4NewSpells/WinterGraspAreaBuff", "Spells/DLC4NewSpells/WinterGraspDifficultTerrainBuff", "Buffs/Prone"]}
+{"parents": ["Spells/DLC4NewSpells/WinterGrasp"], "children": ["Spells/DLC4NewSpells/WinterGraspDifficultTerrainBuff", "Buffs/Prone", "Spells/DLC4NewSpells/WinterGraspAreaBuff"]}

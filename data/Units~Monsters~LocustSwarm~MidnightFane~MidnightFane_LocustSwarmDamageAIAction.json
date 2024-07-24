@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration", "Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmDamageAbility"]}
+{"parents": ["Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmBrain"], "children": ["Units/Monsters/LocustSwarm/MidnightFane/MidnightFane_LocustSwarmDamageAbility", "Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration"]}

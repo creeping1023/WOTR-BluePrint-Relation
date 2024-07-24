@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype"], "children": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponAbility", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponResource"]}
+{"parents": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype", "Classes/Ranger/RangerProgression"], "children": ["Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponResource", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenWeaponAbility"]}

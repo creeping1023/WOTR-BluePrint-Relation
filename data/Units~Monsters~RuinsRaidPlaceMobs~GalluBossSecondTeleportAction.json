@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossBrain"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/GalluBossTeleportAction", "Brain/Considerations/SwiftActionOnCooldown", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossDemonTeleportAbility"]}
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossBrain"], "children": ["Brain/Considerations/SwiftActionOnCooldown", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossTeleportAction", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossDemonTeleportAbility"]}

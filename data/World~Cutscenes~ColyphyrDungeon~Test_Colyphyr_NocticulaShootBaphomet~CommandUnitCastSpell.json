@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Test_Colyphyr_NocticulaShootBaphomet/gate1"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula_Ability_CutsceneBolt", "World/Encounters/ColyphyrDungeon/SummonPools/Test_Colyphyr"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Test_Colyphyr_NocticulaShootBaphomet/gate1"], "children": ["World/Encounters/ColyphyrDungeon/SummonPools/Test_Colyphyr", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula_Ability_CutsceneBolt"]}

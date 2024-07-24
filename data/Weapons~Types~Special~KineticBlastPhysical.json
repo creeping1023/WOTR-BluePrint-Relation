@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Types/Special/KineticBlastPhysicalWeapon", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulOverwhelmingPowerFeature", "Classes/Kineticist/ElementalFocus/KineticBlastFeature"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Classes/Kineticist/ElementalFocus/KineticBlastFeature", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulOverwhelmingPowerFeature", "Weapons/Types/Special/KineticBlastPhysicalWeapon"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Druid/Archetypes/Feyspeaker/FeyspeakerArchetype", "Classes/Druid/DruidProgression", "Classes/Druid/Archetypes/Drovier/DrovierArchetype", "Classes/Druid/Archetypes/WinterChild/WinterChildArchetype"], "children": ["Classes/Druid/WildShape/WildShapeIVBearAbillity"]}
+{"parents": ["Classes/Druid/Archetypes/WinterChild/WinterChildArchetype", "Classes/Druid/DruidProgression", "Classes/Druid/Archetypes/Drovier/DrovierArchetype", "Classes/Druid/Archetypes/Feyspeaker/FeyspeakerArchetype"], "children": ["Classes/Druid/WildShape/WildShapeIVBearAbillity"]}

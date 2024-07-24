@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/CR24_Areshkagal_GolemMithralMiniBoss"], "children": ["Feats/CombatReflexes", "Feats/Mobility", "Feats/Dodge"]}
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/AreshkagalDungeon/AreshkagalBosses/CR24_Areshkagal_GolemMithralMiniBoss"], "children": ["Feats/Mobility", "Feats/CombatReflexes", "Feats/Dodge"]}

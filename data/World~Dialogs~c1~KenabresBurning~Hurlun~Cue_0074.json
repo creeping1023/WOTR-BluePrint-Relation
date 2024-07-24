@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/Answer_0073"], "children": ["World/Encounters/ReligionReactivityBuffs/Gyronna_Debuff", "World/Dialogs/c1/KenabresBurning/Hurlun/Cue_0075"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/Answer_0073"], "children": ["World/Dialogs/c1/KenabresBurning/Hurlun/Cue_0075", "World/Encounters/ReligionReactivityBuffs/Gyronna_Debuff"]}

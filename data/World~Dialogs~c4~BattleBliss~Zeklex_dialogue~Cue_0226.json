@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0225"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0227"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0225"], "children": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0227", "Units/Companions/Greybor/Greybor_Companion"]}

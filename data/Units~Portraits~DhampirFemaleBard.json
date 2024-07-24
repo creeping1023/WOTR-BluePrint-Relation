@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Warlords/WarlordLeaderEvent4_4", "Root/BlueprintRoot", "Armies/Leaders/Warlords/WarlordUnits/Warlord_event_4_4_Wizard"], "children": ["Races/DhampirRace"]}
+{"parents": ["Armies/Leaders/Warlords/WarlordLeaderEvent4_4", "Armies/Leaders/Warlords/WarlordUnits/Warlord_event_4_4_Wizard", "Root/BlueprintRoot"], "children": ["Races/DhampirRace"]}

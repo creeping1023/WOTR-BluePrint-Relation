@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Trickster/LoreNature/TricksterLoreNature1Feature", "Mythic/Trickster/TricksterRank3Selection", "Mythic/Trickster/LoreNature/TricksterLoreNature2Feature"], "children": ["Mythic/Trickster/LoreNature/TricksterLoreNature2Feature"]}
+{"parents": ["Mythic/Trickster/TricksterRank3Selection", "Mythic/Trickster/LoreNature/TricksterLoreNature2Feature", "Mythic/Trickster/LoreNature/TricksterLoreNature1Feature"], "children": ["Mythic/Trickster/LoreNature/TricksterLoreNature2Feature"]}

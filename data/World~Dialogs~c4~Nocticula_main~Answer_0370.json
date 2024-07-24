@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-350726", "World/Dialogs/c4/Nocticula_main/AnswersList_0368"], "children": ["World/Dialogs/c4/Nocticula_main/Cue_0374", "World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/NocticulaOffer"]}
+{"parents": ["Root/Upgraders/Player/PF-350726", "World/Dialogs/c4/Nocticula_main/AnswersList_0368"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/RegillCompanion/RegillStates/NocticulaOffer", "World/Dialogs/c4/Nocticula_main/Cue_0374"]}

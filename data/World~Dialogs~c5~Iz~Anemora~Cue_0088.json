@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Anemora/Cue_0006"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "World/Quests/MythicQuests/Legend/C5_IAmLegend/IAmLegend_c5_legend_quest", "World/Dialogs/c5/Iz/Anemora/AnswersList_0007"]}
+{"parents": ["World/Dialogs/c5/Iz/Anemora/Cue_0006"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "World/Dialogs/c5/Iz/Anemora/AnswersList_0007", "World/Quests/MythicQuests/Legend/C5_IAmLegend/IAmLegend_c5_legend_quest"]}

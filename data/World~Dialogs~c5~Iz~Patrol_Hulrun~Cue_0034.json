@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0033"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0035"]}
+{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0033"], "children": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0035", "Units/Companions/Regill/Regill_Companion"]}

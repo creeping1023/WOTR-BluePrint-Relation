@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Elf/BlightbornElf", "Races/ElfRace", "Traits/Races/HalfElf/DualMindedHalfElf", "Feats/ElvenSpirit", "Traits/Races/Elf/LoremasterElf"]}
+{"parents": ["Traits/Races/Elf/LoremasterElf", "Feats/ElvenSpirit", "Traits/Races/HalfElf/DualMindedHalfElf", "Races/ElfRace", "Traits/Races/Elf/BlightbornElf"]}

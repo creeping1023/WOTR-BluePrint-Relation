@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/CR11_NabasuTracker_Melee_Brain_Barkskin"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffBarkskin", "Spells/Level2/Barkskin"]}
+{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/CR11_NabasuTracker_Melee_Brain_Barkskin"], "children": ["Spells/Level2/Barkskin", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffBarkskin"]}

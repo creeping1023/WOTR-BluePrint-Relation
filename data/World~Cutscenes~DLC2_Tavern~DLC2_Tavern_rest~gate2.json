@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/gate"], "children": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandAction5", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandTeleport", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/gate1"]}
+{"parents": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/gate"], "children": ["World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/gate1", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandAction5", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_rest/CommandTeleport"]}

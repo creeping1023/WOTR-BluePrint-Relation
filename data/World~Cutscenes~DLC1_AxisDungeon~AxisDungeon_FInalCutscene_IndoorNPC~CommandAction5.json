@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_AxisDungeon/AxisDungeon_FInalCutscene_IndoorNPC/AxisDungeon_FInalCutscene_IndoorNPC"], "children": ["World/Encounters/DLC1_Threshold_IndoorStart/SummonPools/StartOriginalParty", "Buffs/Paralyzed"]}
+{"parents": ["World/Cutscenes/DLC1_AxisDungeon/AxisDungeon_FInalCutscene_IndoorNPC/AxisDungeon_FInalCutscene_IndoorNPC"], "children": ["Buffs/Paralyzed", "World/Encounters/DLC1_Threshold_IndoorStart/SummonPools/StartOriginalParty"]}

@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level2/InflictModerateWoundsCast"]}
+{"children": ["Spells/Level2/InflictModerateWoundsCast", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration"]}

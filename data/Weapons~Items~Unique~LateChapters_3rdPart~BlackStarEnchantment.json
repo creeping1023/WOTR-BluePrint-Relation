@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters_3rdPart/BlackStarItem"], "children": ["Weapons/Items/Unique/LateChapters_3rdPart/BlackStarFeature", "Spells/Level5/SlayLivingCast", "Spells/Level4/ConfusionSpell", "Spells/Level3/CrushingDespair"]}
+{"parents": ["Weapons/Items/Unique/LateChapters_3rdPart/BlackStarItem"], "children": ["Spells/Level4/ConfusionSpell", "Spells/Level5/SlayLivingCast", "Weapons/Items/Unique/LateChapters_3rdPart/BlackStarFeature", "Spells/Level3/CrushingDespair"]}

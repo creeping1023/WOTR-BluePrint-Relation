@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/gate", "World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/KaylessaRunsToForn"], "children": ["World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/CommandAction"]}
+{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/KaylessaRunsToForn", "World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/gate"], "children": ["World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/CommandAction"]}

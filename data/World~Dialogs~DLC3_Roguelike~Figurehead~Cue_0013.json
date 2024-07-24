@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/Figurehead/Cue_0012"], "children": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_Steersman", "World/Dialogs/DLC3_Roguelike/Figurehead/Cue_0015"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/Figurehead/Cue_0012"], "children": ["World/Dialogs/DLC3_Roguelike/Figurehead/Cue_0015", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Steersman"]}

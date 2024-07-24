@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Labyrinth/Attack_Savameleh_Angel/gate"], "children": ["Spells/CutsceneSpells/ProneBuff", "World/Cutscenes/Prologue_Labyrinth/CorruptedHitByAngel/CorruptedHitByAngel"]}
+{"parents": ["World/Cutscenes/Prologue_Labyrinth/Attack_Savameleh_Angel/gate"], "children": ["World/Cutscenes/Prologue_Labyrinth/CorruptedHitByAngel/CorruptedHitByAngel", "Spells/CutsceneSpells/ProneBuff"]}

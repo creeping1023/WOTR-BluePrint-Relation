@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/gate"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Lann_Event/Lann_Event_FreeFood/Lann_Event_FreeFood_dialogue"]}
+{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/gate"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Lann_Event/Lann_Event_FreeFood/Lann_Event_FreeFood_dialogue", "Units/Companions/Lann/Lann_Companion"]}

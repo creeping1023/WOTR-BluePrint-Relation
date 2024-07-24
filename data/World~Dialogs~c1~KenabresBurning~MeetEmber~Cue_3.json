@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_2"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/EmberNotJoined", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_4"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_2"], "children": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_4", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/EmberNotJoined"]}

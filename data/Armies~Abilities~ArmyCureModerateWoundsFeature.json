@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyAzataYamah", "Armies/UnitBlueprints/ArmyDruids", "Armies/UnitBlueprints/ArmyWarpriest"], "children": ["Armies/Abilities/ArmyCureModerateWounds", "Armies/Abilities/ArmyCureModerateWoundsFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyWarpriest", "Armies/UnitBlueprints/ArmyDruids", "Armies/UnitBlueprints/ArmyAzataYamah"], "children": ["Armies/Abilities/ArmyCureModerateWounds", "Armies/Abilities/ArmyCureModerateWoundsFact"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBoar_Medium", "Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBoar_Large", "Classes/Pets/AnimalCompanionUnitBoar_FoolKingMounted", "Classes/Pets/AnimalCompanionUnitBoar"]}
+{"parents": ["Classes/Pets/AnimalCompanionUnitBoar", "Classes/Pets/AnimalCompanionUnitBoar_FoolKingMounted", "Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBoar_Medium", "Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBoar_Large"]}

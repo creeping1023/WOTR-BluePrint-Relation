@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderBattleAcumenFeature"], "children": ["Classes/Inquisitor/Judgments/ResiliencyJudgmentBuffGood", "Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderBattleAcumenResourse"]}
+{"parents": ["Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderBattleAcumenFeature"], "children": ["Classes/Inquisitor/Archetypes/TacticalLeader/TacticalLeaderBattleAcumenResourse", "Classes/Inquisitor/Judgments/ResiliencyJudgmentBuffGood"]}

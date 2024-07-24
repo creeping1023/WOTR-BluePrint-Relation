@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shaman/ShamanSpirits/ShamanFrostSpirit/ShamanFrostSpiritTrueAbility", "Spells/Level6/BeastShapeIVBase", "Items/Scrolls/Level6/ScrollOfBeastShapeIVSmilodon"], "children": ["Spells/Level6/BeastShapeIVSmilodonBuff", "Spells/Level6/BeastShapeIVSmilodonBuff", "Spells/Level6/BeastShapeIVBase"]}
+{"parents": ["Spells/Level6/BeastShapeIVBase", "Classes/Shaman/ShamanSpirits/ShamanFrostSpirit/ShamanFrostSpiritTrueAbility", "Items/Scrolls/Level6/ScrollOfBeastShapeIVSmilodon"], "children": ["Spells/Level6/BeastShapeIVBase", "Spells/Level6/BeastShapeIVSmilodonBuff"]}

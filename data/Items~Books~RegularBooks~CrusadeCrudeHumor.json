@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR10/PF2_CoolDemons_CrusadeCrudeHumor"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Good/CR10/PF2_CoolDemons_CrusadeCrudeHumor", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

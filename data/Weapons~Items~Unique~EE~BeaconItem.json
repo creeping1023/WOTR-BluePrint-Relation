@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/BanditConspiratorVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Handaxe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost", "Weapons/Items/Unique/EE/BeaconEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/BanditConspiratorVendorTable"], "children": ["Weapons/Enchantments/Frost", "Weapons/Types/MartialLight/Handaxe", "Weapons/Items/Unique/EE/BeaconEnchantment", "Weapons/Enchantments/Enhancement2"]}

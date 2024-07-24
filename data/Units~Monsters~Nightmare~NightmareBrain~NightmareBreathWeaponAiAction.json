@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Nightmare/NightmareBrain/NightmareBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/Nightmare/NightmareBrain/NightmareBreathWeapon"]}
+{"parents": ["Units/Monsters/Nightmare/NightmareBrain/NightmareBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Nightmare/NightmareBrain/NightmareBreathWeapon", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

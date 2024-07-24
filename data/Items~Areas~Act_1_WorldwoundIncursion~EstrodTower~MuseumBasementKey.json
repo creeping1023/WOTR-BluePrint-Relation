@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Teldon/Cue_0044", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0047"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0047", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0044"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

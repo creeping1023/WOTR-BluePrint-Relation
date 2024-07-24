@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/NurahBrain/NurahBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/Slow"]}
+{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/NurahBrain/NurahBrain"], "children": ["Spells/Level3/Slow", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

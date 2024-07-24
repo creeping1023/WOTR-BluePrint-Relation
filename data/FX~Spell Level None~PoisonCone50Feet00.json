@@ -1,1 +1,1 @@
-{"parents": ["Equipment/DLC6BonusItems/GorgonBeltAbility", "Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_WeakeningBreathWeapon", "Units/Monsters/SilverDragon/Sevalros/Sevalros_ParalizingBreathWeapon"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Units/Monsters/SilverDragon/Sevalros/Sevalros_ParalizingBreathWeapon", "Equipment/DLC6BonusItems/GorgonBeltAbility", "Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_WeakeningBreathWeapon"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

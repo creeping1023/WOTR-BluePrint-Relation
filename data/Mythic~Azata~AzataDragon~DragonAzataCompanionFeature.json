@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Azata/AzataProgression", "Mythic/Devil/DevilProgression", "Mythic/Azata/AzataMythicClass"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "Mythic/Azata/AzataDragon/DragonAzataCompanionRank"]}
+{"parents": ["Mythic/Azata/AzataMythicClass", "Mythic/Devil/DevilProgression", "Mythic/Azata/AzataProgression"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "Mythic/Azata/AzataDragon/DragonAzataCompanionRank"]}

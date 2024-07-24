@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_BalorMythic_DevourAIAction", "Mythic/Demon/DemonSpells/DevourCast"], "children": ["Mythic/Demon/DemonSpells/DevourBuff", "FX/Abilities/Mythics/Demon/Mythic3lvlDemon_Devour00_Projectile", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Mythic/Demon/DemonSpells/DevourCast", "Units/Monsters/DLC3_Mobs/DLC3_BalorMythic_DevourAIAction"], "children": ["Weapons/Types/Special/TouchItem", "Mythic/Demon/DemonSpells/DevourBuff", "FX/Abilities/Mythics/Demon/Mythic3lvlDemon_Devour00_Projectile"]}

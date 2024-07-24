@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/KineticistRings/UnmakerRingEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Equipment/Rings/KineticistRings/UnmakerRingEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/ArcaneBond/ItemBond/ItemBondFeature", "Classes/Wizard/ArcaneBond/ItemBond/ItemBondAbility", "Classes/Wizard/Archetypes/SpellMaster/SpellMasterItemBondSpecializationFeature"]}
+{"parents": ["Classes/Wizard/Archetypes/SpellMaster/SpellMasterItemBondSpecializationFeature", "Classes/Wizard/ArcaneBond/ItemBond/ItemBondAbility", "Classes/Wizard/ArcaneBond/ItemBond/ItemBondFeature"]}

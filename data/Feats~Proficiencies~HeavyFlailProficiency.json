@@ -1,1 +1,1 @@
-{"parents": ["PlayerFighterPregen", "Classes/Basic/Deities/GroetusFeature", "Test/Units/PlayerFighterPregen_CutsceneNaked"]}
+{"parents": ["PlayerFighterPregen", "Test/Units/PlayerFighterPregen_CutsceneNaked", "Classes/Basic/Deities/GroetusFeature"]}

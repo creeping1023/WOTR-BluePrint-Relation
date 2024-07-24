@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter4/RoasterSecondItem", "Weapons/Items/UniquePF2/Chapter4/RoasterItem"], "children": ["Weapons/Items/UniquePF2/Chapter4/RoasterBuff", "Weapons/Items/UniquePF2/Chapter4/RoasterEffectBuff", "Weapons/Items/UniquePF2/Chapter4/RoasterBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter4/RoasterItem", "Weapons/Items/UniquePF2/Chapter4/RoasterSecondItem"], "children": ["Weapons/Items/UniquePF2/Chapter4/RoasterEffectBuff", "Weapons/Items/UniquePF2/Chapter4/RoasterBuff"]}

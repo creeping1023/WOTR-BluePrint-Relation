@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity", "Units/Monsters/Ravener/SummonedRavener_AiAction_UndeadBreath", "Units/Monsters/Ravener/SummonedRavener"], "children": ["FX/Spell Level None/ColdCone50Feet00", "Buffs/Paralyzed", "Classes/Monster/Undead/UndeadClass"]}
+{"parents": ["Units/Monsters/Ravener/SummonedRavener", "Mythic/DLC5ShardsAbilities/BrokenAffinity", "Units/Monsters/Ravener/SummonedRavener_AiAction_UndeadBreath"], "children": ["Buffs/Paralyzed", "Classes/Monster/Undead/UndeadClass", "FX/Spell Level None/ColdCone50Feet00"]}

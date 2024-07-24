@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/AngelTargona_Brain/AngelTargona_Brain"], "children": ["Brain/Considerations/EvilConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/HolySmite"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/AngelTargona_Brain/AngelTargona_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level4/HolySmite", "Brain/Considerations/EvilConsideration"]}

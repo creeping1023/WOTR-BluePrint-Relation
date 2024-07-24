@@ -1,1 +1,1 @@
-{"parents": ["Races/AscendingSuccubus"], "children": ["Traits/Races/AscendingSuccubus/AscendingSuccubusVampiricTouchCast", "Traits/Races/AscendingSuccubus/AscendingSuccubusVampiricTouchResource"]}
+{"parents": ["Races/AscendingSuccubus"], "children": ["Traits/Races/AscendingSuccubus/AscendingSuccubusVampiricTouchResource", "Traits/Races/AscendingSuccubus/AscendingSuccubusVampiricTouchCast"]}

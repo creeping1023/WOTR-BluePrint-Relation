@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/SkaldProgression", "Classes/Skald/Archetypes/HuntCaller/HuntCallerArchetype"], "children": ["Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIIAbility"]}
+{"parents": ["Classes/Skald/Archetypes/HuntCaller/HuntCallerArchetype", "Classes/Skald/SkaldProgression"], "children": ["Classes/Skald/Archetypes/HuntCaller/CallOfTheWildBeastShapeIIAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/GateGuard/SequenceExit_0076", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/GateGuard/Answer_0028"], "children": ["World/Dialogs/c4/GateGuard/AnswersList_0027"]}
+{"parents": ["World/Dialogs/c4/GateGuard/Answer_0028", "World/Dialogs/c4/GateGuard/SequenceExit_0076", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/GateGuard/AnswersList_0027"]}

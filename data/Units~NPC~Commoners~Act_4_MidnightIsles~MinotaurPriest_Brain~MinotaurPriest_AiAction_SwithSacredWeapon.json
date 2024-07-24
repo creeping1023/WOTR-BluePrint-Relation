@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/MinotaurPriest_Brain/MinotaurPriest_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponAbility"]}
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/MinotaurPriest_Brain/MinotaurPriest_Brain"], "children": ["Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponAbility", "Brain/Considerations/SwiftActionOffCooldown"]}

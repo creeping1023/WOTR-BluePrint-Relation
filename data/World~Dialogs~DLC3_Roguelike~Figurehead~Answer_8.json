@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/Figurehead/AnswersList_0004"], "children": ["World/Dialogs/DLC3_Roguelike/Figurehead/Cue_36", "DLC/DLC3/Dlc3Campaign", "World/Areas/DLC3_RogueLike/DLC3_AlushinyrraPort/DLC3_AlushinyrraPort"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/Figurehead/AnswersList_0004"], "children": ["World/Dialogs/DLC3_Roguelike/Figurehead/Cue_36", "World/Areas/DLC3_RogueLike/DLC3_AlushinyrraPort/DLC3_AlushinyrraPort", "DLC/DLC3/Dlc3Campaign"]}

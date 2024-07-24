@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-452112", "Root/Upgraders/Player/PF-418681", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/OathSummonpoolInteractions", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/HideOath"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/HideOath", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/OathSummonpoolInteractions", "Root/Upgraders/Player/PF-452112", "Root/Upgraders/Player/PF-418681"]}

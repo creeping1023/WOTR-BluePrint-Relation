@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Hellknights/Brain/NoBuffShamanHamperingHex", "Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanHexHamperingHexAbility"], "children": ["Classes/Shaman/ShamanClass"]}
+{"parents": ["Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanHexHamperingHexAbility", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/Hellknights/Brain/NoBuffShamanHamperingHex"], "children": ["Classes/Shaman/ShamanClass"]}

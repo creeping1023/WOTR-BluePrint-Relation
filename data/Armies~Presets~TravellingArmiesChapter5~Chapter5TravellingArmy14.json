@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter5TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmyKalavakus", "Armies/UnitBlueprints/ArmyKalavakus", "Armies/UnitBlueprints/ArmyNalfeshneeStandard"]}
+{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter5TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmyNalfeshneeStandard", "Armies/UnitBlueprints/ArmyKalavakus"]}

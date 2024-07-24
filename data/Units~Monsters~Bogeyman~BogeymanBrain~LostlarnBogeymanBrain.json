@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Bogeyman/BogeymanBrain/BogeymanPhantasmalKillerAiAction"]}
+{"children": ["Units/Monsters/Bogeyman/BogeymanBrain/BogeymanPhantasmalKillerAiAction", "Brain/Actions/AttackAiAction"]}

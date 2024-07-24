@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/SorcerousClawsFeature", "Classes/Bloodrager/Archetypes/Hag-Riven/SorcerousClawsAbility"], "children": ["Classes/Bloodrager/Archetypes/Hag-Riven/SorcerousClaws/SorcerousClawsEnchantPlus1Buff"]}
+{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/SorcerousClawsAbility", "Classes/Bloodrager/Archetypes/Hag-Riven/SorcerousClawsFeature"], "children": ["Classes/Bloodrager/Archetypes/Hag-Riven/SorcerousClaws/SorcerousClawsEnchantPlus1Buff"]}

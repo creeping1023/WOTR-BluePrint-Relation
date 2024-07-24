@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyNalfeshneeStandard", "Armies/UnitBlueprints/ArmyKineticist", "Armies/UnitBlueprints/ArmyWizard"], "children": ["Armies/Abilities/ArmyLightningBolt", "Armies/Abilities/ArmyLightningBoltFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyWizard", "Armies/UnitBlueprints/ArmyKineticist", "Armies/UnitBlueprints/ArmyNalfeshneeStandard"], "children": ["Armies/Abilities/ArmyLightningBoltFact", "Armies/Abilities/ArmyLightningBolt"]}

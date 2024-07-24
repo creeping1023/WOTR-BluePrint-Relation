@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/BlackDragon/CR16_BlackDragonAncient", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_ElementalsFeyMagiccalBeasts/DLC3_CR16_BlackDragonAncient"], "children": ["Spells/Level1/MageArmorBuff", "Spells/Level3/HeroismBuff"]}
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_AnyTir_ElementalsFeyMagiccalBeasts/DLC3_CR16_BlackDragonAncient", "Units/Monsters/BlackDragon/CR16_BlackDragonAncient"], "children": ["Spells/Level3/HeroismBuff", "Spells/Level1/MageArmorBuff"]}

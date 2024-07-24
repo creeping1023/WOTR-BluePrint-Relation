@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp01_Option04"], "children": ["Armies/UnitBlueprints/ArmyVescavorSwarmStandard", "Armies/Abilities/ArmyPurgeFeature"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp01_Option04"], "children": ["Armies/Abilities/ArmyPurgeFeature", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]}

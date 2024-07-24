@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/Dragon/Cue_0002"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/Dragon/Cue_0004"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/Dragon/Cue_0002"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/Dragon/Cue_0004", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

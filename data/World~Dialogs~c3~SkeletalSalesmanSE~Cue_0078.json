@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Answer_0064"], "children": ["Items/Scrolls/Level6/ScrollOfHellfireRay", "World/Dialogs/c3/SkeletalSalesmanSE/AnswersList_0004"]}
+{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Answer_0064"], "children": ["World/Dialogs/c3/SkeletalSalesmanSE/AnswersList_0004", "Items/Scrolls/Level6/ScrollOfHellfireRay"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/CommandAction 21"], "children": ["World/Cutscenes/Prologue_Kenabres/DemonAttackSpawnFirstDemons_vrolikai/CommandAction", "World/Cutscenes/Prologue_Kenabres/DemonAttackSpawnFirstDemons_vrolikai/gate"]}
+{"parents": ["World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/CommandAction 21"], "children": ["World/Cutscenes/Prologue_Kenabres/DemonAttackSpawnFirstDemons_vrolikai/gate", "World/Cutscenes/Prologue_Kenabres/DemonAttackSpawnFirstDemons_vrolikai/CommandAction"]}

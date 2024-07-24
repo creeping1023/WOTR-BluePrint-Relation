@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToHepzamirah/gate 3"], "children": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToHepzamirah/CommandDelay 1", "World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToHepzamirah/gate"]}
+{"parents": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToHepzamirah/gate 3"], "children": ["World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToHepzamirah/gate", "World/Cutscenes/BattleBliss/IrmangalethOrOthersBowsToHepzamirah/CommandDelay 1"]}

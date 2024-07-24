@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/GibberingSwarm/ComponentLists/GS_Canyon"], "children": ["World/Encounters/GibberingSwarm/UnlockableFlags/GS_VQDead", "World/Encounters/GibberingSwarm/Buffs/MakeFollowPlayer", "World/Quests/c2_vs/GibberingSwarm/02_SwarmConsequences"]}
+{"parents": ["World/Encounters/GibberingSwarm/ComponentLists/GS_Canyon"], "children": ["World/Encounters/GibberingSwarm/Buffs/MakeFollowPlayer", "World/Encounters/GibberingSwarm/UnlockableFlags/GS_VQDead", "World/Quests/c2_vs/GibberingSwarm/02_SwarmConsequences"]}

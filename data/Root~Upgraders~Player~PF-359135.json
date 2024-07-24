@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Lann/FindMamaErrand/FindMama_errand", "World/Etudes/Common/WrathOfTheRighteous/Chapter03", "World/Quests/Companions/Lann/FindMamaErrand/Objective_0001"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Lann/FindMamaErrand/Objective_0001", "World/Quests/Companions/Lann/FindMamaErrand/FindMama_errand", "World/Etudes/Common/WrathOfTheRighteous/Chapter03"]}

@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level2/BlessingOfLuckAndResolve", "Spells/Level4/BlessingOfLuckAndResolveMass"], "children": ["Traits/Races/Halfling/Fearless", "CreatureAbilities/Immunities/ImmunityToFear"]}
+{"parents": ["Spells/Level2/BlessingOfLuckAndResolve", "Spells/Level4/BlessingOfLuckAndResolveMass"], "children": ["CreatureAbilities/Immunities/ImmunityToFear", "Traits/Races/Halfling/Fearless"]}

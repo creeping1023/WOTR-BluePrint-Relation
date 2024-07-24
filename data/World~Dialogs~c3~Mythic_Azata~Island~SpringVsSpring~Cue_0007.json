@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/SpringVsSpring/Cue_0022"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_TreantBoss", "World/Dialogs/c3/Mythic_Azata/Island/SpringVsSpring/Cue_0009"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/SpringVsSpring/Cue_0022"], "children": ["World/Dialogs/c3/Mythic_Azata/Island/SpringVsSpring/Cue_0009", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_TreantBoss"]}

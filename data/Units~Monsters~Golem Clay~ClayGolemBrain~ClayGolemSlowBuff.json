@@ -1,1 +1,1 @@
-{"parents": ["CreatureAbilities/ImmunityToMagic/ClayGolemImmunity"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/HasteBuff", "Spells/Level3/SlowBuff"]}
+{"parents": ["CreatureAbilities/ImmunityToMagic/ClayGolemImmunity"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/SlowBuff"]}

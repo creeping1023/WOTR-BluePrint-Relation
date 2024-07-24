@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocus", "Feats/WeaponFocusGreater/WeaponFocusGreaterGreatclub"], "children": ["Weapons/Types/SimpleTwoHanded/Greatclub", "Feats/WeaponFocusGreater/WeaponFocusGreaterGreatclub"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocus", "Feats/WeaponFocusGreater/WeaponFocusGreaterGreatclub"], "children": ["Feats/WeaponFocusGreater/WeaponFocusGreaterGreatclub", "Weapons/Types/SimpleTwoHanded/Greatclub"]}

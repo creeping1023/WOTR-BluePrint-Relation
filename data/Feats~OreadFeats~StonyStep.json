@@ -1,1 +1,1 @@
-{"parents": ["Races/OreadRace", "Classes/Basic/BasicFeatSelection", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["Races/OreadRace"]}
+{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/Feats/ExtraFeatMythicFeat", "Races/OreadRace", "Mythic/GoldenDragon/DragonLevel2FeatSelection"], "children": ["Races/OreadRace"]}

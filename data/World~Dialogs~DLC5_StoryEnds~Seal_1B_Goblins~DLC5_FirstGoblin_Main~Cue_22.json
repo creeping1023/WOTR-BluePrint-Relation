@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/CueSequence_0001"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_NPC", "World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/Cue_24"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/CueSequence_0001"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/Cue_24", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_NPC"]}

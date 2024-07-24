@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level8/BestowCurseGreater/BestowCurseGreaterIdiocyCast"], "children": ["Weapons/Types/Special/TouchItem", "Spells/Level8/BestowCurseGreater/BestowCurseGreaterIdiocyBuff"]}
+{"parents": ["Spells/Level8/BestowCurseGreater/BestowCurseGreaterIdiocyCast"], "children": ["Spells/Level8/BestowCurseGreater/BestowCurseGreaterIdiocyBuff", "Weapons/Types/Special/TouchItem"]}

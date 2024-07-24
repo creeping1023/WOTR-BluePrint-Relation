@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c5/Iz/Obj1_SeekGalfrey", "World/Quests/c5/Iz/Iz_quest"], "children": ["GlobalMaps/WorldWoundGM/Points/Location_Iz", "World/Quests/c5/Iz/Iz_quest"]}
+{"parents": ["World/Quests/c5/Iz/Obj1_SeekGalfrey", "World/Quests/c5/Iz/Iz_quest"], "children": ["World/Quests/c5/Iz/Iz_quest", "GlobalMaps/WorldWoundGM/Points/Location_Iz"]}

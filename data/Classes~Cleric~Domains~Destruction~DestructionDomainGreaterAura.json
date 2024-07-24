@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Destruction/DestructionDomainGreaterBuff"], "children": ["Classes/Cleric/Domains/Destruction/DestructionDomainGreaterEffect", "Classes/Cleric/Domains/Destruction/DestructionDomainGreaterEffect", "Classes/Cleric/Domains/Destruction/DestructionDomainGreaterEffect"]}
+{"parents": ["Classes/Cleric/Domains/Destruction/DestructionDomainGreaterBuff"], "children": ["Classes/Cleric/Domains/Destruction/DestructionDomainGreaterEffect"]}

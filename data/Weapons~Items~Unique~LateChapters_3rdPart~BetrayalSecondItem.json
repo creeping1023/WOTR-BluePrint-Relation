@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialLight/Kukri", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/CriticalMultiplierIncrease", "Weapons/Items/Unique/LateChapters_3rdPart/BetrayalSecondEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/LateChapters_3rdPart/BetrayalSecondEnchantment", "Weapons/Types/MartialLight/Kukri", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/CriticalMultiplierIncrease"]}

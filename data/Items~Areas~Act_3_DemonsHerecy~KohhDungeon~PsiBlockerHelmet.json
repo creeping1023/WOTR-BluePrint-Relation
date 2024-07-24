@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/NumerianCamp/LabEquipment/Answer_0008", "World/Dialogs/c5/NumerianCamp/LabEquipment/Cue_0014", "Loot/Quest/KohhDungeon/WarehouseLoot (7)"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Quest/KohhDungeon/WarehouseLoot (7)", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/NumerianCamp/LabEquipment/Cue_0014", "World/Dialogs/c5/NumerianCamp/LabEquipment/Answer_0008"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c1/EstrodTower/Teldon/Answer_0037"], "children": ["World/Dialogs/c1/EstrodTower/Teldon/AnswersList_0036", "World/Dialogs/c1/EstrodTower/Teldon/CueSequence_0071"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Teldon/Answer_0037", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c1/EstrodTower/Teldon/CueSequence_0071", "World/Dialogs/c1/EstrodTower/Teldon/AnswersList_0036"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/Answer_0012"], "children": ["World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/Answer_0011", "World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/AnswersList_0032", "World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/CueSequence_0030"]}
+{"parents": ["World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/Answer_0012"], "children": ["World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/CueSequence_0030", "World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/Answer_0011", "World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/AnswersList_0032"]}

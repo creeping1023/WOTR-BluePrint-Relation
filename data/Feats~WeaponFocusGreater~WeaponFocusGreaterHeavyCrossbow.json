@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusHeavyCrossbow"], "children": ["Weapons/Types/SimpleRanged/HeavyCrossbow", "Feats/WeaponFocus/WeaponFocusHeavyCrossbow", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusHeavyCrossbow"], "children": ["Feats/WeaponFocus/WeaponFocusHeavyCrossbow", "Classes/Fighter/FighterClass", "Weapons/Types/SimpleRanged/HeavyCrossbow"]}

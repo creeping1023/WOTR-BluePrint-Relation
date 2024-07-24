@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0025"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Slayer_Level1", "World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0027"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0025"], "children": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0027", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Slayer_Level1"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Answer_0099"], "children": ["World/Quests/MythicQuests/Demon/DemonFixAlignment/Obj1_FixAlignmentDemon", "World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Answer_0099"], "children": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/AnswersList_0003", "World/Quests/MythicQuests/Demon/DemonFixAlignment/Obj1_FixAlignmentDemon"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Nabasu/NabasuBrain/DLC3_Nabasu_Brain_Standard_Kabriri", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistKabririCaster_Brain_Standard"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Spells/Level1/DivineFavor"]}
+{"parents": ["Units/Monsters/Demon Nabasu/NabasuBrain/DLC3_Nabasu_Brain_Standard_Kabriri", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistKabririCaster_Brain_Standard"], "children": ["Spells/Level1/DivineFavor", "Brain/Considerations/SwiftActionOffCooldown"]}

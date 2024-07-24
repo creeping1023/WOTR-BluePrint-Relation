@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/ObsidianMask_dialogue/Answer_0026"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskSlaveTrader", "World/Dialogs/c4/FleshMarket/ObsidianMask_dialogue/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/ObsidianMask_dialogue/Answer_0026"], "children": ["World/Dialogs/c4/FleshMarket/ObsidianMask_dialogue/AnswersList_0002", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskSlaveTrader"]}

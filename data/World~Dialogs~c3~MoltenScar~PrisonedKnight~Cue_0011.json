@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/MoltenScar/PrisonedKnight/Answer_0010"], "children": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/AnswersList_0012", "World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041"]}
+{"parents": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/Answer_0010", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041", "World/Dialogs/c3/MoltenScar/PrisonedKnight/AnswersList_0012"]}

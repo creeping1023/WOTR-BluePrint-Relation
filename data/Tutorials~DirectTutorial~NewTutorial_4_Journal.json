@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/KenabresSquare/WelcomeDialogue/Cue_0042"], "children": ["Tutorials/DirectTutorial/NewTutorial_4_Journal_Gamepad", "Encyclopedia/Tutorial_4_Journal"]}
+{"parents": ["World/Dialogs/c0/KenabresSquare/WelcomeDialogue/Cue_0042"], "children": ["Encyclopedia/Tutorial_4_Journal", "Tutorials/DirectTutorial/NewTutorial_4_Journal_Gamepad"]}

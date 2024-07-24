@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Equipment/Cloaks/DLC3/RovagugSpawnCloakCorruptAbility", "Equipment/Cloaks/DLC3/RovagugSpawnCloakEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Cloaks/DLC3/RovagugSpawnCloakCorruptAbility", "Equipment/Cloaks/DLC3/RovagugSpawnCloakEnchantment", "Items/DestructibleItemsShards/ClothShardItem"]}

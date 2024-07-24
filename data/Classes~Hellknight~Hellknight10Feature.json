@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hellknight/HellknightProgression"], "children": ["Classes/Hellknight/HellknightAxiomaticAbility", "Classes/Hellknight/HellknightFlamingBurstAbility", "Classes/Hellknight/HellknightUnholyAbility", "CreatureAbilities/EnergyImmunity/FireImmunity"]}
+{"parents": ["Classes/Hellknight/HellknightProgression"], "children": ["Classes/Hellknight/HellknightFlamingBurstAbility", "Classes/Hellknight/HellknightAxiomaticAbility", "Classes/Hellknight/HellknightUnholyAbility", "CreatureAbilities/EnergyImmunity/FireImmunity"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mineshaft_14/Seilkind_Cave/Cue_0024"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Seilkind", "World/Dialogs/c5/Mineshaft_14/Seilkind_Cave/Cue_0020"]}
+{"parents": ["World/Dialogs/c5/Mineshaft_14/Seilkind_Cave/Cue_0024"], "children": ["World/Dialogs/c5/Mineshaft_14/Seilkind_Cave/Cue_0020", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Seilkind"]}

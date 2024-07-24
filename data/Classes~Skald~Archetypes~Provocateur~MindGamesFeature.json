@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype"], "children": ["Classes/Assassin/AssassinColdMindedFeature", "Classes/Skald/SkaldClass"]}
+{"parents": ["Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype"], "children": ["Classes/Skald/SkaldClass", "Classes/Assassin/AssassinColdMindedFeature"]}

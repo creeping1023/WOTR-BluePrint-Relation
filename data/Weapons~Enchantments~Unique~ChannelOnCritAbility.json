@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity", "Weapons/Enchantments/Unique/ChannelOnCrit"], "children": ["Classes/Cleric/ChannelEnergyResource", "Traits/Races/Common/UndeadType", "Feats/SelectiveChannel"]}
+{"parents": ["Weapons/Enchantments/Unique/ChannelOnCrit", "Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["Traits/Races/Common/UndeadType", "Feats/SelectiveChannel", "Classes/Cleric/ChannelEnergyResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_DragonHavocBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Abilities/ArmyRandomSpellHavoc"]}
+{"parents": ["Armies/Brains/TacticalCombat_DragonHavocBrain"], "children": ["Armies/Abilities/ArmyRandomSpellHavoc", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"]}

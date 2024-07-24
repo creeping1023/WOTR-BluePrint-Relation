@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagTrickster6Equipment"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyTrickster6EquipmentFeature4", "Armies/Abilities/ArmyBlurFeature"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagTrickster6Equipment"], "children": ["Armies/Abilities/ArmyBlurFeature", "Armies/Abilities/BonusFactsForArmy/ArmyTrickster6EquipmentFeature4"]}

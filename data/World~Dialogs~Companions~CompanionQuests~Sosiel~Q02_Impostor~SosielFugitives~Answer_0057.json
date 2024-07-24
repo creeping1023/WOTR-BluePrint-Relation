@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/AnswersList_0055"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0060", "World/UnlockableFlags/Companions/Sosiel/Sosiel_VictimCounter"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/AnswersList_0055"], "children": ["World/UnlockableFlags/Companions/Sosiel/Sosiel_VictimCounter", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0060"]}

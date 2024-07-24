@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusLightShield"], "children": ["Weapons/Types/MartialLight/SpikedLightShield", "Feats/WeaponFocus/WeaponFocusLightShield", "Weapons/Types/MartialLight/WeaponLightShield", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusLightShield"], "children": ["Weapons/Types/MartialLight/SpikedLightShield", "Feats/WeaponFocus/WeaponFocusLightShield", "Classes/Fighter/FighterClass", "Weapons/Types/MartialLight/WeaponLightShield"]}

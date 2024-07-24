@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Nenio/AnswersList_0289"], "children": ["World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0303", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Nenio/AnswersList_0289"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0303"]}

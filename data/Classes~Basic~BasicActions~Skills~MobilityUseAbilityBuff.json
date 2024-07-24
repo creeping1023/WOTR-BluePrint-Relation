@@ -1,1 +1,1 @@
-{"parents": ["Equipment/DLC6BonusItems/DaredevilBootsFeature", "Classes/Basic/BasicActions/Skills/MobilityUseAbility"], "children": ["Feats/DLC6/AcrobaticSpellcaster"]}
+{"parents": ["Classes/Basic/BasicActions/Skills/MobilityUseAbility", "Equipment/DLC6BonusItems/DaredevilBootsFeature"], "children": ["Feats/DLC6/AcrobaticSpellcaster"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/PartyPregenTests/Sosiel/SosielPregenTestFeatureList", "Feats/WeaponFocusGreater/WeaponFocusGreaterLightCrossbow"], "children": ["Weapons/Types/SimpleRanged/LightCrossbow", "Feats/WeaponFocusGreater/WeaponFocusGreaterLightCrossbow"]}
+{"parents": ["Feats/WeaponFocusGreater/WeaponFocusGreaterLightCrossbow", "Units/Pregens/PartyPregenTests/Sosiel/SosielPregenTestFeatureList"], "children": ["Weapons/Types/SimpleRanged/LightCrossbow", "Feats/WeaponFocusGreater/WeaponFocusGreaterLightCrossbow"]}

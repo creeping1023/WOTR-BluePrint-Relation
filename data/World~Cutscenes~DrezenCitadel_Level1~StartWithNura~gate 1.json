@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level1/StartWithNura/gate", "World/Cutscenes/DrezenCitadel_Level1/StartWithNura/StartWithNura", "World/Cutscenes/DrezenCitadel_Level1/StartWithNura/gate 2"], "children": ["World/Cutscenes/DrezenCitadel_Level1/StartWithNura/CommandAction"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level1/StartWithNura/gate 2", "World/Cutscenes/DrezenCitadel_Level1/StartWithNura/StartWithNura", "World/Cutscenes/DrezenCitadel_Level1/StartWithNura/gate"], "children": ["World/Cutscenes/DrezenCitadel_Level1/StartWithNura/CommandAction"]}

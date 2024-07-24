@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterMajorForms/MajorFormFeature"], "children": ["Classes/Shifter/ShifterClass", "Classes/Shifter/ShifterMajorForms/Lizard/ShifterWildShapeLizardFeature", "Classes/Shifter/ShifterClass", "Classes/Shifter/ShifterMajorForms/Lizard/ShifterWildShapeLizardFeatureLevelUp1"]}
+{"parents": ["Classes/Shifter/ShifterMajorForms/MajorFormFeature"], "children": ["Classes/Shifter/ShifterMajorForms/Lizard/ShifterWildShapeLizardFeatureLevelUp1", "Classes/Shifter/ShifterMajorForms/Lizard/ShifterWildShapeLizardFeature", "Classes/Shifter/ShifterClass"]}

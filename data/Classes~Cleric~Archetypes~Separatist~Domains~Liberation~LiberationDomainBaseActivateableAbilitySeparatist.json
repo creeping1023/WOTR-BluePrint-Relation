@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Liberation/LiberationDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/Archetypes/Separatist/Domains/Liberation/LiberationDomainBaseResourceSeparatist", "Spells/Level4/FreedomOfMovementBuff"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Liberation/LiberationDomainBaseFeatureSeparatist"], "children": ["Spells/Level4/FreedomOfMovementBuff", "Classes/Cleric/Archetypes/Separatist/Domains/Liberation/LiberationDomainBaseResourceSeparatist"]}

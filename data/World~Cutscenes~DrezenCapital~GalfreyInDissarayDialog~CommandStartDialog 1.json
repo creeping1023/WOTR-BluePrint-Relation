@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/GalfreyInDissarayDialog/GalfreyInDissarayDialog"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03", "World/Dialogs/Companions/CompanionRomances/Galfrey/GalfreyInDisarray/GalfreyInDisarray_dialogue"]}
+{"parents": ["World/Cutscenes/DrezenCapital/GalfreyInDissarayDialog/GalfreyInDissarayDialog"], "children": ["World/Dialogs/Companions/CompanionRomances/Galfrey/GalfreyInDisarray/GalfreyInDisarray_dialogue", "World/Etudes/Common/WrathOfTheRighteous/Chapter03"]}

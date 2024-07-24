@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Shields/Unique/UniquePF2/Chapter1/MithralLightShieldItem"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/LightShieldType", "Equipment/Armor/Enchantments/MithralArmorEnchant"]}
+{"parents": ["Equipment/Shields/Unique/UniquePF2/Chapter1/MithralLightShieldItem"], "children": ["Equipment/Armor/Enchantments/MithralArmorEnchant", "Equipment/Shields/Types/LightShieldType", "Items/DestructibleItemsShards/MetalShardItem"]}

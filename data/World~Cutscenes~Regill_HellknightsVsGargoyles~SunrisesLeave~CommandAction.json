@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Regill_HellknightsVsGargoyles/SunrisesLeave/gate 1"], "children": ["World/Encounters/Regill_HellknightsVsGargoyles/SummonPools/OnlySunriseGroup", "World/Cutscenes/GenericScenes/MoveUnitToLocatorAndFadeAway/MoveUnitToLocatorAndFadeAway"]}
+{"parents": ["World/Cutscenes/Regill_HellknightsVsGargoyles/SunrisesLeave/gate 1"], "children": ["World/Cutscenes/GenericScenes/MoveUnitToLocatorAndFadeAway/MoveUnitToLocatorAndFadeAway", "World/Encounters/Regill_HellknightsVsGargoyles/SummonPools/OnlySunriseGroup"]}

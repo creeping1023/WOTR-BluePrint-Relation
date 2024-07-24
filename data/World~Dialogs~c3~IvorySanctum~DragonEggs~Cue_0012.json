@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/DragonEggs/CueSequence_0010"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/DragonEggs/CueSequence_0010"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed"]}

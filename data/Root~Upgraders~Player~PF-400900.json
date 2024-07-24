@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/MythicQuests/Azata/C5_WindOfChange/WindOfChange_azata_c5_quest", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/AzataMentorCome_C05"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/AzataMentorCome_C05", "World/Quests/MythicQuests/Azata/C5_WindOfChange/WindOfChange_azata_c5_quest"]}

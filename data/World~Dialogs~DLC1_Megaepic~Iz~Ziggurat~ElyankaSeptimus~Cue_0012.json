@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/Check_0011"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Septimus", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/CueSequence_0005", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/Cue_0014"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/Check_0011"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/CueSequence_0005", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Septimus", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ElyankaSeptimus/Cue_0014"]}

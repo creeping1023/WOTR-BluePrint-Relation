@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonPrimordialMagicGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeResource", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonPrimordialMagicDamageGazeBaseBuff"]}
+{"parents": ["Mythic/Aeon/AeonGaze/AeonPrimordialMagicGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonPrimordialMagicDamageGazeBaseBuff", "Mythic/Aeon/AeonGaze/AeonGazeResource"]}

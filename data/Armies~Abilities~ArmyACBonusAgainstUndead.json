@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyKnightsOfOzem", "Armies/UnitBlueprints/ArmyDhampires"], "children": ["Armies/Abilities/ArmyUndeadFeature"]}
+{"parents": ["Armies/UnitBlueprints/ArmyDhampires", "Armies/UnitBlueprints/ArmyKnightsOfOzem"], "children": ["Armies/Abilities/ArmyUndeadFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Locust/Companions_Reckoning/Cue_0034"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Irabeth_Enemy", "World/Encounters/SE_Reckoning/UnlockableFlags/Reckoning_IrabethWeaponsOut"]}
+{"parents": ["World/Dialogs/c5/Mythic_Locust/Companions_Reckoning/Cue_0034"], "children": ["World/Encounters/SE_Reckoning/UnlockableFlags/Reckoning_IrabethWeaponsOut", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Irabeth_Enemy"]}

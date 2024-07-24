@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierClass"], "children": ["Classes/Cavalier/Archetypes/BeastRider/BeastRiderMountSelection", "Classes/Cavalier/Archetypes/BeastRider/BeastRiderProficiencies", "Classes/Cavalier/CavalierMountSelection", "Classes/Cavalier/CavalierProficiencies"]}
+{"parents": ["Classes/Cavalier/CavalierClass"], "children": ["Classes/Cavalier/CavalierProficiencies", "Classes/Cavalier/CavalierMountSelection", "Classes/Cavalier/Archetypes/BeastRider/BeastRiderMountSelection", "Classes/Cavalier/Archetypes/BeastRider/BeastRiderProficiencies"]}

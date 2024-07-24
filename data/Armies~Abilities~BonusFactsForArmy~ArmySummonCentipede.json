@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonCentipedeFeature"], "children": ["Armies/UnitBlueprints/ArmyCentipede", "Buffs/SummonedCreatureSpawnMonsterI-III", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/BonusFactsForArmy/ArmySummonCentipedeResource"]}
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonCentipedeFeature"], "children": ["Buffs/ArmySummonedCreatureVisual", "Armies/UnitBlueprints/ArmyCentipede", "Armies/Abilities/BonusFactsForArmy/ArmySummonCentipedeResource", "Buffs/SummonedCreatureSpawnMonsterI-III"]}

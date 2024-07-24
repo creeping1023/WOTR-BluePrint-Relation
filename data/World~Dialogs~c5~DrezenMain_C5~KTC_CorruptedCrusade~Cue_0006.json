@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DrezenMain_C5/KTC_CorruptedCrusade/Cue_0001"], "children": ["World/Quests/MythicQuests/Lich/c5_InTheEmbraceOfDeath/c5_InTheEmbraceOfDeath_quest", "World/Dialogs/c5/DrezenMain_C5/KTC_CorruptedCrusade/Cue_0008"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/KTC_CorruptedCrusade/Cue_0001"], "children": ["World/Dialogs/c5/DrezenMain_C5/KTC_CorruptedCrusade/Cue_0008", "World/Quests/MythicQuests/Lich/c5_InTheEmbraceOfDeath/c5_InTheEmbraceOfDeath_quest"]}

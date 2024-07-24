@@ -1,1 +1,1 @@
-{"parents": ["Feats/CriticalFeats/StaggeringCriticalBuff", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawStaggeringCriticalToggleAbility"], "children": ["Traits/Races/Common/UndeadType", "Buffs/Staggered", "Buffs/Staggered"]}
+{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawStaggeringCriticalToggleAbility", "Feats/CriticalFeats/StaggeringCriticalBuff"], "children": ["Traits/Races/Common/UndeadType", "Buffs/Staggered"]}

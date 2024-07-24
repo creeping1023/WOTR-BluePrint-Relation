@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/Archetypes/EnlightenedPhilosopher/EnlightenedPhilosopherArchetype"], "children": ["Classes/Oracle/OracleClass", "Classes/Fighter/FighterClass"]}
+{"parents": ["Classes/Oracle/Archetypes/EnlightenedPhilosopher/EnlightenedPhilosopherArchetype"], "children": ["Classes/Fighter/FighterClass", "Classes/Oracle/OracleClass"]}

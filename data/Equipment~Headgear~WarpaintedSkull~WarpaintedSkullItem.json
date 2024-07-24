@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/WarpaintedSkull/WarpaintedSkullSpell"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Headgear/WarpaintedSkull/WarpaintedSkullSpell", "Items/DestructibleItemsShards/MetalShardItem"]}

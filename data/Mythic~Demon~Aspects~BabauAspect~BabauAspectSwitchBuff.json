@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/Aspects/BabauAspect/BabauAspectAbility", "Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "Mythic/Demon/Aspects/BabauAspect/BabauAspectEffectBuff"]}
+{"parents": ["Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff", "Mythic/Demon/Aspects/BabauAspect/BabauAspectAbility"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "Mythic/Demon/Aspects/BabauAspect/BabauAspectEffectBuff"]}

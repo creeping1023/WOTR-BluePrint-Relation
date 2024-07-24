@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/gate"], "children": ["World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/CommandFadeout", "World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/CommandDelay 2", "World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/gate 2"]}
+{"parents": ["World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/gate"], "children": ["World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/CommandFadeout", "World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/gate 2", "World/Cutscenes/Aeon_DrezenInThePast/BadEndCutscene/CommandDelay 2"]}

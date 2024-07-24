@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Nurah-Prison/AnswersList_0038"], "children": ["World/Dialogs/NPC_Common/Nurah-Prison/Cue_0054", "World/Quests/c3/MoltenScar/Add2_TalkToNurah", "World/Quests/c3/MoltenScar/Obj_1_InvestigateEnemiesBehindTheLine"]}
+{"parents": ["World/Dialogs/NPC_Common/Nurah-Prison/AnswersList_0038"], "children": ["World/Quests/c3/MoltenScar/Obj_1_InvestigateEnemiesBehindTheLine", "World/Dialogs/NPC_Common/Nurah-Prison/Cue_0054", "World/Quests/c3/MoltenScar/Add2_TalkToNurah"]}

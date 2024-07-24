@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Achievements/03_BannerOverCitadel", "World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Progress"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/Achievements_Progress", "Achievements/03_BannerOverCitadel"]}

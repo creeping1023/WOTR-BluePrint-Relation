@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_Brain"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_NotSelfConsideration", "Spells/Level7/PolymorphGreaterBase", "Spells/Level7/PolymorphGreaterDragonSilver"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_Brain"], "children": ["Spells/Level7/PolymorphGreaterDragonSilver", "Spells/Level7/PolymorphGreaterBase", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_NotSelfConsideration"]}

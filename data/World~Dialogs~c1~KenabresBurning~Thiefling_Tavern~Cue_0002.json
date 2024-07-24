@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Thiefling_Tavern/Thiefling_Tavern_Dialogue", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["World/Dialogs/c1/KenabresBurning/Thiefling_Tavern/AnswersList_0003"]}
+{"parents": ["QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "World/Dialogs/c1/KenabresBurning/Thiefling_Tavern/Thiefling_Tavern_Dialogue"], "children": ["World/Dialogs/c1/KenabresBurning/Thiefling_Tavern/AnswersList_0003"]}

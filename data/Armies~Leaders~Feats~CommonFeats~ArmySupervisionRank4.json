@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/NarrativeBuffs/LiLuraTactics", "Armies/CrusadeGlobalBuffs/FlagLeadership3MasterOfManeuver", "Armies/Leaders/Warlords/Warlord_SwarmOmnipresent"], "children": ["Armies/Leaders/Feats/CommonFeats/ArmySupervisionRank3"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagLeadership3MasterOfManeuver", "Armies/Leaders/Warlords/Warlord_SwarmOmnipresent", "Armies/CrusadeGlobalBuffs/NarrativeBuffs/LiLuraTactics"], "children": ["Armies/Leaders/Feats/CommonFeats/ArmySupervisionRank3"]}

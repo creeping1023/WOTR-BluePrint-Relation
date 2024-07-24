@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/AlignmentFix/Answer_0005"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Dialogs/c3/Mythic_Azata/AlignmentFix/Cue_0007_azatagood"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/AlignmentFix/Answer_0005"], "children": ["World/Dialogs/c3/Mythic_Azata/AlignmentFix/Cue_0007_azatagood", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}

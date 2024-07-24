@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedFaction"], "children": ["Factions/Bandits", "Factions/Mobs", "Factions/Neutrals", "Factions/Player"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedFaction"], "children": ["Factions/Mobs", "Factions/Neutrals", "Factions/Player", "Factions/Bandits"]}

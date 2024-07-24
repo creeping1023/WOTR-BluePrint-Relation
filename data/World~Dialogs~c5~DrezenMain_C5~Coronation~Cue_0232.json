@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Answer_0222"], "children": ["Units/NPC/Commoners/Act_0_Prologue/Kenabres_Prologue/CitizenMale1", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0252"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Answer_0222"], "children": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0252", "Units/NPC/Commoners/Act_0_Prologue/Kenabres_Prologue/CitizenMale1"]}

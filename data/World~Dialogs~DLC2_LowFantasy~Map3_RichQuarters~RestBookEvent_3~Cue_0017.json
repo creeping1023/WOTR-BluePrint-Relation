@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RestBookEvent_3/Check_8"], "children": ["World/Encounters/DLC2_RichQuarter/UnlockableFlags/DLC2_BE_ChurchAndAlley_Stage2_SavedRanger", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RestBookEvent_3/Cue_56"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RestBookEvent_3/Check_8"], "children": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RestBookEvent_3/Cue_56", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/DLC2_BE_ChurchAndAlley_Stage2_SavedRanger"]}

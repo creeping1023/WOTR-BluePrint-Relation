@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Iz/ActionsHolders/ToHousesF0_ThruRoof_CheckFailedActions"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Iz", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Iz_HousesF0"]}
+{"parents": ["World/Encounters/Iz/ActionsHolders/ToHousesF0_ThruRoof_CheckFailedActions"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Iz_HousesF0", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/Iz"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ReturnToDrezen/AeonMythicPowers/gate1"], "children": ["World/Encounters/ReturnToDrezen/SummonPools/DrezenAttackers", "Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AeonEyeEnemyVisualBuff"]}
+{"parents": ["World/Cutscenes/ReturnToDrezen/AeonMythicPowers/gate1"], "children": ["Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AeonEyeEnemyVisualBuff", "World/Encounters/ReturnToDrezen/SummonPools/DrezenAttackers"]}

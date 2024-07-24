@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionUnitBoar"], "children": ["Weapons/Types/NaturalWeapon/GoreType", "Classes/Pets/AnimalCompanionUpgradeBoar", "CreatureAbilities/Bleed/Bleed2d6Buff", "CreatureAbilities/Bleed/Bleed1d6Buff"]}
+{"parents": ["Classes/Pets/AnimalCompanionUnitBoar"], "children": ["Weapons/Types/NaturalWeapon/GoreType", "CreatureAbilities/Bleed/Bleed1d6Buff", "CreatureAbilities/Bleed/Bleed2d6Buff", "Classes/Pets/AnimalCompanionUpgradeBoar"]}

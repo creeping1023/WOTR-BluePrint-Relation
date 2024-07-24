@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp02_Option05", "Root/Upgraders/Player/PF-372375"], "children": ["Classes/Rogue/SneakAttack", "Classes/Rogue/SneakAttack"]}
+{"parents": ["Root/Upgraders/Player/PF-372375", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp02_Option05"], "children": ["Classes/Rogue/SneakAttack"]}

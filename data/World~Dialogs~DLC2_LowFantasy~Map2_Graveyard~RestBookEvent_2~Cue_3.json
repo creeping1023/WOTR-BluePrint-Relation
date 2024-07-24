@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/RestBookEvent_2/BookPage_2"], "children": ["World/Encounters/DLC2_RichQuarter/UnlockableFlags/Bureaucrat_state_flag", "World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/RestBookEvent_2/Cue_143"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/RestBookEvent_2/BookPage_2"], "children": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/RestBookEvent_2/Cue_143", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Bureaucrat_state_flag"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CP_TieflingAlush_lower", "Units/Customization/CP_Tieflings_Special", "Units/Customization/CP_TieflBeggar"], "children": ["Races/TieflingRace"]}
+{"parents": ["Units/Customization/CP_TieflingAlush_lower", "Units/Customization/CP_TieflBeggar", "Units/Customization/CP_Tieflings_Special"], "children": ["Races/TieflingRace"]}

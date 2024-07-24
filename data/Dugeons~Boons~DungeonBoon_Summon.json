@@ -1,1 +1,1 @@
-{"parents": ["Root/DungeonRoot", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_AlushinyrraPort/CheckBoonFlags"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_SummoningExtraMobBuff/DLC3_SummoningExtraMobBuff"]}
+{"parents": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_AlushinyrraPort/CheckBoonFlags", "Root/DungeonRoot"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_SummoningExtraMobBuff/DLC3_SummoningExtraMobBuff"]}

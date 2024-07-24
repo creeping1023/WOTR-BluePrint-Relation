@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreeluLabAgain/AreeluCell/AnswersList_0011"], "children": ["World/Dialogs/c5/AreeluLabAgain/AreeluCell/Cue_0035", "World/Encounters/AreeluLabReturn/UnlockableFlags/AreeluApproves"]}
+{"parents": ["World/Dialogs/c5/AreeluLabAgain/AreeluCell/AnswersList_0011"], "children": ["World/Encounters/AreeluLabReturn/UnlockableFlags/AreeluApproves", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/Cue_0035"]}

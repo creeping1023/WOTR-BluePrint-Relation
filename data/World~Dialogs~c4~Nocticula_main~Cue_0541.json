@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nocticula_main/Cue_0539", "World/Dialogs/c4/Nocticula_main/Cue_0538", "World/Dialogs/c4/Nocticula_main/Cue_0537"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/c4/Nocticula_main/Cue_0540"]}
+{"parents": ["World/Dialogs/c4/Nocticula_main/Cue_0537", "World/Dialogs/c4/Nocticula_main/Cue_0539", "World/Dialogs/c4/Nocticula_main/Cue_0538"], "children": ["World/Dialogs/c4/Nocticula_main/Cue_0540", "Units/Companions/Regill/Regill_Companion"]}

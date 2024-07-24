@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainBuff"], "children": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_NotSelfConsideration", "Brain/Considerations/NoBuffBullStrength", "Spells/Level6/BullsStrengthMass"]}
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainBuff"], "children": ["Brain/Considerations/NoBuffBullStrength", "Spells/Level6/BullsStrengthMass", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_NotSelfConsideration"]}

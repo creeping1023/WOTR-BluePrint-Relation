@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous", "Root/Upgraders/Player/PF-390709_EvilArushaStory"], "children": ["World/Dialogs/Companions/CompanionStories/Arueshalae/Arueshalae_Q0", "Units/Companions/Arueshalae/EvilArueshalae_Companion"]}
+{"parents": ["Root/Upgraders/Player/PF-390709_EvilArushaStory", "World/Etudes/Common/WrathOfTheRighteous"], "children": ["Units/Companions/Arueshalae/EvilArueshalae_Companion", "World/Dialogs/Companions/CompanionStories/Arueshalae/Arueshalae_Q0"]}

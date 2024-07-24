@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_0010"], "children": ["World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_3", "World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/SequenceExit_0003"]}
+{"parents": ["World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_0010"], "children": ["World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/SequenceExit_0003", "World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_3"]}

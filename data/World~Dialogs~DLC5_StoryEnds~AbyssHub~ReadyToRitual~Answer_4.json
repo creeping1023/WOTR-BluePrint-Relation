@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/AnswersList_0013"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/Cue_0004", "World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_PlayerSithhudMarks"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/AnswersList_0013"], "children": ["World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_PlayerSithhudMarks", "World/Dialogs/DLC5_StoryEnds/AbyssHub/ReadyToRitual/Cue_0004"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch4/NemaryStigma_Enchanting_event"], "children": ["Weapons/Types/ExoticRanged/SlingStaff", "Weapons/Enchantments/Enhancement5"]}
+{"parents": ["World/Crusade/Events/Relics/Ch4/NemaryStigma_Enchanting_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement5", "Weapons/Types/ExoticRanged/SlingStaff"]}

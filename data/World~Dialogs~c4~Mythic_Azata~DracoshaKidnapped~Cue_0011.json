@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/DracoshaKidnapped/Answer_0003"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "World/Dialogs/c4/Mythic_Azata/DracoshaKidnapped/CueSequence_0012", "World/Dialogs/c4/Mythic_Azata/DracoshaKidnapped/Cue_0014"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/DracoshaKidnapped/Answer_0003"], "children": ["World/Dialogs/c4/Mythic_Azata/DracoshaKidnapped/CueSequence_0012", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "World/Dialogs/c4/Mythic_Azata/DracoshaKidnapped/Cue_0014"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyAngelMovanicDeva", "Armies/UnitBlueprints/ArmyThugPaladin", "Armies/UnitBlueprints/ArmyPaladinCavalry", "Armies/CrusadeGlobalBuffs/FlagAngel4BladeOfTheSun"], "children": ["Armies/Abilities/ArmySmiteEvilBuff", "Armies/Abilities/ArmySmiteEvilBuff"]}
+{"parents": ["Armies/UnitBlueprints/ArmyPaladinCavalry", "Armies/CrusadeGlobalBuffs/FlagAngel4BladeOfTheSun", "Armies/UnitBlueprints/ArmyAngelMovanicDeva", "Armies/UnitBlueprints/ArmyThugPaladin"], "children": ["Armies/Abilities/ArmySmiteEvilBuff"]}

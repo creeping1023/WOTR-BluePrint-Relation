@@ -1,1 +1,1 @@
-{"parents": ["Items/UsableSlotItem/DLC3/DLC3_NahyndrianHolySymbolUsableItem"], "children": ["Items/UsableSlotItem/DLC3/DLC3_NahyndrianHolySymbolPossesBuff", "FX/Creatures/ShadowBoss_Infusion00_Projectile_DLC3"]}
+{"parents": ["Items/UsableSlotItem/DLC3/DLC3_NahyndrianHolySymbolUsableItem"], "children": ["FX/Creatures/ShadowBoss_Infusion00_Projectile_DLC3", "Items/UsableSlotItem/DLC3/DLC3_NahyndrianHolySymbolPossesBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/SulDialogue/Cue_0028"], "children": ["Units/Companions/Lann/Lann_Companion", "Units/Companions/Wenduag/Wenduag_Companion", "World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/SulDialogue/Cue_0061"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/SulDialogue/Cue_0028"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/SulDialogue/Cue_0061", "Units/Companions/Wenduag/Wenduag_Companion"]}

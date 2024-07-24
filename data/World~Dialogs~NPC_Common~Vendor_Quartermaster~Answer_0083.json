@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Vendor_Quartermaster/AnswersList_0073"], "children": ["World/Dialogs/NPC_Common/Vendor_Quartermaster/Cue_0089", "Armies/CrusadeGlobalBuffs/NarrativeBuffs/QuatermasterSaves2_buff"]}
+{"parents": ["World/Dialogs/NPC_Common/Vendor_Quartermaster/AnswersList_0073"], "children": ["Armies/CrusadeGlobalBuffs/NarrativeBuffs/QuatermasterSaves2_buff", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Cue_0089"]}

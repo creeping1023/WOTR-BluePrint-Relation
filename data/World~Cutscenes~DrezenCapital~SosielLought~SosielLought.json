@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/Portrait/Cue_0059"], "children": ["World/Cutscenes/DrezenCapital/SosielLought/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DrezenCapital/SosielLought/gate"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/Portrait/Cue_0059"], "children": ["World/Cutscenes/DrezenCapital/SosielLought/gate", "World/Cutscenes/DrezenCapital/SosielLought/CommandUnitPlayCutsceneAnimation"]}

@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Azata/AzataProgression"], "children": ["Mythic/Azata/AzataAbilities/SongOfHeroicResolve/SongOfHeroicResolveToggleAbility", "Mythic/Azata/AzataAbilities/AzataPerformanceResourceFeature"]}
+{"parents": ["Mythic/Azata/AzataProgression"], "children": ["Mythic/Azata/AzataAbilities/AzataPerformanceResourceFeature", "Mythic/Azata/AzataAbilities/SongOfHeroicResolve/SongOfHeroicResolveToggleAbility"]}

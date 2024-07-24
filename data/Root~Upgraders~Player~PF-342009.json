@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/Addons/DrezenCapital_Tavern_FindCheese", "World/Quests/MythicQuests/Dragon/C5DragonAwakening/Add1_FindCheese"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/MythicQuests/Dragon/C5DragonAwakening/Add1_FindCheese", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/Addons/DrezenCapital_Tavern_FindCheese"]}

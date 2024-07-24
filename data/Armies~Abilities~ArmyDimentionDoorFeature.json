@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyLich", "Armies/UnitBlueprints/ArmyWizard"], "children": ["Armies/Abilities/ArmyDimentionDoor", "Armies/Abilities/ArmyDimentionDoorFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyWizard", "Armies/UnitBlueprints/ArmyLich"], "children": ["Armies/Abilities/ArmyDimentionDoor", "Armies/Abilities/ArmyDimentionDoorFact"]}

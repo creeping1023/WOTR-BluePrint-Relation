@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Angels/Answer_5"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/QueenGalfrey_DrezenCapital", "World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Angels/Cue_0015"]}
+{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Angels/Answer_5"], "children": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/Angels/Cue_0015", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/QueenGalfrey_DrezenCapital"]}

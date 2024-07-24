@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC2_Graveyard/ActionsHolders/Graveyard_PileCleaning"], "children": ["World/Cutscenes/DLC2_Graveyard/Graveyard_PileCleaning/CommandFadeout", "World/Cutscenes/DLC2_Graveyard/Graveyard_PileCleaning/CommandAction"]}
+{"parents": ["World/Encounters/DLC2_Graveyard/ActionsHolders/Graveyard_PileCleaning"], "children": ["World/Cutscenes/DLC2_Graveyard/Graveyard_PileCleaning/CommandAction", "World/Cutscenes/DLC2_Graveyard/Graveyard_PileCleaning/CommandFadeout"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/WoundWyrmLair/GrimborWyrmLair/Answer_0025"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/WoundWyrmLair/GrimborWyrmLair/AnswersList_0003"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/WoundWyrmLair/GrimborWyrmLair/Answer_0025"], "children": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/WoundWyrmLair/GrimborWyrmLair/AnswersList_0003", "Units/Companions/Greybor/Greybor_Companion"]}

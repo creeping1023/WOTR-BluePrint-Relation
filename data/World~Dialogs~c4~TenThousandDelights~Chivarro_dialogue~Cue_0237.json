@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/CueSequence_0236"], "children": ["Units/Companions/Trever/Trever_Companion", "World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/Cue_0238"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/CueSequence_0236"], "children": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/Cue_0238", "Units/Companions/Trever/Trever_Companion"]}

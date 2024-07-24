@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Death/Murder/MurderSubdomainProgressionDruid"], "children": ["Classes/Druid/DruidClass", "Classes/Cleric/Domains/Death/Murder/MurderSubdomainSpellList"]}
+{"parents": ["Classes/Cleric/Domains/Death/Murder/MurderSubdomainProgressionDruid"], "children": ["Classes/Cleric/Domains/Death/Murder/MurderSubdomainSpellList", "Classes/Druid/DruidClass"]}

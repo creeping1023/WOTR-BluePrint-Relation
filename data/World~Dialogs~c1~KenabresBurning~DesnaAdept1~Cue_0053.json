@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/Cue_0018"], "children": ["World/Cutscenes/GenericScenes/MoveUnitToLocator/MoveUnitToLocator", "Spells/Level2/InvisibilityBuff", "Spells/Level2/InvisibilityBuff", "World/Dialogs/c1/KenabresBurning/DesnaAdept1/AnswersList_0020"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/Cue_0018"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/AnswersList_0020", "Spells/Level2/InvisibilityBuff", "World/Cutscenes/GenericScenes/MoveUnitToLocator/MoveUnitToLocator"]}

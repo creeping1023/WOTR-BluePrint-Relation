@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Nobility/NobilityDomainBaseAbility", "Classes/Cleric/Domains/Nobility/NobilityDomainBaseFeature"], "children": ["Classes/Cleric/ClericClass"]}
+{"parents": ["Classes/Cleric/Domains/Nobility/NobilityDomainBaseFeature", "Classes/Cleric/Domains/Nobility/NobilityDomainBaseAbility"], "children": ["Classes/Cleric/ClericClass"]}

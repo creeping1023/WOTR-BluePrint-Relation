@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/DrezenCapital/BookOfLaws"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/DrezenCapital/BookOfLaws", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

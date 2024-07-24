@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyGiantSpiderStandard"], "children": ["Armies/Abilities/ArmySpiderWebCast", "Armies/Abilities/ArmySpiderWebFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyGiantSpiderStandard"], "children": ["Armies/Abilities/ArmySpiderWebFact", "Armies/Abilities/ArmySpiderWebCast"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Angel/RoguePaladin2/Answer_0018"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAngel_Ch3/Berengar", "World/Dialogs/c3/Mythic_Angel/RoguePaladin2/Cue_0015"]}
+{"parents": ["World/Dialogs/c3/Mythic_Angel/RoguePaladin2/Answer_0018"], "children": ["World/Dialogs/c3/Mythic_Angel/RoguePaladin2/Cue_0015", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAngel_Ch3/Berengar"]}

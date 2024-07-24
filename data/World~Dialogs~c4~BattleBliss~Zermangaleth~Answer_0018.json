@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Zermangaleth/AnswersList_0004"], "children": ["World/Dialogs/c4/BattleBliss/Zermangaleth/Cue_0020", "World/Quests/Companions/Sosiel/03_Prisoner/Obj_01_TalkArenaLeader", "World/Quests/Companions/Sosiel/03_Prisoner/Obj_00b_LearnAboutArena"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Zermangaleth/AnswersList_0004"], "children": ["World/Quests/Companions/Sosiel/03_Prisoner/Obj_00b_LearnAboutArena", "World/Quests/Companions/Sosiel/03_Prisoner/Obj_01_TalkArenaLeader", "World/Dialogs/c4/BattleBliss/Zermangaleth/Cue_0020"]}

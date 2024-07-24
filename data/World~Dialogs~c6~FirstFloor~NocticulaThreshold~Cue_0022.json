@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/FirstFloor/NocticulaThreshold/Cue_0040"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Goddesses_Summit/Iomedae", "World/Dialogs/c6/FirstFloor/NocticulaThreshold/Cue_0026"]}
+{"parents": ["World/Dialogs/c6/FirstFloor/NocticulaThreshold/Cue_0040"], "children": ["World/Dialogs/c6/FirstFloor/NocticulaThreshold/Cue_0026", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Goddesses_Summit/Iomedae"]}

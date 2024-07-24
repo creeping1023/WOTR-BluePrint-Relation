@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/Horzalah_Ambush/Answer_0030"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/Horzalah_Ambush/Cue_0033"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/Horzalah_Ambush/Answer_0030"], "children": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q3_Ch5_PriceOfLoyalty/Horzalah_Ambush/Cue_0033", "Units/Companions/Greybor/Greybor_Companion"]}

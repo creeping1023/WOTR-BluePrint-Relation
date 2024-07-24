@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/ElementalWitch/ElementalWitchColdRayFeature"], "children": ["FX/Spell Level None/ColdCommonProjectile00", "Weapons/Types/Special/RayItem", "Classes/Witch/WitchClass", "Classes/WinterWitch/WinterWitchClass"]}
+{"parents": ["Classes/Witch/Archetypes/ElementalWitch/ElementalWitchColdRayFeature"], "children": ["Classes/WinterWitch/WinterWitchClass", "Weapons/Types/Special/RayItem", "FX/Spell Level None/ColdCommonProjectile00", "Classes/Witch/WitchClass"]}

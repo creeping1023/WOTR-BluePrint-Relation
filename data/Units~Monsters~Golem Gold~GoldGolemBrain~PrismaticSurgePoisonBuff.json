@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeRanged", "Units/Monsters/Golem Gold/GoldGolem_Features/GoldGolem_Feature_MeleePrismaticSurge", "Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeMelee", "Brain/Considerations/HasPoison"]}
+{"parents": ["Units/Monsters/Golem Gold/GoldGolem_Features/GoldGolem_Feature_MeleePrismaticSurge", "Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeRanged", "Brain/Considerations/HasPoison", "Units/Monsters/Golem Gold/GoldGolemBrain/PrismaticSurgeMelee"]}

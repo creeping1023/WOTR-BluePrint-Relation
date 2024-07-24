@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronElements/WitchElementsPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level7/CausticEruption"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronElements/WitchElementsPatronProgression"], "children": ["Spells/Level7/CausticEruption", "Classes/Witch/WitchClass"]}

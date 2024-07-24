@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/AnswersList_0016"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Cue_0072", "Classes/Basic/Deities/AsmodeusFeature"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/AnswersList_0016"], "children": ["Classes/Basic/Deities/AsmodeusFeature", "World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Cue_0072"]}

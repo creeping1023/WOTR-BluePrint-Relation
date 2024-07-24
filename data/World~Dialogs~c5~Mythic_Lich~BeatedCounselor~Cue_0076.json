@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Lich/BeatedCounselor/Answer_0065"], "children": ["World/Encounters/Lich_UnloyalCounselor/SummonPools/ElyankasFollowers", "Factions/Mobs", "Buffs/NPC_Protection", "World/Encounters/Lich_UnloyalCounselor/SummonPools/NPC_Elyanka"]}
+{"parents": ["World/Dialogs/c5/Mythic_Lich/BeatedCounselor/Answer_0065"], "children": ["Factions/Mobs", "World/Encounters/Lich_UnloyalCounselor/SummonPools/ElyankasFollowers", "Buffs/NPC_Protection", "World/Encounters/Lich_UnloyalCounselor/SummonPools/NPC_Elyanka"]}

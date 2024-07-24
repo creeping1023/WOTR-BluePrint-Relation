@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/FakeLootScene/WaitFlag", "World/Cutscenes/AreshkagalDungeon/FakeLootScene/CommandAction 3", "World/Encounters/AreshkagalDungeon/ActionsHolders/FakeLoot_Action"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/FakeLootScene/CommandAction 3", "World/Cutscenes/AreshkagalDungeon/FakeLootScene/WaitFlag", "World/Encounters/AreshkagalDungeon/ActionsHolders/FakeLoot_Action"]}

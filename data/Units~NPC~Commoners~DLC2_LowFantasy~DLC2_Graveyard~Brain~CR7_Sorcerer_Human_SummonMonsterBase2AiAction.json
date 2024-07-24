@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/CR7_Undead_HumanSorcerer_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/SummonMonsterIIBase", "Spells/Level2/SummonMonsterIId3"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/CR7_Undead_HumanSorcerer_Brain"], "children": ["Spells/Level2/SummonMonsterIId3", "Brain/Considerations/AttackTargetsPriority", "Spells/Level2/SummonMonsterIIBase"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Scrolls/Level4/ScrollOfAnimalAspectGreaterRacoon", "Spells/Level4/AnimalAspectGreaterBase"], "children": ["Spells/Level4/AnimalAspectGreaterRacoonBuff", "Spells/Level4/AnimalAspectGreaterBase"]}
+{"parents": ["Items/Scrolls/Level4/ScrollOfAnimalAspectGreaterRacoon", "Spells/Level4/AnimalAspectGreaterBase"], "children": ["Spells/Level4/AnimalAspectGreaterBase", "Spells/Level4/AnimalAspectGreaterRacoonBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/C2_VendorTableLarge", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Equipment/Cloaks/EnchantersCapeEnchant"]}
+{"parents": ["Items/Vendors/C2_VendorTableLarge", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Cloaks/EnchantersCapeEnchant", "Items/DestructibleItemsShards/ClothShardItem"]}

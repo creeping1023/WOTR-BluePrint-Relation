@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoCaster", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffConfusion", "Brain/Considerations/NoBuffInsanity", "Spells/Level7/Insanity"]}
+{"children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level7/Insanity", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffInsanity", "Brain/Considerations/NoBuffConfusion", "Brain/Considerations/NoCaster"]}

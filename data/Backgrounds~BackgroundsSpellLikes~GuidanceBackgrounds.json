@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSpellLikes/GuidanceBackgroundsFeature"], "children": ["Spells/Level0/Guidance", "Spells/Level0/Guidance", "Spells/Level0/Guidance", "Spells/Level0/GuidanceBuff", "Spells/Level0/Guidance", "Spells/Level0/Guidance"]}
+{"parents": ["Backgrounds/BackgroundsSpellLikes/GuidanceBackgroundsFeature"], "children": ["Spells/Level0/GuidanceBuff", "Spells/Level0/Guidance"]}

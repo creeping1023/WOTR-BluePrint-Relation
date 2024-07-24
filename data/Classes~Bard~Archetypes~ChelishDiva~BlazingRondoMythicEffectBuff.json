@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bard/Archetypes/ChelishDiva/BlazingRondoAreaEffect"], "children": ["Classes/Bard/BardClass", "Mythic/Lich/LichSpells/SiphonTimeVisualAllyBuff", "Spells/Level3/HasteBuff", "Mythic/Azata/AzataAbilities/SupersonicSpeed/SupersonicSpeedHasteBuff"]}
+{"parents": ["Classes/Bard/Archetypes/ChelishDiva/BlazingRondoAreaEffect"], "children": ["Mythic/Lich/LichSpells/SiphonTimeVisualAllyBuff", "Mythic/Azata/AzataAbilities/SupersonicSpeed/SupersonicSpeedHasteBuff", "Classes/Bard/BardClass", "Spells/Level3/HasteBuff"]}

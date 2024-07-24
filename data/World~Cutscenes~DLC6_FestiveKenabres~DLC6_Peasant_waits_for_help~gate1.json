@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Peasant_waits_for_help/gate"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Peasant_waits_for_help/CommandDelay1", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Peasant_waits_for_help/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Peasant_waits_for_help/gate"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Peasant_waits_for_help/CommandActivateGate", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Peasant_waits_for_help/CommandDelay1"]}

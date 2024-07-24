@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/Forest_Loot", "Test/Blueprints/TutorialTestICriticalHit"], "children": ["Weapons/Types/SimpleLight/Dagger", "Test/Blueprints/StandardDaggerLotsCritsTestEnchant"]}
+{"parents": ["Test/Blueprints/TutorialTestICriticalHit", "Loot/Good/CR0/Forest_Loot", "Dugeons/Loot/DungeonLootExclude"], "children": ["Test/Blueprints/StandardDaggerLotsCritsTestEnchant", "Weapons/Types/SimpleLight/Dagger"]}

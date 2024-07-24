@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level6/Sirocco"], "children": ["CreatureAbilities/Subtypes/SubtypeWater", "Buffs/Prone", "CreatureAbilities/Subtypes/SubtypeWater", "Buffs/Exhausted", "Buffs/Fatigued", "Buffs/Exhausted", "Buffs/Fatigued"]}
+{"parents": ["Spells/Level6/Sirocco"], "children": ["Buffs/Fatigued", "CreatureAbilities/Subtypes/SubtypeWater", "Buffs/Prone", "Buffs/Exhausted"]}

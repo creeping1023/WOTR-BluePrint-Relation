@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastBladeDamage", "Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastAbility"], "children": ["FX/Spell Level 2/AcidArrow00_Trajectory"]}
+{"parents": ["Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastAbility", "Classes/Kineticist/ElementalFocus/Fire/FireBlast/FireBlastBladeDamage"], "children": ["FX/Spell Level 2/AcidArrow00_Trajectory"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/Archetypes/Greenrager/GreenragerArchetype"], "children": ["Classes/Bloodrager/BloodragerClass", "Spells/Level1/SummonNaturesAllyI"]}
+{"parents": ["Classes/Bloodrager/Archetypes/Greenrager/GreenragerArchetype"], "children": ["Spells/Level1/SummonNaturesAllyI", "Classes/Bloodrager/BloodragerClass"]}

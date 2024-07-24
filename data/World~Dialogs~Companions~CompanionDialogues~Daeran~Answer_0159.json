@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0156"], "children": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0162", "World/UnlockableFlags/Companions/Daeran/DaeranTrust_Counter"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0156"], "children": ["World/UnlockableFlags/Companions/Daeran/DaeranTrust_Counter", "World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0162"]}

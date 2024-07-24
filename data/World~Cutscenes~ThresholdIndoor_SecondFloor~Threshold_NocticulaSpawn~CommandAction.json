@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/Threshold_NocticulaSpawn/Threshold_NocticulaSpawn"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/NocticulaDead", "Spells/CutsceneSpells/ProjectionBuff", "Factions/CutsceneNeutrals"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/Threshold_NocticulaSpawn/Threshold_NocticulaSpawn"], "children": ["Spells/CutsceneSpells/ProjectionBuff", "Factions/CutsceneNeutrals", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/NocticulaDead"]}

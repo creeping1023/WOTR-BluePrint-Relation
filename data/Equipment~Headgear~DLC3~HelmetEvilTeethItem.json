@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/Forest_Loot#2"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/DLC3/HelmetEvilTeethEnchantment"]}
+{"parents": ["Loot/Good/CR0/Forest_Loot#2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/DLC3/HelmetEvilTeethEnchantment"]}

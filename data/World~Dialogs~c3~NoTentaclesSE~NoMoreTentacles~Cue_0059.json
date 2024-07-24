@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Answer_0051"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfrey", "World/Encounters/SE_NoMoreTentacles/UnlockableFlags/HelpSirAllfrey_flag"]}
+{"parents": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Answer_0051", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfrey", "World/Encounters/SE_NoMoreTentacles/UnlockableFlags/HelpSirAllfrey_flag"]}

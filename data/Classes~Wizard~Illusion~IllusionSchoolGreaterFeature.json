@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Illusion/SpecialisationSchoolIllusionProgression"], "children": ["Classes/Wizard/Illusion/IllusionSchoolGreaterAbility", "Classes/Wizard/Illusion/IllusionSchoolGreaterResource"]}
+{"parents": ["Classes/Wizard/Illusion/SpecialisationSchoolIllusionProgression"], "children": ["Classes/Wizard/Illusion/IllusionSchoolGreaterResource", "Classes/Wizard/Illusion/IllusionSchoolGreaterAbility"]}

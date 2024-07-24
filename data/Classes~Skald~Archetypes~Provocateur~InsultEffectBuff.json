@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/Archetypes/Provocateur/InsultAreaEffect"], "children": ["Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype", "Classes/Skald/SkaldClass"]}
+{"parents": ["Classes/Skald/Archetypes/Provocateur/InsultAreaEffect"], "children": ["Classes/Skald/SkaldClass", "Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype"]}

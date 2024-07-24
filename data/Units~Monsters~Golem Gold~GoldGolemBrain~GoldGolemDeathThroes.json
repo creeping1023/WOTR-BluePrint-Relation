@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemDeathThroesBuff", "Spells/Level5/LifeBubbleBuff"], "children": ["Units/Monsters/Golem Gold/GoldGolemBrain/DeathThroesDC"]}
+{"parents": ["Spells/Level5/LifeBubbleBuff", "Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemDeathThroesBuff"], "children": ["Units/Monsters/Golem Gold/GoldGolemBrain/DeathThroesDC"]}

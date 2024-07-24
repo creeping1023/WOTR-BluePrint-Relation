@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level9/Shapechange/Shapechange", "Items/Scrolls/Level9/ScrollOfShapechangeShapeSmilodon"], "children": ["Spells/Level6/BeastShapeIVSmilodonBuff", "Spells/Level9/Shapechange/ShapechangeBuffFree", "Spells/Level6/BeastShapeIVSmilodonBuff", "Spells/Level9/Shapechange/Shapechange"]}
+{"parents": ["Items/Scrolls/Level9/ScrollOfShapechangeShapeSmilodon", "Spells/Level9/Shapechange/Shapechange"], "children": ["Spells/Level9/Shapechange/Shapechange", "Spells/Level9/Shapechange/ShapechangeBuffFree", "Spells/Level6/BeastShapeIVSmilodonBuff"]}

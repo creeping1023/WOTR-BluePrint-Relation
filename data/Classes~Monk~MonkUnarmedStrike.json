@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype", "Classes/Monk/MonkProgression"], "children": ["Weapons/Items/Standard/NaturalWeapon/Unarmed1d6"]}
+{"parents": ["Classes/Monk/MonkProgression", "Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype"], "children": ["Weapons/Items/Standard/NaturalWeapon/Unarmed1d6"]}

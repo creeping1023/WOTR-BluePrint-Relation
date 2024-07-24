@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/MinotaurCleric_Brain_RangeCaster"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level3/DispelMagic", "Spells/Level3/DispelMagicTarget"]}
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/MinotaurCleric_Brain_RangeCaster"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level3/DispelMagicTarget", "Spells/Level3/DispelMagic"]}

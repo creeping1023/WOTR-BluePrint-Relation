@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/GargoyleAttack/Seelah/Answer_0004"], "children": ["World/Dialogs/c2_vs/GargoyleAttack/Seelah/Cue_0009", "World/Dialogs/c2_vs/GargoyleAttack/Seelah/Cue_0008"]}
+{"parents": ["World/Dialogs/c2_vs/GargoyleAttack/Seelah/Answer_0004", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/GargoyleAttack/Seelah/Cue_0009", "World/Dialogs/c2_vs/GargoyleAttack/Seelah/Cue_0008"]}

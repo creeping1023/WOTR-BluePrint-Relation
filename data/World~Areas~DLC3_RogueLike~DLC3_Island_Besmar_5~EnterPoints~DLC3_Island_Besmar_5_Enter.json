@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC3_RogueLike/DLC3_Island_Besmar_5/Presets/DLC3_Island_Besmar_5_Default_Preset", "QA/Arbiter/Scenario/DLC3/DLC3_Island_Besmar_5"], "children": ["World/Areas/DLC3_RogueLike/DLC3_Island_Besmar_5/DLC3_Island_PiratesBesmar_5", "World/Areas/DLC3_RogueLike/DLC3_Island_Besmar_5/DLC3_Island_PiratesBesmar_5"]}
+{"parents": ["QA/Arbiter/Scenario/DLC3/DLC3_Island_Besmar_5", "World/Areas/DLC3_RogueLike/DLC3_Island_Besmar_5/Presets/DLC3_Island_Besmar_5_Default_Preset"], "children": ["World/Areas/DLC3_RogueLike/DLC3_Island_Besmar_5/DLC3_Island_PiratesBesmar_5"]}

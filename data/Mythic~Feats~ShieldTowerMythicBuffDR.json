@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Feats/ShieldTowerMythicBuff", "Mythic/Feats/ShieldTowerMythicFeat"], "children": ["Equipment/Shields/Types/TowerShieldType"]}
+{"parents": ["Mythic/Feats/ShieldTowerMythicFeat", "Mythic/Feats/ShieldTowerMythicBuff"], "children": ["Equipment/Shields/Types/TowerShieldType"]}

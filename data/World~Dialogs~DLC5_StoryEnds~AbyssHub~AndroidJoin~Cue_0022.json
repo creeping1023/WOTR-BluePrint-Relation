@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/Answer_0017"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_NPC", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/AnswersList_0014", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/Cue_0023"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/Answer_0017"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/Cue_0023", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_NPC", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/AnswersList_0014"]}

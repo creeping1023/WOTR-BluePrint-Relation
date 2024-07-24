@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticRanged/SlingStaff", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/FlamingBurst", "Weapons/Items/Unique/EE/IgnitionEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/FlamingBurst", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/EE/IgnitionEnchantment", "Weapons/Enchantments/Flaming", "Weapons/Types/ExoticRanged/SlingStaff"]}

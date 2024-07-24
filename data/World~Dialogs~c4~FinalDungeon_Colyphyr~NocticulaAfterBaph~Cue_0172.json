@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Answer_0168"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0175"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Answer_0168"], "children": ["World/Dialogs/c4/FinalDungeon_Colyphyr/NocticulaAfterBaph/Cue_0175", "Units/Companions/Ember/Ember_Companion"]}

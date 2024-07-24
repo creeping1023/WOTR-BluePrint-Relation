@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HellknightsCamp/KillRegill/KillRegill"], "children": ["World/Cutscenes/HellknightsCamp/KillRegill/CommandAction", "World/Cutscenes/HellknightsCamp/KillRegill/CommandSetCombatMode1", "World/Cutscenes/HellknightsCamp/KillRegill/CommandAction1"]}
+{"parents": ["World/Cutscenes/HellknightsCamp/KillRegill/KillRegill"], "children": ["World/Cutscenes/HellknightsCamp/KillRegill/CommandAction1", "World/Cutscenes/HellknightsCamp/KillRegill/CommandAction", "World/Cutscenes/HellknightsCamp/KillRegill/CommandSetCombatMode1"]}

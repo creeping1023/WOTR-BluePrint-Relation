@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor/Before_Pack04/gate"], "children": ["World/Encounters/ThresholdIndoor/SummonPools/Pack04_Pool", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor/Before_Pack04/gate"], "children": ["Factions/Mobs", "World/Encounters/ThresholdIndoor/SummonPools/Pack04_Pool"]}

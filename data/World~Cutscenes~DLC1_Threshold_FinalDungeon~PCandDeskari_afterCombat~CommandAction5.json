@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/PCandDeskari_afterCombat/PCandDeskari_afterCombat"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath", "World/Encounters/DLC1_Threshold_FinalDungeon/SummonPools/DLC1_DeskariAngels"]}
+{"parents": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/PCandDeskari_afterCombat/PCandDeskari_afterCombat"], "children": ["World/Encounters/DLC1_Threshold_FinalDungeon/SummonPools/DLC1_DeskariAngels", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath"]}

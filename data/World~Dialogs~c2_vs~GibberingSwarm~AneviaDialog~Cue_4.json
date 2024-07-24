@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_3"], "children": ["Units/Companions/Regill/Regill_Companion", "Units/Companions/DLC1Companions/DLC1_Regill_Companion", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_0003"]}
+{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_3"], "children": ["World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_0003", "Units/Companions/Regill/Regill_Companion", "Units/Companions/DLC1Companions/DLC1_Regill_Companion"]}

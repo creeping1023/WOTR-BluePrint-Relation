@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/Answer_0026", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/BecomeLich_AfterBattle_dialogue"], "children": ["World/Cutscenes/Ziggurat/AttackAfterRitual_AllAway/AttackAfterRitual_AllAway"]}
+{"parents": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/BecomeLich_AfterBattle_dialogue", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/Answer_0026"], "children": ["World/Cutscenes/Ziggurat/AttackAfterRitual_AllAway/AttackAfterRitual_AllAway"]}

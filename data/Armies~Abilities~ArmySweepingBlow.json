@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam", "Armies/Abilities/ArmySweepingBlowFeature"], "children": ["Armies/Abilities/ArmySweepingBlowBuff", "Armies/Abilities/ArmySweepingBlowBuff", "Armies/Abilities/ArmySweepingBlowResource"]}
+{"parents": ["Armies/Abilities/ArmySweepingBlowFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"], "children": ["Armies/Abilities/ArmySweepingBlowResource", "Armies/Abilities/ArmySweepingBlowBuff"]}

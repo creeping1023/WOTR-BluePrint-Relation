@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Demon/DemonRankUp_2/Answer_0009"], "children": ["Armies/CrusadeGlobalBuffs/FlagDemon2FlamesOfTheAbyss", "Armies/CrusadeGlobalBuffs/FlagDemon2FlamesOfTheAbyss", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/Rank2"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Demon/DemonRankUp_2/Answer_0009"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/Rank2", "Armies/CrusadeGlobalBuffs/FlagDemon2FlamesOfTheAbyss"]}

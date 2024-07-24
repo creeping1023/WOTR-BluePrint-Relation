@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/GibberingSwarm/Phylactery/PhylacterySwarm_dialogue"], "children": ["World/Dialogs/c2_vs/GibberingSwarm/Phylactery/AnswersList_0002", "World/Dialogs/c2_vs/GibberingSwarm/Phylactery/Cue_0014"]}
+{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/Phylactery/PhylacterySwarm_dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/GibberingSwarm/Phylactery/AnswersList_0002", "World/Dialogs/c2_vs/GibberingSwarm/Phylactery/Cue_0014"]}

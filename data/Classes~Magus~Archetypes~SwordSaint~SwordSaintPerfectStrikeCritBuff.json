@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintPerfectStrikeCritAbility"], "children": ["Classes/Magus/MagusClass", "Classes/Magus/Archetypes/SwordSaint/SwordSaintChosenWeaponFeature"]}
+{"parents": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintPerfectStrikeCritAbility"], "children": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintChosenWeaponFeature", "Classes/Magus/MagusClass"]}

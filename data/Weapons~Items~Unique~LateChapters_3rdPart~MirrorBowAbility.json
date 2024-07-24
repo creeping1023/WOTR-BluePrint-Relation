@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters_3rdPart/MirrorBowEnchantment"], "children": ["Arrow", "Items/Weapons/CompositeLongbow", "Classes/Cleric/ClericClass", "Classes/Inquisitor/InquisitorClass", "Classes/Druid/DruidClass"]}
+{"parents": ["Weapons/Items/Unique/LateChapters_3rdPart/MirrorBowEnchantment"], "children": ["Classes/Druid/DruidClass", "Items/Weapons/CompositeLongbow", "Arrow", "Classes/Cleric/ClericClass", "Classes/Inquisitor/InquisitorClass"]}

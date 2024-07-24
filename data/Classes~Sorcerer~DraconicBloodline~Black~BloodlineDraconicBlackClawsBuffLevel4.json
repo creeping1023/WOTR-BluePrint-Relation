@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/DraconicBloodline/Black/BloodlineDraconicBlackClawsAbililyLevel4"], "children": ["Classes/Sorcerer/DraconicBloodline/BloodlineDraconicClaw1d6Corrosive", "Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Classes/Sorcerer/DraconicBloodline/Black/BloodlineDraconicBlackClawsAbililyLevel4"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Classes/Sorcerer/DraconicBloodline/BloodlineDraconicClaw1d6Corrosive"]}

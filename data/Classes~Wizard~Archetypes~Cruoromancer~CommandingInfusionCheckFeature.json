@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/Cruoromancer/CommandingInfusionArea", "Units/NPC/Commoners/Skeleton/SummonedSkeletonChampion", "Units/NPC/Commoners/Skeleton/SummonedSkeletonAbomination"]}
+{"parents": ["Units/NPC/Commoners/Skeleton/SummonedSkeletonAbomination", "Units/NPC/Commoners/Skeleton/SummonedSkeletonChampion", "Classes/Wizard/Archetypes/Cruoromancer/CommandingInfusionArea"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TheIvoryLabyrinth/DemodandAttackHeart/gate"], "children": ["World/Cutscenes/TheIvoryLabyrinth/DemodandAttackHeart/CommandAction", "World/Cutscenes/TheIvoryLabyrinth/DemodandAttackHeart/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/TheIvoryLabyrinth/DemodandAttackHeart/gate"], "children": ["World/Cutscenes/TheIvoryLabyrinth/DemodandAttackHeart/CommandActivateGate", "World/Cutscenes/TheIvoryLabyrinth/DemodandAttackHeart/CommandAction"]}

@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Kineticist/ElementalFocus/Water/WaterBlast/WaterBlastBase", "Classes/Kineticist/ElementalFocus/Water/WaterBlast/WaterBlastInfused/SprayWaterBlastAbility"]}
+{"children": ["Classes/Kineticist/ElementalFocus/Water/WaterBlast/WaterBlastBase", "Classes/Kineticist/ElementalFocus/Water/WaterBlast/WaterBlastInfused/SprayWaterBlastAbility", "Brain/Considerations/AttackTargetsPriority"]}

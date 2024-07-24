@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Boots/PF2/Chapter5/BootsOfMagicalWhirlEnchantment"], "children": ["CreatureAbilities/Subtypes/SubtypeDemon", "Equipment/Boots/PF2/Chapter5/BootsOfMagicalWhirlCountBuff", "Equipment/Boots/PF2/Chapter5/BootsOfMagicalWhirlBuff", "Equipment/Boots/PF2/Chapter5/BootsOfMagicalWhirlCountBuff"]}
+{"parents": ["Equipment/Boots/PF2/Chapter5/BootsOfMagicalWhirlEnchantment"], "children": ["Equipment/Boots/PF2/Chapter5/BootsOfMagicalWhirlBuff", "Equipment/Boots/PF2/Chapter5/BootsOfMagicalWhirlCountBuff", "CreatureAbilities/Subtypes/SubtypeDemon"]}

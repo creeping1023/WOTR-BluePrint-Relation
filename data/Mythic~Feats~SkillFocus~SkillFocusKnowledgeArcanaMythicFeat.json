@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Feats/SkillFocus/SkillFocusMythicFeatSelection", "Feats/SkillFocus/SkillFocusKnowledgeArcana"], "children": ["Feats/SkillFocus/SkillFocusKnowledgeArcana", "Mythic/Feats/SkillFocus/SkillFocusKnowledgeArcanaMythicAbility"]}
+{"parents": ["Mythic/Feats/SkillFocus/SkillFocusMythicFeatSelection", "Feats/SkillFocus/SkillFocusKnowledgeArcana"], "children": ["Mythic/Feats/SkillFocus/SkillFocusKnowledgeArcanaMythicAbility", "Feats/SkillFocus/SkillFocusKnowledgeArcana"]}

@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/ShardsAbilitiesSelection", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Sandri_FeatureList_summoner"], "children": ["Mythic/DLC5ShardsAbilities/SummonFrozenAbrikandiluAbility", "Mythic/DLC5ShardsAbilities/SummonFrozenAbrikandiluResource"]}
+{"parents": ["Mythic/DLC5ShardsAbilities/ShardsAbilitiesSelection", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Sandri_FeatureList_summoner"], "children": ["Mythic/DLC5ShardsAbilities/SummonFrozenAbrikandiluResource", "Mythic/DLC5ShardsAbilities/SummonFrozenAbrikandiluAbility"]}

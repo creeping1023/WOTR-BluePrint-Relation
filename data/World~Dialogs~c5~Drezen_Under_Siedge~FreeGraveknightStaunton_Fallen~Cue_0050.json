@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/FreeGraveknightStaunton_Fallen/Cue_0048"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/c5/Drezen_Under_Siedge/FreeGraveknightStaunton_Fallen/Cue_0051"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/FreeGraveknightStaunton_Fallen/Cue_0048"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/FreeGraveknightStaunton_Fallen/Cue_0051", "Units/Companions/Camelia/Camelia_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_RiftDrakeBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AoE_AvoidFriends", "Armies/Abilities/ArmyRiftDrakeClingingCorrosionAbility"]}
+{"parents": ["Armies/Brains/TacticalCombat_RiftDrakeBrain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/AoE_ChooseMoreEnemies", "Armies/Abilities/ArmyRiftDrakeClingingCorrosionAbility"]}

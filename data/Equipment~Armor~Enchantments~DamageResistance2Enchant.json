@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Armor/Items/TotalPlus2/HideDR2Plus1", "Mythic/Trickster/KnowledgeArcana/TricksterKnowledgeArcanaTier2Feature"], "children": ["Equipment/Armor/Enchantments/DamageResistance2Feature"]}
+{"parents": ["Mythic/Trickster/KnowledgeArcana/TricksterKnowledgeArcanaTier2Feature", "Equipment/Armor/Items/TotalPlus2/HideDR2Plus1"], "children": ["Equipment/Armor/Enchantments/DamageResistance2Feature"]}

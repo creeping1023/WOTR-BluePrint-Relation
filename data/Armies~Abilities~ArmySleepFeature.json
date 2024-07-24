@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Feats/Bonus/DemonicLullabyLeaderSkill", "Armies/CrusadeGlobalBuffs/FlagLocust3Spiders"], "children": ["Armies/Abilities/ArmySleep", "Armies/Abilities/ArmySleepFact"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagLocust3Spiders", "Armies/Leaders/Feats/Bonus/DemonicLullabyLeaderSkill"], "children": ["Armies/Abilities/ArmySleepFact", "Armies/Abilities/ArmySleep"]}

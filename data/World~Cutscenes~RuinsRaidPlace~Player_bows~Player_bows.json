@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/Answer_0005"], "children": ["World/Cutscenes/RuinsRaidPlace/Player_bows/CommandDelay", "World/Cutscenes/RuinsRaidPlace/Player_bows/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/RuinsRaidPlace/Player_bows/gate"]}
+{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/Answer_0005"], "children": ["World/Cutscenes/RuinsRaidPlace/Player_bows/CommandDelay", "World/Cutscenes/RuinsRaidPlace/Player_bows/gate", "World/Cutscenes/RuinsRaidPlace/Player_bows/CommandUnitPlayCutsceneAnimation"]}

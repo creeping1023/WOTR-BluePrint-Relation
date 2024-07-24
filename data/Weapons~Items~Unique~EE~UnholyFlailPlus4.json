@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/Events/CrusadeEvents/CrusadeEvent04", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Flail", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Unholy"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/CrusadeEvents/CrusadeEvent04"], "children": ["Weapons/Types/MartialOneHanded/Flail", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Unholy"]}

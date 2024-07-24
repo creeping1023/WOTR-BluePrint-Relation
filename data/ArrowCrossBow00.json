@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Types/SimpleRanged/LightCrossbow", "Weapons/Types/SimpleRanged/HeavyCrossbow", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DCL2_LightCrossbow_Fake"], "children": ["Arrow_Trajectory"]}
+{"parents": ["Weapons/Types/SimpleRanged/LightCrossbow", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DCL2_LightCrossbow_Fake", "Weapons/Types/SimpleRanged/HeavyCrossbow"], "children": ["Arrow_Trajectory"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootCookingIngredients"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootCookingIngredients", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

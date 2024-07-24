@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/Hepzamirah_main/Cue_0017"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_FireBirdToHepzamirah/CommandDelay", "World/Cutscenes/ColyphyrDungeon/Colyphyr_FireBirdToHepzamirah/gate"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/Hepzamirah_main/Cue_0017"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_FireBirdToHepzamirah/gate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_FireBirdToHepzamirah/CommandDelay"]}

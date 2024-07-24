@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Nexus/ActionsHolders/WayUp_Actions"], "children": ["World/Cutscenes/Nexus/WayUp/CommandControlCamera", "World/Cutscenes/Nexus/WayUp/gate", "World/Cutscenes/Nexus/WayUp/CommandLockControls", "World/Cutscenes/Nexus/WayUp/gate"]}
+{"parents": ["World/Encounters/Nexus/ActionsHolders/WayUp_Actions"], "children": ["World/Cutscenes/Nexus/WayUp/CommandLockControls", "World/Cutscenes/Nexus/WayUp/CommandControlCamera", "World/Cutscenes/Nexus/WayUp/gate"]}

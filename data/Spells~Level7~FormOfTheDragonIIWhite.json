@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level7/FormOfTheDragonII", "Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonIIWhiteDragonDisciple", "Items/Scrolls/Level7/ScrollOfFormOfTheDragonIIWhite"], "children": ["Spells/Level7/FormOfTheDragonIIWhiteBuff", "Spells/Level7/FormOfTheDragonII"]}
+{"parents": ["Classes/DragonDisciple/DragonDiscipleDragonkind/FormOfTheDragonIIWhiteDragonDisciple", "Items/Scrolls/Level7/ScrollOfFormOfTheDragonIIWhite", "Spells/Level7/FormOfTheDragonII"], "children": ["Spells/Level7/FormOfTheDragonII", "Spells/Level7/FormOfTheDragonIIWhiteBuff"]}

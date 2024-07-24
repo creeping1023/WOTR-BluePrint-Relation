@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Points/Chapter05_Army24_Garrison", "Kingdom/MoraleFlags/KingdomMoraleFlagChapter5"], "children": ["Armies/UnitBlueprints/ArmyBrimorakStandard", "Armies/UnitBlueprints/ArmyGiantSalamander", "Armies/UnitBlueprints/ArmyVavakiaStandard"]}
+{"parents": ["Kingdom/MoraleFlags/KingdomMoraleFlagChapter5", "GlobalMaps/WorldWoundGM/Points/Chapter05_Army24_Garrison"], "children": ["Armies/UnitBlueprints/ArmyVavakiaStandard", "Armies/UnitBlueprints/ArmyGiantSalamander", "Armies/UnitBlueprints/ArmyBrimorakStandard"]}

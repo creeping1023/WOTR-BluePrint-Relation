@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/NoBuffDominate", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level9/DominateMonster"]}
+{"children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/NotUndeadConsideration", "Spells/Level9/DominateMonster", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffDominate"]}

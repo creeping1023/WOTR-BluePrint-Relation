@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Crinukh/CueSequence_0009"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/NPC_Common/Crinukh/Cue_0012"]}
+{"parents": ["World/Dialogs/NPC_Common/Crinukh/CueSequence_0009"], "children": ["World/Dialogs/NPC_Common/Crinukh/Cue_0012", "Units/Companions/Seelah/Seelah_Companion"]}

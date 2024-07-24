@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/RayOfEnfeeblement", "Spells/CutsceneSpells/DrezenCitadelLevel2/RayOfEnfeeblementCutsceneQuickened", "Brain/Considerations/NoBuffRayOfEnfeeblement"]}
+{"parents": ["Brain/Considerations/NoBuffRayOfEnfeeblement", "Spells/CutsceneSpells/DrezenCitadelLevel2/RayOfEnfeeblementCutsceneQuickened", "Spells/Level1/RayOfEnfeeblement"]}

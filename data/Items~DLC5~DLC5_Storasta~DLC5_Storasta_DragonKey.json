@@ -1,1 +1,1 @@
-{"parents": ["Items/DLC5/DLC5_Storasta/DLC5_Storasta_DragonKeyUnitLoot", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootDLC5"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude", "Items/DLC5/DLC5_Storasta/DLC5_Storasta_DragonKeyUnitLoot"]}

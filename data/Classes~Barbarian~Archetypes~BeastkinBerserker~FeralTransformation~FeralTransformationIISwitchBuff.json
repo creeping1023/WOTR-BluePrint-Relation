@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/Archetypes/BeastkinBerserker/FeralTransformation/FeralTransformationIIToggleAbility"], "children": ["Classes/Barbarian/Rage/StandartRageBuff", "Classes/Barbarian/Archetypes/BeastkinBerserker/FeralTransformation/FeralTransformationIIBuff"]}
+{"parents": ["Classes/Barbarian/Archetypes/BeastkinBerserker/FeralTransformation/FeralTransformationIIToggleAbility"], "children": ["Classes/Barbarian/Archetypes/BeastkinBerserker/FeralTransformation/FeralTransformationIIBuff", "Classes/Barbarian/Rage/StandartRageBuff"]}

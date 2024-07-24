@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-464296", "World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_Welcome/Answer_0015", "World/Encounters/TheIvoryLabyrinth/ScriptZones/RiotInTheLabyrith1"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/TheIvoryLabyrinth_States"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_Welcome/Answer_0015", "Root/Upgraders/Player/PF-464296", "World/Encounters/TheIvoryLabyrinth/ScriptZones/RiotInTheLabyrith1"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/TheIvoryLabyrinth_States"]}

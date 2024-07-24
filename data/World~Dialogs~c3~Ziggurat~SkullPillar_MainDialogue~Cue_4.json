@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Answer_2"], "children": ["World/Cutscenes/Ziggurat/RevealHorns_Ziggurat/RevealHorns_Ziggurat", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Answer_2"], "children": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/AnswersList_0003", "World/Cutscenes/Ziggurat/RevealHorns_Ziggurat/RevealHorns_Ziggurat"]}

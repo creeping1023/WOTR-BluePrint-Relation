@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultSacrifice/Cue_0104"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/CultHighPriest", "World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultSacrifice/Cue_0106"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultSacrifice/Cue_0104"], "children": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultSacrifice/Cue_0106", "Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/CultHighPriest"]}

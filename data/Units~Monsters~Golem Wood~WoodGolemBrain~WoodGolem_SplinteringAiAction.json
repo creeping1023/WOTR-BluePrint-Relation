@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Golem Wood/WoodGolemBrain/WoodGolemBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/Golem Wood/WoodGolemBrain/WoodGolemSplintering"]}
+{"parents": ["Units/Monsters/Golem Wood/WoodGolemBrain/WoodGolemBrain"], "children": ["Units/Monsters/Golem Wood/WoodGolemBrain/WoodGolemSplintering", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

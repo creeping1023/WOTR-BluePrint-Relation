@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/Othuribo_cutscene/gate"], "children": ["World/Cutscenes/GrayGarrison/Othuribo_cutscene/CommandUnitCastSpell", "World/Cutscenes/GrayGarrison/Othuribo_cutscene/CommandDelay", "World/Cutscenes/GrayGarrison/Othuribo_cutscene/gate 1"]}
+{"parents": ["World/Cutscenes/GrayGarrison/Othuribo_cutscene/gate"], "children": ["World/Cutscenes/GrayGarrison/Othuribo_cutscene/CommandUnitCastSpell", "World/Cutscenes/GrayGarrison/Othuribo_cutscene/gate 1", "World/Cutscenes/GrayGarrison/Othuribo_cutscene/CommandDelay"]}

@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichSkeletalCompanionUpgrades/Magus/LichSkeletalMagusSpellbookMinorFeature"], "children": ["Classes/Wizard/WizardSpellList", "Classes/Magus/MagusSpellLevels", "Classes/Magus/MagusSpellList", "Classes/Monster/Undead/UndeadClass"]}
+{"parents": ["Mythic/Lich/LichSkeletalCompanionUpgrades/Magus/LichSkeletalMagusSpellbookMinorFeature"], "children": ["Classes/Wizard/WizardSpellList", "Classes/Magus/MagusSpellList", "Classes/Monster/Undead/UndeadClass", "Classes/Magus/MagusSpellLevels"]}

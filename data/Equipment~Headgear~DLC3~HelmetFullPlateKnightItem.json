@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HelmetFullplateOrnateNormal", "Equipment/Headgear/DLC3/HelmetFullPlateKnightEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["EquipmentEntities/Helmet/KEE_Helmet_HelmetFullplateOrnateNormal", "Equipment/Headgear/DLC3/HelmetFullPlateKnightEnchantment", "Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_PrisonersStart/gate 5"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_PrisonersStart/CommandControlCamera 1", "World/Cutscenes/ColyphyrDungeon/Colyphyr_PrisonersStart/gate 2"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_PrisonersStart/gate 5"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_PrisonersStart/gate 2", "World/Cutscenes/ColyphyrDungeon/Colyphyr_PrisonersStart/CommandControlCamera 1"]}

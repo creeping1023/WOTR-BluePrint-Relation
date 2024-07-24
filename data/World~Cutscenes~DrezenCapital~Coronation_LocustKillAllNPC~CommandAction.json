@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/Coronation_LocustKillAllNPC/Coronation_LocustKillAllNPC"], "children": ["World/Encounters/DrezenCapital/SummonPools/Coronation_DefaultArmy", "World/Cutscenes/LocustDevourNoLock_Param/LocustDevourNoLock_Param"]}
+{"parents": ["World/Cutscenes/DrezenCapital/Coronation_LocustKillAllNPC/Coronation_LocustKillAllNPC"], "children": ["World/Cutscenes/LocustDevourNoLock_Param/LocustDevourNoLock_Param", "World/Encounters/DrezenCapital/SummonPools/Coronation_DefaultArmy"]}

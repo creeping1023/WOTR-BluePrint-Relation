@@ -1,1 +1,1 @@
-{"children": ["Factions/CutsceneNeutrals", "World/Encounters/ColyphyrDungeon/Buffs/Colyphyr_GhoulToSlavePolymorph", "World/Encounters/ColyphyrDungeon/Buffs/Slave_CollarBuff"]}
+{"children": ["World/Encounters/ColyphyrDungeon/Buffs/Colyphyr_GhoulToSlavePolymorph", "World/Encounters/ColyphyrDungeon/Buffs/Slave_CollarBuff", "Factions/CutsceneNeutrals"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Bloodrager/BloodragerClass", "Classes/Bloodrager/BloodragerSpellbook"]}
+{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Bloodrager/BloodragerSpellbook", "Classes/Bloodrager/BloodragerClass"]}

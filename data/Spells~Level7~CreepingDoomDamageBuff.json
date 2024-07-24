@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level7/CreepingDoom", "Units/Monsters/DLC5_Sithhud/DLC5_ImmortalIchorCreepingDoom"], "children": ["Spells/Level7/CreepingDoomDamageArea", "Spells/Level7/CreepingDoomDamageEffectImmunity", "Spells/Level7/CreepingDoomPoisonBuff", "Buffs/Nauseated"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/DLC5_ImmortalIchorCreepingDoom", "Spells/Level7/CreepingDoom"], "children": ["Buffs/Nauseated", "Spells/Level7/CreepingDoomDamageArea", "Spells/Level7/CreepingDoomDamageEffectImmunity", "Spells/Level7/CreepingDoomPoisonBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Healing/HealingDomainBaseAbility", "Classes/Cleric/Domains/Healing/HealingDomainBaseFeature"]}
+{"parents": ["Classes/Cleric/Domains/Healing/HealingDomainBaseFeature", "Classes/Cleric/Domains/Healing/HealingDomainBaseAbility"]}

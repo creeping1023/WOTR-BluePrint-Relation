@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun_Tavern/Answer_0025"], "children": ["World/Quests/c1/StarlightPath/04_alt_ReportHulrun", "World/Dialogs/c1/KenabresBurning/Hurlun_Tavern/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun_Tavern/Answer_0025"], "children": ["World/Dialogs/c1/KenabresBurning/Hurlun_Tavern/AnswersList_0003", "World/Quests/c1/StarlightPath/04_alt_ReportHulrun"]}

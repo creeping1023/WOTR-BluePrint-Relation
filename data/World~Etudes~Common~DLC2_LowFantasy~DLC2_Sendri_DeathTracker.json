@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC2_LowFantasy", "World/Encounters/DLC2_Abyss/ScriptZones/Boss_Fight"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Etudes/Common/DLC2_LowFantasy", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}
+{"parents": ["World/Encounters/DLC2_Abyss/ScriptZones/Boss_Fight", "World/Etudes/Common/DLC2_LowFantasy"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Etudes/Common/DLC2_LowFantasy"]}

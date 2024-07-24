@@ -1,1 +1,1 @@
-{"parents": ["Feats/StunningFist/StunningFistOwnerBuff", "Feats/DragonStyle/DragonStyleBuff", "Classes/Monk/MonkStunningFists/StunningFistOwnerFatigueBuff", "Classes/Monk/MonkStunningFists/StunningFistOwnerSickenedBuff"], "children": ["Buffs/Shaken"]}
+{"parents": ["Feats/StunningFist/StunningFistOwnerBuff", "Classes/Monk/MonkStunningFists/StunningFistOwnerSickenedBuff", "Classes/Monk/MonkStunningFists/StunningFistOwnerFatigueBuff", "Feats/DragonStyle/DragonStyleBuff"], "children": ["Buffs/Shaken"]}

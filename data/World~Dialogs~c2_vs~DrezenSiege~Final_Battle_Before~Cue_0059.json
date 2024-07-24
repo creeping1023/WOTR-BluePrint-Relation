@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/CueSequence_0058"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0062", "World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0061"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/CueSequence_0058"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0061", "Units/Companions/Ember/Ember_Companion", "World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0062"]}

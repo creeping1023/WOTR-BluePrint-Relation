@@ -1,1 +1,1 @@
-{"parents": ["Feats/VitalStrike/VitalStrikeFeature", "Feats/VitalStrike/VitalStrikeFeatureImproved", "Feats/VitalStrike/VitalStrikeFeatureGreater", "Classes/Cavalier/CavalierSupremeChargeCheckBuff"], "children": ["Buffs/Staggered", "Buffs/Stunned"]}
+{"parents": ["Feats/VitalStrike/VitalStrikeFeatureImproved", "Feats/VitalStrike/VitalStrikeFeatureGreater", "Classes/Cavalier/CavalierSupremeChargeCheckBuff", "Feats/VitalStrike/VitalStrikeFeature"], "children": ["Buffs/Stunned", "Buffs/Staggered"]}

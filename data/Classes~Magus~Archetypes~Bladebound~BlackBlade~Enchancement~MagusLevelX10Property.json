@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/Bladebound/BlackBlade/BladeboundBlackBladeBuffRight", "Classes/Inquisitor/Archetypes/LivingGrimoire/HolyBook/LivingGrimoireHolyBookBuffPrimary"], "children": ["Classes/Magus/MagusClass"]}
+{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/HolyBook/LivingGrimoireHolyBookBuffPrimary", "Classes/Magus/Archetypes/Bladebound/BlackBlade/BladeboundBlackBladeBuffRight"], "children": ["Classes/Magus/MagusClass"]}

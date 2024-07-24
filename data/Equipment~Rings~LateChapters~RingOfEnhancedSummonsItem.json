@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/LateChapters/RingOfEnhancedSummonsEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Rings/LateChapters/RingOfEnhancedSummonsEnchantment", "Items/DestructibleItemsShards/MetalShardItem"]}

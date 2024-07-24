@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate"], "children": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/CommandAction 1", "World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate 2"]}
+{"parents": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate"], "children": ["World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/gate 2", "World/Cutscenes/ArueshalaeRedoubt/EnteringPuzzle/CommandAction 1"]}

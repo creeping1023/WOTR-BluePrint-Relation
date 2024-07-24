@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor/AreeluAppears/gate"], "children": ["World/Cutscenes/ThresholdIndoor/AreeluAppears/CommandDelay", "World/Cutscenes/ThresholdIndoor/AreeluAppears/gate1"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor/AreeluAppears/gate"], "children": ["World/Cutscenes/ThresholdIndoor/AreeluAppears/gate1", "World/Cutscenes/ThresholdIndoor/AreeluAppears/CommandDelay"]}

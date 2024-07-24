@@ -1,1 +1,1 @@
-{"children": ["Units/Companions/Greybor/Greybor_Companion", "Buffs/Slowed", "Buffs/Blind"]}
+{"children": ["Buffs/Blind", "Units/Companions/Greybor/Greybor_Companion", "Buffs/Slowed"]}

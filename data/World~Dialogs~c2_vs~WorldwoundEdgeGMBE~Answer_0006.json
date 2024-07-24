@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/WorldwoundEdgeGMBE/BookPage_0001", "QA/Clockwork/Scenario/Act_2_SwordOfValor/LostChapel_Simple_Preset", "QA/Clockwork/Scenario/Act_2_SwordOfValor/WarCamp_GargoyleAttack_Simple_Preset"], "children": ["World/Dialogs/c2_vs/WorldwoundEdgeGMBE/Check_0020"]}
+{"parents": ["QA/Clockwork/Scenario/Act_2_SwordOfValor/WarCamp_GargoyleAttack_Simple_Preset", "QA/Clockwork/Scenario/Act_2_SwordOfValor/LostChapel_Simple_Preset", "World/Dialogs/c2_vs/WorldwoundEdgeGMBE/BookPage_0001"], "children": ["World/Dialogs/c2_vs/WorldwoundEdgeGMBE/Check_0020"]}

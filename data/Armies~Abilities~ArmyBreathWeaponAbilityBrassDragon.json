@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyBreathWeaponAbilityBrassDragonFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerTwice", "Armies/Abilities/ArmyDragonSleepBuff", "FX/Spell Level None/FireCone30Feet00", "Armies/Abilities/ArmyBreathWeaponAbilityBrassDragonResource"]}
+{"parents": ["Armies/Abilities/ArmyBreathWeaponAbilityBrassDragonFeature"], "children": ["Armies/Abilities/ArmyDragonSleepBuff", "Armies/Abilities/ArmyBreathWeaponAbilityBrassDragonResource", "FX/Spell Level None/FireCone30Feet00", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerTwice"]}

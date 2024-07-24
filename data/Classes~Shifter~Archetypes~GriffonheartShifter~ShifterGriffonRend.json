@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrappleBuff", "Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrappledInitiatorBuff"], "children": ["Classes/Shifter/Archetypes/GriffonheartShifter/ShifterGriffonRendBuff"]}
+{"parents": ["Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrappledInitiatorBuff", "Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrappleBuff"], "children": ["Classes/Shifter/Archetypes/GriffonheartShifter/ShifterGriffonRendBuff"]}

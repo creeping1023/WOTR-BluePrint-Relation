@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/AnimalFocus/AnimalFocusMouseBuff", "Classes/Hunter/AnimalFocus/HunterAnimalFocusForHimselfBuff"], "children": ["Classes/Hunter/AnimalFocus/AnimalFocusMouseEffect"]}
+{"parents": ["Classes/Hunter/AnimalFocus/HunterAnimalFocusForHimselfBuff", "Classes/Hunter/AnimalFocus/AnimalFocusMouseBuff"], "children": ["Classes/Hunter/AnimalFocus/AnimalFocusMouseEffect"]}

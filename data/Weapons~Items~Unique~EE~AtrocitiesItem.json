@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Furious", "Weapons/Items/Unique/EE/AtrocitiesEnchantment", "Weapons/Items/Unique/EE/AtrocitiesSecondItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Furious", "Weapons/Items/Unique/EE/AtrocitiesEnchantment", "Weapons/Items/Unique/EE/AtrocitiesSecondItem", "Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenArchetype", "Classes/Bloodrager/BloodragerProgression"], "children": ["Classes/Bloodrager/BloodragerClass", "Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenClaws/HagRivenClawsFeatureLevel2"]}
+{"parents": ["Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenArchetype", "Classes/Bloodrager/BloodragerProgression"], "children": ["Classes/Bloodrager/Archetypes/Hag-Riven/HagRivenClaws/HagRivenClawsFeatureLevel2", "Classes/Bloodrager/BloodragerClass"]}

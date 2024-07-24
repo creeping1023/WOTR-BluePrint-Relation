@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/DraconicBloodline/Bronze/BloodlineDraconicBronzeClawsAbililyLevel3"], "children": ["Classes/Sorcerer/DraconicBloodline/BloodlineDraconicClaw1d6", "Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Classes/Sorcerer/DraconicBloodline/Bronze/BloodlineDraconicBronzeClawsAbililyLevel3"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Classes/Sorcerer/DraconicBloodline/BloodlineDraconicClaw1d6"]}

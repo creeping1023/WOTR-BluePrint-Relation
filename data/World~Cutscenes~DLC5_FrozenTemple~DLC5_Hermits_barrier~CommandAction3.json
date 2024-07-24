@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Hermits_barrier/DLC5_Hermits_barrier"], "children": ["World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_FrozenTemple/DLC5_WatcherFightStarted", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Hermits_barrier/DLC5_Hermits_barrier"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_FrozenTemple/DLC5_WatcherFightStarted"]}

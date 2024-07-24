@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Answer_0030"], "children": ["Units/Monsters/Demon Dretch/AreeluLab/Dretch_Stitch", "World/Cutscenes/LostChapel/UnitGoAwayParam/UnitGoAwayParam"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Answer_0030"], "children": ["World/Cutscenes/LostChapel/UnitGoAwayParam/UnitGoAwayParam", "Units/Monsters/Demon Dretch/AreeluLab/Dretch_Stitch"]}

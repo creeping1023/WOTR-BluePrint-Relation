@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level2/BlessingOfLuckAndResolve", "Equipment/CommonEnchantments/Dexterity4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Dexterity4", "Items/DestructibleItemsShards/MetalShardItem", "Spells/Level2/BlessingOfLuckAndResolve"]}

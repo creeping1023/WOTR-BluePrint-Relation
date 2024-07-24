@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/ToTheTemple/Answer_0003"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/ToTheTemple/Cue_0015"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/ToTheTemple/Answer_0003"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/ToTheTemple/Cue_0015", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

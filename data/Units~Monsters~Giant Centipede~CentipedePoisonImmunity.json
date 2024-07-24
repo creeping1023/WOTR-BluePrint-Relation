@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Giant Centipede/GiantCentipedePoisonFeature", "Classes/Pets/GiantCentipedePoisonFeature"], "children": ["Units/Monsters/Giant Centipede/GiantCentipedePoisonBuff"]}
+{"parents": ["Classes/Pets/GiantCentipedePoisonFeature", "Units/Monsters/Giant Centipede/GiantCentipedePoisonFeature"], "children": ["Units/Monsters/Giant Centipede/GiantCentipedePoisonBuff"]}

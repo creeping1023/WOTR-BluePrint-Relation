@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/TrueEnding/Suggest/AnswersList_0048"], "children": ["World/Dialogs/c6/TrueEnding/Suggest/Cue_0054", "Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverItem", "Items/Areas/Act_4_MidnightIsles/ColyphyrDungeon/FreshNahCrystall"]}
+{"parents": ["World/Dialogs/c6/TrueEnding/Suggest/AnswersList_0048"], "children": ["Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverItem", "World/Dialogs/c6/TrueEnding/Suggest/Cue_0054", "Items/Areas/Act_4_MidnightIsles/ColyphyrDungeon/FreshNahCrystall"]}

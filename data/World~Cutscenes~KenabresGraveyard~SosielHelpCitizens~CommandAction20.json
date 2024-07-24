@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresGraveyard/SosielHelpCitizens/gate1"], "children": ["World/Encounters/KenabresGraveyard/UnlockableFlags/DoorBreak", "World/Encounters/KenabresGraveyard/SummonPools/ZombieAttackSosiel"]}
+{"parents": ["World/Cutscenes/KenabresGraveyard/SosielHelpCitizens/gate1"], "children": ["World/Encounters/KenabresGraveyard/SummonPools/ZombieAttackSosiel", "World/Encounters/KenabresGraveyard/UnlockableFlags/DoorBreak"]}

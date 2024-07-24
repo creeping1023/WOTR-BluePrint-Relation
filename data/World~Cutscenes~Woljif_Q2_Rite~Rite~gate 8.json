@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Woljif_Q2_Rite/Rite/gate 6"], "children": ["World/Cutscenes/Woljif_Q2_Rite/Rite/CommandAction", "World/Cutscenes/Woljif_Q2_Rite/Rite/CommandDelay", "World/Cutscenes/Woljif_Q2_Rite/Rite/gate 7", "World/Cutscenes/Woljif_Q2_Rite/Rite/CommandControlCamera 1"]}
+{"parents": ["World/Cutscenes/Woljif_Q2_Rite/Rite/gate 6"], "children": ["World/Cutscenes/Woljif_Q2_Rite/Rite/gate 7", "World/Cutscenes/Woljif_Q2_Rite/Rite/CommandControlCamera 1", "World/Cutscenes/Woljif_Q2_Rite/Rite/CommandAction", "World/Cutscenes/Woljif_Q2_Rite/Rite/CommandDelay"]}

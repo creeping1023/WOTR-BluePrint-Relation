@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/RitualWarriorChoice1", "Armies/Leaders/Progression/RitualMageChoice1"], "children": ["Armies/Rituals/RitualShieldOfFaithAbility"]}
+{"parents": ["Armies/Leaders/Progression/RitualMageChoice1", "Armies/Leaders/Progression/RitualWarriorChoice1"], "children": ["Armies/Rituals/RitualShieldOfFaithAbility"]}

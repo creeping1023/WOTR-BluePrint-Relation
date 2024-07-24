@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/ClericBrain/GhoulClericPrayerChannelBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffPrayer", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/Prayer"]}
+{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/ClericBrain/GhoulClericPrayerChannelBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/NoBuffPrayer", "Spells/Level3/Prayer"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/NenioCompanion/NenioHuman", "Units/Companions/Nenio/Nenio_Companion", "Units/Portraits/Companions/NenioFox_Portrait"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/NenioCompanion/NenioHuman", "Units/Portraits/Companions/NenioFox_Portrait", "Units/Companions/Nenio/Nenio_Companion"]}

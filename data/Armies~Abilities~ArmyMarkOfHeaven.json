@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyMarkOfHeavenFeature"], "children": ["Armies/Abilities/ArmyMarkOfHeavenBuff", "Armies/Abilities/ArmyMarkOfHeavenResource"]}
+{"parents": ["Armies/Abilities/ArmyMarkOfHeavenFeature"], "children": ["Armies/Abilities/ArmyMarkOfHeavenResource", "Armies/Abilities/ArmyMarkOfHeavenBuff"]}

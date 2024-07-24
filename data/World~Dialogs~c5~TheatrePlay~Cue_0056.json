@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0052"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_Director", "World/Cutscenes/DrezenCapital/Theatre_CyclopActing/Theatre_CyclopActing2", "World/Dialogs/c5/TheatrePlay/Cue_0009"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0052"], "children": ["World/Cutscenes/DrezenCapital/Theatre_CyclopActing/Theatre_CyclopActing2", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_Director", "World/Dialogs/c5/TheatrePlay/Cue_0009"]}

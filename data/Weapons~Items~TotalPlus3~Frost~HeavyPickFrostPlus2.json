@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/MartialOneHanded/HeavyPick", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Frost", "Weapons/Types/MartialOneHanded/HeavyPick"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/HellknightSignifer/HellknightSigniferSpellbook"], "children": ["Classes/Magus/MagusClass", "Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype", "Classes/Magus/MagusClass", "Classes/Magus/Archetypes/SwordSaint/SwordSaintSpellbook"]}
+{"parents": ["Classes/HellknightSignifer/HellknightSigniferSpellbook"], "children": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype", "Classes/Magus/Archetypes/SwordSaint/SwordSaintSpellbook", "Classes/Magus/MagusClass"]}

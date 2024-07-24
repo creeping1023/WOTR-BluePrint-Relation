@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Necromancy/NecromancySchoolGreaterFeature"], "children": ["Classes/Wizard/Necromancy/NecromancySchoolGreaterResource", "Classes/Wizard/Necromancy/NecromancySchoolGreaterBuff"]}
+{"parents": ["Classes/Wizard/Necromancy/NecromancySchoolGreaterFeature"], "children": ["Classes/Wizard/Necromancy/NecromancySchoolGreaterBuff", "Classes/Wizard/Necromancy/NecromancySchoolGreaterResource"]}

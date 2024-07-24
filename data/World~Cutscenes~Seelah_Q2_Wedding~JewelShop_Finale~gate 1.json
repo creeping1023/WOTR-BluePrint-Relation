@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/gate2", "World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/JewelShop_Finale", "World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/gate1"], "children": ["World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/CommandAction 2"]}
+{"parents": ["World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/JewelShop_Finale", "World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/gate1", "World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/gate2"], "children": ["World/Cutscenes/Seelah_Q2_Wedding/JewelShop_Finale/CommandAction 2"]}

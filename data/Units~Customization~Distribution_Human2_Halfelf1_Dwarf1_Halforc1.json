@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CustomizationPreset_Standard_Mix"], "children": ["Races/HumanRace", "Races/HalfElfRace", "Races/DwarfRace", "Races/HalfOrcRace"]}
+{"parents": ["Units/Customization/CustomizationPreset_Standard_Mix"], "children": ["Races/DwarfRace", "Races/HumanRace", "Races/HalfOrcRace", "Races/HalfElfRace"]}

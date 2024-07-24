@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/CueSequence_3"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/Cue_27"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/CueSequence_3"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/Cue_27", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]}

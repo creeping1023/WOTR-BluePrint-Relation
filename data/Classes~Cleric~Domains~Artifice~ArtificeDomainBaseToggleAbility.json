@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Artifice/ArtificeDomainBaseFeature"], "children": ["Classes/Cleric/Domains/Artifice/ArtificeDomainBaseResource", "Classes/Cleric/Domains/Artifice/ArtificeDomainBaseBuff"]}
+{"parents": ["Classes/Cleric/Domains/Artifice/ArtificeDomainBaseFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Artifice/ArtificeDomainBaseResource", "Classes/Cleric/Domains/Artifice/ArtificeDomainBaseBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AzataIsland/AzataRankUp2_scene/gate 2", "World/Cutscenes/AzataIsland/AzataRankUp2_scene/AzataRankUp2_scene"], "children": ["World/Cutscenes/AzataIsland/AzataRankUp2_scene/CommandAction 2"]}
+{"parents": ["World/Cutscenes/AzataIsland/AzataRankUp2_scene/AzataRankUp2_scene", "World/Cutscenes/AzataIsland/AzataRankUp2_scene/gate 2"], "children": ["World/Cutscenes/AzataIsland/AzataRankUp2_scene/CommandAction 2"]}

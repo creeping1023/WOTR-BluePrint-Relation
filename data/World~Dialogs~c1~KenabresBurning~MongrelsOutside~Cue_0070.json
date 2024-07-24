@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/MongrelsOutside/Answer_0069"], "children": ["Units/NPC/Commoners/Mongrelman/KenabresBurning/MongrelmanMelee_Talking1", "World/Dialogs/c1/KenabresBurning/MongrelsOutside/Cue_0071"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/MongrelsOutside/Answer_0069"], "children": ["World/Dialogs/c1/KenabresBurning/MongrelsOutside/Cue_0071", "Units/NPC/Commoners/Mongrelman/KenabresBurning/MongrelmanMelee_Talking1"]}

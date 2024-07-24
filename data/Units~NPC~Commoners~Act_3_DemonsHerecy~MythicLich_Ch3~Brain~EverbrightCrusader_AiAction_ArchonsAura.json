@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MythicLich_Ch3/Brain/EverbrightCrusader_Brain_ArchonsAura"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level3/ArchonsAura"]}
+{"parents": ["Units/NPC/Commoners/Act_3_DemonsHerecy/MythicLich_Ch3/Brain/EverbrightCrusader_Brain_ArchonsAura"], "children": ["Spells/Level3/ArchonsAura", "Brain/Considerations/NoThreateningUnitsConsideration"]}

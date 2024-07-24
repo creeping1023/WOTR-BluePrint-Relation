@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/2ndFight_HalfWin/2ndFight_HalfWin"], "children": ["World/Encounters/BattleBliss/SummonPools/2ndFight", "Buffs/NPC_Protection"]}
+{"parents": ["World/Cutscenes/BattleBliss/2ndFight_HalfWin/2ndFight_HalfWin"], "children": ["Buffs/NPC_Protection", "World/Encounters/BattleBliss/SummonPools/2ndFight"]}

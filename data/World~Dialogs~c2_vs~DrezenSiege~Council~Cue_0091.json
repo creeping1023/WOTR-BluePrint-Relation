@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0106", "World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0060"], "children": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Neathholm/AneviaTirabade", "World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0092"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0060", "World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0106"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0092", "Units/NPC/Unique/Act_0_Prologue/Prologue_Neathholm/AneviaTirabade"]}

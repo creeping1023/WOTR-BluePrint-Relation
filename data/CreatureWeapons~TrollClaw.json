@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Test/Blueprints/Testing troll Attacks all", "Test/Blueprints/Testing troll"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Test/Blueprints/Testing troll", "Dugeons/Loot/DungeonLootExclude", "Test/Blueprints/Testing troll Attacks all"], "children": ["Weapons/Types/NaturalWeapon/ClawType"]}

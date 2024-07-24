@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerRage/BloodragerRageFeature"], "children": ["Classes/Bloodrager/BloodragerRage/BloodragerRageResource", "Mythic/MythicAbilities/LimitlessRage", "Classes/Bloodrager/BloodragerRage/BloodragerStandartRageBuff"]}
+{"parents": ["Classes/Bloodrager/BloodragerRage/BloodragerRageFeature"], "children": ["Mythic/MythicAbilities/LimitlessRage", "Classes/Bloodrager/BloodragerRage/BloodragerRageResource", "Classes/Bloodrager/BloodragerRage/BloodragerStandartRageBuff"]}

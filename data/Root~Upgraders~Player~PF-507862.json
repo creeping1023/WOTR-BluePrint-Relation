@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Sosiel/Q3_Errand/Q3_Errqnd_Sosiel", "World/Quests/c4/Colyphyr/Obj1_DestroyMines", "World/Quests/Companions/Sosiel/Q3_Errand/Objective_0001"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Sosiel/Q3_Errand/Objective_0001", "World/Quests/Companions/Sosiel/Q3_Errand/Q3_Errqnd_Sosiel", "World/Quests/c4/Colyphyr/Obj1_DestroyMines"]}

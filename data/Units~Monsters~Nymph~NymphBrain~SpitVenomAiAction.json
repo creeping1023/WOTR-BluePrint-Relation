@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Nymph/NymphBrain/HATEOT_NymphBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level3/SpitVenom"]}
+{"parents": ["Units/Monsters/Nymph/NymphBrain/HATEOT_NymphBrain"], "children": ["Spells/Level3/SpitVenom", "Brain/Considerations/AttackTargetsPriority"]}

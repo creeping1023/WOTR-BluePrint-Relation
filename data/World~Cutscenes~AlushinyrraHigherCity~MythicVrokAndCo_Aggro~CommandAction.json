@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraHigherCity/MythicVrokAndCo_Aggro/gate2"], "children": ["World/Encounters/AlushinyrraHigherCity/SummonPools/HigherCity_MythicVrokAndCo", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/AlushinyrraHigherCity/MythicVrokAndCo_Aggro/gate2"], "children": ["Factions/Mobs", "World/Encounters/AlushinyrraHigherCity/SummonPools/HigherCity_MythicVrokAndCo"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/MinotaurAltarTrap"], "children": ["World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/CommandAction", "World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/CommandDelay"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/MinotaurAltarTrap"], "children": ["World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/CommandDelay", "World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/CommandAction"]}

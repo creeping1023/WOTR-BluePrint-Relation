@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/AnemoraBrain/AnemoraBrain"], "children": ["Brain/Considerations/InjurySerious", "Brain/Considerations/TargetSelf", "Spells/Level6/HealCast"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/AnemoraBrain/AnemoraBrain"], "children": ["Brain/Considerations/InjurySerious", "Spells/Level6/HealCast", "Brain/Considerations/TargetSelf"]}

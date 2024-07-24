@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/DragonAttack/DragonAttack"], "children": ["World/Cutscenes/ArueshalaeRedoubt/DragonAttack/CommandDelay 9", "World/Cutscenes/ArueshalaeRedoubt/DragonAttack/gate 1"]}
+{"parents": ["World/Cutscenes/ArueshalaeRedoubt/DragonAttack/DragonAttack"], "children": ["World/Cutscenes/ArueshalaeRedoubt/DragonAttack/gate 1", "World/Cutscenes/ArueshalaeRedoubt/DragonAttack/CommandDelay 9"]}

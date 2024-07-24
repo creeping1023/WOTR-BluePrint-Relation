@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot", "Mythic/MythicStartingProgression"], "children": ["Mythic/MythicSummonResource"]}
+{"parents": ["Mythic/MythicStartingProgression", "Root/PlayerUpgradeActionsRoot"], "children": ["Mythic/MythicSummonResource"]}

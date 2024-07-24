@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerClass"], "children": ["Classes/Bloodrager/Archetypes/MixedBloodRager/MixedBloodlineFeature", "Classes/Bloodrager/Archetypes/MixedBloodRager/MixedBloodlineFeature2", "Classes/Bloodrager/BloodragerBloodlineSelection"]}
+{"parents": ["Classes/Bloodrager/BloodragerClass"], "children": ["Classes/Bloodrager/BloodragerBloodlineSelection", "Classes/Bloodrager/Archetypes/MixedBloodRager/MixedBloodlineFeature2", "Classes/Bloodrager/Archetypes/MixedBloodRager/MixedBloodlineFeature"]}

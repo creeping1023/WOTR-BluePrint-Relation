@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/CompanionCosplayers/DLC6_SosielCustomPreset"], "children": ["Races/DhampirRace", "Races/DwarfRace", "Races/GnomeRace", "Races/TieflingRace", "Races/OreadRace"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/CompanionCosplayers/DLC6_SosielCustomPreset"], "children": ["Races/GnomeRace", "Races/DwarfRace", "Races/TieflingRace", "Races/OreadRace", "Races/DhampirRace"]}

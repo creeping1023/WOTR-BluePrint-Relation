@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/DoorWell/DoorWell_dialogue"], "children": ["World/Encounters/DLC2_Theatre/UnlockableFlags/DLC2_SurvivorNearExit", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/DoorWell/Cue_0003"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/DoorWell/DoorWell_dialogue"], "children": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/DoorWell/Cue_0003", "World/Encounters/DLC2_Theatre/UnlockableFlags/DLC2_SurvivorNearExit"]}

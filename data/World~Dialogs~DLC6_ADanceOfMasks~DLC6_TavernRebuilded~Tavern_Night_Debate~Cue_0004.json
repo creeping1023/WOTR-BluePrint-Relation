@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Night_Debate/Dialogue_Tavern_Night_Debate"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Night_Debate/CueSequence_0005"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Night_Debate/Dialogue_Tavern_Night_Debate"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Night_Debate/CueSequence_0005", "Units/Companions/Nenio/Nenio_Companion"]}

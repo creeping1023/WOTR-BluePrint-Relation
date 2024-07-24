@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0046"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0051"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0046"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0051", "Units/Companions/Nenio/Nenio_Companion"]}

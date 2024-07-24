@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/Phylactery/Cue_0007"], "children": ["World/Cutscenes/GibberingSwarm/DestroyWights/CommandAction", "World/Cutscenes/GibberingSwarm/DestroyWights/CommandDelay", "World/Cutscenes/GibberingSwarm/DestroyWights/CommandAction 1"]}
+{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/Phylactery/Cue_0007"], "children": ["World/Cutscenes/GibberingSwarm/DestroyWights/CommandDelay", "World/Cutscenes/GibberingSwarm/DestroyWights/CommandAction 1", "World/Cutscenes/GibberingSwarm/DestroyWights/CommandAction"]}

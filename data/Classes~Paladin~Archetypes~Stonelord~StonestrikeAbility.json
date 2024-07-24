@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/Stonelord/StonestrikeFeature"], "children": ["Classes/Paladin/Archetypes/Stonelord/StonestrikeBuff", "Classes/Paladin/Archetypes/Stonelord/StonestrikeResource"]}
+{"parents": ["Classes/Paladin/Archetypes/Stonelord/StonestrikeFeature"], "children": ["Classes/Paladin/Archetypes/Stonelord/StonestrikeResource", "Classes/Paladin/Archetypes/Stonelord/StonestrikeBuff"]}

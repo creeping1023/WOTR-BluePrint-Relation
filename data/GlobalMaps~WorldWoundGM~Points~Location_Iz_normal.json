@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_Iz"], "children": ["World/Dialogs/c5/Iz/StorytellerIz/Storyteller_Iz_c5_dialog", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/EnterPoints/Iz_Enter"]}
+{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_Iz"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz/EnterPoints/Iz_Enter", "World/Dialogs/c5/Iz/StorytellerIz/Storyteller_Iz_c5_dialog"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DLC2_Shortsword_Rusty", "Weapons/Items/UniquePF2/DLC2/DLCShortswordEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/UniquePF2/DLC2/DLCShortswordEnchantment", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Items/DLC2_Shortsword_Rusty"]}

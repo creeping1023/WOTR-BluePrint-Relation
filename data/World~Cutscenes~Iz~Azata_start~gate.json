@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/Azata_start/Azata_start"], "children": ["World/Cutscenes/Iz/Azata_start/CommandBark", "World/Cutscenes/Iz/Azata_start/gate 1", "World/Cutscenes/Iz/Azata_start/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Cutscenes/Iz/Azata_start/Azata_start"], "children": ["World/Cutscenes/Iz/Azata_start/gate 1", "World/Cutscenes/Iz/Azata_start/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Iz/Azata_start/CommandBark"]}

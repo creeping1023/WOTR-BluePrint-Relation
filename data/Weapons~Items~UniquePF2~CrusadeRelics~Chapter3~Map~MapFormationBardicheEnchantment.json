@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/CrusadeRelics/Chapter3/Map/MapFormationBardicheItem", "Weapons/Items/UniquePF2/CrusadeRelics/Chapter3/Map/MapFormationHeavyPickItem"], "children": ["Weapons/Items/UniquePF2/CrusadeRelics/Chapter3/Map/MapFormationBardicheFeature"]}
+{"parents": ["Weapons/Items/UniquePF2/CrusadeRelics/Chapter3/Map/MapFormationHeavyPickItem", "Weapons/Items/UniquePF2/CrusadeRelics/Chapter3/Map/MapFormationBardicheItem"], "children": ["Weapons/Items/UniquePF2/CrusadeRelics/Chapter3/Map/MapFormationBardicheFeature"]}

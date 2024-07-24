@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/AnswersList_0219", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0210"], "children": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0226", "World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/PlayerDecidedToStay"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0210", "World/Dialogs/c5/DrezenMain_C5/Coronation/AnswersList_0219"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/PlayerDecidedToStay", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0226"]}

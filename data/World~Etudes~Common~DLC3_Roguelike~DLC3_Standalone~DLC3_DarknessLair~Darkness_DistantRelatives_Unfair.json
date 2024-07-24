@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_DarknessLair/Darkness_DimensionLockCrystall"], "children": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_DarknessLair/Darkness_FocusCrystalls", "World/Etudes/ConflictingGroups/Darkness_DistantRelatives"]}
+{"parents": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_DarknessLair/Darkness_DimensionLockCrystall"], "children": ["World/Etudes/ConflictingGroups/Darkness_DistantRelatives", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_DarknessLair/Darkness_FocusCrystalls"]}

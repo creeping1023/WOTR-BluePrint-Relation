@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/DispelMagicGreaterAreaAll_Cutscene"], "children": ["Spells/CutsceneSpells/DispelMagicGreaterAreaAll_Cutscene", "Spells/Level6/DispelMagicGreaterTarget"]}
+{"parents": ["Spells/CutsceneSpells/DispelMagicGreaterAreaAll_Cutscene"], "children": ["Spells/Level6/DispelMagicGreaterTarget", "Spells/CutsceneSpells/DispelMagicGreaterAreaAll_Cutscene"]}

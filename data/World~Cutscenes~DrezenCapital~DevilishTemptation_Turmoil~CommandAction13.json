@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/DevilishTemptation_Turmoil/gate11"], "children": ["World/Encounters/DrezenCapital/SummonPools/MythicDevil_IomedaeServantsPool", "Units/NPC/Commoners/Movanic Deva/DevilQuest/ProtectionOfInheritorBuff"]}
+{"parents": ["World/Cutscenes/DrezenCapital/DevilishTemptation_Turmoil/gate11"], "children": ["Units/NPC/Commoners/Movanic Deva/DevilQuest/ProtectionOfInheritorBuff", "World/Encounters/DrezenCapital/SummonPools/MythicDevil_IomedaeServantsPool"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/CursadeAnnouncement_TimelineVersion/gate 14"], "children": ["World/Encounters/WarCamp/SummonPools/WarCamp_CrusadeAnnouncement_line 7", "World/Cutscenes/WarCamp/WarCamp_CrusadeAnnouncement_OnKneels/WarCamp_CrusadeAnnouncement_OnKneels"]}
+{"parents": ["World/Cutscenes/WarCamp/CursadeAnnouncement_TimelineVersion/gate 14"], "children": ["World/Cutscenes/WarCamp/WarCamp_CrusadeAnnouncement_OnKneels/WarCamp_CrusadeAnnouncement_OnKneels", "World/Encounters/WarCamp/SummonPools/WarCamp_CrusadeAnnouncement_line 7"]}

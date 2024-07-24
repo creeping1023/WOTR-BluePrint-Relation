@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/gate 2"], "children": ["Factions/Mobs", "World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/GalfreyAttacksMonsterWithPlayer", "World/Encounters/Iz/ActionsHolders/GalfreyAndIraProtection"]}
+{"parents": ["World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/gate 2"], "children": ["Factions/Mobs", "World/Encounters/Iz/ActionsHolders/GalfreyAndIraProtection", "World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/GalfreyAttacksMonsterWithPlayer"]}

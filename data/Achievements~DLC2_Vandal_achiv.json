@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Achivements/DLC2_Vandal_achiv"], "children": ["DLC/DLC2/Dlc2Campaign", "Achievements/Groups/DLC2TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Achivements/DLC2_Vandal_achiv"], "children": ["Achievements/Groups/DLC2TrophyGroupPack2", "DLC/DLC2/Dlc2Campaign"]}

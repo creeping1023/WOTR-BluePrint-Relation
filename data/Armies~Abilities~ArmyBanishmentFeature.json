@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyAngelAstralDeva", "Armies/CrusadeGlobalBuffs/FlagLocust4Vescavor", "Armies/UnitBlueprints/ArmyAeonsBythos"], "children": ["Armies/Abilities/ArmyBanishment", "Armies/Abilities/ArmyBanishment_Summoned", "Armies/Abilities/ArmyBanishmentFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyAeonsBythos", "Armies/UnitBlueprints/ArmyAngelAstralDeva", "Armies/CrusadeGlobalBuffs/FlagLocust4Vescavor"], "children": ["Armies/Abilities/ArmyBanishmentFact", "Armies/Abilities/ArmyBanishment_Summoned", "Armies/Abilities/ArmyBanishment"]}

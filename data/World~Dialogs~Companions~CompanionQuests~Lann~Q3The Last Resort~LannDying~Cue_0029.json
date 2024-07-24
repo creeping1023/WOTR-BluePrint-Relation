@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/LannDying/Cue_0015"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/LannDying/AnswersList_0030"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/LannDying/Cue_0015"], "children": ["World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/LannDying/AnswersList_0030", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

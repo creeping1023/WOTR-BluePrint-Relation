@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/Archetypes/BattleScion/BattleProwessBuff"], "children": ["Classes/Skald/RagingSong/InspiredRageAllyToggleSwitchBuff", "Classes/Skald/Archetypes/BattleScion/BattleProwessEffectBuff"]}
+{"parents": ["Classes/Skald/Archetypes/BattleScion/BattleProwessBuff"], "children": ["Classes/Skald/Archetypes/BattleScion/BattleProwessEffectBuff", "Classes/Skald/RagingSong/InspiredRageAllyToggleSwitchBuff"]}

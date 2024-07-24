@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyCaydenBuffACFeature"], "children": ["Armies/Abilities/ArmyCaydenBuffACBuff", "Armies/Abilities/ArmyCaydenBuffACResource", "FX/Abilities/AlchemistDispellingBomb00", "Weapons/Types/Special/RayItem"]}
+{"parents": ["Armies/Abilities/ArmyCaydenBuffACFeature"], "children": ["Weapons/Types/Special/RayItem", "FX/Abilities/AlchemistDispellingBomb00", "Armies/Abilities/ArmyCaydenBuffACBuff", "Armies/Abilities/ArmyCaydenBuffACResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/ShadowSpells/ShadowCasterBonusSpellsProgression"], "children": ["Classes/Wizard/WizardClass", "Spells/Level5/ShadowEvocation"]}
+{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/ShadowSpells/ShadowCasterBonusSpellsProgression"], "children": ["Spells/Level5/ShadowEvocation", "Classes/Wizard/WizardClass"]}

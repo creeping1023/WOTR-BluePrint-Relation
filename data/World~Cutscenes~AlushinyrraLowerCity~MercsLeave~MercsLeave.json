@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Cue_0029"], "children": ["World/Cutscenes/AlushinyrraLowerCity/MercsLeave/CommandDelay", "World/Cutscenes/AlushinyrraLowerCity/MercsLeave/CommandMoveUnit"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Cue_0029"], "children": ["World/Cutscenes/AlushinyrraLowerCity/MercsLeave/CommandMoveUnit", "World/Cutscenes/AlushinyrraLowerCity/MercsLeave/CommandDelay"]}

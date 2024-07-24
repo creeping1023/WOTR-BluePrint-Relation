@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/Cue_0020"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Etudes/Common/DLC2_LowFantasy/DLC2_ApproachesToTheTavern/DLC2_ApproachesToTheTavern_SoloFight"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/Cue_0020"], "children": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_ApproachesToTheTavern/DLC2_ApproachesToTheTavern_SoloFight", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

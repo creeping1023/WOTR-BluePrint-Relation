@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Nenio/AnswersList_0050"], "children": ["World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0390", "World/Dialogs/Companions/CompanionDialogues/Nenio/Answer_0387"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Nenio/AnswersList_0050", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Nenio/Answer_0387", "World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0390"]}

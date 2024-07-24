@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Anevia/CueSequence_0008"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Anevia/Cue_9"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Anevia/CueSequence_0008"], "children": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Anevia/Cue_9", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

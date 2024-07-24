@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/Chapter05_AreasDefault/AreshkagalDungeon/AreshkagalDungeon_FakeLoot"], "children": ["World/Cutscenes/AreshkagalDungeon/FakeLootScene/WaitFlag", "World/Cutscenes/AreshkagalDungeon/FakeLootScene/gate"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/Chapter05_AreasDefault/AreshkagalDungeon/AreshkagalDungeon_FakeLoot"], "children": ["World/Cutscenes/AreshkagalDungeon/FakeLootScene/gate", "World/Cutscenes/AreshkagalDungeon/FakeLootScene/WaitFlag"]}

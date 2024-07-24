@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level8/DeathClutch", "Equipment/CommonEnchantments/Strength6", "Equipment/CommonEnchantments/Constitution4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Constitution4", "Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Strength6", "Spells/Level8/DeathClutch"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Blessings/Glory/GloryBlessingMinorAreaEffect", "Classes/Warpriest/Blessings/Charm/CharmBlessingMinorAreaEffect", "Spells/Level3/ArchonsAuraBuff", "Spells/Level3/ArchonsAuraArea"]}
+{"parents": ["Spells/Level3/ArchonsAuraArea", "Classes/Warpriest/Blessings/Glory/GloryBlessingMinorAreaEffect", "Spells/Level3/ArchonsAuraBuff", "Classes/Warpriest/Blessings/Charm/CharmBlessingMinorAreaEffect"]}

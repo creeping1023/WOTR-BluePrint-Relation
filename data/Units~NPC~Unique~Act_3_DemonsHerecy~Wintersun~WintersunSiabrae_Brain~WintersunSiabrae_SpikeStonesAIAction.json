@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/SpikeStones"]}
+{"children": ["Spells/Level4/SpikeStones", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

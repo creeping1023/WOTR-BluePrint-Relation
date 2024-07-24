@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/MinotaurPriest_Brain/MinotaurPriest_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration", "Spells/Level9/EnergyDrain"]}
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/MinotaurPriest_Brain/MinotaurPriest_Brain"], "children": ["Spells/Level9/EnergyDrain", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NotUndeadConsideration"]}

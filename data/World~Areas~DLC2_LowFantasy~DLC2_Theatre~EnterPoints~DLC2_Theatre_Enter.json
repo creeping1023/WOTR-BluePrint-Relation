@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC2_LowFantasy/DLC2_Theatre/Presets/DLC2_Theatre_Default_Preset", "QA/Arbiter/Scenario/DLC2/DLC2_Theatre"], "children": ["World/Areas/DLC2_LowFantasy/DLC2_Theatre/DLC2_Theatre", "World/Areas/DLC2_LowFantasy/DLC2_Theatre/DLC2_Theatre"]}
+{"parents": ["QA/Arbiter/Scenario/DLC2/DLC2_Theatre", "World/Areas/DLC2_LowFantasy/DLC2_Theatre/Presets/DLC2_Theatre_Default_Preset"], "children": ["World/Areas/DLC2_LowFantasy/DLC2_Theatre/DLC2_Theatre"]}

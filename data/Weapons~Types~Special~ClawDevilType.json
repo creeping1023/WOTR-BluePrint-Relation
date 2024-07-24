@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateClawRight", "Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateClawLeft", "Weapons/Items/Unique/ClawDevilLarge1d8"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateClawRight", "Weapons/Items/Unique/ClawDevilLarge1d8", "Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateClawLeft"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}

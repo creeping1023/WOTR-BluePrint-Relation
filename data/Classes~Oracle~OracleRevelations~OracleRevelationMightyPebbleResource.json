@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationMightyPebble", "Classes/Oracle/OracleRevelations/OracleRevelationMightyPebbleAbility"], "children": ["Classes/Oracle/OracleClass", "Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationMightyPebbleAbility", "Classes/Oracle/OracleRevelations/OracleRevelationMightyPebble"], "children": ["Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}

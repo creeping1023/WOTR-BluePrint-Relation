@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/Cue_0005"], "children": ["Classes/Basic/Deities/ZonKuthonFeature", "World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/AnswersList_0002"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/Cue_0005"], "children": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/AnswersList_0002", "Classes/Basic/Deities/ZonKuthonFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Rods/PeridotWyverns/LapisLazuliWyvernItem"], "children": ["Units/Monsters/Wyvern/WyvernLazuli", "Buffs/SummonedCreatureSpawnMonsterVI-IX", "Spells/CutsceneSpells/SummonMonsterPool"]}
+{"parents": ["Items/Rods/PeridotWyverns/LapisLazuliWyvernItem"], "children": ["Units/Monsters/Wyvern/WyvernLazuli", "Spells/CutsceneSpells/SummonMonsterPool", "Buffs/SummonedCreatureSpawnMonsterVI-IX"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Universalist/UniversalistSchoolExtendReachFeature"], "children": ["Classes/Wizard/Universalist/UniversalistSchoolReachBuff", "Classes/Wizard/Universalist/UniversalistSchoolGreaterResource"]}
+{"parents": ["Classes/Wizard/Universalist/UniversalistSchoolExtendReachFeature"], "children": ["Classes/Wizard/Universalist/UniversalistSchoolGreaterResource", "Classes/Wizard/Universalist/UniversalistSchoolReachBuff"]}

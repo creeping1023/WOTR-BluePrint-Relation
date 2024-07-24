@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichSpells/BlessingOfUnlife"], "children": ["Mythic/Lich/LichSpells/BlessingOfUnlifeImmunities", "CreatureAbilities/NegativeEnergyAffinity", "CreatureAbilities/NegativeEnergyAffinity"]}
+{"parents": ["Mythic/Lich/LichSpells/BlessingOfUnlife"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Mythic/Lich/LichSpells/BlessingOfUnlifeImmunities"]}

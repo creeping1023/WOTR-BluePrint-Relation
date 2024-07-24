@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_CanibalisticShadow", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Weapons/Types/Special/IncoporealTouchType"]}
+{"parents": ["Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_CanibalisticShadow"], "children": ["Weapons/Types/Special/IncoporealTouchType"]}

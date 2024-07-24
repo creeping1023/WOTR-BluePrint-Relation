@@ -1,1 +1,1 @@
-{"children": ["Player Character", "Player Character", "Items/LootTables/CoinsStart", "Player Character", "Classes/Basic/Deities/ForbiddenDeityFeature", "Races/HumanRace", "Factions/Player", "Brain/Companions/Character_Brain", "WeaponEmptyHand"]}
+{"children": ["Brain/Companions/Character_Brain", "Factions/Player", "Player Character", "Items/LootTables/CoinsStart", "Classes/Basic/Deities/ForbiddenDeityFeature", "Races/HumanRace", "WeaponEmptyHand"]}

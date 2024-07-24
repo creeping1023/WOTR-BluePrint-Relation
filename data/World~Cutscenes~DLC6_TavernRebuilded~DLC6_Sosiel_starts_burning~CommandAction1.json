@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_TavernRebuilded/DLC6_Sosiel_starts_burning/DLC6_Sosiel_starts_burning"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate2/Answer_0012", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}
+{"parents": ["World/Cutscenes/DLC6_TavernRebuilded/DLC6_Sosiel_starts_burning/DLC6_Sosiel_starts_burning"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate2/Answer_0012"]}

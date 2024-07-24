@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-451663_ShieldAttackBuff", "Dugeons/Boons/DungeonBoon_Shieldbuff"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_ShieldsAttackDamageBuff/DLC3_ShieldAttackBuff"]}
+{"parents": ["Dugeons/Boons/DungeonBoon_Shieldbuff", "Root/Upgraders/Player/PF-451663_ShieldAttackBuff"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_ShieldsAttackDamageBuff/DLC3_ShieldAttackBuff"]}

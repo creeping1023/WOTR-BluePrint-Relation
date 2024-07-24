@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichUniqueAbilities/LichUniqueAbilitiesSelection"], "children": ["Mythic/Lich/LichUniqueAbilities/WitheringLife/WitheringLifeMentalToggleAbility", "Mythic/Lich/LichUniqueAbilities/WitheringLife/WitheringLifePhysicalToggleAbility"]}
+{"parents": ["Mythic/Lich/LichUniqueAbilities/LichUniqueAbilitiesSelection"], "children": ["Mythic/Lich/LichUniqueAbilities/WitheringLife/WitheringLifePhysicalToggleAbility", "Mythic/Lich/LichUniqueAbilities/WitheringLife/WitheringLifeMentalToggleAbility"]}

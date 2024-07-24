@@ -1,1 +1,1 @@
-{"parents": ["Feats/Metamagic/ReachSpellFeat", "Mythic/MythicAbilities/FavoriteMetamagicSelection"], "children": ["Feats/Metamagic/ReachSpellFeat"]}
+{"parents": ["Mythic/MythicAbilities/FavoriteMetamagicSelection", "Feats/Metamagic/ReachSpellFeat"], "children": ["Feats/Metamagic/ReachSpellFeat"]}

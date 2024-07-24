@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/VendorArsinoe/Answer_0006"], "children": ["Classes/Basic/Deities/AbadarFeature", "World/Dialogs/NPC_Common/VendorArsinoe/Cue_0015"]}
+{"parents": ["World/Dialogs/NPC_Common/VendorArsinoe/Answer_0006"], "children": ["World/Dialogs/NPC_Common/VendorArsinoe/Cue_0015", "Classes/Basic/Deities/AbadarFeature"]}

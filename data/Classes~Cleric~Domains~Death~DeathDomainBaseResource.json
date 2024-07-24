@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Death/Murder/MurderSubdomainBaseFeature", "Classes/Cleric/Domains/Death/DeathDomainBaseAbility", "Classes/Cleric/Domains/Death/DeathDomainBaseFeature"]}
+{"parents": ["Classes/Cleric/Domains/Death/DeathDomainBaseFeature", "Classes/Cleric/Domains/Death/Murder/MurderSubdomainBaseFeature", "Classes/Cleric/Domains/Death/DeathDomainBaseAbility"]}

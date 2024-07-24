@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/ZenArcher/ZenArcherArchetype"], "children": ["Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Types/MartialRanged/CompositeShortbow", "Weapons/Types/MartialRanged/Longbow", "Weapons/Types/MartialRanged/Shortbow"]}
+{"parents": ["Classes/Monk/Archetypes/ZenArcher/ZenArcherArchetype"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Types/MartialRanged/Shortbow", "Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Types/MartialRanged/CompositeShortbow"]}

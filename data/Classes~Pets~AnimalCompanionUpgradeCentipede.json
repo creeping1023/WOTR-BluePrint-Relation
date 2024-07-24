@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionFeatureCentipede"], "children": ["CreatureAbilities/ReducedReach", "CreatureAbilities/TrippingTail", "Weapons/Items/Standard/NaturalWeapon/Tail1d2Large"]}
+{"parents": ["Classes/Pets/AnimalCompanionFeatureCentipede"], "children": ["Weapons/Items/Standard/NaturalWeapon/Tail1d2Large", "CreatureAbilities/ReducedReach", "CreatureAbilities/TrippingTail"]}

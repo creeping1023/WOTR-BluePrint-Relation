@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/CueSequence_0057"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0059", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0062"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/CueSequence_0057"], "children": ["World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0059", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0062", "Units/Companions/Seelah/Seelah_Companion"]}

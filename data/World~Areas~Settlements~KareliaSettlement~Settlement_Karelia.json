@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Settlements/KareliaSettlement/Karelia_Enter", "World/Areas/Settlements/KareliaSettlement/KareliaSettlement_Preset"], "children": ["World/Areas/Settlements/KareliaSettlement/KareliaSettlement_Preset"]}
+{"parents": ["World/Areas/Settlements/KareliaSettlement/KareliaSettlement_Preset", "World/Areas/Settlements/KareliaSettlement/Karelia_Enter"], "children": ["World/Areas/Settlements/KareliaSettlement/KareliaSettlement_Preset"]}

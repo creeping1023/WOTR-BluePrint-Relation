@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/PuluraFallsC5/DelamereDefeated/AnswersList_0002"], "children": ["World/Encounters/PuluraFall/SummonPools/PuluraFall_DelamereAll", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/c5/PuluraFallsC5/DelamereDefeated/AnswersList_0002"], "children": ["Factions/Mobs", "World/Encounters/PuluraFall/SummonPools/PuluraFall_DelamereAll"]}

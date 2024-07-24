@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0201"], "children": ["Units/Companions/Arueshalae/EvilArueshalae_Companion", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0206"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0201"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0206", "Units/Companions/Arueshalae/EvilArueshalae_Companion"]}

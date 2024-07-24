@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSpellLikes/AcidSplashBackgroundsFeature"], "children": ["Spells/Level0/AcidSplash", "Spells/Level0/AcidSplash", "Spells/Level0/AcidSplash", "FX/Spell Level None/AcidCommonProjectile00", "Weapons/Types/Special/RayItem", "Spells/Level0/AcidSplash", "Spells/Level0/AcidSplash"]}
+{"parents": ["Backgrounds/BackgroundsSpellLikes/AcidSplashBackgroundsFeature"], "children": ["Weapons/Types/Special/RayItem", "FX/Spell Level None/AcidCommonProjectile00", "Spells/Level0/AcidSplash"]}

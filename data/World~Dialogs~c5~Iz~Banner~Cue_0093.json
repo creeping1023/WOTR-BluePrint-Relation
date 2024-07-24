@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0037"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustStates/DeskariVoiceBanished", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust", "Units/Monsters/Demon Lord Deskari/DemonLordDeskari"]}
+{"parents": ["World/Dialogs/c5/Iz/Banner/CueSequence_0037"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust", "Units/Monsters/Demon Lord Deskari/DemonLordDeskari", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustStates/DeskariVoiceBanished"]}

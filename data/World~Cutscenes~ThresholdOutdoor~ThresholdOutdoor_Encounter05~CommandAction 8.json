@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/ThresholdOutdoor_Encounter05"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustStates/XanthirAeonLocust"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/ThresholdOutdoor_Encounter05"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustStates/XanthirAeonLocust", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust"]}

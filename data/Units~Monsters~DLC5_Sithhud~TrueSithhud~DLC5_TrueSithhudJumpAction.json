@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_SithhudJumpDistanceConcideration", "Brain/Considerations/AttackTargetsPriority", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudJumpAbility"]}
+{"children": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_SithhudJumpDistanceConcideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudJumpAbility"]}

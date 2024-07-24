@@ -1,1 +1,1 @@
-{"parents": ["Races/FetchlingRace", "Races/DhampirRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_Dhampir"]}
+{"parents": ["Races/DhampirRace", "Races/FetchlingRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_Dhampir"]}

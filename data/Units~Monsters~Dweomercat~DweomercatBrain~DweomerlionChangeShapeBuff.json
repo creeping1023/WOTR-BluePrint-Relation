@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Dweomercat/DweomercatBrain/DweomerlionChangeShape"], "children": ["CreatureAbilities/ReducedReach", "Spells/Level1/EnlargePersonBuff"]}
+{"parents": ["Units/Monsters/Dweomercat/DweomercatBrain/DweomerlionChangeShape"], "children": ["Spells/Level1/EnlargePersonBuff", "CreatureAbilities/ReducedReach"]}

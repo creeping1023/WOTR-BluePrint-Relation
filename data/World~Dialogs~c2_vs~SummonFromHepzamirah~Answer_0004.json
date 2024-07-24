@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/SummonFromHepzamirah/BookPage_0001", "World/Dialogs/c2_vs/SummonFromHepzamirah/Cue_0008"], "children": ["World/Dialogs/c2_vs/SummonFromHepzamirah/BookPage_0021", "World/Encounters/SummonFromHepzamirah/MythicDemonControl"]}
+{"parents": ["World/Dialogs/c2_vs/SummonFromHepzamirah/Cue_0008", "World/Dialogs/c2_vs/SummonFromHepzamirah/BookPage_0001"], "children": ["World/Dialogs/c2_vs/SummonFromHepzamirah/BookPage_0021", "World/Encounters/SummonFromHepzamirah/MythicDemonControl"]}

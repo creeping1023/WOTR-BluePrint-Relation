@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/BaneLiving", "Weapons/Enchantments/Speed", "Weapons/Enchantments/ElderCorrosive2d6"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Weapons/Enchantments/BaneLiving", "Weapons/Enchantments/ElderCorrosive2d6", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Enhancement5"]}

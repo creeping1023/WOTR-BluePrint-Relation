@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikeFeature"], "children": ["Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikeBuffCastAbility", "Classes/Ranger/Archetypes/SableMarine/Hippogriff/HippogriffFlyingAttackAbility"]}
+{"parents": ["Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikeFeature"], "children": ["Classes/Ranger/Archetypes/SableMarine/Hippogriff/HippogriffFlyingAttackAbility", "Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikeBuffCastAbility"]}

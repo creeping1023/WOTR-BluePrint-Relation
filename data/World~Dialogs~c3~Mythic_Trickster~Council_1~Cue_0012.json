@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_1/Answer_0009"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/Cobblehoof", "World/Dialogs/c3/Mythic_Trickster/Council_1/Cue_0013"]}
+{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_1/Answer_0009"], "children": ["World/Dialogs/c3/Mythic_Trickster/Council_1/Cue_0013", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/Cobblehoof"]}

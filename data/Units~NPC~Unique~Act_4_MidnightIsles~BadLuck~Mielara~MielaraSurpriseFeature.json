@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/MielaraCombat/CommandAction2"], "children": ["Spells/Level8/SeamantleBuff", "Spells/Level2/MirrorImageBuff", "Spells/Level3/HasteBuff", "Spells/Level6/TrueSeeingBuff", "Spells/Level3/DisplacementBuff"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/MielaraCombat/CommandAction2"], "children": ["Spells/Level2/MirrorImageBuff", "Spells/Level8/SeamantleBuff", "Spells/Level3/DisplacementBuff", "Spells/Level3/HasteBuff", "Spells/Level6/TrueSeeingBuff"]}

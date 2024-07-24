@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanWindSpiritGreaterFeature"], "children": ["Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanWindSpiritGreaterResource", "Classes/Shaman/ShamanClass", "FX/Abilities/Kinetic_ElectricBlastLine00"]}
+{"parents": ["Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanWindSpiritGreaterFeature"], "children": ["FX/Abilities/Kinetic_ElectricBlastLine00", "Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanWindSpiritGreaterResource", "Classes/Shaman/ShamanClass"]}

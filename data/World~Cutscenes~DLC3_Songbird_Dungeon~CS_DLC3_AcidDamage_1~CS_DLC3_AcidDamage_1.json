@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_Songbird_Dungeon/CS_DLC3_SongbirdConversion/CommandAction4", "World/Encounters/DLC3_Songbird_Dungeon/ScriptZones/BP_AcidBarrels_1"], "children": ["World/Cutscenes/DLC3_Songbird_Dungeon/CS_DLC3_AcidDamage_1/CommandAction"]}
+{"parents": ["World/Encounters/DLC3_Songbird_Dungeon/ScriptZones/BP_AcidBarrels_1", "World/Cutscenes/DLC3_Songbird_Dungeon/CS_DLC3_SongbirdConversion/CommandAction4"], "children": ["World/Cutscenes/DLC3_Songbird_Dungeon/CS_DLC3_AcidDamage_1/CommandAction"]}

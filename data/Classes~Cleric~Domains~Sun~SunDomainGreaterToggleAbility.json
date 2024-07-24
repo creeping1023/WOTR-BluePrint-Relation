@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Sun/SunDomainGreaterFeature"], "children": ["Classes/Cleric/Domains/Sun/SunDomainGreaterResource", "Classes/Cleric/Domains/Sun/SunDomainGreaterBuff"]}
+{"parents": ["Classes/Cleric/Domains/Sun/SunDomainGreaterFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Sun/SunDomainGreaterBuff", "Classes/Cleric/Domains/Sun/SunDomainGreaterResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Vendor_Tiefling/AnswersList_0003"], "children": ["World/Dialogs/NPC_Common/Vendor_Tiefling/Cue_0011", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust"]}
+{"parents": ["World/Dialogs/NPC_Common/Vendor_Tiefling/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust", "World/Dialogs/NPC_Common/Vendor_Tiefling/Cue_0011"]}

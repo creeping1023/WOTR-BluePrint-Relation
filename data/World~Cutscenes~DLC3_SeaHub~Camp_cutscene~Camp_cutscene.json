@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_SeaHub/ActionsHolders/Rest_interaction"], "children": ["World/Cutscenes/DLC3_SeaHub/Camp_cutscene/CommandFadeout", "World/Cutscenes/DLC3_SeaHub/Camp_cutscene/CommandDelay", "World/Cutscenes/DLC3_SeaHub/Camp_cutscene/CommandAction"]}
+{"parents": ["World/Encounters/DLC3_SeaHub/ActionsHolders/Rest_interaction"], "children": ["World/Cutscenes/DLC3_SeaHub/Camp_cutscene/CommandDelay", "World/Cutscenes/DLC3_SeaHub/Camp_cutscene/CommandAction", "World/Cutscenes/DLC3_SeaHub/Camp_cutscene/CommandFadeout"]}

@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Shields/DLC5/TotalPlus3/AsziteLightShieldItemPlus3"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/LightShieldType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus3"]}
+{"parents": ["Equipment/Shields/DLC5/TotalPlus3/AsziteLightShieldItemPlus3"], "children": ["Equipment/Shields/Enchantments/ShieldEnhancementBonus3", "Equipment/Shields/Types/LightShieldType", "Items/DestructibleItemsShards/MetalShardItem"]}

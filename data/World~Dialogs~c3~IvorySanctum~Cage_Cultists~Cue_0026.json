@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0025"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/BlackFireAdeptLeader_Cage", "World/Cutscenes/IvorySanctum/CultistsGoInsideCage/CultistsGoInsideCage"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0025"], "children": ["World/Cutscenes/IvorySanctum/CultistsGoInsideCage/CultistsGoInsideCage", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/BlackFireAdeptLeader_Cage"]}

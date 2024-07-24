@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Slayer/SlayerSwiftStudyTargetFeature", "Classes/Inquisitor/InquisitorProgression", "Classes/Inquisitor/Archetypes/SanctifiedSlayer/SanctifiedSlayerArchetype"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Inquisitor/InquisitorProgression", "Classes/Inquisitor/Archetypes/SanctifiedSlayer/SanctifiedSlayerArchetype", "Classes/Slayer/SlayerSwiftStudyTargetFeature"]}

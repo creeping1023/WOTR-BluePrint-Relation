@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikePetBuff"], "children": ["Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikeBuff", "Classes/Ranger/Archetypes/SableMarine/Hippogriff/HippogriffFlyingAttackRiderBuff", "Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikeBuff"]}
+{"parents": ["Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikePetBuff"], "children": ["Classes/Ranger/Archetypes/SableMarine/SableMarineSableStrikeBuff", "Classes/Ranger/Archetypes/SableMarine/Hippogriff/HippogriffFlyingAttackRiderBuff"]}

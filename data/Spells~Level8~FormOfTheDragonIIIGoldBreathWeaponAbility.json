@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level8/FormOfTheDragonIIIGoldBuff", "Spells/Level8/FormOfTheDragonIIIRedBuff"], "children": ["FX/Spell Level None/FireCone50Feet00", "Spells/Level8/FormOfTheDragonIIIBreathWeaponCooldownBuff", "Spells/Level8/FormOfTheDragonIIIBreathWeaponCooldownBuff"]}
+{"parents": ["Spells/Level8/FormOfTheDragonIIIGoldBuff", "Spells/Level8/FormOfTheDragonIIIRedBuff"], "children": ["Spells/Level8/FormOfTheDragonIIIBreathWeaponCooldownBuff", "FX/Spell Level None/FireCone50Feet00"]}

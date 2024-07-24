@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/RaspingRifts_DemonRetreat"], "children": ["World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/CommandUnitCastSpell", "World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/gate1"]}
+{"parents": ["World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/RaspingRifts_DemonRetreat"], "children": ["World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/gate1", "World/Cutscenes/RaspingRifts/RaspingRifts_DemonRetreat/CommandUnitCastSpell"]}

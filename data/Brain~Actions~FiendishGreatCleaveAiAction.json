@@ -1,1 +1,1 @@
-{"parents": ["Brain/NPC/FiendishCleaveMonsterBrain"], "children": ["Brain/Considerations/UnitsEnoughForCleave", "Brain/Considerations/AttackTargetsPriority", "CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/HasFiendishSmiteGoodConsideration", "Feats/Cleave/CleaveAction"]}
+{"parents": ["Brain/NPC/FiendishCleaveMonsterBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Feats/Cleave/CleaveAction", "Brain/Considerations/UnitsEnoughForCleave", "CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/HasFiendishSmiteGoodConsideration"]}

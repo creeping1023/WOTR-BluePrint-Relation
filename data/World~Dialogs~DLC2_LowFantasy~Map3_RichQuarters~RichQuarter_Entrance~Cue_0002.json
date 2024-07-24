@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RichQuarter_Entrance/Cue_0013"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RichQuarter_Entrance/AnswersList_0006"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RichQuarter_Entrance/Cue_0013"], "children": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RichQuarter_Entrance/AnswersList_0006", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

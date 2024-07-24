@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/CueSequence_0157"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0160"]}
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/CueSequence_0157"], "children": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0160", "Units/Companions/Nenio/Nenio_Companion"]}

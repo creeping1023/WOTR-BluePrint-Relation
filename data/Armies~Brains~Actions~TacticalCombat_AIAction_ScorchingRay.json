@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_DefaultLeaderBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Spells/Level2/ScorchingRay"]}
+{"parents": ["Armies/Brains/TacticalCombat_DefaultLeaderBrain"], "children": ["Spells/Level2/ScorchingRay", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"]}

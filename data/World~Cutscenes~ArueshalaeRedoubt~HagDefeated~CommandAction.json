@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/HagDefeated/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/ArueshalaeCompanion/ArueshalaeStates/ArueshalaeRedoubtQuest/ArushaNotParty", "Units/Companions/Arueshalae/Arueshalae_Companion"]}
+{"parents": ["World/Cutscenes/ArueshalaeRedoubt/HagDefeated/gate"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/ArueshalaeCompanion/ArueshalaeStates/ArueshalaeRedoubtQuest/ArushaNotParty"]}

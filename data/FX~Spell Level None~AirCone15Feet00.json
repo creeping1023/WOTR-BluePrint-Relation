@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Azata/AzataSpells/SuddenSquall", "CreatureAbilities/Templates/AbyssalCreature/Electricity/AbyssalCreatureElectricitySpecialAttackAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["CreatureAbilities/Templates/AbyssalCreature/Electricity/AbyssalCreatureElectricitySpecialAttackAbility", "Mythic/Azata/AzataSpells/SuddenSquall"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

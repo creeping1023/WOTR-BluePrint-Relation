@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/WarlordWarriorProgression"], "children": ["Armies/Leaders/Abilities/FighterAbilities/FighterGoForTheThroat", "Armies/Leaders/Abilities/FighterAbilities/FighterOverwhelmingShout", "Armies/Leaders/Abilities/FighterAbilities/FighterBattleRage"]}
+{"parents": ["Armies/Leaders/Progression/WarlordWarriorProgression"], "children": ["Armies/Leaders/Abilities/FighterAbilities/FighterOverwhelmingShout", "Armies/Leaders/Abilities/FighterAbilities/FighterBattleRage", "Armies/Leaders/Abilities/FighterAbilities/FighterGoForTheThroat"]}

@@ -1,1 +1,1 @@
-{"children": ["Races/HumanRace", "Units/PortraitsGenerated/3279396c72216bd47af1378ece5363ba_BCT_Gardener", "Sound/Barks/NPC/Bandits/BanditCommon01_Barks", "Factions/CutsceneNeutrals", "Brain/Dumb Monster Brain", "WeaponEmptyHand"]}
+{"children": ["Brain/Dumb Monster Brain", "Sound/Barks/NPC/Bandits/BanditCommon01_Barks", "Units/PortraitsGenerated/3279396c72216bd47af1378ece5363ba_BCT_Gardener", "Races/HumanRace", "WeaponEmptyHand", "Factions/CutsceneNeutrals"]}

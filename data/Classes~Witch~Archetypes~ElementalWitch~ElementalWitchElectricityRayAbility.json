@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/ElementalWitch/ElementalWitchElectricityRayFeature"], "children": ["FX/Spell Level None/ElectroCommonProjectile00", "Weapons/Types/Special/RayItem", "Classes/Witch/WitchClass"]}
+{"parents": ["Classes/Witch/Archetypes/ElementalWitch/ElementalWitchElectricityRayFeature"], "children": ["Weapons/Types/Special/RayItem", "FX/Spell Level None/ElectroCommonProjectile00", "Classes/Witch/WitchClass"]}

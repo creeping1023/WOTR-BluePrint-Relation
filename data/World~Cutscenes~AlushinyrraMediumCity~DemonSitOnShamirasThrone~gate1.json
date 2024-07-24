@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraMediumCity/DemonSitOnShamirasThrone/gate", "World/Cutscenes/AlushinyrraMediumCity/DemonSitOnShamirasThrone/DemonSitOnShamirasThrone"], "children": ["World/Cutscenes/AlushinyrraMediumCity/DemonSitOnShamirasThrone/CommandUnitPlayCutsceneAnimation1"]}
+{"parents": ["World/Cutscenes/AlushinyrraMediumCity/DemonSitOnShamirasThrone/DemonSitOnShamirasThrone", "World/Cutscenes/AlushinyrraMediumCity/DemonSitOnShamirasThrone/gate"], "children": ["World/Cutscenes/AlushinyrraMediumCity/DemonSitOnShamirasThrone/CommandUnitPlayCutsceneAnimation1"]}

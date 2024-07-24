@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Movanic Deva/DevilQuest/AntimagicFieldAbility", "Units/NPC/Commoners/Movanic Deva/DevilQuest/Brain/NoAntimagicFieldConsideration"], "children": ["Units/NPC/Commoners/Movanic Deva/DevilQuest/AntimagicFieldArea"]}
+{"parents": ["Units/NPC/Commoners/Movanic Deva/DevilQuest/Brain/NoAntimagicFieldConsideration", "Units/NPC/Commoners/Movanic Deva/DevilQuest/AntimagicFieldAbility"], "children": ["Units/NPC/Commoners/Movanic Deva/DevilQuest/AntimagicFieldArea"]}

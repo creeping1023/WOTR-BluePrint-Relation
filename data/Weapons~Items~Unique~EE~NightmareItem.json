@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Trident", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/EE/NightmareEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/EE/NightmareEnchantment", "Weapons/Types/SimpleTwoHanded/Trident"]}

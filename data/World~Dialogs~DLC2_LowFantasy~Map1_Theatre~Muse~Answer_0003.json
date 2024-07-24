@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/AnswersList_0004"], "children": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_14", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_0015", "World/Encounters/DLC2_Theatre/UnlockableFlags/Musician_Dialog_State_Flag"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/AnswersList_0004"], "children": ["World/Encounters/DLC2_Theatre/UnlockableFlags/Musician_Dialog_State_Flag", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_0015", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_14"]}

@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Trickster/KnowledgeWorld/TricksterKnowledgeWorldTier2Feature", "Mythic/Trickster/TricksterRank3Selection"], "children": ["Mythic/Trickster/KnowledgeWorld/TricksterKnowledgeWorldTier2Feature"]}
+{"parents": ["Mythic/Trickster/TricksterRank3Selection", "Mythic/Trickster/KnowledgeWorld/TricksterKnowledgeWorldTier2Feature"], "children": ["Mythic/Trickster/KnowledgeWorld/TricksterKnowledgeWorldTier2Feature"]}

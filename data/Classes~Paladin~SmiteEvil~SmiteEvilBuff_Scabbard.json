@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff", "Armies/Abilities/ArmySmiteEvilBuff", "Armies/Abilities/ArmySmiteChaosBuff", "Classes/Paladin/SmiteEvil/SmiteEvilCelestialBuff"], "children": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff"]}
+{"parents": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff", "Classes/Paladin/SmiteEvil/SmiteEvilCelestialBuff", "Armies/Abilities/ArmySmiteChaosBuff", "Armies/Abilities/ArmySmiteEvilBuff"], "children": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff"]}

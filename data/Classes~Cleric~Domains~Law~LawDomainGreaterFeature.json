@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Law/LawDomainProgressionSecondary", "Classes/Cleric/Domains/Law/LawDomainProgression"], "children": ["Classes/Cleric/Domains/Law/LawDomainGreaterAbility", "Classes/Cleric/Domains/Law/LawDomainGreaterResource"]}
+{"parents": ["Classes/Cleric/Domains/Law/LawDomainProgression", "Classes/Cleric/Domains/Law/LawDomainProgressionSecondary"], "children": ["Classes/Cleric/Domains/Law/LawDomainGreaterResource", "Classes/Cleric/Domains/Law/LawDomainGreaterAbility"]}

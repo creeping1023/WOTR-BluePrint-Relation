@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/IrabethHitDoppel/IrabethHitDoppel"], "children": ["World/Cutscenes/DrezenCapital/IrabethHitDoppel/CommandAction", "World/Cutscenes/DrezenCapital/IrabethHitDoppel/gate"]}
+{"parents": ["World/Cutscenes/DrezenCapital/IrabethHitDoppel/IrabethHitDoppel"], "children": ["World/Cutscenes/DrezenCapital/IrabethHitDoppel/gate", "World/Cutscenes/DrezenCapital/IrabethHitDoppel/CommandAction"]}

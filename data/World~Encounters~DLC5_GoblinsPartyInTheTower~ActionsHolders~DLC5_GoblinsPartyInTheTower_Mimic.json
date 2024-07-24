@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_Mimics", "Buffs/NPC_Untargetable", "World/Encounters/LostChapel/Buffs/CantMove", "Factions/Mobs"]}
+{"children": ["World/Encounters/LostChapel/Buffs/CantMove", "Factions/Mobs", "World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_Mimics", "Buffs/NPC_Untargetable"]}

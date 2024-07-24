@@ -1,1 +1,1 @@
-{"parents": ["Tutorials/ContextTutorial/ContextTutor_Autocast"], "children": ["Spells/Level0/RayOfFrost", "Units/Companions/Nenio/Nenio_Companion"]}
+{"parents": ["Tutorials/ContextTutorial/ContextTutor_Autocast"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Spells/Level0/RayOfFrost"]}

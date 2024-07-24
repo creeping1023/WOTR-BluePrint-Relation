@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/Cue_0032"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c1/EstrodTower/Faxon/Cue_0034"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/Cue_0032"], "children": ["World/Dialogs/c1/EstrodTower/Faxon/Cue_0034", "Units/Companions/Seelah/Seelah_Companion"]}

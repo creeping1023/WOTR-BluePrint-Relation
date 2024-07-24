@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/gate5", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/DLC6_Robbery"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/CommandMoveUnit4", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/CommandAction4"]}
+{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/gate5", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/DLC6_Robbery"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/CommandAction4", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Robbery/CommandMoveUnit4"]}

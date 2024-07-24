@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/InRangeConsideration", "Brain/Considerations/NoCaster", "Brain/Considerations/AoE_AvoidSelf", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/EyebiteAbility"]}
+{"children": ["Brain/Considerations/AoE_AvoidSelf", "Spells/Level6/EyebiteAbility", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoCaster", "Brain/Considerations/InRangeConsideration"]}

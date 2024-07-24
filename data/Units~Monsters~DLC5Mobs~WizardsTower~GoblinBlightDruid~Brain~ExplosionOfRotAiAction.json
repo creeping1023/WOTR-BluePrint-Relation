@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinBlightDruid/Brain/DLC5_CR7_Goblin_DruidBrain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/AttackTargetsPriority", "Spells/DLC4NewSpells/ExplosionOfRot"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/GoblinBlightDruid/Brain/DLC5_CR7_Goblin_DruidBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_AvoidFriends", "Spells/DLC4NewSpells/ExplosionOfRot", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

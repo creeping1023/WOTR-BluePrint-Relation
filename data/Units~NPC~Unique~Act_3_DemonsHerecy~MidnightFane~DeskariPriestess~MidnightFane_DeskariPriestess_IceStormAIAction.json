@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/DeskariPriestess/MidnightFane_DeskariPriestess_Brain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/IceStorm"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/DeskariPriestess/MidnightFane_DeskariPriestess_Brain"], "children": ["Spells/Level4/IceStorm", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

@@ -1,1 +1,1 @@
-{"children": ["Buffs/NPC_Untargetable", "CreatureAbilities/Unlootable"]}
+{"children": ["CreatureAbilities/Unlootable", "Buffs/NPC_Untargetable"]}

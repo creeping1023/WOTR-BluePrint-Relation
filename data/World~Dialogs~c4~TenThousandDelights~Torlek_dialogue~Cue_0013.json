@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Answer_0007"], "children": ["Buffs/NPC_Immortality", "Buffs/NPC_Protection", "World/Cutscenes/LostChapel/UnitAttackAndKillParam/UnitAttackAndKillParam"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Answer_0007", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Buffs/NPC_Protection", "Buffs/NPC_Immortality", "World/Cutscenes/LostChapel/UnitAttackAndKillParam/UnitAttackAndKillParam"]}

@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonPowerOfLawGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeResource", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonPowerOfLawGazeBaseBuff"]}
+{"parents": ["Mythic/Aeon/AeonGaze/AeonPowerOfLawGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonPowerOfLawGazeBaseBuff", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonGazeResource"]}

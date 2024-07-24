@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC4NewSpells/MortalTerror"], "children": ["Spells/DLC4NewSpells/MortalTerrorBuffImmune", "Buffs/Frightened", "Buffs/Unconsious", "Buffs/Frightened", "Spells/DLC4NewSpells/MortalTerrorBuffImmune"]}
+{"parents": ["Spells/DLC4NewSpells/MortalTerror"], "children": ["Spells/DLC4NewSpells/MortalTerrorBuffImmune", "Buffs/Frightened", "Buffs/Unconsious"]}

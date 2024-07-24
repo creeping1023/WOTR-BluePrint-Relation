@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Sacrifice/Answer_0003"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "World/Dialogs/DLC5_StoryEnds/AbyssHub/Sacrifice/Cue_0007"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Sacrifice/Answer_0003"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Sacrifice/Cue_0007", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"], "children": ["Spells/Level6/HeroismGreaterBuff", "Spells/Level2/BlurBuff", "Spells/Level3/HasteBuff", "Spells/Level5/SpellResistanceBuff", "Spells/Level6/TrueSeeingBuff"]}
+{"parents": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"], "children": ["Spells/Level5/SpellResistanceBuff", "Spells/Level3/HasteBuff", "Spells/Level6/HeroismGreaterBuff", "Spells/Level2/BlurBuff", "Spells/Level6/TrueSeeingBuff"]}

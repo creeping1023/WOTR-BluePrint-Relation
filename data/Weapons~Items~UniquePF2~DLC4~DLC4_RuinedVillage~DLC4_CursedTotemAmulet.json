@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC4_RuinedVillage/ConditionsHolders/OffCursedTotem_ItemRestriction", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Loot/Quest/DLC4_RuinedVillage/Loot2"]}
+{"parents": ["Loot/Quest/DLC4_RuinedVillage/Loot2", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "World/Encounters/DLC4_RuinedVillage/ConditionsHolders/OffCursedTotem_ItemRestriction"]}

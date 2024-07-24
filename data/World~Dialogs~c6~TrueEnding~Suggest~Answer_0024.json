@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/TrueEnding/Suggest/Answer_0008", "World/Dialogs/c6/TrueEnding/Suggest/AnswersList_0002"], "children": ["World/Dialogs/c6/TrueEnding/Suggest/Cue_0025", "World/Etudes/Common/WrathOfTheRighteous/TrueEnding/TE_BannerProject"]}
+{"parents": ["World/Dialogs/c6/TrueEnding/Suggest/AnswersList_0002", "World/Dialogs/c6/TrueEnding/Suggest/Answer_0008"], "children": ["World/Etudes/Common/WrathOfTheRighteous/TrueEnding/TE_BannerProject", "World/Dialogs/c6/TrueEnding/Suggest/Cue_0025"]}

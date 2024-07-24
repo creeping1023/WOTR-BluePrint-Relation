@@ -1,1 +1,1 @@
-{"parents": ["Classes/StudentOfWar/StudentOfWarKnowSlowYourEnemyFeature"], "children": ["Classes/StudentOfWar/StudentOfWarKnowYourEnemyBuff", "Classes/StudentOfWar/StudentOfWarDeadlyBlow", "Classes/StudentOfWar/StudentOfWarDeadlyBlowBuff"]}
+{"parents": ["Classes/StudentOfWar/StudentOfWarKnowSlowYourEnemyFeature"], "children": ["Classes/StudentOfWar/StudentOfWarDeadlyBlowBuff", "Classes/StudentOfWar/StudentOfWarKnowYourEnemyBuff", "Classes/StudentOfWar/StudentOfWarDeadlyBlow"]}

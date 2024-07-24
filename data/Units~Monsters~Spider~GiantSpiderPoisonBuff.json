@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Enchantments/JagannathKhandaPoisonBuff", "Units/Monsters/Spider/GiantSpiderPoisonFeature", "Brain/Considerations/HasPoison"]}
+{"parents": ["Units/Monsters/Spider/GiantSpiderPoisonFeature", "Weapons/Enchantments/JagannathKhandaPoisonBuff", "Brain/Considerations/HasPoison"]}

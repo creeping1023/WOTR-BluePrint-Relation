@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/LightsOut/LightsOut"], "children": ["World/Encounters/GrayGarrison/SummonPools/CutistsWardstoneRitual", "Buffs/NPC_Untargetable"]}
+{"parents": ["World/Cutscenes/GrayGarrison/LightsOut/LightsOut"], "children": ["Buffs/NPC_Untargetable", "World/Encounters/GrayGarrison/SummonPools/CutistsWardstoneRitual"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level3/Slow", "Equipment/Rings/Artisan/HumanMaleAlchemist/RingOfBigBoomEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Rings/Artisan/HumanMaleAlchemist/RingOfBigBoomEnchantment", "Items/DestructibleItemsShards/MetalShardItem", "Spells/Level3/Slow"]}

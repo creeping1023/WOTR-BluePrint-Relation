@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC1_ShamiraAmbush_ExitAvailable", "World/Etudes/Common/DLC1_Megaepic", "World/Etudes/Common/DLC1_ShamiraAmbush_Mechanics"], "children": ["World/Etudes/Common/DLC1_Megaepic", "World/Etudes/Common/DLC1_ShamiraAmbush_Mechanics"]}
+{"parents": ["World/Etudes/Common/DLC1_ShamiraAmbush_Mechanics", "World/Etudes/Common/DLC1_Megaepic", "World/Etudes/Common/DLC1_ShamiraAmbush_ExitAvailable"], "children": ["World/Etudes/Common/DLC1_ShamiraAmbush_Mechanics", "World/Etudes/Common/DLC1_Megaepic"]}

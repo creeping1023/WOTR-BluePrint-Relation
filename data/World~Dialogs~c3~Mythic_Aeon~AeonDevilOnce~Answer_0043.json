@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/AnswersList_0038"], "children": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/Cue_0045", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonStates/AllowDevilToConcludeContracts"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/AnswersList_0038"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonStates/AllowDevilToConcludeContracts", "World/Dialogs/c3/Mythic_Aeon/AeonDevilOnce/Cue_0045"]}

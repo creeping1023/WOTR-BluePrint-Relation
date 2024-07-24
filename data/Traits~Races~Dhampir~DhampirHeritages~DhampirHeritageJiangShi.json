@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Dhampir/DhampirHeritages/DhampirHeritageSelection", "Units/Pregens/StartGame/Prebuilds/PrebuildBarbarianFeatureList", "Units/Pregens/StartGame/Prebuilds/PrebuildShifterFeatureList"], "children": ["Mythic/Feats/DestinyBeyondBirthMythicFeat"]}
+{"parents": ["Traits/Races/Dhampir/DhampirHeritages/DhampirHeritageSelection", "Units/Pregens/StartGame/Prebuilds/PrebuildShifterFeatureList", "Units/Pregens/StartGame/Prebuilds/PrebuildBarbarianFeatureList"], "children": ["Mythic/Feats/DestinyBeyondBirthMythicFeat"]}

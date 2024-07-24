@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Vendor_Tiefling/AnswersList_0051"], "children": ["World/Dialogs/NPC_Common/Vendor_Tiefling/Cue_0056", "World/Encounters/DrezenCapital/UnlockableFlags/Aeon_RenegadeCounter"]}
+{"parents": ["World/Dialogs/NPC_Common/Vendor_Tiefling/AnswersList_0051"], "children": ["World/Encounters/DrezenCapital/UnlockableFlags/Aeon_RenegadeCounter", "World/Dialogs/NPC_Common/Vendor_Tiefling/Cue_0056"]}

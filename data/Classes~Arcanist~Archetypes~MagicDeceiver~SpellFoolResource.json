@@ -1,1 +1,1 @@
-{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/SpellFoolFeature", "Classes/Arcanist/Archetypes/MagicDeceiver/EnchantmentFoolFeature"], "children": ["Classes/Arcanist/ArcanistClass"]}
+{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/EnchantmentFoolFeature", "Classes/Arcanist/Archetypes/MagicDeceiver/SpellFoolFeature"], "children": ["Classes/Arcanist/ArcanistClass"]}

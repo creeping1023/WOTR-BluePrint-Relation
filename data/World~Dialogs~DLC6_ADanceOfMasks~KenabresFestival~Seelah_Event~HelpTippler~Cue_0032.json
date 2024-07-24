@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Seelah_Event/HelpTippler/Cue_0029"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_GnomeDrunkard"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Seelah_Event/HelpTippler/Cue_0029"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_GnomeDrunkard", "Units/Companions/Seelah/Seelah_Companion"]}

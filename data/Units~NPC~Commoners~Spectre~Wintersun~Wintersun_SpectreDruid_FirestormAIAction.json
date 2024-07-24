@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainMain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level7/FireStorm"]}
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainMain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level7/FireStorm", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

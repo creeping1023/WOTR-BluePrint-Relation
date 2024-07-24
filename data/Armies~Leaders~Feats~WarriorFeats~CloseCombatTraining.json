@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Warlords/WarlordLeaderLegend4_2", "Armies/Leaders/Progression/FeatWarriorPersonalChoice1", "Armies/Leaders/Progression/FeatWarriorPersonalChoice5"], "children": ["Armies/Leaders/Feats/WarriorFeats/CloseCombatTrainingFeature"]}
+{"parents": ["Armies/Leaders/Progression/FeatWarriorPersonalChoice1", "Armies/Leaders/Progression/FeatWarriorPersonalChoice5", "Armies/Leaders/Warlords/WarlordLeaderLegend4_2"], "children": ["Armies/Leaders/Feats/WarriorFeats/CloseCombatTrainingFeature"]}

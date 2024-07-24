@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/DLC5_CR5_BearCelestial"], "children": ["Units/Monsters/DLC5Mobs/WizardsTower/DLC5_CelestialAttackAiAttack", "CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/CelestialSmiteEvilAiAction"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/DLC5_CR5_BearCelestial"], "children": ["CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/CelestialSmiteEvilAiAction", "Units/Monsters/DLC5Mobs/WizardsTower/DLC5_CelestialAttackAiAttack"]}

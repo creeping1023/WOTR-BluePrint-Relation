@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Vescavor/VescavorGuardBrain/CR19_VescavorGuardSpitAcidAiAction", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/Forn_brain/Forn_OutflankAiAction"]}
+{"children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/Forn_brain/Forn_OutflankAiAction", "Units/Monsters/Vescavor/VescavorGuardBrain/CR19_VescavorGuardSpitAcidAiAction", "Brain/Actions/AttackAiAction"]}

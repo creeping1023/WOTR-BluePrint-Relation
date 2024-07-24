@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaStates/CamelliaState_NotInPartyQ1", "World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/CamelliaRedHanded_dialogue"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/CamelliaRedHanded_dialogue", "World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaStates/CamelliaState_NotInPartyQ1"]}

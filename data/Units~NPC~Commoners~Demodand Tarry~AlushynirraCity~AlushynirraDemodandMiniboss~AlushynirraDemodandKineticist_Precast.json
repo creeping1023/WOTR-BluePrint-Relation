@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demodand Tarry/AlushynirraCity/AlushynirraDemodandKineticist"], "children": ["Spells/Level3/HeroismBuff", "Spells/Level2/BarkskinBuff", "Spells/Level2/CatsGraceBuff", "Spells/Level2/BearsEnduranceBuff"]}
+{"parents": ["Units/NPC/Commoners/Demodand Tarry/AlushynirraCity/AlushynirraDemodandKineticist"], "children": ["Spells/Level2/BearsEnduranceBuff", "Spells/Level2/BarkskinBuff", "Spells/Level2/CatsGraceBuff", "Spells/Level3/HeroismBuff"]}

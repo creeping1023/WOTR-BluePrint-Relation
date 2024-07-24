@@ -1,1 +1,1 @@
-{"parents": ["Root/TacticalCombatRoot", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedFaction", "Armies/Factions/Crusaders"], "children": ["Armies/Factions/Crusaders"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedFaction", "Root/TacticalCombatRoot", "Armies/Factions/Crusaders"], "children": ["Armies/Factions/Crusaders"]}

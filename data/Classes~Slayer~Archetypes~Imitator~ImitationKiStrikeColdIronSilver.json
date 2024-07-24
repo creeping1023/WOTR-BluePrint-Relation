@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/Imitator/ImitationMonkBuff"], "children": ["Weapons/Types/NaturalWeapon/EmptyHand", "Weapons/Types/NaturalWeapon/EmptyHand", "Weapons/Types/Special/Unarmed", "Weapons/Types/Special/Unarmed"]}
+{"parents": ["Classes/Slayer/Archetypes/Imitator/ImitationMonkBuff"], "children": ["Weapons/Types/Special/Unarmed", "Weapons/Types/NaturalWeapon/EmptyHand"]}

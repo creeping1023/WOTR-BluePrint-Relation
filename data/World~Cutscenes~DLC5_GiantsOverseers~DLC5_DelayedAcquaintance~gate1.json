@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_DelayedAcquaintance/gate", "World/Cutscenes/DLC5_GiantsOverseers/DLC5_DelayedAcquaintance/DLC5_DelayedAcquaintance"], "children": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_DelayedAcquaintance/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_DelayedAcquaintance/DLC5_DelayedAcquaintance", "World/Cutscenes/DLC5_GiantsOverseers/DLC5_DelayedAcquaintance/gate"], "children": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_DelayedAcquaintance/CommandStartDialog"]}

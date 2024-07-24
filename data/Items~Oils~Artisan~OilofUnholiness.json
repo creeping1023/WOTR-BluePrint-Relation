@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Items/Oils/Artisan/OilofUnholinessAbility"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/Oils/Artisan/OilofUnholinessAbility", "Items/DestructibleItemsShards/GlassShardItem"]}

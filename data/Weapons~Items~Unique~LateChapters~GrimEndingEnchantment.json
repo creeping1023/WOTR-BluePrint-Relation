@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/GrimEndingItem"], "children": ["Weapons/Items/Unique/LateChapters/GrimEndingFeature", "Spells/Level3/VampiricTouch"]}
+{"parents": ["Weapons/Items/Unique/LateChapters/GrimEndingItem"], "children": ["Spells/Level3/VampiricTouch", "Weapons/Items/Unique/LateChapters/GrimEndingFeature"]}

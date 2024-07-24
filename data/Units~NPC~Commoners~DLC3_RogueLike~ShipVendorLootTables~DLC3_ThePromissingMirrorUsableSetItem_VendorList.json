@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_ThePromissingMirrorUsableSet", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items"], "children": ["Items/UsableSlotItem/DLC3/DLC3_ThePromissingMirrorUsableSetItem"]}
+{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_ThePromissingMirrorUsableSet"], "children": ["Items/UsableSlotItem/DLC3/DLC3_ThePromissingMirrorUsableSetItem"]}

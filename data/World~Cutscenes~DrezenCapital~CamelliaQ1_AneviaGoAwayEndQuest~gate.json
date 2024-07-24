@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/CamelliaQ1_AneviaGoAwayEndQuest/gate 1", "World/Cutscenes/DrezenCapital/CamelliaQ1_AneviaGoAwayEndQuest/CamelliaQ1_AneviaGoAwayEndQuest"], "children": ["World/Cutscenes/DrezenCapital/CamelliaQ1_AneviaGoAwayEndQuest/CommandAction 1"]}
+{"parents": ["World/Cutscenes/DrezenCapital/CamelliaQ1_AneviaGoAwayEndQuest/CamelliaQ1_AneviaGoAwayEndQuest", "World/Cutscenes/DrezenCapital/CamelliaQ1_AneviaGoAwayEndQuest/gate 1"], "children": ["World/Cutscenes/DrezenCapital/CamelliaQ1_AneviaGoAwayEndQuest/CommandAction 1"]}

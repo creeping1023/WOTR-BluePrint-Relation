@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/BaneLiving", "Weapons/Items/Unique/EE/PenaltyEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Weapons/Items/Unique/EE/PenaltyEnchantment", "Weapons/Enchantments/BaneLiving", "Weapons/Enchantments/Enhancement3"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/LongGoodbye/LongGoodbye_dialogue"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/LongGoodbye/Cue_2"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/LongGoodbye/LongGoodbye_dialogue"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/LongGoodbye/Cue_2", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]}

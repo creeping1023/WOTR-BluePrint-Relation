@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyHasteFeature"], "children": ["Armies/Abilities/ArmyHasteBuff", "Armies/Abilities/ArmyHasteResource"]}
+{"parents": ["Armies/Abilities/ArmyHasteFeature"], "children": ["Armies/Abilities/ArmyHasteResource", "Armies/Abilities/ArmyHasteBuff"]}

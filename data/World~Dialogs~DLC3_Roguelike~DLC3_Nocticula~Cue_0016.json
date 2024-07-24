@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/DLC3_Nocticula/Cue_0001"], "children": ["DLC/MainGame/MainCampaign", "World/Encounters/DLC3_SeaHub/UnlockableFlags/DLC3_NoctaKnows", "World/Dialogs/DLC3_Roguelike/DLC3_Nocticula/Cue_0018"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/DLC3_Nocticula/Cue_0001"], "children": ["DLC/MainGame/MainCampaign", "World/Dialogs/DLC3_Roguelike/DLC3_Nocticula/Cue_0018", "World/Encounters/DLC3_SeaHub/UnlockableFlags/DLC3_NoctaKnows"]}

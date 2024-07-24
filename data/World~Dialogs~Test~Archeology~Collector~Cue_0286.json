@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/Archeology/Collector/CueSequence_0044"], "children": ["Items/Archeology/Artifacts/Tech/Artifact_StarGauntlet-shard", "World/Dialogs/Test/Archeology/Collector/Cue_0290"]}
+{"parents": ["World/Dialogs/Test/Archeology/Collector/CueSequence_0044"], "children": ["World/Dialogs/Test/Archeology/Collector/Cue_0290", "Items/Archeology/Artifacts/Tech/Artifact_StarGauntlet-shard"]}

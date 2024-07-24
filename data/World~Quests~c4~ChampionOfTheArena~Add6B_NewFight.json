@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c4/ChampionOfTheArena/Obj4_JoinToSecondFight", "World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Answer_0131"], "children": ["World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"]}
+{"parents": ["World/Quests/c4/ChampionOfTheArena/Obj4_JoinToSecondFight", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Answer_0131", "World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"], "children": ["World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"]}

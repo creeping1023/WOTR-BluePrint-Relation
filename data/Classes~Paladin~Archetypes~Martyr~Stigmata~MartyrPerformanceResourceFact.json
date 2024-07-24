@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrArchetype"], "children": ["Classes/Paladin/Archetypes/Martyr/Stigmata/MartyrPerformanceResource", "Classes/Paladin/Archetypes/Martyr/Stigmata/MartyrPerformanceResource", "Classes/Paladin/PaladinClass", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]}
+{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrArchetype"], "children": ["Classes/Paladin/Archetypes/Martyr/Stigmata/MartyrPerformanceResource", "Classes/Paladin/PaladinClass", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]}

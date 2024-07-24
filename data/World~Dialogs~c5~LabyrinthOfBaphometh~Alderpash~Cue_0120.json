@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0119"], "children": ["World/Encounters/TheIvoryLabyrinth/Items/RuneOfJandelayItem", "World/Quests/c5/LiberationOfWrath/Obj3_MakeReinforce", "World/Cutscenes/TheIvoryLabyrinth/AlderpashFreed_scene/AlderpashFreed_scene"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0119"], "children": ["World/Cutscenes/TheIvoryLabyrinth/AlderpashFreed_scene/AlderpashFreed_scene", "World/Encounters/TheIvoryLabyrinth/Items/RuneOfJandelayItem", "World/Quests/c5/LiberationOfWrath/Obj3_MakeReinforce"]}

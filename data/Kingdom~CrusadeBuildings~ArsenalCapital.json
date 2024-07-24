@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot", "Kingdom/CrusadeProjects/UpgradeSettlements/DrezenCh3BuildList"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingArsenal", "Kingdom/Settlement/Settlement00_Drezen"]}
+{"parents": ["Kingdom/CrusadeProjects/UpgradeSettlements/DrezenCh3BuildList", "Root/Kingdom/KingdomRoot"], "children": ["Kingdom/Settlement/Settlement00_Drezen", "Armies/Abilities/BonusFactsForArmy/ArmyBuildingArsenal"]}

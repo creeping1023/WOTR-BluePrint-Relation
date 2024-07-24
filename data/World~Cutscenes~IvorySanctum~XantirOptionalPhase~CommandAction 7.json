@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/IvorySanctum/XantirOptionalPhase/gate"], "children": ["Buffs/NPC_Untargetable", "World/Encounters/IvorySanctum/SummonPools/XantirSwarm7", "World/Encounters/IvorySanctum/SummonPools/XantirSwarm7"]}
+{"parents": ["World/Cutscenes/IvorySanctum/XantirOptionalPhase/gate"], "children": ["World/Encounters/IvorySanctum/SummonPools/XantirSwarm7", "Buffs/NPC_Untargetable"]}

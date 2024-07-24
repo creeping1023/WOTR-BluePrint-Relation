@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Worm_in_the_cave/DLC4_Worm_in_the_cave", "World/Cutscenes/DLC4_Gundrun/DLC4_Worm_in_the_cave/gate2"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_Worm_in_the_cave/CommandAction4"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Worm_in_the_cave/gate2", "World/Cutscenes/DLC4_Gundrun/DLC4_Worm_in_the_cave/DLC4_Worm_in_the_cave"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_Worm_in_the_cave/CommandAction4"]}

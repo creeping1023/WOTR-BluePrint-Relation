@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/Aeon/Aeon6KolyarutCooldown", "Kingdom/CrusadeProjects/Aeon/AeonFlags/FlagAeon6Kolyarut", "Kingdom/CrusadeProjects/Aeon/Aeon6KolyarutCooldown", "Armies/Presets/ProjectSummon/AeonKolyarut", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/Presets/ProjectSummon/AeonKolyarut", "Kingdom/CrusadeProjects/Aeon/AeonFlags/FlagAeon6Kolyarut", "GlobalMaps/WorldWoundGM/Points/Point_Drezen", "Kingdom/CrusadeProjects/Aeon/Aeon6KolyarutCooldown"]}

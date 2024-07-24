@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit", "QA/Arbiter/Scenario/Act_4_MidnightIsles/Nexus", "World/Areas/Act_4_MidnightIsles/Nexus/Presets/Nexus_Hub_Preset"], "children": ["World/Areas/Act_4_MidnightIsles/Nexus/Nexus", "World/Areas/Act_4_MidnightIsles/Nexus/NexusMines"]}
+{"parents": ["World/Areas/Act_4_MidnightIsles/Nexus/Presets/Nexus_Hub_Preset", "QA/Clockwork/Scenario/Act_1/Efimov_Summit", "QA/Arbiter/Scenario/Act_4_MidnightIsles/Nexus"], "children": ["World/Areas/Act_4_MidnightIsles/Nexus/Nexus", "World/Areas/Act_4_MidnightIsles/Nexus/NexusMines"]}

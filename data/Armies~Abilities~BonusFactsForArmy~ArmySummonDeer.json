@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonDeerFeature"], "children": ["Armies/UnitBlueprints/ArmyDeer", "Buffs/SummonedCreatureSpawnAllyI-III", "Buffs/ArmySummonedCreatureVisual", "Armies/Abilities/BonusFactsForArmy/ArmySummonDeerResource"]}
+{"parents": ["Armies/Abilities/BonusFactsForArmy/ArmySummonDeerFeature"], "children": ["Buffs/SummonedCreatureSpawnAllyI-III", "Buffs/ArmySummonedCreatureVisual", "Armies/UnitBlueprints/ArmyDeer", "Armies/Abilities/BonusFactsForArmy/ArmySummonDeerResource"]}

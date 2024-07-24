@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/EstrodTower/RQ_Barrel_Projectile"], "children": ["Spells/CutsceneSpells/EstrodTower/ColumnProjectile", "Spells/CutsceneSpells/EstrodTower/ColumnProjectile_Trajectory"]}
+{"parents": ["Spells/CutsceneSpells/EstrodTower/RQ_Barrel_Projectile"], "children": ["Spells/CutsceneSpells/EstrodTower/ColumnProjectile_Trajectory", "Spells/CutsceneSpells/EstrodTower/ColumnProjectile"]}

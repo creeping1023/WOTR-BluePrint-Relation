@@ -1,1 +1,1 @@
-{"parents": ["Equipment/DLC6BonusItems/CorsetOfDireWitchcraftFeature"], "children": ["Classes/Witch/WitchClass", "Equipment/DLC6BonusItems/CorsetOfDireWitchcraftBuffWitch", "Equipment/DLC6BonusItems/CorsetOfDireWitchcraftBuffWitch"]}
+{"parents": ["Equipment/DLC6BonusItems/CorsetOfDireWitchcraftFeature"], "children": ["Equipment/DLC6BonusItems/CorsetOfDireWitchcraftBuffWitch", "Classes/Witch/WitchClass"]}

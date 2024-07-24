@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/RaptureOfRupture/Velexia_Main/Cue_0092"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c4/RaptureOfRupture/Velexia_Main/AnswersList_0082"]}
+{"parents": ["World/Dialogs/c4/RaptureOfRupture/Velexia_Main/Cue_0092"], "children": ["World/Dialogs/c4/RaptureOfRupture/Velexia_Main/AnswersList_0082", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

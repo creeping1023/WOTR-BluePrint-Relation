@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/Unfair Challenge"], "children": ["DLC/DLC5/Dlc5Campaign", "Achievements/Groups/DLC5TrophyGroup"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/Unfair Challenge"], "children": ["Achievements/Groups/DLC5TrophyGroup", "DLC/DLC5/Dlc5Campaign"]}

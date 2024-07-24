@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/c3/MoltenScar/PrisonedKnight/Cue_0055"]}
+{"parents": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041"], "children": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/Cue_0055", "Units/Companions/Camelia/Camelia_Companion"]}

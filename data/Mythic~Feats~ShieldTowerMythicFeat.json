@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicFeatSelection"], "children": ["Mythic/Feats/ShieldTowerMythicBuffDR", "Feats/ShieldFocus"]}
+{"parents": ["Mythic/MythicFeatSelection"], "children": ["Feats/ShieldFocus", "Mythic/Feats/ShieldTowerMythicBuffDR"]}

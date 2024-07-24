@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/DivineHunter/DivineHuntersBlessingFeature"], "children": ["Classes/Paladin/SmiteEvil/SmiteEvilResource", "Classes/Paladin/Archetypes/DivineHunter/DivineHuntersBlessingBuff", "Mythic/MythicIgnoreAlignmentRestrictions"]}
+{"parents": ["Classes/Paladin/Archetypes/DivineHunter/DivineHuntersBlessingFeature"], "children": ["Classes/Paladin/Archetypes/DivineHunter/DivineHuntersBlessingBuff", "Classes/Paladin/SmiteEvil/SmiteEvilResource", "Mythic/MythicIgnoreAlignmentRestrictions"]}

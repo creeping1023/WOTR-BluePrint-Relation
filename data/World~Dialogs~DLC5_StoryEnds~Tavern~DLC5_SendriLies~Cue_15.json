@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_SendriLies/Cue_0011"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_SendriLies/Cue_0015"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_SendriLies/Cue_0011"], "children": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_SendriLies/Cue_0015", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

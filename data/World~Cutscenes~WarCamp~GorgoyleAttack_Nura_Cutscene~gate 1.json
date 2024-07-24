@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/gate"], "children": ["World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/CommandStartDialog", "World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/gate 2"]}
+{"parents": ["World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/gate"], "children": ["World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/gate 2", "World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/CommandStartDialog"]}

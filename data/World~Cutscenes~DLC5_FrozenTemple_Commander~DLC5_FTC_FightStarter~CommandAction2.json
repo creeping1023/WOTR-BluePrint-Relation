@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple_Commander/DLC5_FTC_FightStarter/gate4"], "children": ["Factions/Mobs", "Factions/Mobs", "Factions/Mobs", "World/Encounters/DLC5_FrozenTemple_Commander/SummonPools/DLC5_FTC_LichParty", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple_Commander/DLC5_FTC_FightStarter/gate4"], "children": ["Factions/Mobs", "World/Encounters/DLC5_FrozenTemple_Commander/SummonPools/DLC5_FTC_LichParty"]}

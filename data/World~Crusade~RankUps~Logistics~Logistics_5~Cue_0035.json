@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Logistics/Logistics_5/CueSequence_0030"], "children": ["World/Crusade/RankUps/Logistics/Logistics_5/Cue_0013", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Crusade/RankUps/Logistics/Logistics_5/CueSequence_0030"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Crusade/RankUps/Logistics/Logistics_5/Cue_0013"]}

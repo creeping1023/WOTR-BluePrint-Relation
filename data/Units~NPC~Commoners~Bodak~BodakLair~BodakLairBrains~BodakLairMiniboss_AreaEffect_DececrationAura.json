@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Bodak/BodakLair/BodakLairBrains/BodakLairMiniboss_Buff_DesecrationAura"], "children": ["Traits/Races/Common/UndeadType", "Units/NPC/Commoners/Bodak/BodakLair/BodakLairBrains/BodakLairMiniboss_Buff_DesecrationAuraEffect"]}
+{"parents": ["Units/NPC/Commoners/Bodak/BodakLair/BodakLairBrains/BodakLairMiniboss_Buff_DesecrationAura"], "children": ["Units/NPC/Commoners/Bodak/BodakLair/BodakLairBrains/BodakLairMiniboss_Buff_DesecrationAuraEffect", "Traits/Races/Common/UndeadType"]}

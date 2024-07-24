@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyBanishment", "Armies/Leaders/Feats/MageFeats/SpellPracticeBuff", "Armies/Abilities/ArmyBanishment_Summoned", "Armies/Abilities/ArmyBanishmentFact"]}
+{"parents": ["Armies/Abilities/ArmyBanishmentFact", "Armies/Abilities/ArmyBanishment_Summoned", "Armies/Abilities/ArmyBanishment", "Armies/Leaders/Feats/MageFeats/SpellPracticeBuff"]}

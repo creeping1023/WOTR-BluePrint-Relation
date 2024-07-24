@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_WolfSoul_Dialog/Answer_5"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Spirit_Animals/DLC4_WolfAlpha_Soul", "Buffs/NPC_Protection", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_WolfSoul_Dialog/Answer_5"], "children": ["Factions/Mobs", "Buffs/NPC_Protection", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Spirit_Animals/DLC4_WolfAlpha_Soul"]}

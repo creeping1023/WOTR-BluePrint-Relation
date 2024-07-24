@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Aeon/C4Aeon_InThePast/C4Aeon_XanthirFuture/Answer_0004"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/MythicAeon_DrezenHistoryChanged", "World/Dialogs/c4/Mythic_Aeon/C4Aeon_InThePast/C4Aeon_XanthirFuture/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c4/Mythic_Aeon/C4Aeon_InThePast/C4Aeon_XanthirFuture/Answer_0004"], "children": ["World/Dialogs/c4/Mythic_Aeon/C4Aeon_InThePast/C4Aeon_XanthirFuture/AnswersList_0002", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/MythicAeon_DrezenHistoryChanged"]}

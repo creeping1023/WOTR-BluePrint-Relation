@@ -1,1 +1,1 @@
-{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverSpellList"], "children": ["Spells/DLC6NewSpells/PeerThroughSpellResistanceBuff", "DLC/DLC6/Dlc6Reward", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverSpellList"]}
+{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverSpellList"], "children": ["DLC/DLC6/Dlc6Reward", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverSpellList", "Spells/DLC6NewSpells/PeerThroughSpellResistanceBuff"]}

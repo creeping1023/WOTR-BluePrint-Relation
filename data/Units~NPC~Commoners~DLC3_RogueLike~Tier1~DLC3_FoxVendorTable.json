@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier1_original1", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier3_original", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier2_original"], "children": ["World/Encounters/LostChapel/Items/DesnaAstrolabe"]}
+{"parents": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier2_original", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier1_original1", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Falconium_tier3_original"], "children": ["World/Encounters/LostChapel/Items/DesnaAstrolabe"]}

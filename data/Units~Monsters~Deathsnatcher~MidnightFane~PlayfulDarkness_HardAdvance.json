@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/MidnightFane/PlayfulDarkness_HardFeature"], "children": ["Classes/Monster/MonstrousHumanoid/MonstrousHumanoidClass", "Classes/Basic/BasicFeatSelection", "Feats/HammerTheGap"]}
+{"parents": ["Units/Monsters/Deathsnatcher/MidnightFane/PlayfulDarkness_HardFeature"], "children": ["Classes/Basic/BasicFeatSelection", "Feats/HammerTheGap", "Classes/Monster/MonstrousHumanoid/MonstrousHumanoidClass"]}

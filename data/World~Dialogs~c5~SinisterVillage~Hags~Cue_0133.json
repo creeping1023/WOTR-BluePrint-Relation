@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Answer_0122"], "children": ["Units/Monsters/Hag/SinisterVillage/Hag_Loreda", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0128"]}
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Answer_0122"], "children": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0128", "Units/Monsters/Hag/SinisterVillage/Hag_Loreda"]}

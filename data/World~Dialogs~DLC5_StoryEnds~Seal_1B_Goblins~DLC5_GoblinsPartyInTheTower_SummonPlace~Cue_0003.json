@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_GoblinsPartyInTheTower_SummonPlace/Cue_5"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_GoblinsPartyInTheTower_SummonPlace/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_GoblinsPartyInTheTower_SummonPlace/Cue_5"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_GoblinsPartyInTheTower_SummonPlace/AnswersList_0002", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]}

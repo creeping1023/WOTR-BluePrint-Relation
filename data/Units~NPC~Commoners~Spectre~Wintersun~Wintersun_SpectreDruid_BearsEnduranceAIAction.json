@@ -1,1 +1,1 @@
-{"children": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_NotSelfConsideration", "Brain/Considerations/NoBuffBearsEndurance", "Spells/Level6/BearsEnduranceMass"]}
+{"children": ["Spells/Level6/BearsEnduranceMass", "Brain/Considerations/NoBuffBearsEndurance", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_NotSelfConsideration"]}

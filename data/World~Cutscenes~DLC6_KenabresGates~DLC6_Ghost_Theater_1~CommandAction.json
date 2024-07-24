@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Ghost_Theater_1/DLC6_Ghost_Theater_1"], "children": ["World/Encounters/DLC6_KenabresGates/UnlockableFlags/DLC6_GhostSpeaksNow_Flags", "World/Cutscenes/GenericScenes/UnitApplause_Param/UnitApplause_Param"]}
+{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Ghost_Theater_1/DLC6_Ghost_Theater_1"], "children": ["World/Cutscenes/GenericScenes/UnitApplause_Param/UnitApplause_Param", "World/Encounters/DLC6_KenabresGates/UnlockableFlags/DLC6_GhostSpeaksNow_Flags"]}

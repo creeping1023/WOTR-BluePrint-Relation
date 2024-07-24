@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Ecorche/EcorcheBrain/Ecorche_Feature_SeizeSkin", "Mythic/SwarmThatWalks/SwarmThatWalksProgression"], "children": ["Mythic/SwarmThatWalks/SwarmSizeProperty", "Mythic/SwarmThatWalks/SwarmSizeProperty", "Mythic/SwarmThatWalks/SwarmSizeProperty", "Mythic/SwarmThatWalks/SwarmSizeProperty", "Mythic/SwarmThatWalks/SwarmSizeProperty"]}
+{"parents": ["Mythic/SwarmThatWalks/SwarmThatWalksProgression", "Units/Monsters/Ecorche/EcorcheBrain/Ecorche_Feature_SeizeSkin"], "children": ["Mythic/SwarmThatWalks/SwarmSizeProperty"]}

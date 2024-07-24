@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenSlayerUnit", "Races/HalfOrcRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_HalfOrc"]}
+{"parents": ["Races/HalfOrcRace", "Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenSlayerUnit"], "children": ["EquipmentEntities/Bodies/KEE_Body_HalfOrc"]}

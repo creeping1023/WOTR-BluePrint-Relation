@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/TailType", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Artisan/Half-OrcEnforcer/DragonEssence/DragonEssenceBaneDragon"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Artisan/Half-OrcEnforcer/DragonEssence/DragonEssenceBaneDragon", "Weapons/Enchantments/Enhancement5", "Weapons/Types/NaturalWeapon/TailType"]}

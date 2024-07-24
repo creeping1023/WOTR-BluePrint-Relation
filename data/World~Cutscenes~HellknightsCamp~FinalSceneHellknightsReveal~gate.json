@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/FinalSceneHellknightsReveal"], "children": ["World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/CommandStartDialog", "World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/gate2"]}
+{"parents": ["World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/FinalSceneHellknightsReveal"], "children": ["World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/gate2", "World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/CommandStartDialog"]}

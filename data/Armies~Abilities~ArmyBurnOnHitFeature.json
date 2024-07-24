@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyFireElementalMedium", "Armies/UnitBlueprints/ArmyGiantSalamander"], "children": ["Armies/Abilities/ArmyBurnOnHitBuff"]}
+{"parents": ["Armies/UnitBlueprints/ArmyGiantSalamander", "Armies/UnitBlueprints/ArmyFireElementalMedium"], "children": ["Armies/Abilities/ArmyBurnOnHitBuff"]}

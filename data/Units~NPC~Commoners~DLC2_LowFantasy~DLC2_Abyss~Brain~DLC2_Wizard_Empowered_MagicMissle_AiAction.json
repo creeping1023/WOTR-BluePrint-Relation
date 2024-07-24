@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/Brain/CR8_Human_Sorcerer_Brain_Abyss"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level1/MagicMissile"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/Brain/CR8_Human_Sorcerer_Brain_Abyss"], "children": ["Spells/Level1/MagicMissile", "Brain/Considerations/AttackTargetsPriority"]}

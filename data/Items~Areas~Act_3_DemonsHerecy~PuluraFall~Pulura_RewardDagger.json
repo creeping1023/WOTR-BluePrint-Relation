@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c3/Pulura_C3/Pulura_C3_main/Nidalav/Cue_0013"], "children": ["Items/DestructibleItemsShards/DustShardItem", "Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c3/Pulura_C3/Pulura_C3_main/Nidalav/Cue_0013"], "children": ["Weapons/Types/SimpleLight/Dagger", "Items/DestructibleItemsShards/DustShardItem", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement3"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/UsableSlotItem/DLC5/DLC5_SuccubusCandleItem"], "children": ["Items/UsableSlotItem/DLC5/DLC5_CR7_PlayfuiSuccubusSummoned", "Buffs/SummonedCreatureSpawnMonsterIV-VI"]}
+{"parents": ["Items/UsableSlotItem/DLC5/DLC5_SuccubusCandleItem"], "children": ["Buffs/SummonedCreatureSpawnMonsterIV-VI", "Items/UsableSlotItem/DLC5/DLC5_CR7_PlayfuiSuccubusSummoned"]}

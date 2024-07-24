@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Speed", "Weapons/Enchantments/GhostTouch"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Speed", "Weapons/Enchantments/GhostTouch"]}

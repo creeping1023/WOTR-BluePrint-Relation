@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Enchantment/SpecialisationSchoolEnchantmentProgression"], "children": ["Classes/Wizard/Enchantment/EnchantmentSchoolGreaterToggleAbility", "Classes/Wizard/Enchantment/EnchantmentSchoolGreaterResource"]}
+{"parents": ["Classes/Wizard/Enchantment/SpecialisationSchoolEnchantmentProgression"], "children": ["Classes/Wizard/Enchantment/EnchantmentSchoolGreaterResource", "Classes/Wizard/Enchantment/EnchantmentSchoolGreaterToggleAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Prologue_Caves_1/ScriptZones/SkillcheckTutor"], "children": ["Tutorials/DirectTutorial/NewTutorial_13_SkillCheckObj_Gamepad", "Encyclopedia/Tutorial_13_SkillCheckObj"]}
+{"parents": ["World/Encounters/Prologue_Caves_1/ScriptZones/SkillcheckTutor"], "children": ["Encyclopedia/Tutorial_13_SkillCheckObj", "Tutorials/DirectTutorial/NewTutorial_13_SkillCheckObj_Gamepad"]}

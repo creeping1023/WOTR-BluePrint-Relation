@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Angel/AngelSpells/AngelSunForm"], "children": ["CreatureAbilities/Incorporeal", "Mythic/Angel/AngelSpells/AngelSunFormRay", "Mythic/Angel/AngelSpells/AngelSunFormRay"]}
+{"parents": ["Mythic/Angel/AngelSpells/AngelSunForm"], "children": ["Mythic/Angel/AngelSpells/AngelSunFormRay", "CreatureAbilities/Incorporeal"]}

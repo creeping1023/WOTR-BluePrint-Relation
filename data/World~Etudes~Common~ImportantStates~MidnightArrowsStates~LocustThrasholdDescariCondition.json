@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0069", "World/Dialogs/c6/SecondFloor/GrandFinal/Answer_0010", "Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverEnchantment"], "children": ["World/Etudes/Common/ImportantStates/MidnightArrowsStates/DeskariThresholdConditions"]}
+{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0069", "Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverEnchantment", "World/Dialogs/c6/SecondFloor/GrandFinal/Answer_0010"], "children": ["World/Etudes/Common/ImportantStates/MidnightArrowsStates/DeskariThresholdConditions"]}

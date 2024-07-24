@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter3/BadTemperItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter3/BadTemperItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

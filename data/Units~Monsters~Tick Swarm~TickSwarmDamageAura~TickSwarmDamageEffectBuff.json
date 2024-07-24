@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Tick Swarm/TickSwarmDamageAura/TickSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff", "Buffs/SwarmTargetBuff"]}
+{"parents": ["Units/Monsters/Tick Swarm/TickSwarmDamageAura/TickSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff"]}

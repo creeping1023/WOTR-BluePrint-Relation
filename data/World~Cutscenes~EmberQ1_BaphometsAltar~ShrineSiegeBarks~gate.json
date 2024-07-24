@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/EmberQ1_BaphometsAltar/ShrineSiegeBarks/gate 12", "World/Cutscenes/EmberQ1_BaphometsAltar/ShrineSiegeBarks/ShrineSiegeBarks"], "children": ["World/Cutscenes/EmberQ1_BaphometsAltar/ShrineSiegeBarks/CommandAction 1"]}
+{"parents": ["World/Cutscenes/EmberQ1_BaphometsAltar/ShrineSiegeBarks/ShrineSiegeBarks", "World/Cutscenes/EmberQ1_BaphometsAltar/ShrineSiegeBarks/gate 12"], "children": ["World/Cutscenes/EmberQ1_BaphometsAltar/ShrineSiegeBarks/CommandAction 1"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Necromancy/NecromancySchoolBaseFeature"], "children": ["Classes/Wizard/Necromancy/NecromancySchoolBaseResource", "Weapons/Types/Special/TouchItem", "Buffs/Shaken", "Buffs/Frightened", "Buffs/Shaken", "Buffs/Shaken", "Classes/Wizard/WizardClass", "Classes/Wizard/WizardClass"]}
+{"parents": ["Classes/Wizard/Necromancy/NecromancySchoolBaseFeature"], "children": ["Weapons/Types/Special/TouchItem", "Buffs/Shaken", "Buffs/Frightened", "Classes/Wizard/WizardClass", "Classes/Wizard/Necromancy/NecromancySchoolBaseResource"]}

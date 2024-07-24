@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/IvorySanctum/XantirSecondPhase/CommandAction", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "Root/Upgraders/Player/PF-321118"]}
+{"parents": ["Root/Upgraders/Player/PF-321118", "World/Cutscenes/IvorySanctum/XantirSecondPhase/CommandAction", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"]}

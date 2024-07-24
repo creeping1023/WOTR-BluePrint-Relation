@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital", "World/Encounters/DrezenCapital/UnlockableFlags/RestTime", "World/Cutscenes/DrezenCapital/RestCutscene/RestCutscene"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Encounters/DrezenCapital/UnlockableFlags/RestTime", "World/Cutscenes/DrezenCapital/RestCutscene/RestCutscene", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"]}

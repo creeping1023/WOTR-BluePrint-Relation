@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Dragon/DragonStupidQuests/OrgomandiasQuest2/Answer_0008", "Dugeons/Loot/DungeonLootExclude", "Loot/Trash/CR22/PF2_CoolDemons_AlmestrDiary"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Trash/CR22/PF2_CoolDemons_AlmestrDiary", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/Mythic_Dragon/DragonStupidQuests/OrgomandiasQuest2/Answer_0008"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

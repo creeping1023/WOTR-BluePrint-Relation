@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/AlushinyrraCity/ActionsHolders/LowerCity_BarkSceneDrugs_Actions"], "children": ["World/Cutscenes/AlushinyrraLowerCity/LowerCityBarkScene_Drugs/CommandBark", "World/Cutscenes/AlushinyrraLowerCity/LowerCityBarkScene_Drugs/gate 1"]}
+{"parents": ["World/Encounters/AlushinyrraCity/ActionsHolders/LowerCity_BarkSceneDrugs_Actions"], "children": ["World/Cutscenes/AlushinyrraLowerCity/LowerCityBarkScene_Drugs/gate 1", "World/Cutscenes/AlushinyrraLowerCity/LowerCityBarkScene_Drugs/CommandBark"]}

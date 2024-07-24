@@ -1,1 +1,1 @@
-{"parents": ["Root/TacticalCombatRoot"], "children": ["Armies/UnitBlueprints/ArmyGibrilethStandard", "Armies/UnitBlueprints/ArmyInfantry", "Armies/UnitBlueprints/ArmyRiftDrakeStandard", "Armies/UnitBlueprints/ArmyDragonBrass", "Armies/Leaders/Warlords/WarlordLeaderRanger4"]}
+{"parents": ["Root/TacticalCombatRoot"], "children": ["Armies/UnitBlueprints/ArmyDragonBrass", "Armies/UnitBlueprints/ArmyRiftDrakeStandard", "Armies/UnitBlueprints/ArmyGibrilethStandard", "Armies/UnitBlueprints/ArmyInfantry", "Armies/Leaders/Warlords/WarlordLeaderRanger4"]}

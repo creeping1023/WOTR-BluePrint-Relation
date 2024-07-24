@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/AnswersList_0007", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsQuest/EmberQ"], "children": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0109", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0057"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsQuest/EmberQ", "World/Dialogs/c1/KenabresBurning/MeetEmber/AnswersList_0007"], "children": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0057", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0109"]}

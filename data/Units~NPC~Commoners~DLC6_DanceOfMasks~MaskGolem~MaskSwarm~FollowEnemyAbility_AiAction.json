@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/MaskSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/FollowEnemyAbility"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/MaskSwarmBrain"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/FollowEnemyAbility", "Brain/Considerations/SwarmTargetsPriority"]}

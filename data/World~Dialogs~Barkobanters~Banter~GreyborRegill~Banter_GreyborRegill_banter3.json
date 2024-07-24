@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Etudes/Common/WrathOfTheRighteous/Chapter06", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/HelloSsila/HelloSsila_dialogue", "Units/Companions/Regill/Regill_Companion"]}
+{"parents": ["Root/BlueprintRoot"], "children": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/HelloSsila/HelloSsila_dialogue", "Units/Companions/Greybor/Greybor_Companion", "Units/Companions/Regill/Regill_Companion", "World/Etudes/Common/WrathOfTheRighteous/Chapter06"]}

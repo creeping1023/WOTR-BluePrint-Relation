@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Minagho_GreyGarrison", "Units/Monsters/Bear/Wintersun/DLC1_WintersunBear", "Units/Monsters/Bear/Wintersun/WintersunBear"], "children": ["Spells/Level4/DimensionDoorBase"]}
+{"parents": ["Units/Monsters/Bear/Wintersun/DLC1_WintersunBear", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Minagho_GreyGarrison", "Units/Monsters/Bear/Wintersun/WintersunBear"], "children": ["Spells/Level4/DimensionDoorBase"]}

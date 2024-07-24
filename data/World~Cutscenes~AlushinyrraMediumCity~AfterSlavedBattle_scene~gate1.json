@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraMediumCity/AfterSlavedBattle_scene/gate"], "children": ["World/Cutscenes/AlushinyrraMediumCity/AfterSlavedBattle_scene/CommandStartDialog", "World/Cutscenes/AlushinyrraMediumCity/AfterSlavedBattle_scene/gate2"]}
+{"parents": ["World/Cutscenes/AlushinyrraMediumCity/AfterSlavedBattle_scene/gate"], "children": ["World/Cutscenes/AlushinyrraMediumCity/AfterSlavedBattle_scene/gate2", "World/Cutscenes/AlushinyrraMediumCity/AfterSlavedBattle_scene/CommandStartDialog"]}

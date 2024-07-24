@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DemonCh5/DrezenCapital_Demons", "Root/Upgraders/Player/PF-232797"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"]}
+{"parents": ["Root/Upgraders/Player/PF-232797", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DemonCh5/DrezenCapital_Demons"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"]}

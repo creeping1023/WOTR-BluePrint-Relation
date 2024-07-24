@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/ShamblingMound/ShamblingMoundGrabActivatableAbility"], "children": ["Weapons/Types/NaturalWeapon/SlamType", "Units/Monsters/ShamblingMound/ShamblingMoundGrappledInitiatorBuff", "Units/Monsters/ShamblingMound/ShamblingMoundGrappledTargetBuff"]}
+{"parents": ["Units/Monsters/ShamblingMound/ShamblingMoundGrabActivatableAbility"], "children": ["Units/Monsters/ShamblingMound/ShamblingMoundGrappledTargetBuff", "Weapons/Types/NaturalWeapon/SlamType", "Units/Monsters/ShamblingMound/ShamblingMoundGrappledInitiatorBuff"]}

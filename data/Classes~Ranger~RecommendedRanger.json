@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/Prebuilds/PrebuildRangerFeatureList", "Units/Pregens/StartGame/StartGamePregenRangerFeatureList"], "children": ["Classes/Ranger/RangerClass"]}
+{"parents": ["Units/Pregens/StartGame/StartGamePregenRangerFeatureList", "Units/Pregens/StartGame/Prebuilds/PrebuildRangerFeatureList"], "children": ["Classes/Ranger/RangerClass"]}

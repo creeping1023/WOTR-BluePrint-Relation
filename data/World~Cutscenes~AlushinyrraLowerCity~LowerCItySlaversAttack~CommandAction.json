@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/LowerCItySlaversAttack/gate"], "children": ["World/Encounters/AlushinyrraLowerCity/SummonPools/LowerCitySlaverGroup1", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/LowerCItySlaversAttack/gate"], "children": ["Factions/Mobs", "World/Encounters/AlushinyrraLowerCity/SummonPools/LowerCitySlaverGroup1"]}

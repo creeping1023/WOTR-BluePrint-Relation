@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmBleedBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmAbility"], "children": ["Classes/Warpriest/WarpriestClass"]}
+{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmAbility", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmBleedBuff"], "children": ["Classes/Warpriest/WarpriestClass"]}

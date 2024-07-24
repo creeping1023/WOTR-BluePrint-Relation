@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_AlushinyrraPort/DarkBalor_FinalFight/DarkBalor_FinalFight"], "children": ["World/Encounters/DLC3_AlushinyrraPort/SummonPools/Balor", "World/Encounters/DLC3_SeaHub/ActionsHolders/Balor_FX", "Root/SystemMechanics/Conditions/SummonedUnitBuff"]}
+{"parents": ["World/Cutscenes/DLC3_AlushinyrraPort/DarkBalor_FinalFight/DarkBalor_FinalFight"], "children": ["World/Encounters/DLC3_SeaHub/ActionsHolders/Balor_FX", "Root/SystemMechanics/Conditions/SummonedUnitBuff", "World/Encounters/DLC3_AlushinyrraPort/SummonPools/Balor"]}

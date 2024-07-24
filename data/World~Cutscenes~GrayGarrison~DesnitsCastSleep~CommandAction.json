@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/DesnitsCastSleep/gate 3"], "children": ["Spells/CutsceneSpells/CloakofDreamsEffectBuff_GG", "Factions/TrueNeutrals"]}
+{"parents": ["World/Cutscenes/GrayGarrison/DesnitsCastSleep/gate 3"], "children": ["Factions/TrueNeutrals", "Spells/CutsceneSpells/CloakofDreamsEffectBuff_GG"]}

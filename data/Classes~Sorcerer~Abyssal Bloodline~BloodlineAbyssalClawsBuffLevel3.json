@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClawsAbililyLevel3"], "children": ["Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClaw1d6", "Weapons/Types/NaturalWeapon/ClawType"]}
+{"parents": ["Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClawsAbililyLevel3"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalClaw1d6"]}

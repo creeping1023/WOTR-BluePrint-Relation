@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditBard/BanditInspireCourageFeature"], "children": ["Classes/Bard/BardicPerformances/BardicPerformanceResource", "Classes/Bard/BardicPerformances/InspireCourage/InspireCourageBuff"]}
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditBard/BanditInspireCourageFeature"], "children": ["Classes/Bard/BardicPerformances/InspireCourage/InspireCourageBuff", "Classes/Bard/BardicPerformances/BardicPerformanceResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/MonsterParts/HydraEyeLoot", "Dugeons/Loot/DungeonLootJunk"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Items/MonsterParts/HydraEyeLoot", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootJunk"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

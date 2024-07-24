@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Wenduag_Event/Wenduag_Event_dialogue/Answer_0050"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Wenduag_Event/Wenduag_Event_dialogue/Cue_0052"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Wenduag_Event/Wenduag_Event_dialogue/Answer_0050"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Wenduag_Event/Wenduag_Event_dialogue/Cue_0052", "Units/Companions/Wenduag/Wenduag_Companion"]}

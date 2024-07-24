@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/CameliaKillsKaylessa/gate"], "children": ["Buffs/NPC_Immortality", "Buffs/NPC_Protection"]}
+{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/CameliaKillsKaylessa/gate"], "children": ["Buffs/NPC_Protection", "Buffs/NPC_Immortality"]}

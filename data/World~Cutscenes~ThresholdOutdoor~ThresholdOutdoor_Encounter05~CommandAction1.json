@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate1"], "children": ["World/Encounters/ThresholdOutdoor/SummonPools/ThresholdOutdoorHelpers05", "World/Cutscenes/TerendelevLair/CombatModeParam/CombatModeParam"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate1"], "children": ["World/Cutscenes/TerendelevLair/CombatModeParam/CombatModeParam", "World/Encounters/ThresholdOutdoor/SummonPools/ThresholdOutdoorHelpers05"]}

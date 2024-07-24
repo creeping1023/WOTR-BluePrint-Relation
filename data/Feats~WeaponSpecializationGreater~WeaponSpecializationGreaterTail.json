@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationTail"], "children": ["Weapons/Types/NaturalWeapon/TailType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationTail", "Weapons/Types/NaturalWeapon/TailType1d12"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationTail"], "children": ["Weapons/Types/NaturalWeapon/TailType1d12", "Feats/WeaponSpecialization/WeaponSpecializationTail", "Classes/Fighter/FighterClass", "Weapons/Types/NaturalWeapon/TailType"]}

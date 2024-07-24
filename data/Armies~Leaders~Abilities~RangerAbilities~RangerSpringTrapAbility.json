@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerSpringTrap"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerSpringTrapArea", "Armies/Leaders/Abilities/RangerAbilities/RangerSpringTrapResource", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerSpringTrap"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerSpringTrapResource", "Armies/Leaders/Abilities/RangerAbilities/RangerSpringTrapArea", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}

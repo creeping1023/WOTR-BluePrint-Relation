@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerTidbitStartCombatBuff", "Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerTidbitFeature", "Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerTidbitPetFeature"]}
+{"parents": ["Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerTidbitPetFeature", "Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerTidbitFeature", "Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerTidbitStartCombatBuff"]}

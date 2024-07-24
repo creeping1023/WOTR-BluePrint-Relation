@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/GateGuard/GateGuard_dialogue"], "children": ["World/Quests/Companions/Grimbor/Q2_QuestionOfReputation/Obj1_GoToVillodus", "World/Dialogs/c4/GateGuard/AnswersList_0002", "World/Dialogs/c4/GateGuard/CueSequence_0109"]}
+{"parents": ["World/Dialogs/c4/GateGuard/GateGuard_dialogue"], "children": ["World/Dialogs/c4/GateGuard/AnswersList_0002", "World/Dialogs/c4/GateGuard/CueSequence_0109", "World/Quests/Companions/Grimbor/Q2_QuestionOfReputation/Obj1_GoToVillodus"]}

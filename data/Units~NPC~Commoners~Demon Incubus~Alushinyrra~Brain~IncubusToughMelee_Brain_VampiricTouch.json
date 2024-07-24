@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/NocticulaCaptain"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Demon Incubus/Alushinyrra/Brain/Incubus_VampiricTouchAiAction"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/NocticulaCaptain"], "children": ["Units/NPC/Commoners/Demon Incubus/Alushinyrra/Brain/Incubus_VampiricTouchAiAction", "Brain/Actions/AttackAiAction"]}

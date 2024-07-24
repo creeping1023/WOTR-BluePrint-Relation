@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/2B_FirstMeet/Cue_5"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/2B_FirstMeet/Cue_12"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/2B_FirstMeet/Cue_5"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/2B_FirstMeet/Cue_12", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Loot/Quest/WarCamp/BookLoot_2", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/HorgusManor/PoorLootLibrary03"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/HorgusManor/PoorLootLibrary03", "Loot/Quest/WarCamp/BookLoot_2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

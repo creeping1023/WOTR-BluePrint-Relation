@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/LannUnlockRomance", "World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_3/AnswersList_0032"], "children": ["World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_3/Cue_0035"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_3/AnswersList_0032", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/LannUnlockRomance"], "children": ["World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_3/Cue_0035"]}

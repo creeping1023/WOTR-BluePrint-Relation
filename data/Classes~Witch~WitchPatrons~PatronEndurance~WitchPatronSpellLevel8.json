@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level8/PolarRay"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Spells/Level8/PolarRay", "Classes/Witch/WitchClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/Boss1_4_castSpell_scene/CommandUnitCastSpell"], "children": ["Spells/CutsceneSpells/AreshkagalDungeon/GreedStackBuff", "Spells/CutsceneSpells/AreshkagalDungeon/GreedStackBuff", "Spells/CutsceneSpells/AreshkagalDungeon/GreedStackBuff"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/Boss1_4_castSpell_scene/CommandUnitCastSpell"], "children": ["Spells/CutsceneSpells/AreshkagalDungeon/GreedStackBuff"]}

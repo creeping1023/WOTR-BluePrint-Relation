@@ -1,1 +1,1 @@
-{"parents": ["Items/UsableSlotItem/DLC5/DLC5_DirgesingersChoirArea"], "children": ["Classes/Bard/BardClass", "Classes/Skald/SkaldClass", "Classes/Bard/BardClass", "Classes/Skald/SkaldClass"]}
+{"parents": ["Items/UsableSlotItem/DLC5/DLC5_DirgesingersChoirArea"], "children": ["Classes/Skald/SkaldClass", "Classes/Bard/BardClass"]}

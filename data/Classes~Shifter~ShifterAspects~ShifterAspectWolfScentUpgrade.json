@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterAspects/ShifterAspectWolfBuff"], "children": ["Classes/Shifter/ShifterClass", "Classes/Shifter/ShifterAspects/ShifterAspectWolfScent20", "Classes/Shifter/ShifterClass", "Classes/Shifter/ShifterAspects/ShifterAspectWolfScent30"]}
+{"parents": ["Classes/Shifter/ShifterAspects/ShifterAspectWolfBuff"], "children": ["Classes/Shifter/ShifterAspects/ShifterAspectWolfScent30", "Classes/Shifter/ShifterAspects/ShifterAspectWolfScent20", "Classes/Shifter/ShifterClass"]}

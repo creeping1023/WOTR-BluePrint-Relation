@@ -1,1 +1,1 @@
-{"children": ["Classes/Wizard/Archetypes/ShadowCaster/Shadowform/ShadowCapStone", "Buffs/SummonedCreatureSpawnMonsterI-III", "Classes/Wizard/Archetypes/ShadowCaster/SummonShadows/ShadowPowerBuff", "Classes/Wizard/Archetypes/ShadowCaster/SummonShadows/ShadowSummonPool"]}
+{"children": ["Classes/Wizard/Archetypes/ShadowCaster/SummonShadows/ShadowPowerBuff", "Classes/Wizard/Archetypes/ShadowCaster/SummonShadows/ShadowSummonPool", "Buffs/SummonedCreatureSpawnMonsterI-III", "Classes/Wizard/Archetypes/ShadowCaster/Shadowform/ShadowCapStone"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_KestoglyrWaiting/Colyphyr_KestoglyrWaiting"], "children": ["Spells/CutsceneSpells/ProneBuff", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KestoglyrUndead"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_KestoglyrWaiting/Colyphyr_KestoglyrWaiting"], "children": ["World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KestoglyrUndead", "Spells/CutsceneSpells/ProneBuff"]}

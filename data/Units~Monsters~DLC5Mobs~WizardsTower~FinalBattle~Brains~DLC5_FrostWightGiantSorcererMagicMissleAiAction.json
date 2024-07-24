@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/Brains/DLC5_FrostWightGiantSorcererBrain"], "children": ["Brain/Considerations/ChaoticConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level1/MagicMissile"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/Brains/DLC5_FrostWightGiantSorcererBrain"], "children": ["Spells/Level1/MagicMissile", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/ChaoticConsideration"]}

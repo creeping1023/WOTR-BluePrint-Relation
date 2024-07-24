@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/HideType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Items/Unique/LateChapters/LinnormHideEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Enchantments/ArmorEnhancementBonus5", "Equipment/Armor/Types/HideType", "Equipment/Armor/Items/Unique/LateChapters/LinnormHideEnchant", "Classes/Monster/Dragon/DragonClass"]}

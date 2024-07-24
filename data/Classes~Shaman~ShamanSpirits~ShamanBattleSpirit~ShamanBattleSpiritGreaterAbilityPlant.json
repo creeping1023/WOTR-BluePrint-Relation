@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanBattleSpiritGreaterAbility"], "children": ["Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanBattleSpiritGreaterBuffPlant", "Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanBattleSpiritGreaterResource"]}
+{"parents": ["Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanBattleSpiritGreaterAbility"], "children": ["Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanBattleSpiritGreaterResource", "Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanBattleSpiritGreaterBuffPlant"]}

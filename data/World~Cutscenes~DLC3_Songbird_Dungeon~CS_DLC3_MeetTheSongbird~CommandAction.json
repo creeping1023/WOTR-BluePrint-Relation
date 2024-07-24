@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_Songbird_Dungeon/CS_DLC3_MeetTheSongbird/gate1"], "children": ["Factions/CutsceneNeutrals", "Buffs/Areas/Act_2_SwordOfValor/DrezenCitadel_Level1/VisionRange2", "Buffs/Areas/Act_2_SwordOfValor/DrezenCitadel_Level1/VisionRange2"]}
+{"parents": ["World/Cutscenes/DLC3_Songbird_Dungeon/CS_DLC3_MeetTheSongbird/gate1"], "children": ["Buffs/Areas/Act_2_SwordOfValor/DrezenCitadel_Level1/VisionRange2", "Factions/CutsceneNeutrals"]}

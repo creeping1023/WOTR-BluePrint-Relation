@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/DeskariPriestess/MidnightFane_DeskariPriestess"], "children": ["Spells/Level1/ShieldOfFaith", "Spells/Level6/HealCast"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/DeskariPriestess/MidnightFane_DeskariPriestess"], "children": ["Spells/Level6/HealCast", "Spells/Level1/ShieldOfFaith"]}

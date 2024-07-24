@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TheIvoryLabyrinth/HeraldDefeatedInSecondPhase/HeraldDefeatedInSecondPhase"], "children": ["World/Encounters/TheIvoryLabyrinth/SummonPools/HeraldSecondPhase", "Factions/CutsceneNeutrals"]}
+{"parents": ["World/Cutscenes/TheIvoryLabyrinth/HeraldDefeatedInSecondPhase/HeraldDefeatedInSecondPhase"], "children": ["Factions/CutsceneNeutrals", "World/Encounters/TheIvoryLabyrinth/SummonPools/HeraldSecondPhase"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/MephistophelesFeatures/Mephisto_Feature_Metamagic"], "children": ["Spells/Level8/Sunburst", "Spells/Level7/FireStorm", "Spells/Level5/FireSnake", "Spells/Level4/VolcanicStorm"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/MephistophelesFeatures/Mephisto_Feature_Metamagic"], "children": ["Spells/Level5/FireSnake", "Spells/Level4/VolcanicStorm", "Spells/Level7/FireStorm", "Spells/Level8/Sunburst"]}

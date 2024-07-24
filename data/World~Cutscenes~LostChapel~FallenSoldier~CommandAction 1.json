@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/FallenSoldier/FallenSoldier"], "children": ["World/Encounters/LostChapel/SummonPools/GargoyleFallenSoldier", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/LostChapel/FallenSoldier/FallenSoldier"], "children": ["Factions/Mobs", "World/Encounters/LostChapel/SummonPools/GargoyleFallenSoldier"]}

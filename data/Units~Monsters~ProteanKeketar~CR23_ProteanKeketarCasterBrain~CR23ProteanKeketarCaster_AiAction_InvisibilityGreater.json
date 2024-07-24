@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/ProteanKeketar/CR23_ProteanKeketarCasterBrain/CR23ProteanKeketarCaster_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Spells/Level4/InvisibilityGreater", "Spells/Level8/PolarRay", "Spells/Level8/Sunburst", "Spells/Level8/Stormbolts"]}
+{"parents": ["Units/Monsters/ProteanKeketar/CR23_ProteanKeketarCasterBrain/CR23ProteanKeketarCaster_Brain"], "children": ["Spells/Level4/InvisibilityGreater", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level8/PolarRay", "Spells/Level8/Stormbolts", "Spells/Level8/Sunburst"]}

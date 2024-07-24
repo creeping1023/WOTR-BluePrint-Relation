@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/FinalSermon/Answer_0034"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/FinalSermon/Cue_0040"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/FinalSermon/Answer_0034"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/FinalSermon/Cue_0040", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"]}

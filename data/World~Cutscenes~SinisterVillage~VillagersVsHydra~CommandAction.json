@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/SinisterVillage/VillagersVsHydra/gate"], "children": ["World/Encounters/SinisterVillage/SummonPools/HydraFight", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/SinisterVillage/VillagersVsHydra/gate"], "children": ["Factions/Mobs", "World/Encounters/SinisterVillage/SummonPools/HydraFight"]}

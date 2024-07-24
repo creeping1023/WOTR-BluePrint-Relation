@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterMajorForms/Dinosaur/ShifterWildShapeDinosaurFeatureLevelUp"], "children": ["Classes/Shifter/ShifterMajorForms/Dinosaur/ShifterWildShapeDinosaurAbillity", "Classes/Shifter/ShifterMajorForms/ShifterWildShapeResource"]}
+{"parents": ["Classes/Shifter/ShifterMajorForms/Dinosaur/ShifterWildShapeDinosaurFeatureLevelUp"], "children": ["Classes/Shifter/ShifterMajorForms/ShifterWildShapeResource", "Classes/Shifter/ShifterMajorForms/Dinosaur/ShifterWildShapeDinosaurAbillity"]}

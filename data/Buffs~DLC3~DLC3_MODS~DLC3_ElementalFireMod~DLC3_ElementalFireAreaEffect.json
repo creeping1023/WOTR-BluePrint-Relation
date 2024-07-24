@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC6Mobs/ElementalPillars/DLC6_FireColumnBuff", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalFireMod/DLC3_ElementalFireBuff"], "children": ["Buffs/DLC3/DLC3_MODS/DLC3_ElementalFireMod/DLC3_ElementalFireBurnBuff", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalFireMod/DLC3_ElementalFireBurnBuff"]}
+{"parents": ["Buffs/DLC3/DLC3_MODS/DLC3_ElementalFireMod/DLC3_ElementalFireBuff", "Units/Monsters/DLC6Mobs/ElementalPillars/DLC6_FireColumnBuff"], "children": ["Buffs/DLC3/DLC3_MODS/DLC3_ElementalFireMod/DLC3_ElementalFireBurnBuff"]}

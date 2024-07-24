@@ -1,1 +1,1 @@
-{"children": ["Spells/Level3/ArchonsAuraImmuneBuff", "Classes/Warpriest/Blessings/Charm/CharmBlessingMinorProperty", "Classes/Warpriest/Blessings/Glory/GloryBlessingMinorImmuneBuff", "Classes/Warpriest/Blessings/Glory/GloryBlessingMinorAuraEffectBuff"]}
+{"children": ["Classes/Warpriest/Blessings/Glory/GloryBlessingMinorImmuneBuff", "Classes/Warpriest/Blessings/Glory/GloryBlessingMinorAuraEffectBuff", "Spells/Level3/ArchonsAuraImmuneBuff", "Classes/Warpriest/Blessings/Charm/CharmBlessingMinorProperty"]}

@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Devil/HellsSeal/HellsSealVariantFireExplosionBuff"], "children": ["Mythic/Devil/HellsSeal/HellsSealVariantFireExplosionDamageBuff", "Mythic/Aeon/AeonGaze/AeonGazeDCProperty"]}
+{"parents": ["Mythic/Devil/HellsSeal/HellsSealVariantFireExplosionBuff"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeDCProperty", "Mythic/Devil/HellsSeal/HellsSealVariantFireExplosionDamageBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level0/Flare", "Weapons/Types/ExoticOneHanded/DwarvenWaraxe", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Speed", "Weapons/Items/Artisan/DwarvenMaleArmorsmith/OpportunistsWarhammerEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticOneHanded/DwarvenWaraxe", "Spells/Level0/Flare", "Weapons/Items/Artisan/DwarvenMaleArmorsmith/OpportunistsWarhammerEnchant", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Speed"]}

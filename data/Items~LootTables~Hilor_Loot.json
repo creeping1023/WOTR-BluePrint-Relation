@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Hilor_Broken", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Hilor", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/VentureCaptainHilor"], "children": ["Items/Areas/Act_5_HeraldOfTheIvoryLabyrinth/HuntingSilkShadow/EyeOfTruthItem"]}
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Hilor", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/VentureCaptainHilor", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Hilor_Broken"], "children": ["Items/Areas/Act_5_HeraldOfTheIvoryLabyrinth/HuntingSilkShadow/EyeOfTruthItem"]}

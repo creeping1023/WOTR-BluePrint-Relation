@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/Masterwork/MasterworkGnomeHookedHammer"], "children": ["Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook", "Weapons/Enchantments/Masterwork"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/Masterwork/MasterworkGnomeHookedHammer"], "children": ["Weapons/Enchantments/Masterwork", "Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook"]}

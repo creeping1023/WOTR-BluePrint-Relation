@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Features/Ssilameshnik_Feature_CombatPrebuff"], "children": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Features/Ssilameshnik_Ability_GreaterWarpwave", "Spells/Level7/PrismaticSpray"]}
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Features/Ssilameshnik_Feature_CombatPrebuff"], "children": ["Spells/Level7/PrismaticSpray", "Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Features/Ssilameshnik_Ability_GreaterWarpwave"]}

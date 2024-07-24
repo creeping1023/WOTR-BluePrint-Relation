@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/LiLuraBrains/LiLura_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/TargetSelf", "Spells/Level3/Displacement"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/LiLuraBrains/LiLura_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level3/Displacement", "Brain/Considerations/TargetSelf"]}

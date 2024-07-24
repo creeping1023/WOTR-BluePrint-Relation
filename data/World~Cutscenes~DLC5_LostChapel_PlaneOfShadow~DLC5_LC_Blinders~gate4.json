@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Blinders/DLC5_LC_Blinders", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Blinders/gate1"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Blinders/CommandBark"]}
+{"parents": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Blinders/gate1", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Blinders/DLC5_LC_Blinders"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Blinders/CommandBark"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerAlliedSpellcasterToggleAbility"], "children": ["Classes/Barbarian/Rage/StandartRageBuff", "Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerAlliedSpellcasterAreaBuff"]}
+{"parents": ["Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerAlliedSpellcasterToggleAbility"], "children": ["Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerAlliedSpellcasterAreaBuff", "Classes/Barbarian/Rage/StandartRageBuff"]}

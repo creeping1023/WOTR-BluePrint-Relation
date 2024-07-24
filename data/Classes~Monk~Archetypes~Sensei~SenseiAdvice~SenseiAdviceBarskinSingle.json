@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiMysticPowers"], "children": ["Classes/Monk/KiPowers/KiBarskinBuff", "Classes/Monk/KiPowers/KiPowerResource", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/Archetypes/Sensei/SenseiMysticPowers"], "children": ["Classes/Monk/MonkClass", "Classes/Monk/KiPowers/KiBarskinBuff", "Classes/Monk/KiPowers/KiPowerResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Artisan/HumanFemaleExoticSmith/JustifierTongiItem", "World/Encounters/ReligionReactivityBuffs/Abadar_Buff", "Spells/Level1/BlessWeaponBuff"]}
+{"parents": ["Spells/Level1/BlessWeaponBuff", "Weapons/Items/Artisan/HumanFemaleExoticSmith/JustifierTongiItem", "World/Encounters/ReligionReactivityBuffs/Abadar_Buff"]}

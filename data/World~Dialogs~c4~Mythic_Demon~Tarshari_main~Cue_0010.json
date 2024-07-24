@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Demon/Tarshari_main/Answer_0009"], "children": ["Units/Monsters/Demon Shadow/DeepShadowDemonTarshari", "World/Dialogs/c4/Mythic_Demon/Tarshari_main/AnswersList_0004"]}
+{"parents": ["World/Dialogs/c4/Mythic_Demon/Tarshari_main/Answer_0009"], "children": ["World/Dialogs/c4/Mythic_Demon/Tarshari_main/AnswersList_0004", "Units/Monsters/Demon Shadow/DeepShadowDemonTarshari"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyConeOfColdFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_ConeOfCold"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Armies/Abilities/ArmyConeOfColdResource", "FX/Spell Level None/ColdCone15Feet00"]}
+{"parents": ["Armies/Abilities/ArmyConeOfColdFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_ConeOfCold"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "FX/Spell Level None/ColdCone15Feet00", "Armies/Abilities/ArmyConeOfColdResource"]}

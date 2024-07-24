@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyKnightsOfOzem"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackUndeadHatredMelee", "Armies/Brains/Actions/TacticalCombat_AIAction_CureSeriousWounds"]}
+{"parents": ["Armies/UnitBlueprints/ArmyKnightsOfOzem"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_CureSeriousWounds", "Armies/Brains/Actions/TacticalCombatAiAttackUndeadHatredMelee"]}

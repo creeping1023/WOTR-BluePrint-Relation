@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SarkorianWedding/Bride/Answer_0004"], "children": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss", "World/Quests/c5/SarkorianWedding/Obj_02_KillDemon", "World/Dialogs/c5/SarkorianWedding/Bride/Cue_2"]}
+{"parents": ["World/Dialogs/c5/SarkorianWedding/Bride/Answer_0004"], "children": ["World/Quests/c5/SarkorianWedding/Obj_02_KillDemon", "Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss", "World/Dialogs/c5/SarkorianWedding/Bride/Cue_2"]}

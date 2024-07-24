@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_4_correct/Answer_0011"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_RankupSpeaker", "World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_4_correct/Cue_0029"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_4_correct/Answer_0011"], "children": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_4_correct/Cue_0029", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_RankupSpeaker"]}

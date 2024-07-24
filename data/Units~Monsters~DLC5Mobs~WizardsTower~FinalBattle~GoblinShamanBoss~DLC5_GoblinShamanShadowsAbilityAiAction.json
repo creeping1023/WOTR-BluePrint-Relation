@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/GoblinShamanBoss/GoblinShadowShamanBossBrain"], "children": ["Brain/Considerations/NoBuffDisplacement", "Classes/Shaman/Archetypes/ShadowShaman/ShadowShamanShadowsAbility"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/GoblinShamanBoss/GoblinShadowShamanBossBrain"], "children": ["Classes/Shaman/Archetypes/ShadowShaman/ShadowShamanShadowsAbility", "Brain/Considerations/NoBuffDisplacement"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/AfterCombatInToM/AfterCombatInToM"], "children": ["World/Cutscenes/Iz/AfterCombatInToM/CommandFadeout", "World/Cutscenes/Iz/AfterCombatInToM/gate1", "World/Cutscenes/Iz/AfterCombatInToM/CommandDelay1", "World/Cutscenes/Iz/AfterCombatInToM/CommandTeleport"]}
+{"parents": ["World/Cutscenes/Iz/AfterCombatInToM/AfterCombatInToM"], "children": ["World/Cutscenes/Iz/AfterCombatInToM/CommandFadeout", "World/Cutscenes/Iz/AfterCombatInToM/gate1", "World/Cutscenes/Iz/AfterCombatInToM/CommandTeleport", "World/Cutscenes/Iz/AfterCombatInToM/CommandDelay1"]}

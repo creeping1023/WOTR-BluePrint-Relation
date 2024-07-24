@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenCheckIfNextValueIs01", "World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenNextSlotChecker"], "children": ["Items/Areas/GlobalPuzzle/DominoGreen1x1"]}
+{"parents": ["World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenNextSlotChecker", "World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenCheckIfNextValueIs01"], "children": ["Items/Areas/GlobalPuzzle/DominoGreen1x1"]}

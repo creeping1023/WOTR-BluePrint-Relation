@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagLocust"], "children": ["Armies/UnitBlueprints/ArmyHeavyInfantry", "Armies/UnitBlueprints/ArmyRanger", "Armies/UnitBlueprints/ArmyCuirassier", "Armies/UnitBlueprints/ArmyWitch", "Armies/Leaders/Warlords/WarlordLeaderEvent4_4"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/FlagLocust"], "children": ["Armies/UnitBlueprints/ArmyRanger", "Armies/Leaders/Warlords/WarlordLeaderEvent4_4", "Armies/UnitBlueprints/ArmyHeavyInfantry", "Armies/UnitBlueprints/ArmyWitch", "Armies/UnitBlueprints/ArmyCuirassier"]}

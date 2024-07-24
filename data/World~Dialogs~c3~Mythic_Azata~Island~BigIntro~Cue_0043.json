@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/BigIntro/Answer_0041"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Tall_DesnaPriest", "World/Dialogs/c3/Mythic_Azata/Island/BigIntro/Cue_0044"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/BigIntro/Answer_0041"], "children": ["World/Dialogs/c3/Mythic_Azata/Island/BigIntro/Cue_0044", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Tall_DesnaPriest"]}

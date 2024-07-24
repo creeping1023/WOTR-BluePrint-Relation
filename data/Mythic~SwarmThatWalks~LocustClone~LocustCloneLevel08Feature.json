@@ -1,1 +1,1 @@
-{"parents": ["Mythic/SwarmThatWalks/SwarmThatWalksProgression", "Root/Upgraders/Player/PF-350902"], "children": ["Mythic/SwarmThatWalks/LocustClone/LocustClone01Feature", "Mythic/SwarmThatWalks/SwarmSizeProperty", "Mythic/SwarmThatWalks/LocustCloneAbility"]}
+{"parents": ["Root/Upgraders/Player/PF-350902", "Mythic/SwarmThatWalks/SwarmThatWalksProgression"], "children": ["Mythic/SwarmThatWalks/LocustClone/LocustClone01Feature", "Mythic/SwarmThatWalks/SwarmSizeProperty", "Mythic/SwarmThatWalks/LocustCloneAbility"]}

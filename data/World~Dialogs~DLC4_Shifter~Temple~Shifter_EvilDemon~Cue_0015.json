@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Temple/Shifter_EvilDemon/Cue_0016"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/Temple/Shifter_EvilDemon/Cue_10"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Temple/Shifter_EvilDemon/Cue_0016"], "children": ["World/Dialogs/DLC4_Shifter/Temple/Shifter_EvilDemon/Cue_10", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

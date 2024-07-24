@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/CueSequence_0108"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0110"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/CueSequence_0108"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0110", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

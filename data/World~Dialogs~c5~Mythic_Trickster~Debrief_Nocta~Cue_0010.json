@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Answer_0006", "Root/Upgraders/Player/PF-413791"], "children": ["Weapons/Items/UniquePF2/Chapter5/HeartbreakerItem", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/AnswersList_0004"]}
+{"parents": ["Root/Upgraders/Player/PF-413791", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Answer_0006"], "children": ["Weapons/Items/UniquePF2/Chapter5/HeartbreakerItem", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/AnswersList_0004"]}

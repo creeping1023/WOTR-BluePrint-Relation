@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Hydra/PoisonousHydraCloudArea", "Units/Monsters/Hydra/PoisonousHydraBreathWeapon", "Brain/Considerations/HasPoison"]}
+{"parents": ["Units/Monsters/Hydra/PoisonousHydraBreathWeapon", "Brain/Considerations/HasPoison", "Units/Monsters/Hydra/PoisonousHydraCloudArea"]}

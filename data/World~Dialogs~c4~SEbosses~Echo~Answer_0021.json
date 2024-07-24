@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/SEbosses/Echo/AnswersList_0033"], "children": ["World/Dialogs/c4/SEbosses/Echo/Cue_0027", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Mutasafen/Mutasafen_FirstSE_Killed"]}
+{"parents": ["World/Dialogs/c4/SEbosses/Echo/AnswersList_0033", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Mutasafen/Mutasafen_FirstSE_Killed", "World/Dialogs/c4/SEbosses/Echo/Cue_0027"]}

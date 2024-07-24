@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/YozzAndGreybor/Answer_0065"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/YozzAndGreybor/Cue_0081"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/YozzAndGreybor/Answer_0065"], "children": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/YozzAndGreybor/Cue_0081", "Units/Companions/Greybor/Greybor_Companion"]}

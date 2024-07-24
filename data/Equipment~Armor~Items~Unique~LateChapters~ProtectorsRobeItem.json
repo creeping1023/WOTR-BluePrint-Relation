@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monk/MonkClass", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/ClothType", "Equipment/Armor/Items/Unique/LateChapters/ProtectorsRobeEnchant", "Equipment/Amulets/UnarmedEnhancement1"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monk/MonkClass", "Equipment/Amulets/UnarmedEnhancement1", "Equipment/Armor/Types/ClothType", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Items/Unique/LateChapters/ProtectorsRobeEnchant"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Assassin/AssassinProgression", "Classes/Assassin/AssassinPublicExecutionBuff", "Classes/Assassin/AssassinDeathAttackAbilityKillBuffEffect", "Root/Upgraders/Player/PF-505565(1-5lvl)"], "children": ["Classes/Assassin/AssassinPublicExecutionAbility"]}
+{"parents": ["Classes/Assassin/AssassinPublicExecutionBuff", "Classes/Assassin/AssassinProgression", "Root/Upgraders/Player/PF-505565(1-5lvl)", "Classes/Assassin/AssassinDeathAttackAbilityKillBuffEffect"], "children": ["Classes/Assassin/AssassinPublicExecutionAbility"]}

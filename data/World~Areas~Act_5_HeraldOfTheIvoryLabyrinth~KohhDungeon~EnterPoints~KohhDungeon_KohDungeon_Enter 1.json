@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/KohhDungeon/ActionsHolders/Ladder_CheckPassedActions", "QA/Arbiter/Scenario/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon"]}
+{"parents": ["QA/Arbiter/Scenario/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon", "World/Encounters/KohhDungeon/ActionsHolders/Ladder_CheckPassedActions"], "children": ["World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon"]}

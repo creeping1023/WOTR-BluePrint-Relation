@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/AlienKillDaeran_AfterSex/gate"], "children": ["World/Encounters/Daeran_Q2_HeavenDoorstep/Buffs/Daeran_Q2_NakedPolymorph", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Cutscenes/WarCamp/AlienKillDaeran_AfterSex/gate"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Encounters/Daeran_Q2_HeavenDoorstep/Buffs/Daeran_Q2_NakedPolymorph"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Daeran_Q2_HeavenDoorstep/Daeran_Q2_DaeranCamellia_Dance/Daeran_Q2_DaeranCamellia_Dance"], "children": ["World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/WarCamp_Ambience_DialogGeneric", "Units/Companions/Camelia/Camelia_Companion"]}
+{"parents": ["World/Cutscenes/Daeran_Q2_HeavenDoorstep/Daeran_Q2_DaeranCamellia_Dance/Daeran_Q2_DaeranCamellia_Dance"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/WarCamp_Ambience_DialogGeneric"]}

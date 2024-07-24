@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/LeadersBrain/CultistLeader_ScorchingRay", "Armies/Rituals/RitualScorchingRay"], "children": ["FX/Spell Level 2/Scorching Ray00", "Weapons/Types/Special/RayItem", "Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}
+{"parents": ["Armies/Brains/LeadersBrain/CultistLeader_ScorchingRay", "Armies/Rituals/RitualScorchingRay"], "children": ["Weapons/Types/Special/RayItem", "FX/Spell Level 2/Scorching Ray00", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff", "Armies/Leaders/LeaderManaResource"]}

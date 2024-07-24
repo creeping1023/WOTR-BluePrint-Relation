@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_Mythic", "World/Quests/MythicQuests/Azata/C5_WindOfChange/WindOfChange_azata_c5_quest"], "children": ["World/Quests/MythicQuests/Azata/C5_WindOfChange/WindOfChange_azata_c5_quest"]}
+{"parents": ["World/Quests/MythicQuests/Azata/C5_WindOfChange/WindOfChange_azata_c5_quest", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_Mythic"], "children": ["World/Quests/MythicQuests/Azata/C5_WindOfChange/WindOfChange_azata_c5_quest"]}

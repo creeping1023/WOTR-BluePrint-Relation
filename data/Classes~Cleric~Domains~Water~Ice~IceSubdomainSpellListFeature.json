@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Water/Ice/IceSubdomainBaseFeatureSeparatist", "Classes/Cleric/Domains/Water/Ice/IceSubdomainBaseFeature"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Water/Ice/IceSubdomainSpellList"]}
+{"parents": ["Classes/Cleric/Domains/Water/Ice/IceSubdomainBaseFeature", "Classes/Cleric/Archetypes/Separatist/Domains/Water/Ice/IceSubdomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Water/Ice/IceSubdomainSpellList"]}

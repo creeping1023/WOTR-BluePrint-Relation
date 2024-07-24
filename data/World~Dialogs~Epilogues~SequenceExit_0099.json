@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_PlayerFinalChoice"], "children": ["World/Dialogs/Epilogues/CueSequence_PlayersFate", "World/Dialogs/Epilogues/CueSequence_Mythics", "World/Dialogs/Epilogues/CueSequence_Crusade", "World/Dialogs/Epilogues/CueSequence_Queen"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_PlayerFinalChoice"], "children": ["World/Dialogs/Epilogues/CueSequence_Queen", "World/Dialogs/Epilogues/CueSequence_Crusade", "World/Dialogs/Epilogues/CueSequence_Mythics", "World/Dialogs/Epilogues/CueSequence_PlayersFate"]}

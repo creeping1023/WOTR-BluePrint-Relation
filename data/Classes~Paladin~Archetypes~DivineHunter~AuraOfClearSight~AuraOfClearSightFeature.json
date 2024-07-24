@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/DivineHunter/DivineHunterArchetype", "Classes/Paladin/PaladinProgression"], "children": ["Classes/Paladin/Archetypes/DivineHunter/AuraOfClearSight/AuraOfClearSightBuff"]}
+{"parents": ["Classes/Paladin/PaladinProgression", "Classes/Paladin/Archetypes/DivineHunter/DivineHunterArchetype"], "children": ["Classes/Paladin/Archetypes/DivineHunter/AuraOfClearSight/AuraOfClearSightBuff"]}

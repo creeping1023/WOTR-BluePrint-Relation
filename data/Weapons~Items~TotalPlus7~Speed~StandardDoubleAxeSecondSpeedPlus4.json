@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus7/Speed/StandardDoubleAxeSpeedPlus4"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Speed"]}
+{"parents": ["Weapons/Items/TotalPlus7/Speed/StandardDoubleAxeSpeedPlus4", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Speed"]}

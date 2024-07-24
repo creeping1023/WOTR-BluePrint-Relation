@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/UlbrigRomance/UlbrigGardenDate/Cue_0010"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "Player Character", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/UlbrigRomance/UlbrigGardenDate/Cue_0012"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/UlbrigRomance/UlbrigGardenDate/Cue_0010"], "children": ["Player Character", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/UlbrigRomance/UlbrigGardenDate/Cue_0012", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

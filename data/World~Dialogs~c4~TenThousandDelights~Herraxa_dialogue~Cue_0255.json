@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Answer_0254"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/TenThousandDelights/Morevet", "World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/AnswersList_0253"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Answer_0254"], "children": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/AnswersList_0253", "Units/NPC/Unique/Act_4_MidnightIsles/TenThousandDelights/Morevet"]}

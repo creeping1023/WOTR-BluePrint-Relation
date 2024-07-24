@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronWinter/WitchWinterPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level5/IcyPrison"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronWinter/WitchWinterPatronProgression"], "children": ["Spells/Level5/IcyPrison", "Classes/Witch/WitchClass"]}

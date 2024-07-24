@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/HaremOfArdentDream/DoorWithBell_dialogue/Cue_0012"], "children": ["World/Cutscenes/StorytellerTower/StorytellerFirstAppearance/StorytellerFirstAppearance"]}
+{"parents": ["World/Dialogs/c4/HaremOfArdentDream/DoorWithBell_dialogue/Cue_0012", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Cutscenes/StorytellerTower/StorytellerFirstAppearance/StorytellerFirstAppearance"]}

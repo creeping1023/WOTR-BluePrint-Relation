@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/Bhoga_swarm/CarrionStormBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Units/NPC/Commoners/DLC4_NewCompanion/Bhoga_swarm/CarrionStormDamageAbility"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/Bhoga_swarm/CarrionStormBrain"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/Bhoga_swarm/CarrionStormDamageAbility", "Brain/Considerations/SwarmTargetsPriority"]}

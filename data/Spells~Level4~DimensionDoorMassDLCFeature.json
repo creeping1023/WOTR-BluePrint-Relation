@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-399091", "World/Etudes/Common/DLC1_DimensionDoorMassFact"], "children": ["Spells/Level4/DimensionDoorMassDLC"]}
+{"parents": ["World/Etudes/Common/DLC1_DimensionDoorMassFact", "Root/Upgraders/Player/PF-399091"], "children": ["Spells/Level4/DimensionDoorMassDLC"]}

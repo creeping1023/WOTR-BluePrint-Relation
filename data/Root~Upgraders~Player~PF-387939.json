@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_0038", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_3", "World/Quests/c3/ArueshalaeRedoubt/Obj_secret"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_3", "World/Quests/c3/ArueshalaeRedoubt/Obj_secret", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_0038"]}

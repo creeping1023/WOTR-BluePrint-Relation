@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Player/PlayerTestLevel17RuinsRaid"], "children": ["EquipmentEntities/Goggles/KEE_Goggles_GogglesMaskCommon", "Units/Monsters/RuinsRaidPlaceMobs/MaskOfEllegancyEnchantment"]}
+{"parents": ["Units/Pregens/PartyPregenTests/Player/PlayerTestLevel17RuinsRaid", "Dugeons/Loot/DungeonLootExclude"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/MaskOfEllegancyEnchantment", "EquipmentEntities/Goggles/KEE_Goggles_GogglesMaskCommon"]}

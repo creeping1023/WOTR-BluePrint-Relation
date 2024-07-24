@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate 1"], "children": ["World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside", "Spells/Level3/Displacement", "World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside"]}
+{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate 1"], "children": ["World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside", "Spells/Level3/Displacement"]}

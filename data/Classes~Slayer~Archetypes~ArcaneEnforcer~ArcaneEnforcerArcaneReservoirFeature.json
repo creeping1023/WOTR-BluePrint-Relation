@@ -1,1 +1,1 @@
-{"parents": ["Feats/DLC5/ExtraReservoir", "Classes/Slayer/Archetypes/ArcaneEnforcer/ArcaneEnforcerArchetype", "Mythic/MythicAbilities/FullArcanistReservoire"], "children": ["Classes/Arcanist/ArcanistArcaneReservoirResource", "Classes/Arcanist/ArcanistArcaneReservoirResourceBuff"]}
+{"parents": ["Classes/Slayer/Archetypes/ArcaneEnforcer/ArcaneEnforcerArchetype", "Mythic/MythicAbilities/FullArcanistReservoire", "Feats/DLC5/ExtraReservoir"], "children": ["Classes/Arcanist/ArcanistArcaneReservoirResourceBuff", "Classes/Arcanist/ArcanistArcaneReservoirResource"]}

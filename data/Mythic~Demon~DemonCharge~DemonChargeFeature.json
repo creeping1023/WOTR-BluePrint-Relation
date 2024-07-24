@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/DemonProgression", "Units/Abilities/Mounts/MountedBuff"], "children": ["Mythic/Demon/DemonCharge/DemonChargeMainAbility"]}
+{"parents": ["Units/Abilities/Mounts/MountedBuff", "Mythic/Demon/DemonProgression"], "children": ["Mythic/Demon/DemonCharge/DemonChargeMainAbility"]}

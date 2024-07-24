@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR10/RichHuman_GoodHidden", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level2/MirrorImage"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR10/RichHuman_GoodHidden"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level2/MirrorImage"]}

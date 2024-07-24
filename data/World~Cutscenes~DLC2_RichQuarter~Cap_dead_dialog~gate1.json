@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/gate", "World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/Cap_dead_dialog"], "children": ["World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/CommandBark1", "World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/CommandBark2"]}
+{"parents": ["World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/Cap_dead_dialog", "World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/gate"], "children": ["World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/CommandBark1", "World/Cutscenes/DLC2_RichQuarter/Cap_dead_dialog/CommandBark2"]}

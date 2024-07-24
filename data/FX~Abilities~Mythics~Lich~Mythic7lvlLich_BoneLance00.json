@@ -1,1 +1,1 @@
-{"parents": ["Armies/Rituals/RitualBoneShieldAbility", "Mythic/Lich/LichSpells/BoneSpearLaunch", "Armies/Rituals/RitualBoneArrowAbility", "Spells/Template/ShootControllableProjectile"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Armies/Rituals/RitualBoneShieldAbility", "Mythic/Lich/LichSpells/BoneSpearLaunch", "Spells/Template/ShootControllableProjectile", "Armies/Rituals/RitualBoneArrowAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

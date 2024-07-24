@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyVrolikai", "Armies/UnitBlueprints/ArmyWightStandard"], "children": ["Armies/Abilities/ArmyEnervationOnHitBuff"]}
+{"parents": ["Armies/UnitBlueprints/ArmyWightStandard", "Armies/UnitBlueprints/ArmyVrolikai"], "children": ["Armies/Abilities/ArmyEnervationOnHitBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Shadow/DeepShadowDemonBrain/DeepShadowDemon_Brain_Conjuration"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level7/ShadowConjurationGreater", "Spells/Level6/AcidFog"]}
+{"parents": ["Units/Monsters/Demon Shadow/DeepShadowDemonBrain/DeepShadowDemon_Brain_Conjuration"], "children": ["Spells/Level6/AcidFog", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level7/ShadowConjurationGreater"]}

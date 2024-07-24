@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/NocticulaPreistess/NocticulaPriestess_Brain"], "children": ["Brain/Considerations/InjuryCritical", "Spells/Level6/HealCast"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/NocticulaPreistess/NocticulaPriestess_Brain"], "children": ["Spells/Level6/HealCast", "Brain/Considerations/InjuryCritical"]}

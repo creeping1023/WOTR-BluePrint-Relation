@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Hag/SinisterVillage/Hag_Letinda"], "children": ["Spells/Level4/InvisibilityGreater", "Spells/Level5/VampiricShadowShield", "Spells/Level6/ChainLightning"]}
+{"parents": ["Units/Monsters/Hag/SinisterVillage/Hag_Letinda"], "children": ["Spells/Level4/InvisibilityGreater", "Spells/Level6/ChainLightning", "Spells/Level5/VampiricShadowShield"]}

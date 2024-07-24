@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/CueSequence_0179"], "children": ["Units/Companions/Trever/Trever_Companion", "World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Cue_0184"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/CueSequence_0179"], "children": ["World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Cue_0184", "Units/Companions/Trever/Trever_Companion"]}

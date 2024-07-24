@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/BadLuck/AasimarRedMask", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Rapier", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/BadLuck/AasimarRedMask", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Rapier", "Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Enchantments/Enhancement3"]}

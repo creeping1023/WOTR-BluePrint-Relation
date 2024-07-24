@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/SpikeStones"], "children": ["Buffs/NPC_Protection", "Spells/Level4/SpikeStonesBuff", "Spells/Level4/SpikeStonesAreaBuff"]}
+{"parents": ["Spells/Level4/SpikeStones"], "children": ["Buffs/NPC_Protection", "Spells/Level4/SpikeStonesAreaBuff", "Spells/Level4/SpikeStonesBuff"]}

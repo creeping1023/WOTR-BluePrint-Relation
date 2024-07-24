@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/GalfreyArrives/Answer_0069"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Galfrey/GalfreyInDisarray"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/GalfreyArrives/Answer_0069"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Galfrey/GalfreyInDisarray", "Units/Companions/Daeran/Daeran_Companion"]}

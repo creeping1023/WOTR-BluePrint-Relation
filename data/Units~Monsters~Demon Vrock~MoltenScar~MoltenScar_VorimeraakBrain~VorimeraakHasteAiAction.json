@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Vrock/MoltenScar/MoltenScar_VorimeraakBrain/MoltenScar_VorimeraakBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffHaste", "Spells/Level3/Haste"]}
+{"parents": ["Units/Monsters/Demon Vrock/MoltenScar/MoltenScar_VorimeraakBrain/MoltenScar_VorimeraakBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Spells/Level3/Haste", "Brain/Considerations/NoBuffHaste"]}

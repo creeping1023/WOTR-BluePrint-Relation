@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/Archetypes/DiscipleOfThePike/DiscipleOfThePikeDeadlyCharge"], "children": ["Buffs/Staggered", "Buffs/Stunned", "Buffs/Staggered", "Buffs/Stunned"]}
+{"parents": ["Classes/Cavalier/Archetypes/DiscipleOfThePike/DiscipleOfThePikeDeadlyCharge"], "children": ["Buffs/Stunned", "Buffs/Staggered"]}

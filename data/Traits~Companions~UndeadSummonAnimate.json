@@ -1,1 +1,1 @@
-{"parents": ["Traits/Companions/UndeadSummonFeature"], "children": ["Buffs/SummonedCreatureSpawnMonsterIV-VI", "Spells/CutsceneSpells/SummonMonsterPool", "Traits/Companions/UndeadSummonResourse"]}
+{"parents": ["Traits/Companions/UndeadSummonFeature"], "children": ["Traits/Companions/UndeadSummonResourse", "Buffs/SummonedCreatureSpawnMonsterIV-VI", "Spells/CutsceneSpells/SummonMonsterPool"]}

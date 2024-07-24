@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreeluLabAgain/Opon/Cue_0060"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c5/AreeluLabAgain/Opon/Cue_0063"]}
+{"parents": ["World/Dialogs/c5/AreeluLabAgain/Opon/Cue_0060"], "children": ["World/Dialogs/c5/AreeluLabAgain/Opon/Cue_0063", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

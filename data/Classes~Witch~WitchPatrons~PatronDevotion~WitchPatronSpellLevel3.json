@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level3/MagicalVestment"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Spells/Level3/MagicalVestment", "Classes/Witch/WitchClass"]}

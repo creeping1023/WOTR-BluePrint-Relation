@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/CR23_LocustSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff", "Buffs/SwarmTargetBuff"]}
+{"parents": ["Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/CR23_LocustSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanCheckIfNextValueIs01", "World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanNextSlotChecker"]}
+{"parents": ["World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanNextSlotChecker", "World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanCheckIfNextValueIs01"]}

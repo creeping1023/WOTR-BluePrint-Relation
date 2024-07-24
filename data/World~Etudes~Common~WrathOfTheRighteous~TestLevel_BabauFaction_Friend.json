@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/TestLevel_BabauFaction"], "children": ["Factions/CutsceneNeutrals", "World/Etudes/Common/WrathOfTheRighteous/TestLevel_BabauFaction", "World/Encounters/Test_Level/UnlockableFlags/TestLevel_BabauFaction"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/TestLevel_BabauFaction"], "children": ["World/Encounters/Test_Level/UnlockableFlags/TestLevel_BabauFaction", "Factions/CutsceneNeutrals", "World/Etudes/Common/WrathOfTheRighteous/TestLevel_BabauFaction"]}

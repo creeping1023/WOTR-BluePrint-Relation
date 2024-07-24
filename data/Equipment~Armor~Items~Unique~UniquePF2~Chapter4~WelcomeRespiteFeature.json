@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Armor/Items/Unique/UniquePF2/Chapter4/WelcomeRespiteEnchantment"], "children": ["Buffs/Prone", "Buffs/Prone", "Buffs/Stunned", "Buffs/Stunned", "Buffs/Staggered", "Buffs/Staggered", "Equipment/Armor/Enchantments/FireResistance10Feature", "Equipment/Armor/Enchantments/FireResistance10Feature"]}
+{"parents": ["Equipment/Armor/Items/Unique/UniquePF2/Chapter4/WelcomeRespiteEnchantment"], "children": ["Buffs/Stunned", "Buffs/Prone", "Equipment/Armor/Enchantments/FireResistance10Feature", "Buffs/Staggered"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Golem Clay/ClayGolemBrain/ClayGolemBrain"], "children": ["Brain/Considerations/SwiftAction", "Units/Monsters/Golem Clay/ClayGolemBrain/ClayGolemHaste"]}
+{"parents": ["Units/Monsters/Golem Clay/ClayGolemBrain/ClayGolemBrain"], "children": ["Units/Monsters/Golem Clay/ClayGolemBrain/ClayGolemHaste", "Brain/Considerations/SwiftAction"]}

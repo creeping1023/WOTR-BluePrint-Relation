@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/InquisitorProgression", "Classes/Inquisitor/Archetypes/MonsterTactitian/MonsterTacticianArchetype"], "children": ["Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/Archetypes/MonsterTactitian/MonsterTacticianSummonAddition5"]}
+{"parents": ["Classes/Inquisitor/InquisitorProgression", "Classes/Inquisitor/Archetypes/MonsterTactitian/MonsterTacticianArchetype"], "children": ["Classes/Inquisitor/Archetypes/MonsterTactitian/MonsterTacticianSummonAddition5", "Classes/Inquisitor/InquisitorClass"]}

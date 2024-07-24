@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/CultLeader/CultLeaderWeaponProficiencies", "Units/Companions/PregenWeaponTestFeatureList", "Classes/Basic/Proficiencies/MartialWeaponProficiency"], "children": ["Classes/Basic/Proficiencies/MartialWeaponProficiency"]}
+{"parents": ["Classes/Basic/Proficiencies/MartialWeaponProficiency", "Units/Companions/PregenWeaponTestFeatureList", "Classes/Warpriest/Archetypes/CultLeader/CultLeaderWeaponProficiencies"], "children": ["Classes/Basic/Proficiencies/MartialWeaponProficiency"]}

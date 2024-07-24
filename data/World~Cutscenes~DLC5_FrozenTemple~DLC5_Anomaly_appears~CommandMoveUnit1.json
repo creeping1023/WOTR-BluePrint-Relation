@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/gate2"], "children": ["World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_SendriConfessed", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Anomaly_appears/gate2"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_SendriConfessed"]}

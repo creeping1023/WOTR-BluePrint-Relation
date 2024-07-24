@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/ElementalPunisherLongbowItem"], "children": ["Weapons/Items/Unique/ElementalPunisherLongbowFeature", "Weapons/Types/MartialRanged/Longbow", "Spells/Level2/BlindnessBuff"]}
+{"parents": ["Weapons/Items/Unique/ElementalPunisherLongbowItem"], "children": ["Weapons/Types/MartialRanged/Longbow", "Spells/Level2/BlindnessBuff", "Weapons/Items/Unique/ElementalPunisherLongbowFeature"]}

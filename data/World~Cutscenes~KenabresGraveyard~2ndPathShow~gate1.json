@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresGraveyard/2ndPathShow/gate"], "children": ["World/Cutscenes/KenabresGraveyard/2ndPathShow/CommandMoveUnit1", "World/Cutscenes/KenabresGraveyard/2ndPathShow/gate2"]}
+{"parents": ["World/Cutscenes/KenabresGraveyard/2ndPathShow/gate"], "children": ["World/Cutscenes/KenabresGraveyard/2ndPathShow/gate2", "World/Cutscenes/KenabresGraveyard/2ndPathShow/CommandMoveUnit1"]}

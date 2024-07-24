@@ -1,1 +1,1 @@
-{"parents": ["Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/FieldOfTreantsBuff"], "children": ["Units/Monsters/Treant/AzataTreantSummoned", "Buffs/SummonedCreatureSpawnAllyVI-IX", "Spells/CutsceneSpells/SummonMonsterPool", "Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/FieldOfTreantsResource"]}
+{"parents": ["Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/FieldOfTreantsBuff"], "children": ["Buffs/SummonedCreatureSpawnAllyVI-IX", "Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/FieldOfTreantsResource", "Units/Monsters/Treant/AzataTreantSummoned", "Spells/CutsceneSpells/SummonMonsterPool"]}

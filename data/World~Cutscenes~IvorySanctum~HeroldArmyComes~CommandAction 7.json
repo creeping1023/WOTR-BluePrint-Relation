@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/IvorySanctum/HeroldArmyComes/gate 5"], "children": ["World/Encounters/IvorySanctum/SummonPools/DemonHeraldGroup1", "World/Encounters/IvorySanctum/SummonPools/DemonHeraldGroup2", "World/Encounters/IvorySanctum/SummonPools/HeraldGroup"]}
+{"parents": ["World/Cutscenes/IvorySanctum/HeroldArmyComes/gate 5"], "children": ["World/Encounters/IvorySanctum/SummonPools/DemonHeraldGroup1", "World/Encounters/IvorySanctum/SummonPools/HeraldGroup", "World/Encounters/IvorySanctum/SummonPools/DemonHeraldGroup2"]}

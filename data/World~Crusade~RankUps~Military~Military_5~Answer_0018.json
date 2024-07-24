@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_5/AnswersList_0013"], "children": ["World/Crusade/RankUps/Military/Military_5/Cue_0028", "World/Crusade/RankUps/Military/Military_5/Cue_0010", "Armies/CrusadeGlobalBuffs/FlagMilitary5InfantryCharge"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_5/AnswersList_0013"], "children": ["Armies/CrusadeGlobalBuffs/FlagMilitary5InfantryCharge", "World/Crusade/RankUps/Military/Military_5/Cue_0010", "World/Crusade/RankUps/Military/Military_5/Cue_0028"]}

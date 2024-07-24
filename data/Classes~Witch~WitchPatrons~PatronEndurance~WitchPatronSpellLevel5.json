@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level5/SpellResistance"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Spells/Level5/SpellResistance", "Classes/Witch/WitchClass"]}

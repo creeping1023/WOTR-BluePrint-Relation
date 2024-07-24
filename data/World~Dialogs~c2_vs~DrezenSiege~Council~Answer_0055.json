@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/DrezenSiege/Council/AnswersList_0031"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0103", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra/GalfreyWithUs"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Council/AnswersList_0031", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Council/Cue_0103", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra/GalfreyWithUs"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Twin_Minibosses/DLC4_Warpirest_Twin_Miniboss"], "children": ["Spells/Level5/CommandGreater/CommandGreater", "Spells/Level5/ProfaneNimbus", "Spells/Level5/RighteousMight", "Spells/Level6/PlagueStorm"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Twin_Minibosses/DLC4_Warpirest_Twin_Miniboss"], "children": ["Spells/Level5/ProfaneNimbus", "Spells/Level5/CommandGreater/CommandGreater", "Spells/Level6/PlagueStorm", "Spells/Level5/RighteousMight"]}

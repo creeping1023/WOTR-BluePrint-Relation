@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationSoulSiphon", "Classes/Oracle/OracleRevelations/OracleRevelationSoulSiphonAbility"], "children": ["Classes/Oracle/OracleClass", "Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationSoulSiphon", "Classes/Oracle/OracleRevelations/OracleRevelationSoulSiphonAbility"], "children": ["Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}

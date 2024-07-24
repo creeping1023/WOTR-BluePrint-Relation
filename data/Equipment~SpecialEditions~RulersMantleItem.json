@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SacredHuntmanInquisitorPregen"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Equipment/CommonEnchantments/Resistance1", "Equipment/SpecialEditions/RulersMantleEnchant"]}
+{"parents": ["Units/Pregens/StartGame/DLC3 Test Pregens 6 lvl/DLC3SacredHuntmanInquisitorPregen", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/SpecialEditions/RulersMantleEnchant", "Equipment/CommonEnchantments/Resistance1", "Items/DestructibleItemsShards/ClothShardItem"]}

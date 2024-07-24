@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/gate 3", "World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/LannHealer"], "children": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/LannHealer", "World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/gate 3"], "children": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/CommandStartDialog"]}

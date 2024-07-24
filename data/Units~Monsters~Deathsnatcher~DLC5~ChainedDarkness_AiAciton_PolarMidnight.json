@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_NoBuff_SecondLife", "Spells/Level9/PolarMidnight"]}
+{"parents": ["Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Brain"], "children": ["Spells/Level9/PolarMidnight", "Units/Monsters/Deathsnatcher/DLC5/ChainedDarkness_Consideration_NoBuff_SecondLife"]}

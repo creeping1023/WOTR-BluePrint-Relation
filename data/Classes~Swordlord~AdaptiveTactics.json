@@ -1,1 +1,1 @@
-{"parents": ["Classes/Swordlord/SwordlordProgression", "Feats/CombatExpertise/CombatExpertiseAttackPenaltyProperty", "Classes/Basic/BasicActions/FightingDefensivelyAttackPenaltyProperty", "Classes/Swordlord/DuelistProgression"]}
+{"parents": ["Feats/CombatExpertise/CombatExpertiseAttackPenaltyProperty", "Classes/Swordlord/SwordlordProgression", "Classes/Swordlord/DuelistProgression", "Classes/Basic/BasicActions/FightingDefensivelyAttackPenaltyProperty"]}

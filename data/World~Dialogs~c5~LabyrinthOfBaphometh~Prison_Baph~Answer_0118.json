@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/AnswersList_0071"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0122", "World/Quests/Companions/Grimbor/Q2_QuestionOfReputation/QuestionOfReputation"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/AnswersList_0071"], "children": ["World/Quests/Companions/Grimbor/Q2_QuestionOfReputation/QuestionOfReputation", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0122"]}

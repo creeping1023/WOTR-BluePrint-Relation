@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/DLC2/DLC2SLightCrossbowItem", "Weapons/Items/UniquePF2/DLC2/DLC2CrossbowEnchantment"], "children": ["ArrowCrossBow00", "Items/DestructibleItemsShards/WoodShardItem"]}
+{"parents": ["Weapons/Items/UniquePF2/DLC2/DLC2SLightCrossbowItem", "Weapons/Items/UniquePF2/DLC2/DLC2CrossbowEnchantment"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "ArrowCrossBow00"]}

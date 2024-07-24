@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nexus_Camp/HeraldLetsGo/CueSequence_0002"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Stitch/Stitch_isMythic", "Units/Monsters/Demon Dretch/AreeluLab/Dretch_Stitch", "World/Cutscenes/Nexus/Stitch_Go2Portal/Stitch_Go2Portal"]}
+{"parents": ["World/Dialogs/c4/Nexus_Camp/HeraldLetsGo/CueSequence_0002"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Stitch/Stitch_isMythic", "World/Cutscenes/Nexus/Stitch_Go2Portal/Stitch_Go2Portal", "Units/Monsters/Demon Dretch/AreeluLab/Dretch_Stitch"]}

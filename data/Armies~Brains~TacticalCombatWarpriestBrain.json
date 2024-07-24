@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyWarpriest"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_CureModerateWounds"]}
+{"parents": ["Armies/UnitBlueprints/ArmyWarpriest"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_CureModerateWounds", "Armies/Brains/Actions/TacticalCombatAiAttackImportant"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskGolemLarge/FXActionHolder"], "children": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_GolemsFlag/CommandDelay", "World/Cutscenes/DC6_RazmirDungeon/DLC6_GolemsFlag/gate"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskGolemLarge/FXActionHolder"], "children": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_GolemsFlag/gate", "World/Cutscenes/DC6_RazmirDungeon/DLC6_GolemsFlag/CommandDelay"]}

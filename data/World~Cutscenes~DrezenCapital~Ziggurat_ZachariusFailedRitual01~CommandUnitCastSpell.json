@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/Ziggurat_ZachariusFailedRitual01/Ziggurat_ZachariusFailedRitual01"], "children": ["World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius", "Spells/CutsceneSpells/DominatePersonFast_Cutscene"]}
+{"parents": ["World/Cutscenes/DrezenCapital/Ziggurat_ZachariusFailedRitual01/Ziggurat_ZachariusFailedRitual01"], "children": ["Spells/CutsceneSpells/DominatePersonFast_Cutscene", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius"]}

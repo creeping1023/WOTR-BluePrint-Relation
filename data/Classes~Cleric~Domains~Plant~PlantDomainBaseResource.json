@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Plant/PlantDomainBaseAbility", "Classes/Cleric/Domains/Plant/PlantDomainBaseFeature"], "children": ["Classes/Cleric/ClericClass"]}
+{"parents": ["Classes/Cleric/Domains/Plant/PlantDomainBaseFeature", "Classes/Cleric/Domains/Plant/PlantDomainBaseAbility"], "children": ["Classes/Cleric/ClericClass"]}

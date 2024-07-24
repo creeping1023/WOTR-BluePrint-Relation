@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Amulets/XavornsCrossEnchant"], "children": ["Classes/Cleric/ChannelNegativeEnergy", "Classes/Cleric/ChannelEnergyResource", "Equipment/Amulets/StormAmberNecklaceFeature", "Equipment/Amulets/StormAmberNecklaceFeature"]}
+{"parents": ["Equipment/Amulets/XavornsCrossEnchant"], "children": ["Equipment/Amulets/StormAmberNecklaceFeature", "Classes/Cleric/ChannelEnergyResource", "Classes/Cleric/ChannelNegativeEnergy"]}

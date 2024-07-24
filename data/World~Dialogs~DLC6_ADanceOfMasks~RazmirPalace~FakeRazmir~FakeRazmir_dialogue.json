@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_Razmir_FinalCutscene/CommandAction"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/FakeRazmir/Cue_0001", "World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_RazmirPool", "Buffs/NPC_Untargetable"]}
+{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_Razmir_FinalCutscene/CommandAction"], "children": ["World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_RazmirPool", "World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/FakeRazmir/Cue_0001", "Buffs/NPC_Untargetable"]}

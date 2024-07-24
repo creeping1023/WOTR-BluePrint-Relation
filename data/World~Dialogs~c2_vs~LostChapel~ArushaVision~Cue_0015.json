@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/ArushaVision/Answer_0012"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/MysteriousArusha", "World/Dialogs/c2_vs/LostChapel/ArushaVision/Cue_0018"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/ArushaVision/Answer_0012"], "children": ["World/Dialogs/c2_vs/LostChapel/ArushaVision/Cue_0018", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/MysteriousArusha"]}

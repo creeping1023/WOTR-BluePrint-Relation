@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Nobility/NobilityDomainBaseAbility", "Classes/Cleric/Archetypes/Separatist/Domains/Nobility/NobilityDomainBaseAbilitySeparatist"], "children": ["Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Nobility/NobilityDomainBaseAbilitySeparatist", "Classes/Cleric/Domains/Nobility/NobilityDomainBaseAbility"], "children": ["Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]}

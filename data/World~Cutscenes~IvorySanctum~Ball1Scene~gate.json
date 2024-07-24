@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/IvorySanctum/Ball1Scene/Ball1Scene"], "children": ["World/Cutscenes/IvorySanctum/Ball1Scene/CommandAction", "World/Cutscenes/IvorySanctum/Ball1Scene/CommandDelay1", "World/Cutscenes/IvorySanctum/Ball1Scene/CommandAction1"]}
+{"parents": ["World/Cutscenes/IvorySanctum/Ball1Scene/Ball1Scene"], "children": ["World/Cutscenes/IvorySanctum/Ball1Scene/CommandAction1", "World/Cutscenes/IvorySanctum/Ball1Scene/CommandDelay1", "World/Cutscenes/IvorySanctum/Ball1Scene/CommandAction"]}

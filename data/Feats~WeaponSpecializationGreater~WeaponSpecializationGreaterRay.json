@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationRay"], "children": ["Weapons/Types/Special/RayType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationRay"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationRay"], "children": ["Weapons/Types/Special/RayType", "Feats/WeaponSpecialization/WeaponSpecializationRay", "Classes/Fighter/FighterClass"]}

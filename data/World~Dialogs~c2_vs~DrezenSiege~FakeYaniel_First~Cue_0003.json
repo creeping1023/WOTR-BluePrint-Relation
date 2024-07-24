@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_First/CueSequence_0001"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_First/Cue_0004"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_First/CueSequence_0001"], "children": ["World/Dialogs/c2_vs/DrezenSiege/FakeYaniel_First/Cue_0004", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

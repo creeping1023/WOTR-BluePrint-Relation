@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/BreakControl/BreakControl", "Mythic/MythicAbilities/BreakControl/BreakControlCountBuff1"], "children": ["Mythic/MythicAbilities/BreakControl/BreakControlAbility", "Mythic/MythicAbilities/BreakControl/BreakControlCountBuff3"]}
+{"parents": ["Mythic/MythicAbilities/BreakControl/BreakControlCountBuff1", "Mythic/MythicAbilities/BreakControl/BreakControl"], "children": ["Mythic/MythicAbilities/BreakControl/BreakControlCountBuff3", "Mythic/MythicAbilities/BreakControl/BreakControlAbility"]}

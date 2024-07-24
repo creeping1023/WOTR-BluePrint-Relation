@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CharmedGuy_2/Answer_0005"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/StorastaNPC/NamedNPCs/DLC5_Storasta_CharmedGuy", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CharmedGuy_2/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CharmedGuy_2/Answer_0005"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CharmedGuy_2/AnswersList_0002", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/StorastaNPC/NamedNPCs/DLC5_Storasta_CharmedGuy"]}

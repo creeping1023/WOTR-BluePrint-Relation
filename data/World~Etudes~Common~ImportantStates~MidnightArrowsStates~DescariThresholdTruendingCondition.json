@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/TrueEnding/SummonDemonLords/SummonDemonLords_TE_dialog", "Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverEnchantment"], "children": ["World/Etudes/Common/ImportantStates/MidnightArrowsStates/DeskariThresholdConditions"]}
+{"parents": ["Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverEnchantment", "World/Dialogs/c6/TrueEnding/SummonDemonLords/SummonDemonLords_TE_dialog"], "children": ["World/Etudes/Common/ImportantStates/MidnightArrowsStates/DeskariThresholdConditions"]}

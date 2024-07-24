@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level7/Banishment", "Equipment/CommonEnchantments/Deflection3", "Equipment/Armor/Enchantments/NegativeEnergyResistance10Enchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Armor/Enchantments/NegativeEnergyResistance10Enchant", "Equipment/CommonEnchantments/Deflection3", "Spells/Level7/Banishment"]}

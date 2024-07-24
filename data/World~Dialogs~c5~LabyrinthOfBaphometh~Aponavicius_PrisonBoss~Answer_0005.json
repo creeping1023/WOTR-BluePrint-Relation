@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Aponavicius_PrisonBoss/AnswersList_0004"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Aponavicius_PrisonBoss/Cue_0009", "World/Quests/c5/IneluctablePrison_ch5/Obj5_FindKey"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Aponavicius_PrisonBoss/AnswersList_0004"], "children": ["World/Quests/c5/IneluctablePrison_ch5/Obj5_FindKey", "World/Dialogs/c5/LabyrinthOfBaphometh/Aponavicius_PrisonBoss/Cue_0009"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["Races/ElfRace", "Races/HalfElfRace"]}
+{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/Feats/ExtraFeatMythicFeat", "Mythic/GoldenDragon/DragonLevel2FeatSelection"], "children": ["Races/HalfElfRace", "Races/ElfRace"]}

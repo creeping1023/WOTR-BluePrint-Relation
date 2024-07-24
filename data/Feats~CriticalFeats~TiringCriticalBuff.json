@@ -1,1 +1,1 @@
-{"parents": ["Feats/CriticalFeats/TiringCriticalToggleAbility", "Units/NPC/Unique/Act_3_DemonsHerecy/HellknightsCamp/HellknightsParaliktor_Aminas"], "children": ["Buffs/Fatigued", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawTiringCriticalBuffEffect"]}
+{"parents": ["Feats/CriticalFeats/TiringCriticalToggleAbility", "Units/NPC/Unique/Act_3_DemonsHerecy/HellknightsCamp/HellknightsParaliktor_Aminas"], "children": ["Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawTiringCriticalBuffEffect", "Buffs/Fatigued"]}

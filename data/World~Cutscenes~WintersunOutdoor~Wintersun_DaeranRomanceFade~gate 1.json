@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WintersunOutdoor/Wintersun_DaeranRomanceFade/Wintersun_DaeranRomanceFade"], "children": ["World/Cutscenes/WintersunOutdoor/Wintersun_DaeranRomanceFade/CommandMoveUnit", "World/Cutscenes/WintersunOutdoor/Wintersun_DaeranRomanceFade/gate 2"]}
+{"parents": ["World/Cutscenes/WintersunOutdoor/Wintersun_DaeranRomanceFade/Wintersun_DaeranRomanceFade"], "children": ["World/Cutscenes/WintersunOutdoor/Wintersun_DaeranRomanceFade/gate 2", "World/Cutscenes/WintersunOutdoor/Wintersun_DaeranRomanceFade/CommandMoveUnit"]}

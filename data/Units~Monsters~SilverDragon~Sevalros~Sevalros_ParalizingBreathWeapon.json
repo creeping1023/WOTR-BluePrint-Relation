@@ -1,1 +1,1 @@
-{"parents": ["QA/Unused/Units/Monsters/SilverDragon/Sevalros/Sevalros", "Units/Monsters/SilverDragon/Sevalros/SevalrosBrain/Sevalros_AiAction_ParalizingBreath"], "children": ["Buffs/Paralyzed", "FX/Spell Level None/PoisonCone50Feet00"]}
+{"parents": ["Units/Monsters/SilverDragon/Sevalros/SevalrosBrain/Sevalros_AiAction_ParalizingBreath", "QA/Unused/Units/Monsters/SilverDragon/Sevalros/Sevalros"], "children": ["Buffs/Paralyzed", "FX/Spell Level None/PoisonCone50Feet00"]}

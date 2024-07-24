@@ -1,1 +1,1 @@
-{"parents": ["Classes/Loremaster/LoremasterDivineSpellbooks/LoremasterOracleProgression", "Classes/MysticTheurge/MysticTheurgeDivineSpellbook/MysticTheurgeOracleProgression"], "children": ["Classes/Oracle/OracleSpellbook"]}
+{"parents": ["Classes/MysticTheurge/MysticTheurgeDivineSpellbook/MysticTheurgeOracleProgression", "Classes/Loremaster/LoremasterDivineSpellbooks/LoremasterOracleProgression"], "children": ["Classes/Oracle/OracleSpellbook"]}

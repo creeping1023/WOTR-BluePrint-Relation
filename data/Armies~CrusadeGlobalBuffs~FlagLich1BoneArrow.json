@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/MythicLich_RankUp01_Option01"], "children": ["Armies/Leaders/Feats/Bonus/Lich1SpellBonus", "Armies/Rituals/Lich1SiphonTime", "Armies/Rituals/RitualBoneArrow"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/MythicLich_RankUp01_Option01"], "children": ["Armies/Rituals/Lich1SiphonTime", "Armies/Rituals/RitualBoneArrow", "Armies/Leaders/Feats/Bonus/Lich1SpellBonus"]}

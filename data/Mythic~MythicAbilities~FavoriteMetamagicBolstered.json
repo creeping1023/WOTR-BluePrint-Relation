@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/FavoriteMetamagicSelection", "Feats/Metamagic/BolsteredSpellFeat"], "children": ["Feats/Metamagic/BolsteredSpellFeat"]}
+{"parents": ["Feats/Metamagic/BolsteredSpellFeat", "Mythic/MythicAbilities/FavoriteMetamagicSelection"], "children": ["Feats/Metamagic/BolsteredSpellFeat"]}

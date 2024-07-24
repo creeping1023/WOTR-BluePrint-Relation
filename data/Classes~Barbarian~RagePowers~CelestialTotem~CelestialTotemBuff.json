@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/RagePowers/CelestialTotem/CelestialTotemArea", "Classes/Skald/RagingSong/InspiredRageEffectBuff", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic"], "children": ["Classes/Barbarian/RagePowers/RecklessStancePowers/InspireFerocityBaseBuff"]}
+{"parents": ["Classes/Skald/RagingSong/InspiredRageEffectBuff", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic", "Classes/Barbarian/RagePowers/CelestialTotem/CelestialTotemArea"], "children": ["Classes/Barbarian/RagePowers/RecklessStancePowers/InspireFerocityBaseBuff"]}

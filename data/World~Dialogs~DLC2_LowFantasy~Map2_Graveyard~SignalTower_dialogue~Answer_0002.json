@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/SignalTower_dialogue/AnswersList_0001"], "children": ["World/Cutscenes/DLC2_Graveyard/Graveyard_SignalTowerScene/Graveyard_SignalTowerScene", "Buffs/Fatigued", "Buffs/Fatigued", "Buffs/Exhausted", "Buffs/Fatigued"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/SignalTower_dialogue/AnswersList_0001"], "children": ["World/Cutscenes/DLC2_Graveyard/Graveyard_SignalTowerScene/Graveyard_SignalTowerScene", "Buffs/Fatigued", "Buffs/Exhausted"]}

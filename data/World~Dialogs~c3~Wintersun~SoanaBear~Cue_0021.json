@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/Answer_0006"], "children": ["Items/Areas/Act_3_DemonsHerecy/Wintersun/SoanaMedallion", "Units/Monsters/Bear/Wintersun/WintersunBear", "Spells/CutsceneSpells/ProneBuff", "Buffs/NPC_Protection", "Buffs/NPC_Protection", "Buffs/NPC_Immortality"]}
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/Answer_0006"], "children": ["Buffs/NPC_Protection", "Buffs/NPC_Immortality", "Spells/CutsceneSpells/ProneBuff", "Units/Monsters/Bear/Wintersun/WintersunBear", "Items/Areas/Act_3_DemonsHerecy/Wintersun/SoanaMedallion"]}

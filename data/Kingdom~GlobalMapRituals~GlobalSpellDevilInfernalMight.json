@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagLegend5Rituals", "Kingdom/GlobalMapRituals/GlobalSpellDevilInfernalMightFeature"], "children": ["Kingdom/GlobalMapRituals/GlobalSpellDevilInfernalMightKingdomBuff"]}
+{"parents": ["Kingdom/GlobalMapRituals/GlobalSpellDevilInfernalMightFeature", "Armies/CrusadeGlobalBuffs/FlagLegend5Rituals"], "children": ["Kingdom/GlobalMapRituals/GlobalSpellDevilInfernalMightKingdomBuff"]}

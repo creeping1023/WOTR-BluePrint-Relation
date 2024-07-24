@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/Impostor_Prison/Answer_0023"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Sosiel_Q2/Sosiel_Q2_Deserter_Impostor"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/Impostor_Prison/Answer_0023", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Sosiel_Q2/Sosiel_Q2_Deserter_Impostor"]}

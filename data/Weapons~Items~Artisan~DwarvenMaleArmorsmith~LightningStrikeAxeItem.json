@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level2/RemoveParalysis", "Weapons/Types/MartialTwoHanded/Greataxe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Shock2d6"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level2/RemoveParalysis", "Weapons/Types/MartialTwoHanded/Greataxe", "Weapons/Enchantments/Shock2d6", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Enhancement3"]}

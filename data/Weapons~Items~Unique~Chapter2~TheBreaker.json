@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/HeavyPick", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/BaneConstruct", "Weapons/Enchantments/AdamantineWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/AdamantineWeaponEnchantment", "Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialOneHanded/HeavyPick", "Weapons/Enchantments/BaneConstruct"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/Cue_0008"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DawnOfDragons/JarsigaxDragon", "World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/Cue_0010"]}
+{"parents": ["World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/Cue_0008"], "children": ["World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/Cue_0010", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DawnOfDragons/JarsigaxDragon"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Spells/Level6/BearsEnduranceMass", "Equipment/CommonEnchantments/Wisdom4", "Equipment/CommonEnchantments/Constitution4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level6/BearsEnduranceMass", "Equipment/CommonEnchantments/Constitution4", "Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Wisdom4"]}

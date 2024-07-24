@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/NexusFinalVictory/gate 3"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/Nexus_Aasimars", "Spells/Level5/FlameStrike"]}
+{"parents": ["World/Cutscenes/Nexus/NexusFinalVictory/gate 3"], "children": ["Spells/Level5/FlameStrike", "World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/Nexus_Aasimars"]}

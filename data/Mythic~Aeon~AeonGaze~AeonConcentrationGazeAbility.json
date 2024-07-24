@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonConcentrationGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeResource", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonConcentrationGazeBaseBuff"]}
+{"parents": ["Mythic/Aeon/AeonGaze/AeonConcentrationGazeFeature"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless", "Mythic/Aeon/AeonGaze/AeonConcentrationGazeBaseBuff", "Mythic/Aeon/AeonGaze/AeonGazeResource"]}

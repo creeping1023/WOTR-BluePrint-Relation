@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Cue_0275"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Cue_0278"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Cue_0275"], "children": ["World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Cue_0278", "Units/Companions/Camelia/Camelia_Companion"]}

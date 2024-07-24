@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/Boss_Warning/Answer_0003"], "children": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_Steersman", "World/Dialogs/DLC3_Roguelike/Boss_Warning/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/Boss_Warning/Answer_0003"], "children": ["World/Dialogs/DLC3_Roguelike/Boss_Warning/AnswersList_0002", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Steersman"]}

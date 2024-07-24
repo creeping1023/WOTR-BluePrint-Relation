@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity", "Spells/Level5/VampiricShadowShieldBuff"], "children": ["Spells/Level5/VampiricShadowShieldBuffHeal"]}
+{"parents": ["Spells/Level5/VampiricShadowShieldBuff", "Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["Spells/Level5/VampiricShadowShieldBuffHeal"]}

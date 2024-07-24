@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Shifter/Archetypes/Rageshaper/TerribleSlam/TerribleSlamBuffLevel13"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}
+{"parents": ["Classes/Shifter/Archetypes/Rageshaper/TerribleSlam/TerribleSlamBuffLevel13", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}

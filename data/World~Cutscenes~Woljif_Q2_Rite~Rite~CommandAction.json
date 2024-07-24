@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Woljif_Q2_Rite/Rite/gate 8"], "children": ["World/Encounters/Woljif_Q2_Rite/SummonPools/Cultists", "World/Cutscenes/EstrodTower/Common(Unit1)LookAt(PlayerCharacter)/Common(Unit1)LookAt(PlayerCharacter)"]}
+{"parents": ["World/Cutscenes/Woljif_Q2_Rite/Rite/gate 8"], "children": ["World/Cutscenes/EstrodTower/Common(Unit1)LookAt(PlayerCharacter)/Common(Unit1)LookAt(PlayerCharacter)", "World/Encounters/Woljif_Q2_Rite/SummonPools/Cultists"]}

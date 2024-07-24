@@ -1,1 +1,1 @@
-{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Rogue/RogueClass", "Classes/Rogue/Archetypes/EldritchScoundrelArchetype", "Classes/Rogue/RogueClass", "Classes/Rogue/Archetypes/EldritchScoundrelSpellbook"]}
+{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Rogue/Archetypes/EldritchScoundrelArchetype", "Classes/Rogue/Archetypes/EldritchScoundrelSpellbook", "Classes/Rogue/RogueClass"]}

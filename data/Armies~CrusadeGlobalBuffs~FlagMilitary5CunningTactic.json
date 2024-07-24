@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_5/Answer_0006"], "children": ["Armies/UnitBlueprints/ArmySpearman", "Armies/UnitBlueprints/ArmyConvict", "Armies/UnitBlueprints/ArmyConscript", "Armies/Abilities/BonusFactsForArmy/ArmyCunningTacticsFeature"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_5/Answer_0006"], "children": ["Armies/UnitBlueprints/ArmySpearman", "Armies/UnitBlueprints/ArmyConvict", "Armies/Abilities/BonusFactsForArmy/ArmyCunningTacticsFeature", "Armies/UnitBlueprints/ArmyConscript"]}

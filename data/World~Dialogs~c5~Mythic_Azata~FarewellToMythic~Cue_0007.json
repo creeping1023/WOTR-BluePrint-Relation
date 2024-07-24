@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Azata/FarewellToMythic/Answer_0005"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnitNPC_small", "World/Encounters/DrezenCapital/UnlockableFlags/LocustEatDragon_flag", "World/Encounters/DrezenCapital/UnlockableFlags/KTC_LocustDevouring"]}
+{"parents": ["World/Dialogs/c5/Mythic_Azata/FarewellToMythic/Answer_0005"], "children": ["World/Encounters/DrezenCapital/UnlockableFlags/LocustEatDragon_flag", "Mythic/Azata/AzataDragon/AzataDragonUnitNPC_small", "World/Encounters/DrezenCapital/UnlockableFlags/KTC_LocustDevouring"]}

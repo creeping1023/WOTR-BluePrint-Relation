@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Anevia_Enemy"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Anevia_Enemy/Locust_Anevia_AiAction_GreaterInvisibility"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Anevia_Enemy"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Anevia_Enemy/Locust_Anevia_AiAction_GreaterInvisibility", "Brain/Actions/AttackAiAction"]}

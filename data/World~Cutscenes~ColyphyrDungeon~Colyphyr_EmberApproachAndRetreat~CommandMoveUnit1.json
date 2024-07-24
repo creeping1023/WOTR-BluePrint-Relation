@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_EmberApproachAndRetreat/gate"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrSpecialBaphometFight", "Units/Companions/Ember/Ember_Companion"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_EmberApproachAndRetreat/gate"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrSpecialBaphometFight"]}

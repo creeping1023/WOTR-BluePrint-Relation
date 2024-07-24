@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Rings/UniquePF2/Chapter3/ShootDownEnchantment"], "children": ["Feats/PointBlankShot", "Equipment/Rings/UniquePF2/Chapter3/ShootDownBuff", "Equipment/Rings/UniquePF2/Chapter3/ShootDownBuff", "Equipment/Rings/BeastKingPetFeature", "Equipment/Rings/BeastKingPetFeature"]}
+{"parents": ["Equipment/Rings/UniquePF2/Chapter3/ShootDownEnchantment"], "children": ["Equipment/Rings/UniquePF2/Chapter3/ShootDownBuff", "Feats/PointBlankShot", "Equipment/Rings/BeastKingPetFeature"]}

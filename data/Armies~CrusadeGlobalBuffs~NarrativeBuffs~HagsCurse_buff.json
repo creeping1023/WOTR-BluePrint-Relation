@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/CrusadeProjects/KTCProjects/HagsProblems_Sacrifice", "Kingdom/CrusadeProjects/KTCProjects/HagsProblems_Army", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0046"], "children": ["Armies/Abilities/BonusFactsForArmy/NarrativeBonusFacts/HagsCurse_feature"]}
+{"parents": ["Kingdom/CrusadeProjects/KTCProjects/HagsProblems_Army", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0046", "Kingdom/CrusadeProjects/KTCProjects/HagsProblems_Sacrifice"], "children": ["Armies/Abilities/BonusFactsForArmy/NarrativeBonusFacts/HagsCurse_feature"]}

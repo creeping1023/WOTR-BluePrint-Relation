@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/CueSequence_0238"], "children": ["Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/CueSequence_0238", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Lann/Lann_Companion"]}

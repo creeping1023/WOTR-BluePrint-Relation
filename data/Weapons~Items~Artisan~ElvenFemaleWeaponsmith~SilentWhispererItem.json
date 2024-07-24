@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level6/HarmCast", "Weapons/Types/SimpleLight/PunchingDagger", "Weapons/Enchantments/Shock2d6", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/CriticalMultiplierIncrease", "Weapons/Enchantments/Agile"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Shock2d6", "Weapons/Types/SimpleLight/PunchingDagger", "Weapons/Enchantments/Enhancement5", "Spells/Level6/HarmCast", "Weapons/Enchantments/CriticalMultiplierIncrease", "Weapons/Enchantments/Agile"]}

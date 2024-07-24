@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Cue_0053", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Cue_0059"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAeon_Ch3/StauntonVane_DrezenInThePast", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Cue_0054"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Cue_0059", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Cue_0053"], "children": ["World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Cue_0054", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAeon_Ch3/StauntonVane_DrezenInThePast"]}

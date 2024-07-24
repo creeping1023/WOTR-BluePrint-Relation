@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Greatsword", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/BaneVermin1d8", "Weapons/Enchantments/PoisonResistance4Enchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Greatsword", "Weapons/Enchantments/PoisonResistance4Enchant", "Weapons/Enchantments/BaneVermin1d8", "Weapons/Enchantments/Enhancement1"]}

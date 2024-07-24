@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Angel/LarielSaved/CueSequence_0003"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair", "World/Dialogs/c4/Mythic_Angel/LarielSaved/Cue_0008"]}
+{"parents": ["World/Dialogs/c4/Mythic_Angel/LarielSaved/CueSequence_0003"], "children": ["World/Dialogs/c4/Mythic_Angel/LarielSaved/Cue_0008", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair"]}

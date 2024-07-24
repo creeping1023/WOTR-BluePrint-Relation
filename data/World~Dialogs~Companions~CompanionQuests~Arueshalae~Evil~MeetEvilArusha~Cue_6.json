@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Evil/MeetEvilArusha/CueSequence_0004"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Evil/MeetEvilArusha/Cue_8"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Evil/MeetEvilArusha/CueSequence_0004"], "children": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Evil/MeetEvilArusha/Cue_8", "Units/Companions/Ember/Ember_Companion"]}

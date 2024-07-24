@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Brain/Actions/TrollhoundHowlAiAction"]}
+{"children": ["Brain/Actions/TrollhoundHowlAiAction", "Brain/Actions/AttackAiAction"]}

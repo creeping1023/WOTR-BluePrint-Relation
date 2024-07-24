@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_Dominate", "Armies/Abilities/ArmyDominateFeature", "Armies/Abilities/ArmyDominateDCBuff"], "children": ["Armies/Abilities/ArmyDominateBuff", "Armies/Abilities/ArmyDominateResource"]}
+{"parents": ["Armies/Abilities/ArmyDominateDCBuff", "Armies/Abilities/ArmyDominateFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_Dominate"], "children": ["Armies/Abilities/ArmyDominateResource", "Armies/Abilities/ArmyDominateBuff"]}

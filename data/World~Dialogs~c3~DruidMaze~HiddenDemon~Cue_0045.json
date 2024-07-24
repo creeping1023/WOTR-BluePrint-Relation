@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/DruidMaze/HiddenDemon/Answer_0044"], "children": ["World/Encounters/ReligionReactivityBuffs/Erastil_Buff", "Factions/Mobs", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/Chapter03_AreasDefault/GlobalPuzzle_Bridges/killedthePuzzleDemon"]}
+{"parents": ["World/Dialogs/c3/DruidMaze/HiddenDemon/Answer_0044"], "children": ["Factions/Mobs", "World/Encounters/ReligionReactivityBuffs/Erastil_Buff", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/Chapter03_AreasDefault/GlobalPuzzle_Bridges/killedthePuzzleDemon"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/WarlordMageProgression"], "children": ["Armies/Rituals/RitualHold", "Armies/Rituals/RitualHeal", "Armies/Rituals/RitualIceStorm", "Armies/Rituals/RitualFireStorm", "Armies/Rituals/RitualCrushingDespair"]}
+{"parents": ["Armies/Leaders/Progression/WarlordMageProgression"], "children": ["Armies/Rituals/RitualIceStorm", "Armies/Rituals/RitualCrushingDespair", "Armies/Rituals/RitualFireStorm", "Armies/Rituals/RitualHeal", "Armies/Rituals/RitualHold"]}

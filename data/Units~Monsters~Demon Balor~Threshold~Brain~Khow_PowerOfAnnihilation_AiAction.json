@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Balor/Threshold/Brain/Khor_BalorBrain"], "children": ["Units/Monsters/Demon Balor/Threshold/Brain/Khow_NoThunderingRageBuff", "Units/Monsters/Demon Balor/Threshold/Brain/PowerOfAnnihilationAbility"]}
+{"parents": ["Units/Monsters/Demon Balor/Threshold/Brain/Khor_BalorBrain"], "children": ["Units/Monsters/Demon Balor/Threshold/Brain/PowerOfAnnihilationAbility", "Units/Monsters/Demon Balor/Threshold/Brain/Khow_NoThunderingRageBuff"]}

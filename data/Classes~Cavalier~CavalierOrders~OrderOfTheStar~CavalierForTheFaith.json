@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierOrders/OrderOfTheStar/CavalierOrderOfTheStarProgression"], "children": ["Classes/Cavalier/CavalierOrders/OrderOfTheStar/CavalierForTheFaithAbility", "Classes/Cavalier/CavalierOrders/OrderOfTheStar/CavalierForTheFaithResource"]}
+{"parents": ["Classes/Cavalier/CavalierOrders/OrderOfTheStar/CavalierOrderOfTheStarProgression"], "children": ["Classes/Cavalier/CavalierOrders/OrderOfTheStar/CavalierForTheFaithResource", "Classes/Cavalier/CavalierOrders/OrderOfTheStar/CavalierForTheFaithAbility"]}

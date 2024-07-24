@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_GnomeStartDialog", "World/Encounters/DLC2_Graveyard/ScriptZones/Graveyard_SorcererAfterUndead_dialogue_SZ", "World/Encounters/DLC2_Graveyard/ScriptZones/Graveyard_AfterStartDialogue"]}
+{"parents": ["World/Encounters/DLC2_Graveyard/ScriptZones/Graveyard_AfterStartDialogue", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_GnomeStartDialog", "World/Encounters/DLC2_Graveyard/ScriptZones/Graveyard_SorcererAfterUndead_dialogue_SZ"]}

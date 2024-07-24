@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0001"], "children": ["World/Cutscenes/DrezenCapital/Theatre_Cue0001_Cutscene/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DrezenCapital/Theatre_Cue0001_Cutscene/gate"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0001"], "children": ["World/Cutscenes/DrezenCapital/Theatre_Cue0001_Cutscene/gate", "World/Cutscenes/DrezenCapital/Theatre_Cue0001_Cutscene/CommandUnitPlayCutsceneAnimation"]}

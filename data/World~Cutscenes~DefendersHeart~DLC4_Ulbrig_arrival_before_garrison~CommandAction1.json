@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/DLC4_Ulbrig_arrival_before_garrison/gate1"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Cutscenes/DefendersHeart/AneviaIdleCutscene/AneviaIdleCutscene"]}
+{"parents": ["World/Cutscenes/DefendersHeart/DLC4_Ulbrig_arrival_before_garrison/gate1"], "children": ["World/Cutscenes/DefendersHeart/AneviaIdleCutscene/AneviaIdleCutscene", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/Rushlight_SmithVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/CompositeShortbow", "Weapons/Enchantments/Enhancement3", "Weapons/Items/Unique/LateChapters/WhimsyEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/Rushlight_SmithVendorTable"], "children": ["Weapons/Enchantments/Enhancement3", "Weapons/Items/Unique/LateChapters/WhimsyEnchant", "Weapons/Types/MartialRanged/CompositeShortbow"]}

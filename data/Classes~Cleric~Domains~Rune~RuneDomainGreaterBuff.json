@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Rune/RuneDomainGreaterArea", "Classes/Cleric/Archetypes/Separatist/Domains/Rune/RuneDomainGreaterAreaSeparatist"], "children": ["Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Rune/RuneDomainGreaterAreaSeparatist", "Classes/Cleric/Domains/Rune/RuneDomainGreaterArea"], "children": ["Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Assassin/AssassinProgression", "Classes/Assassin/AssassinCreatePoisonAbilityCon", "Classes/Assassin/AssassinCreatePoisonAbilityConSwift", "Root/Upgraders/Player/PF-505565(1-5lvl)"]}
+{"parents": ["Classes/Assassin/AssassinProgression", "Root/Upgraders/Player/PF-505565(1-5lvl)", "Classes/Assassin/AssassinCreatePoisonAbilityConSwift", "Classes/Assassin/AssassinCreatePoisonAbilityCon"]}

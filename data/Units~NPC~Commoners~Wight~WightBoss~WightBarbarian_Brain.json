@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"], "children": ["Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianBarbarian_Brain_Standard", "Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Wight/WightBoss/WightBarbarian_AiAction_Charge"]}
+{"parents": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"], "children": ["Units/NPC/Commoners/Wight/WightBoss/WightBarbarian_AiAction_Charge", "Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianBarbarian_Brain_Standard"]}

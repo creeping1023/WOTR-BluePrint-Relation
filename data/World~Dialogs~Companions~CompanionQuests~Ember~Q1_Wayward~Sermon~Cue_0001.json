@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Sermon/Sermon_Dialogue"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Sermon/Cue_0002"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Sermon/Sermon_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Sermon/Cue_0002"]}

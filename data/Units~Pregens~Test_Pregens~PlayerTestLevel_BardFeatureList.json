@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/Test_Pregens/PlayerTestLevel_Bard"], "children": ["Classes/Bard/BardClass", "Classes/Fighter/FighterFeatSelection", "Feats/CriticalFocus", "Classes/Basic/BasicFeatSelection", "Feats/CombatReflexes"]}
+{"parents": ["Units/Pregens/Test_Pregens/PlayerTestLevel_Bard"], "children": ["Classes/Bard/BardClass", "Classes/Basic/BasicFeatSelection", "Feats/CriticalFocus", "Feats/CombatReflexes", "Classes/Fighter/FighterFeatSelection"]}

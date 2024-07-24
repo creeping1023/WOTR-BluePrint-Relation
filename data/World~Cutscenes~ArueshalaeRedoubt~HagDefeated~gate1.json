@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/HagDefeated/gate 2", "World/Cutscenes/ArueshalaeRedoubt/HagDefeated/HagDefeated"], "children": ["World/Cutscenes/ArueshalaeRedoubt/HagDefeated/CommandAction 4"]}
+{"parents": ["World/Cutscenes/ArueshalaeRedoubt/HagDefeated/HagDefeated", "World/Cutscenes/ArueshalaeRedoubt/HagDefeated/gate 2"], "children": ["World/Cutscenes/ArueshalaeRedoubt/HagDefeated/CommandAction 4"]}

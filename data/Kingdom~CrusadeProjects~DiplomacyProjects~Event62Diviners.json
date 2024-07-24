@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event62Diviners", "Armies/CrusadeGlobalBuffs/GrowthDiviners"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/CrusadeGlobalBuffs/GrowthDiviners", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event62Diviners"]}

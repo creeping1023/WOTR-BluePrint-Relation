@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter3/DemonsTerrorEnchantmentNew"], "children": ["CreatureAbilities/Subtypes/SubtypeDemon", "Weapons/Items/UniquePF2/Chapter3/DemonsTerrorCountBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter3/DemonsTerrorEnchantmentNew"], "children": ["Weapons/Items/UniquePF2/Chapter3/DemonsTerrorCountBuff", "CreatureAbilities/Subtypes/SubtypeDemon"]}

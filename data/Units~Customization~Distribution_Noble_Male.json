@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CustomizationPreset_Noble_Male"], "children": ["Races/HumanRace", "Races/DwarfRace", "Races/ElfRace", "Races/HalfElfRace", "Races/HalflingRace", "Races/AasimarRace"]}
+{"parents": ["Units/Customization/CustomizationPreset_Noble_Male"], "children": ["Races/AasimarRace", "Races/DwarfRace", "Races/HalfElfRace", "Races/ElfRace", "Races/HumanRace", "Races/HalflingRace"]}

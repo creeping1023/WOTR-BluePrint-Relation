@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/StudentOfStone/BonesOfStoneFeature"], "children": ["Classes/Monk/Archetypes/StudentOfStone/BonesOfStoneBuff1", "Classes/Monk/Archetypes/StudentOfStone/BonesOfStoneBuff2", "Classes/Monk/KiPowers/KiPowerResource"]}
+{"parents": ["Classes/Monk/Archetypes/StudentOfStone/BonesOfStoneFeature"], "children": ["Classes/Monk/Archetypes/StudentOfStone/BonesOfStoneBuff2", "Classes/Monk/KiPowers/KiPowerResource", "Classes/Monk/Archetypes/StudentOfStone/BonesOfStoneBuff1"]}

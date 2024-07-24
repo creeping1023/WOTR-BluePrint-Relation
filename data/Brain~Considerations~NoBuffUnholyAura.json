@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Alignments/DLC6_ProphetOfApollyonBrain/DLC6_ProphetOfApollyon_UnholyAuraAiAction", "Units/Monsters/Minotaur/MinotaurBrain/HalfFiendMinotaur_UnholyAuraAiAction"], "children": ["Spells/Level8/UnholyAuraBuff"]}
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/HalfFiendMinotaur_UnholyAuraAiAction", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Alignments/DLC6_ProphetOfApollyonBrain/DLC6_ProphetOfApollyon_UnholyAuraAiAction"], "children": ["Spells/Level8/UnholyAuraBuff"]}

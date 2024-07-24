@@ -1,1 +1,1 @@
-{"parents": ["FX/Creatures/RockThrow00_AshGiantVariant_Slowly", "FX/Abilities/Kinetic_Ice00_Projectile", "FX/Creatures/RockThrow00_AshGiantVariant", "FX/Spell Level None/ColdCommonProjectile00", "FX/Spell Level None/ColdCommonProjectile00_Up"]}
+{"parents": ["FX/Spell Level None/ColdCommonProjectile00", "FX/Spell Level None/ColdCommonProjectile00_Up", "FX/Creatures/RockThrow00_AshGiantVariant_Slowly", "FX/Creatures/RockThrow00_AshGiantVariant", "FX/Abilities/Kinetic_Ice00_Projectile"]}

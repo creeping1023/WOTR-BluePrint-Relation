@@ -1,1 +1,1 @@
-{"parents": ["Armies/Rituals/RitualChannelNegativeEnergy"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/Bonus/Dragon5ManaConsumptionFact", "Armies/Leaders/Feats/Bonus/Dragon5ManaConsumptionFact", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}
+{"parents": ["Armies/Rituals/RitualChannelNegativeEnergy"], "children": ["Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff", "Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/Bonus/Dragon5ManaConsumptionFact"]}

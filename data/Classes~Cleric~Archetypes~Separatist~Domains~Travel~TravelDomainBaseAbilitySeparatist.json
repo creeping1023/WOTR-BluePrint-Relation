@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Travel/TravelDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/Domains/Travel/TravelDomainBaseBuff", "Classes/Cleric/Archetypes/Separatist/Domains/Travel/TravelDomainBaseResourceSeparatist"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Travel/TravelDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/Archetypes/Separatist/Domains/Travel/TravelDomainBaseResourceSeparatist", "Classes/Cleric/Domains/Travel/TravelDomainBaseBuff"]}

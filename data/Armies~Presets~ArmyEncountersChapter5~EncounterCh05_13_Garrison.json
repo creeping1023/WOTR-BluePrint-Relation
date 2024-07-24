@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Points/Chapter05_Army13_Garrison", "Kingdom/MoraleFlags/KingdomMoraleFlagChapter5"], "children": ["Armies/UnitBlueprints/ArmyZombieStandard", "Armies/UnitBlueprints/ArmyPlaguedMastodon", "Armies/UnitBlueprints/ArmyZombieStandard"]}
+{"parents": ["Kingdom/MoraleFlags/KingdomMoraleFlagChapter5", "GlobalMaps/WorldWoundGM/Points/Chapter05_Army13_Garrison"], "children": ["Armies/UnitBlueprints/ArmyZombieStandard", "Armies/UnitBlueprints/ArmyPlaguedMastodon"]}

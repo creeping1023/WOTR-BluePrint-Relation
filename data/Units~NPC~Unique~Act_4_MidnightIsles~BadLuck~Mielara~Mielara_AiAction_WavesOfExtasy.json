@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/BadLuck/Mielara/MielaraBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level7/WavesOfEctasy"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/BadLuck/Mielara/MielaraBrain"], "children": ["Spells/Level7/WavesOfEctasy", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

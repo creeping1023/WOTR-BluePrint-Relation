@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Trash/CR2/PF2_RichHuman_LootCupboard"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/BaphometPreacherBookFeature", "Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Trash/CR2/PF2_RichHuman_LootCupboard", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/BaphometPreacherBookFeature", "Items/DestructibleItemsShards/PaperShardItem"]}

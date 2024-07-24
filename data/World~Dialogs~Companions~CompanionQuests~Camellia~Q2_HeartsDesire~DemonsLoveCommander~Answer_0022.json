@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q2_HeartsDesire/DemonsLoveCommander/AnswersList_0020"], "children": ["World/Encounters/TenThousandDelights/SummonPools/CamelliaQ2_DemonsLoveAll", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q2_HeartsDesire/DemonsLoveCommander/AnswersList_0020"], "children": ["Factions/Mobs", "World/Encounters/TenThousandDelights/SummonPools/CamelliaQ2_DemonsLoveAll"]}

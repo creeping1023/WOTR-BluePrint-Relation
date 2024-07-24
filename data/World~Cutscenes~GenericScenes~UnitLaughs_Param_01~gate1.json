@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GenericScenes/UnitLaughs_Param_01/gate"], "children": ["World/Cutscenes/GenericScenes/UnitLaughs_Param_01/CommandDelay1", "World/Cutscenes/GenericScenes/UnitLaughs_Param_01/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/GenericScenes/UnitLaughs_Param_01/gate"], "children": ["World/Cutscenes/GenericScenes/UnitLaughs_Param_01/CommandActivateGate", "World/Cutscenes/GenericScenes/UnitLaughs_Param_01/CommandDelay1"]}

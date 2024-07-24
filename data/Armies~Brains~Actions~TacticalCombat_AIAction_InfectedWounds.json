@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_WitchBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Brain/Considerations/NoBuffInfectedWounds", "Armies/Abilities/ArmyInfectedWounds"]}
+{"parents": ["Armies/Brains/TacticalCombat_WitchBrain"], "children": ["Armies/Abilities/ArmyInfectedWounds", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Brain/Considerations/NoBuffInfectedWounds"]}

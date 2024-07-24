@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/Intimacy/Answer_0023"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/Intimacy/Cue_0032"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/Intimacy/Answer_0023"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/ArueshalaeRomance/Intimacy/Cue_0032", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagTrickster2BrewerySoldiers", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBrewerySoldiers"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBrewerySoldiers", "Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagTrickster2BrewerySoldiers"]}

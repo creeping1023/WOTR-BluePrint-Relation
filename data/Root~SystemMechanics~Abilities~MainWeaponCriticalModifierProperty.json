@@ -1,1 +1,1 @@
-{"parents": ["Root/SystemMechanics/Abilities/CoupDeGraceSelfAbility", "Root/SystemMechanics/Abilities/CoupDeGraceAbility", "Classes/Slayer/Archetypes/Executioner/ExecutionerAssassinateAbility"]}
+{"parents": ["Classes/Slayer/Archetypes/Executioner/ExecutionerAssassinateAbility", "Root/SystemMechanics/Abilities/CoupDeGraceSelfAbility", "Root/SystemMechanics/Abilities/CoupDeGraceAbility"]}

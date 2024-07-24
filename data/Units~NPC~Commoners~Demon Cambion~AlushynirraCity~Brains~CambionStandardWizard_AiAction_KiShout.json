@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demon Cambion/AlushynirraCity/Brains/CambionToughCaster_Brain_SingleTargets", "Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_CR18_CambionToughCaster"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level7/KiShout"]}
+{"parents": ["Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_CR18_CambionToughCaster", "Units/NPC/Commoners/Demon Cambion/AlushynirraCity/Brains/CambionToughCaster_Brain_SingleTargets"], "children": ["Spells/Level7/KiShout", "Brain/Considerations/AttackTargetsPriority"]}

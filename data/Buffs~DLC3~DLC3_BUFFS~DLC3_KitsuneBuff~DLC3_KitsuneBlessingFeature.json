@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Boons/DungeonBoon_Kitsune"], "children": ["Races/KitsuneRace", "Buffs/DLC3/DLC3_BUFFS/DLC3_KitsuneBuff/DLC3_KitsuneBlessingBuff"]}
+{"parents": ["Dugeons/Boons/DungeonBoon_Kitsune"], "children": ["Buffs/DLC3/DLC3_BUFFS/DLC3_KitsuneBuff/DLC3_KitsuneBlessingBuff", "Races/KitsuneRace"]}

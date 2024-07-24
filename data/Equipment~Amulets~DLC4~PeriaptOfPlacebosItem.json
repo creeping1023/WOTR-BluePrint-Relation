@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["DLC/DLC4/Dlc4Reward", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/DLC4/PeriaptOfPlacebosEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Equipment/Amulets/DLC4/PeriaptOfPlacebosEnchantment", "Items/DestructibleItemsShards/MetalShardItem", "DLC/DLC4/Dlc4Reward"]}

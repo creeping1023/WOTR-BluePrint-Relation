@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Angel/EchoGate/Cue_0012"], "children": ["World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_MythAngel_c4_quest", "World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_HiddenFail", "World/Dialogs/c4/Mythic_Angel/EchoGate/Cue_0014"]}
+{"parents": ["World/Dialogs/c4/Mythic_Angel/EchoGate/Cue_0012"], "children": ["World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_MythAngel_c4_quest", "World/Dialogs/c4/Mythic_Angel/EchoGate/Cue_0014", "World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_HiddenFail"]}

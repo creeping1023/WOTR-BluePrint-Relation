@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/LannVenduChoose/Answer_0068"], "children": ["World/Cutscenes/Prologue_Labyrinth/Lann_Leaves_Attacked/Lann_Leaves_Attacked", "World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/LannVenduChoose/Cue_0055"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/LannVenduChoose/Answer_0068"], "children": ["World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/LannVenduChoose/Cue_0055", "World/Cutscenes/Prologue_Labyrinth/Lann_Leaves_Attacked/Lann_Leaves_Attacked"]}

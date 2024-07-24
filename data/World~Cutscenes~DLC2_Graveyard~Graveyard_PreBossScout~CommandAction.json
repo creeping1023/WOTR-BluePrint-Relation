@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_Graveyard/Graveyard_PreBossScout/Graveyard_PreBossScout"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_ScoutTrap"]}
+{"parents": ["World/Cutscenes/DLC2_Graveyard/Graveyard_PreBossScout/Graveyard_PreBossScout"], "children": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_ScoutTrap", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

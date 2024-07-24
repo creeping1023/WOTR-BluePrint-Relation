@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Spells/Level1/ExpeditiousRetreat", "Equipment/Cloaks/Artisan/HalfElfMaleTailor/RoguesCompanionEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Cloaks/Artisan/HalfElfMaleTailor/RoguesCompanionEnchant", "Spells/Level1/ExpeditiousRetreat", "Items/DestructibleItemsShards/ClothShardItem"]}

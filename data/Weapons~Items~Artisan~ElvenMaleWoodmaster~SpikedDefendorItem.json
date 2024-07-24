@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Spear", "Weapons/Enchantments/Enhancement1", "Weapons/Items/Artisan/ElvenMaleWoodmaster/SpikedDefendorFrost1d3", "Weapons/Items/Artisan/ElvenMaleWoodmaster/SpikedDefendorAC1"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Artisan/ElvenMaleWoodmaster/SpikedDefendorFrost1d3", "Weapons/Items/Artisan/ElvenMaleWoodmaster/SpikedDefendorAC1", "Weapons/Types/SimpleTwoHanded/Spear", "Weapons/Enchantments/Enhancement1"]}

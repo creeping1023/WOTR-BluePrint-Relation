@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level9/Shapechange/ShapechangeFree"], "children": ["Spells/Level6/BeastShapeIVShamblingMoundBuff", "Spells/Level9/Shapechange/ShapechangeCooldown", "Spells/Level6/BeastShapeIVShamblingMoundBuff", "Spells/Level9/Shapechange/ShapechangeCooldown", "Spells/Level9/Shapechange/ShapechangeFree"]}
+{"parents": ["Spells/Level9/Shapechange/ShapechangeFree"], "children": ["Spells/Level9/Shapechange/ShapechangeFree", "Spells/Level9/Shapechange/ShapechangeCooldown", "Spells/Level6/BeastShapeIVShamblingMoundBuff"]}

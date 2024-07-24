@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/InevitableDarknessPainting/CommandAction1", "Units/Monsters/Deathsnatcher/DLC1_ThresholdOutdoor/InevitableDarkness_SpawnActions"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_NPC_Level1", "Weapons/Items/Standard/NaturalWeapon/Unarmed1d3"]}
+{"parents": ["Units/Monsters/Deathsnatcher/DLC1_ThresholdOutdoor/InevitableDarkness_SpawnActions", "World/Cutscenes/WarCamp/InevitableDarknessPainting/CommandAction1"], "children": ["Weapons/Items/Standard/NaturalWeapon/Unarmed1d3", "Units/Companions/SosielVaenic/SosielVaenic_NPC_Level1"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/MeatSlaver_dialogue/Cue_0052"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/HeraldMute", "Units/NPC/Unique/Act_4_MidnightIsles/Herald/AlushinyrraHerald"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/MeatSlaver_dialogue/Cue_0052"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Herald/AlushinyrraHerald", "World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/HeraldMute"]}

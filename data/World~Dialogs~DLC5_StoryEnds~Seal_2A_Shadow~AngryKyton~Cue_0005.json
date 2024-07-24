@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/CueSequence_0001"], "children": ["World/Quests/DLC5_StoryEnds/DLC5_LC_ExecutorErrand/Objective_0001", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_Kyton"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/CueSequence_0001"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_Kyton", "World/Quests/DLC5_StoryEnds/DLC5_LC_ExecutorErrand/Objective_0001"]}

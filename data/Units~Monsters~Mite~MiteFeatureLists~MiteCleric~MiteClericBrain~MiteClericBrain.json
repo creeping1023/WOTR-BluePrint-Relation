@@ -1,1 +1,1 @@
-{"parents": ["QA/Unused/Units/Monsters/Mite/CR4_MiteClericLevel4"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/ChannelNegativeEnergyMiteAiAction", "Brain/Actions/BlessAiAction", "Brain/Actions/CLWAiAction", "Brain/Actions/HoldPersonAiAction"]}
+{"parents": ["QA/Unused/Units/Monsters/Mite/CR4_MiteClericLevel4"], "children": ["Brain/Actions/ChannelNegativeEnergyMiteAiAction", "Brain/Actions/AttackAiAction", "Brain/Actions/HoldPersonAiAction", "Brain/Actions/BlessAiAction", "Brain/Actions/CLWAiAction"]}

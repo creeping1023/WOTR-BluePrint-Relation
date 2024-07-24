@@ -1,1 +1,1 @@
-{"children": ["Units/Monsters/Demon Gallu/GalluBrain/Gallu_AiAction_VitalStrike", "Brain/Actions/AttackAiAction"]}
+{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Gallu/GalluBrain/Gallu_AiAction_VitalStrike"]}

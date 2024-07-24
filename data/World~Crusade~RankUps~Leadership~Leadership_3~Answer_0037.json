@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Leadership/Leadership_3/AnswersList_0002"], "children": ["World/Crusade/RankUps/Leadership/Leadership_3/Cue_0041", "Armies/CrusadeGlobalBuffs/FlagLeadership3Morale"]}
+{"parents": ["World/Crusade/RankUps/Leadership/Leadership_3/AnswersList_0002"], "children": ["Armies/CrusadeGlobalBuffs/FlagLeadership3Morale", "World/Crusade/RankUps/Leadership/Leadership_3/Cue_0041"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Ember/Q2_Wicked/Demon_Sermon/Cue_0017"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q2_Wicked/Demon_Sermon/Cue_0019"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q2_Wicked/Demon_Sermon/Cue_0017", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q2_Wicked/Demon_Sermon/Cue_0019"]}

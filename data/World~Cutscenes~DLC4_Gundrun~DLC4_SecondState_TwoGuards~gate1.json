@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/DLC4_SecondState_TwoGuards", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/gate"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/CommandAction"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/gate", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/DLC4_SecondState_TwoGuards"], "children": ["World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/CommandAction"]}

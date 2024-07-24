@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/InfernalBloodline/BloodlineInfernalHellfireAbility", "Classes/Sorcerer/InfernalBloodline/BloodlineInfernalHellfireExtraUse", "Classes/Sorcerer/InfernalBloodline/BloodlineInfernalHellfireFeature"], "children": ["Classes/Sorcerer/SorcererClass"]}
+{"parents": ["Classes/Sorcerer/InfernalBloodline/BloodlineInfernalHellfireFeature", "Classes/Sorcerer/InfernalBloodline/BloodlineInfernalHellfireAbility", "Classes/Sorcerer/InfernalBloodline/BloodlineInfernalHellfireExtraUse"], "children": ["Classes/Sorcerer/SorcererClass"]}

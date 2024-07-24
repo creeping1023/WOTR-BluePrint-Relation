@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Edges/Edge_16Army_DretchesBabausDerakniBrimoraksItem_19Army_SkeletonsCultistsMission", "GlobalMaps/WorldWoundGM/WorldWoundGM"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM"]}
+{"parents": ["GlobalMaps/WorldWoundGM/WorldWoundGM", "GlobalMaps/WorldWoundGM/Edges/Edge_16Army_DretchesBabausDerakniBrimoraksItem_19Army_SkeletonsCultistsMission"], "children": ["GlobalMaps/WorldWoundGM/WorldWoundGM"]}

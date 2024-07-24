@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HorgusManor/Q3_NonMassacre/gate"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/FinalTruth/FinalTruth_dialogue"]}
+{"parents": ["World/Cutscenes/HorgusManor/Q3_NonMassacre/gate"], "children": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/FinalTruth/FinalTruth_dialogue", "Units/Companions/Camelia/Camelia_Companion"]}

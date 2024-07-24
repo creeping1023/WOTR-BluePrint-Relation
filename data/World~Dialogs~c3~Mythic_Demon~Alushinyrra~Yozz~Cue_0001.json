@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Yozz_dialogue"], "children": ["World/Encounters/VaultOfGraves/UnlockableFlags/YozzTeleportIntercept", "World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Cue_0074"]}
+{"parents": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Yozz_dialogue"], "children": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Cue_0074", "World/Encounters/VaultOfGraves/UnlockableFlags/YozzTeleportIntercept"]}

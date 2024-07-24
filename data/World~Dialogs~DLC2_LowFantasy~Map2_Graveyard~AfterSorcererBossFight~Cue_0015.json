@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/Cue_0014"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/Cue_0014"], "children": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/AfterSorcererBossFight/AnswersList_0002", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

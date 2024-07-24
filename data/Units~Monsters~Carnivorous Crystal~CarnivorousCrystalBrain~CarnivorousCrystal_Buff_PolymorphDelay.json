@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_Freeze"], "children": ["Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_PolymorphPermanent", "Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBuff"]}
+{"parents": ["Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_Freeze"], "children": ["Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBuff", "Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_PolymorphPermanent"]}

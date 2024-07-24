@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Worg/CR6_WorgAdvanced", "Dugeons/Loot/DungeonLootExclude", "QA/Unused/Units/Monsters/Worg/CR7_WorgPackLeader", "QA/Unused/Units/Monsters/Worg/CR10_WorgAdvanced", "Units/Monsters/Worg/CR2_WorgStandart"], "children": ["Weapons/Types/NaturalWeapon/BiteType"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Worg/CR6_WorgAdvanced", "Units/Monsters/Worg/CR2_WorgStandart", "QA/Unused/Units/Monsters/Worg/CR10_WorgAdvanced", "QA/Unused/Units/Monsters/Worg/CR7_WorgPackLeader"], "children": ["Weapons/Types/NaturalWeapon/BiteType"]}

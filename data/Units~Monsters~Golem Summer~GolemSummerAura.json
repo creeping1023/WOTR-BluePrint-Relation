@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Golem Summer/GolemSummerEntangleAuraBuff"], "children": ["Root/SystemMechanics/Conditions/EntangledBuff", "Buffs/Fatigued", "Root/SystemMechanics/Conditions/EntangledBuff", "Buffs/Fatigued"]}
+{"parents": ["Units/Monsters/Golem Summer/GolemSummerEntangleAuraBuff"], "children": ["Root/SystemMechanics/Conditions/EntangledBuff", "Buffs/Fatigued"]}

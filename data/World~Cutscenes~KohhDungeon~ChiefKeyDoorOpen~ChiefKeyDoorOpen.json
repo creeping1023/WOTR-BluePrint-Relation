@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/Doors"], "children": ["World/Cutscenes/KohhDungeon/ChiefKeyDoorOpen/CommandAction", "World/Cutscenes/KohhDungeon/ChiefKeyDoorOpen/CommandDelay", "World/Cutscenes/KohhDungeon/ChiefKeyDoorOpen/gate"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/Doors"], "children": ["World/Cutscenes/KohhDungeon/ChiefKeyDoorOpen/CommandDelay", "World/Cutscenes/KohhDungeon/ChiefKeyDoorOpen/CommandAction", "World/Cutscenes/KohhDungeon/ChiefKeyDoorOpen/gate"]}

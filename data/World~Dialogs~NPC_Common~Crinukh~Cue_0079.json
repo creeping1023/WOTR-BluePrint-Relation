@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Crinukh/Answer_0078"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster", "World/Dialogs/NPC_Common/Crinukh/AnswersList_0025"]}
+{"parents": ["World/Dialogs/NPC_Common/Crinukh/Answer_0078"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "World/Dialogs/NPC_Common/Crinukh/AnswersList_0025"]}

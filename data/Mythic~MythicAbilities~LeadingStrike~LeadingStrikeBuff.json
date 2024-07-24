@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/LeadingStrike/LeadingStrike"], "children": ["Mythic/MythicAbilities/LeadingStrike/LeadingStrike", "Mythic/MythicAbilities/LeadingStrike/LeadingStrikeDamageBuff", "Mythic/MythicAbilities/LeadingStrike/LeadingStrike", "Mythic/MythicAbilities/LeadingStrike/LeadingStrikeDamageBuff"]}
+{"parents": ["Mythic/MythicAbilities/LeadingStrike/LeadingStrike"], "children": ["Mythic/MythicAbilities/LeadingStrike/LeadingStrikeDamageBuff", "Mythic/MythicAbilities/LeadingStrike/LeadingStrike"]}

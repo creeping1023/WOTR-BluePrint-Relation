@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Armor/Items/Unique/UniquePF2/CaveExplorersArmorItem"], "children": ["Traits/Races/Common/VerminType", "Traits/Races/Common/PlantType"]}
+{"parents": ["Equipment/Armor/Items/Unique/UniquePF2/CaveExplorersArmorItem"], "children": ["Traits/Races/Common/PlantType", "Traits/Races/Common/VerminType"]}

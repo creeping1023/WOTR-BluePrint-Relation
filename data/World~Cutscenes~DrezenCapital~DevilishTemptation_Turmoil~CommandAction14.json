@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/DevilishTemptation_Turmoil/gate12"], "children": ["Buffs/NPC_Immortality", "Factions/Mobs", "CreatureAbilities/Unlootable"]}
+{"parents": ["World/Cutscenes/DrezenCapital/DevilishTemptation_Turmoil/gate12"], "children": ["Factions/Mobs", "CreatureAbilities/Unlootable", "Buffs/NPC_Immortality"]}

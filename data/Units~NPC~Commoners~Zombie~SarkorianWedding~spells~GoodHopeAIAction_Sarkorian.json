@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_Skiled_Brain", "Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain"], "children": ["Brain/Considerations/NoBuffGoodHope", "Brain/Considerations/AoE_ChooseMoreFriends", "Spells/Level3/GoodHope"]}
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain", "Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_Skiled_Brain"], "children": ["Spells/Level3/GoodHope", "Brain/Considerations/NoBuffGoodHope", "Brain/Considerations/AoE_ChooseMoreFriends"]}

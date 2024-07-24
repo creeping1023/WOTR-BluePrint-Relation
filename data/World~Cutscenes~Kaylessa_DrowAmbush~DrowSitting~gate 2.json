@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/gate"], "children": ["World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/CommandDelay 4", "World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/gate 1", "World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/CommandUnitLookAt"]}
+{"parents": ["World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/gate"], "children": ["World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/gate 1", "World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/CommandUnitLookAt", "World/Cutscenes/Kaylessa_DrowAmbush/DrowSitting/CommandDelay 4"]}

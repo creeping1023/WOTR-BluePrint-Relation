@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/Staunton_Abdiction/gate", "World/Cutscenes/GrayGarrison/Staunton_Abdiction/Staunton_Abdiction"], "children": ["World/Cutscenes/GrayGarrison/Staunton_Abdiction/CommandAction 1", "World/Cutscenes/GrayGarrison/Staunton_Abdiction/gate 11"]}
+{"parents": ["World/Cutscenes/GrayGarrison/Staunton_Abdiction/Staunton_Abdiction", "World/Cutscenes/GrayGarrison/Staunton_Abdiction/gate"], "children": ["World/Cutscenes/GrayGarrison/Staunton_Abdiction/gate 11", "World/Cutscenes/GrayGarrison/Staunton_Abdiction/CommandAction 1"]}

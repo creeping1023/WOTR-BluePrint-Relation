@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TheIvoryLabyrinth/PlayerInPrison_Ending/PlayerInPrison_Ending"], "children": ["World/Cutscenes/TheIvoryLabyrinth/PlayerInPrison_Ending/CommandMoveUnit", "World/Cutscenes/TheIvoryLabyrinth/PlayerInPrison_Ending/gate 12"]}
+{"parents": ["World/Cutscenes/TheIvoryLabyrinth/PlayerInPrison_Ending/PlayerInPrison_Ending"], "children": ["World/Cutscenes/TheIvoryLabyrinth/PlayerInPrison_Ending/gate 12", "World/Cutscenes/TheIvoryLabyrinth/PlayerInPrison_Ending/CommandMoveUnit"]}

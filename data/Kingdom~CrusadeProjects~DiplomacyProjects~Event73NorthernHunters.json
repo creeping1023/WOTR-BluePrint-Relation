@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event73NorthernHunters", "World/Crusade/CrusadeArmy/Event_73_4", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["World/Crusade/CrusadeArmy/Event_73_4", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event73NorthernHunters", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}

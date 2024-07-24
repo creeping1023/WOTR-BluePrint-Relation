@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantSpellResistance17Choice"], "children": ["Equipment/Armor/Enchantments/SpellResistance17Enchant", "Classes/Magus/ArcanePool/ArcaneWeaponFlamingBuff"]}
+{"parents": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantSpellResistance17Choice"], "children": ["Classes/Magus/ArcanePool/ArcaneWeaponFlamingBuff", "Equipment/Armor/Enchantments/SpellResistance17Enchant"]}

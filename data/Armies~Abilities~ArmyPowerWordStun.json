@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyPowerWordStunFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_PowerWordStun"], "children": ["Buffs/Stunned", "Buffs/Stunned", "Buffs/Stunned", "Armies/Abilities/ArmyPowerWordStunResource"]}
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_PowerWordStun", "Armies/Abilities/ArmyPowerWordStunFeature"], "children": ["Buffs/Stunned", "Armies/Abilities/ArmyPowerWordStunResource"]}

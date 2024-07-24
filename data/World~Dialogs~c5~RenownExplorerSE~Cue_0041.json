@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/RenownExplorerSE/Cue_0040"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/c5/RenownExplorerSE/Cue_0042"]}
+{"parents": ["World/Dialogs/c5/RenownExplorerSE/Cue_0040"], "children": ["World/Dialogs/c5/RenownExplorerSE/Cue_0042", "Units/Companions/Greybor/Greybor_Companion"]}

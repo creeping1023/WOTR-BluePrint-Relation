@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/gate", "World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/gate 2"], "children": ["World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/CommandDelay 3", "World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/gate", "World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/gate 2"], "children": ["World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/CommandActivateGate", "World/Cutscenes/WarCamp/KTC_Ambience_HandsCrossed/CommandDelay 3"]}

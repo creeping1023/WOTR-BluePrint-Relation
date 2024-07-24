@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/AnswersList_0041"], "children": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/Cue_0054", "World/Encounters/Ziggurat/UnlockableFlags/Counselor_Burned"]}
+{"parents": ["World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/AnswersList_0041"], "children": ["World/Encounters/Ziggurat/UnlockableFlags/Counselor_Burned", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/Cue_0054"]}

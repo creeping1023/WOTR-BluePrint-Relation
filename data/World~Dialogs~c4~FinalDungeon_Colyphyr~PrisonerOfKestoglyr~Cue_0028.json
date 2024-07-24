@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/CueSequence_0025"], "children": ["Units/Companions/Trever/Trever_Companion", "World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/Cue_0029"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/CueSequence_0025"], "children": ["World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/Cue_0029", "Units/Companions/Trever/Trever_Companion"]}

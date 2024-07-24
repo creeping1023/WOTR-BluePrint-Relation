@@ -22,6 +22,7 @@ import re
 regex = r"[0-9a-z]{32}"
 
 # %%
+import json
 parent_dict_actual = dict()
 parent_dict_literal = dict()
 children_dict = dict()
@@ -38,7 +39,7 @@ with zipfile.ZipFile(zip_path, 'r') as z:
                 parent_id = get_parent_id(data)
                 type_id = get_type_id(data)
                 children = [c for c in re.findall(regex, content) if c!=id and c!=parent_id and c!=type_id]
-                children_dict[id] = children
+                children_dict[id] = list(set(children))
                 for c in children:
                     if c not in parent_dict_actual:
                         parent_dict_actual[c] = set()
@@ -51,7 +52,6 @@ import os
 if not os.path.exists('data'):
     os.makedirs('data')
 
-import json
 keys = set(parent_dict_actual.keys()).union(set(parent_dict_literal.keys())).union(set(children_dict.keys()))
 for id in keys:
     if id in by_id:

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/EmberQ2_HealDemon/EmberQ2_HealDemon"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Cutscenes/GenericScenes/OnKneesWhileInCutscene/OnKneesWhileInCutscene", "Units/Companions/Ember/Ember_Companion"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/EmberQ2_HealDemon/EmberQ2_HealDemon"], "children": ["World/Cutscenes/GenericScenes/OnKneesWhileInCutscene/OnKneesWhileInCutscene", "Units/Companions/Ember/Ember_Companion"]}

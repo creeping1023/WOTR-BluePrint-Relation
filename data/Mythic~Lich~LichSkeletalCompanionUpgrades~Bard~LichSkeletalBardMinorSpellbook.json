@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichSkeletalCompanionUpgrades/Bard/LichSkeletalBardSpellFeature"], "children": ["Classes/Bard/BardSpellSlotsTable", "Mythic/Lich/LichSkeletalCompanionUpgrades/Bard/LichSkeletalIBardMinorSpelllist", "Classes/Monster/Undead/UndeadClass"]}
+{"parents": ["Mythic/Lich/LichSkeletalCompanionUpgrades/Bard/LichSkeletalBardSpellFeature"], "children": ["Classes/Bard/BardSpellSlotsTable", "Classes/Monster/Undead/UndeadClass", "Mythic/Lich/LichSkeletalCompanionUpgrades/Bard/LichSkeletalIBardMinorSpelllist"]}

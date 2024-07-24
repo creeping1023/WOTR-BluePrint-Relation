@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleRanged/Javelin", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement3", "Weapons/Types/SimpleRanged/Javelin"]}

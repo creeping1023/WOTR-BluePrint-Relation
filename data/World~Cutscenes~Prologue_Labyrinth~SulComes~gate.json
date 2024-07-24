@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Labyrinth/SulComes/SulComes", "World/Cutscenes/Prologue_Labyrinth/SulComes/gate 1"], "children": ["World/Cutscenes/Prologue_Labyrinth/SulComes/CommandAction 1"]}
+{"parents": ["World/Cutscenes/Prologue_Labyrinth/SulComes/gate 1", "World/Cutscenes/Prologue_Labyrinth/SulComes/SulComes"], "children": ["World/Cutscenes/Prologue_Labyrinth/SulComes/CommandAction 1"]}

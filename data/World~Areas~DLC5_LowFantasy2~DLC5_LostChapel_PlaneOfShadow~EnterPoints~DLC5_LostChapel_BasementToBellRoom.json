@@ -1,1 +1,1 @@
-{"parents": ["QA/Arbiter/Scenario/DLC5/DLC5_LostChapel_PlaneOfShadow"], "children": ["World/Areas/DLC5_LowFantasy2/DLC5_LostChapel_PlaneOfShadow/DLC5_LostChapel_PlaneOfShadow", "World/Areas/DLC5_LowFantasy2/DLC5_LostChapel_PlaneOfShadow/DLC5_LostChapel_BellTower"]}
+{"parents": ["QA/Arbiter/Scenario/DLC5/DLC5_LostChapel_PlaneOfShadow"], "children": ["World/Areas/DLC5_LowFantasy2/DLC5_LostChapel_PlaneOfShadow/DLC5_LostChapel_BellTower", "World/Areas/DLC5_LowFantasy2/DLC5_LostChapel_PlaneOfShadow/DLC5_LostChapel_PlaneOfShadow"]}

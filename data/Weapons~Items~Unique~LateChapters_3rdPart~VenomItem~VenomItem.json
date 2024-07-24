@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Spear", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/LateChapters_3rdPart/VenomItem/VenomEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/LateChapters_3rdPart/VenomItem/VenomEnchantment", "Weapons/Types/SimpleTwoHanded/Spear", "Weapons/Enchantments/Enhancement5"]}

@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/WorldWoundGM"], "children": ["GlobalMaps/WorldWoundGM/Points/Chapter05_Army45_Garrison", "GlobalMaps/WorldWoundGM/Points/Location_Threshold", "World/Quests/c5/LastSteps/02_DrezenTreshold"]}
+{"parents": ["GlobalMaps/WorldWoundGM/WorldWoundGM"], "children": ["World/Quests/c5/LastSteps/02_DrezenTreshold", "GlobalMaps/WorldWoundGM/Points/Location_Threshold", "GlobalMaps/WorldWoundGM/Points/Chapter05_Army45_Garrison"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/FadeoutUnrecruitGreybor/FadeoutUnrecruitGreybor"], "children": ["Units/Companions/Greybor/Greybor_Companion", "Units/Companions/Greybor/Greybor_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborNotInParty_KickedOut"]}
+{"parents": ["World/Cutscenes/DrezenCapital/FadeoutUnrecruitGreybor/FadeoutUnrecruitGreybor"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborNotInParty_KickedOut", "Units/Companions/Greybor/Greybor_Companion"]}

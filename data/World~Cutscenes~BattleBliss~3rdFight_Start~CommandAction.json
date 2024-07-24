@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/3rdFight_Start/3rdFight_Start"], "children": ["Factions/TrueNeutrals", "Buffs/NPC_Protection"]}
+{"parents": ["World/Cutscenes/BattleBliss/3rdFight_Start/3rdFight_Start"], "children": ["Buffs/NPC_Protection", "Factions/TrueNeutrals"]}

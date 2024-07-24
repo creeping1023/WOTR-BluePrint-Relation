@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HorgusManor/Q3_NonMassacre/CommandAction", "World/Cutscenes/HorgusManor/Q3_BeforeMassacre/CommandAction"], "children": ["World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManor", "World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManorGarden"]}
+{"parents": ["World/Cutscenes/HorgusManor/Q3_BeforeMassacre/CommandAction", "World/Cutscenes/HorgusManor/Q3_NonMassacre/CommandAction"], "children": ["World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManor", "World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManorGarden"]}

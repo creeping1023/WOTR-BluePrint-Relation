@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/Companions/Lann/Q2LannErrand/Objective_0001", "World/Encounters/ReturnToDrezen/ActionsHolders/Locust_Lann_FailAllQuests"], "children": ["World/Quests/Companions/Lann/Q2LannErrand/Objective_0001"]}
+{"parents": ["World/Encounters/ReturnToDrezen/ActionsHolders/Locust_Lann_FailAllQuests", "World/Quests/Companions/Lann/Q2LannErrand/Objective_0001"], "children": ["World/Quests/Companions/Lann/Q2LannErrand/Objective_0001"]}

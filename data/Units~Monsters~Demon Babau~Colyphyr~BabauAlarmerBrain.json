@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Babau/Colyphyr/BabauAlarmer"], "children": ["Units/Monsters/Demon Babau/Colyphyr/BabauAlarmerGreaterTeleport_AiAction", "Units/Monsters/Demon Babau/Colyphyr/BabauAlarmerBark_AiAction", "Brain/Actions/AttackAiAction"]}
+{"parents": ["Units/Monsters/Demon Babau/Colyphyr/BabauAlarmer"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Babau/Colyphyr/BabauAlarmerBark_AiAction", "Units/Monsters/Demon Babau/Colyphyr/BabauAlarmerGreaterTeleport_AiAction"]}

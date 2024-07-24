@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0081"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0083"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0081"], "children": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0083", "Units/Companions/Regill/Regill_Companion"]}

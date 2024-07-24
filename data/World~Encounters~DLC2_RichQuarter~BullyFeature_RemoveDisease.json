@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Bully"], "children": ["World/Encounters/DLC2_RichQuarter/RemoveDiseaseBuff_Bully", "Spells/Level3/RemoveDisease"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Bully"], "children": ["Spells/Level3/RemoveDisease", "World/Encounters/DLC2_RichQuarter/RemoveDiseaseBuff_Bully"]}

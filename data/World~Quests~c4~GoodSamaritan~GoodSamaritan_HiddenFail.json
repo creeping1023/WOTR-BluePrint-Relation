@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/ColyphyrDungeon/ActionsHolders/ColyphyrQuestsFail", "World/Quests/c4/GoodSamaritan/GoodSamaritan"], "children": ["World/Quests/c4/GoodSamaritan/GoodSamaritan"]}
+{"parents": ["World/Quests/c4/GoodSamaritan/GoodSamaritan", "World/Encounters/ColyphyrDungeon/ActionsHolders/ColyphyrQuestsFail"], "children": ["World/Quests/c4/GoodSamaritan/GoodSamaritan"]}

@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/Bane", "Spells/LanternKingSpells/FlameAoe", "Brain/Considerations/EnemiesNoBuff_Bane", "Spells/CutsceneSpells/PositiveChannel_Cutscene", "Spells/Level1/Bless"]}
+{"parents": ["Spells/Level1/Bless", "Spells/LanternKingSpells/FlameAoe", "Brain/Considerations/EnemiesNoBuff_Bane", "Spells/CutsceneSpells/PositiveChannel_Cutscene", "Spells/Level1/Bane"]}

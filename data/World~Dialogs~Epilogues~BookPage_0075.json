@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/Epilogues/Cue_0076", "World/Dialogs/Epilogues/Answer_0079"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["World/Dialogs/Epilogues/Cue_0076", "World/Dialogs/Epilogues/Answer_0079", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/SinisterVillage/Siblings_Meet/Cue_0036"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/SinisterVillage/Malessa", "World/Dialogs/c3/SinisterVillage/Siblings_Meet/AnswersList_0005"]}
+{"parents": ["World/Dialogs/c3/SinisterVillage/Siblings_Meet/Cue_0036"], "children": ["World/Dialogs/c3/SinisterVillage/Siblings_Meet/AnswersList_0005", "Units/NPC/Unique/Act_2_SwordOfValor/SinisterVillage/Malessa"]}

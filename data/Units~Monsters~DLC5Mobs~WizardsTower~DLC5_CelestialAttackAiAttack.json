@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/BearCelestialBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/DLC5Mobs/WizardsTower/HasCelestialSmiteEvilConsideration"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/BearCelestialBrain"], "children": ["Units/Monsters/DLC5Mobs/WizardsTower/HasCelestialSmiteEvilConsideration", "Brain/Considerations/AttackTargetsPriority"]}

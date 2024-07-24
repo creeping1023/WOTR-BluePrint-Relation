@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/ClericBrain/GhoulClericStandardBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/NoBuffHoldPerson", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/HoldPerson"]}
+{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/ClericBrain/GhoulClericStandardBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffHoldPerson", "Spells/Level3/HoldPerson"]}

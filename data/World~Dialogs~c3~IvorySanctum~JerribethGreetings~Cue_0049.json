@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/JerribethGreetings/CueSequence_0048"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielRomance/SosielRomance_Active", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/JerribethGreetings/CueSequence_0048"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielRomance/SosielRomance_Active"]}

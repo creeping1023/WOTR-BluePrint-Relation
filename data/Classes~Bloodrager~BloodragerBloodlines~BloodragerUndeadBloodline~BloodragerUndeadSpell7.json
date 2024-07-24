@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadSecondBloodline", "Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadBloodline"], "children": ["Classes/Bloodrager/BloodragerClass", "Spells/Level1/Snowball"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadSecondBloodline", "Classes/Bloodrager/BloodragerBloodlines/BloodragerUndeadBloodline/BloodragerUndeadBloodline"], "children": ["Spells/Level1/Snowball", "Classes/Bloodrager/BloodragerClass"]}

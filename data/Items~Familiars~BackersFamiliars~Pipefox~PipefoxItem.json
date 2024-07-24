@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Trash/CR2/PF2_RichHuman_PipefoxItem"], "children": ["Items/Familiars/BackersFamiliars/Pipefox/PipefoxAbility"]}
+{"parents": ["Loot/Trash/CR2/PF2_RichHuman_PipefoxItem", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/Familiars/BackersFamiliars/Pipefox/PipefoxAbility"]}

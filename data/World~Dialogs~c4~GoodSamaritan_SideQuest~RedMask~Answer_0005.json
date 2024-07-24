@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/GoodSamaritan_SideQuest/RedMask/AnswersList_0011"], "children": ["World/Dialogs/c4/GoodSamaritan_SideQuest/RedMask/Cue_0010"]}
+{"parents": ["World/Dialogs/c4/GoodSamaritan_SideQuest/RedMask/AnswersList_0011", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/GoodSamaritan_SideQuest/RedMask/Cue_0010"]}

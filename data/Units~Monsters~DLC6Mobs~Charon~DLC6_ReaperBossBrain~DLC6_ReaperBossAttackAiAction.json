@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/DLC6Mobs/Charon/DLC6_ReaperBossBrain/DLC6_ReaperBossTargetsPriority", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Inquisitor_Brain/NoSwarmDiminutiveConsideration"]}
+{"children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Inquisitor_Brain/NoSwarmDiminutiveConsideration", "Units/Monsters/DLC6Mobs/Charon/DLC6_ReaperBossBrain/DLC6_ReaperBossTargetsPriority", "Brain/Actions/AttackAiAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerAbyssalBloodline/BloodragerAbyssalBloodline", "Classes/Bloodrager/BloodragerBloodlines/BloodragerAbyssalBloodline/BloodragerAbyssalSecondBloodline"], "children": ["Classes/Bloodrager/BloodragerClass", "Spells/Level3/Rage"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerAbyssalBloodline/BloodragerAbyssalSecondBloodline", "Classes/Bloodrager/BloodragerBloodlines/BloodragerAbyssalBloodline/BloodragerAbyssalBloodline"], "children": ["Spells/Level3/Rage", "Classes/Bloodrager/BloodragerClass"]}

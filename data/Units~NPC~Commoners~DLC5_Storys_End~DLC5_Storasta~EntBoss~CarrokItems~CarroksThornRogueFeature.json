@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/CarrokItems/CarroksThornRogueEnch"], "children": ["Classes/Rogue/RogueClass", "Classes/Slayer/SlayerClass", "Classes/Assassin/AssassinClass"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/CarrokItems/CarroksThornRogueEnch"], "children": ["Classes/Slayer/SlayerClass", "Classes/Assassin/AssassinClass", "Classes/Rogue/RogueClass"]}

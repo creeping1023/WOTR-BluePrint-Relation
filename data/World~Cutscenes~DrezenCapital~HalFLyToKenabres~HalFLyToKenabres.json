@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Dragon/Hal_companion/Cue_0039"], "children": ["World/Cutscenes/DrezenCapital/HalFLyToKenabres/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DrezenCapital/HalFLyToKenabres/CommandAction", "World/Cutscenes/DrezenCapital/HalFLyToKenabres/gate"]}
+{"parents": ["World/Dialogs/c5/Mythic_Dragon/Hal_companion/Cue_0039"], "children": ["World/Cutscenes/DrezenCapital/HalFLyToKenabres/gate", "World/Cutscenes/DrezenCapital/HalFLyToKenabres/CommandAction", "World/Cutscenes/DrezenCapital/HalFLyToKenabres/CommandUnitPlayCutsceneAnimation"]}

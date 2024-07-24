@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/DH_StartDemonsAttack/gate 1"], "children": ["World/Cutscenes/DefendersHeart/DH_StartDemonsAttack/CommandBark", "World/Cutscenes/DefendersHeart/DH_StartDemonsAttack/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Cutscenes/DefendersHeart/DH_StartDemonsAttack/gate 1"], "children": ["World/Cutscenes/DefendersHeart/DH_StartDemonsAttack/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/DefendersHeart/DH_StartDemonsAttack/CommandBark"]}

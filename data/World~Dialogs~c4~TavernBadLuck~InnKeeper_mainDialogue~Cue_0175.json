@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0174"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/AnswersList_0176", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0189"]}
+{"parents": ["World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0174"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0189", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/AnswersList_0176"]}

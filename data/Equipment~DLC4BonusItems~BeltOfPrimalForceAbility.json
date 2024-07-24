@@ -1,1 +1,1 @@
-{"parents": ["Equipment/DLC4BonusItems/BeltOfPrimalForceItem"], "children": ["Equipment/DLC4BonusItems/BeltOfPrimalForceUnitProperty", "Buffs/Stunned", "Equipment/DLC4BonusItems/BeltOfPrimalForceBuff", "Equipment/DLC4BonusItems/BeltOfPrimalForceFeatureFinal"]}
+{"parents": ["Equipment/DLC4BonusItems/BeltOfPrimalForceItem"], "children": ["Buffs/Stunned", "Equipment/DLC4BonusItems/BeltOfPrimalForceUnitProperty", "Equipment/DLC4BonusItems/BeltOfPrimalForceBuff", "Equipment/DLC4BonusItems/BeltOfPrimalForceFeatureFinal"]}

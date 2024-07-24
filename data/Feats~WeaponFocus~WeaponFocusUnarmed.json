@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocusGreater/WeaponFocusGreaterUnarmed"], "children": ["Weapons/Types/Special/Unarmed", "Feats/WeaponFocusGreater/WeaponFocusGreaterUnarmed"]}
+{"parents": ["Feats/WeaponFocusGreater/WeaponFocusGreaterUnarmed"], "children": ["Feats/WeaponFocusGreater/WeaponFocusGreaterUnarmed", "Weapons/Types/Special/Unarmed"]}

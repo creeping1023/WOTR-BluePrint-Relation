@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusSpear"], "children": ["Weapons/Types/SimpleTwoHanded/Spear", "Feats/WeaponFocus/WeaponFocusSpear", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusSpear"], "children": ["Feats/WeaponFocus/WeaponFocusSpear", "Weapons/Types/SimpleTwoHanded/Spear", "Classes/Fighter/FighterClass"]}

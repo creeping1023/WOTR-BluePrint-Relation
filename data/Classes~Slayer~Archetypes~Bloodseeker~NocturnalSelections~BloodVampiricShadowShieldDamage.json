@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodVampiricShadowShieldBuff"], "children": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodVampiricShadowShieldBuffHeal", "Classes/Slayer/SlayerClass"]}
+{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodVampiricShadowShieldBuff"], "children": ["Classes/Slayer/SlayerClass", "Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/BloodVampiricShadowShieldBuffHeal"]}

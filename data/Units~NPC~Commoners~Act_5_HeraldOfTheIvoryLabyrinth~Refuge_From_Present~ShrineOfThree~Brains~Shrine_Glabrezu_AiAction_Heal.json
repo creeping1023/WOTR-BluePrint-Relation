@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/ShrineOfThree/Brains/Shrine_Glabrezu_Brain"], "children": ["Brain/Considerations/InjuryCritical", "Brain/Considerations/TargetSelf", "Spells/Level6/HealCast"]}
+{"parents": ["Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/ShrineOfThree/Brains/Shrine_Glabrezu_Brain"], "children": ["Brain/Considerations/TargetSelf", "Spells/Level6/HealCast", "Brain/Considerations/InjuryCritical"]}

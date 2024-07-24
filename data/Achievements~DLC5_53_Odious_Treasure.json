@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/Odious Treasure", "Root/BlueprintRoot"], "children": ["DLC/DLC5/Dlc5Campaign", "Achievements/Groups/DLC5TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/Odious Treasure"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2", "DLC/DLC5/Dlc5Campaign"]}

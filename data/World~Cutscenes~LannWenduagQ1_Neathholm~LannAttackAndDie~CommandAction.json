@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannAttackAndDie/LannAttackAndDie"], "children": ["World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_LannNotCompanion", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannAttackAndDie/LannAttackAndDie"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_LannNotCompanion"]}

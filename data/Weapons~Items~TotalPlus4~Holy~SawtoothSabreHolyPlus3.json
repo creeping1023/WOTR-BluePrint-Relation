@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["DLC/DLC6/Dlc6Reward", "Weapons/Types/ExoticLight/SawtoothSabre", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["DLC/DLC6/Dlc6Reward", "Weapons/Types/ExoticLight/SawtoothSabre", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement3"]}

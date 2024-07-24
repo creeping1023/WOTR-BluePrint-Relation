@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/InfMummyPack2_DigOut_2/InfMummyPack2_DigOut_2", "World/Cutscenes/AreshkagalDungeon/InfMummyPack2_DigOut_2/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/InfMummyPack2_DigOut_2/CommandMoveUnit"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/InfMummyPack2_DigOut_2/gate", "World/Cutscenes/AreshkagalDungeon/InfMummyPack2_DigOut_2/InfMummyPack2_DigOut_2"], "children": ["World/Cutscenes/AreshkagalDungeon/InfMummyPack2_DigOut_2/CommandMoveUnit"]}

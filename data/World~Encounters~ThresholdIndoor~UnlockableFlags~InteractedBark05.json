@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/ThresholdIndoor/ActionsHolders/BarkObject05_Actions", "World/Encounters/ThresholdIndoor/ScriptZones/AreeluAppears"]}
+{"parents": ["World/Encounters/ThresholdIndoor/ScriptZones/AreeluAppears", "World/Encounters/ThresholdIndoor/ActionsHolders/BarkObject05_Actions"]}

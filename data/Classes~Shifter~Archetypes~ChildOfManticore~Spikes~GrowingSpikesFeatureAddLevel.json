@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterProgression", "Classes/Shifter/Archetypes/ChildOfManticore/ChildOfManticoreShifterArchetype"], "children": ["Classes/Shifter/ShifterClass", "Classes/Shifter/Archetypes/ChildOfManticore/Spikes/GrowingSpikesFeatureLevel1"]}
+{"parents": ["Classes/Shifter/Archetypes/ChildOfManticore/ChildOfManticoreShifterArchetype", "Classes/Shifter/ShifterProgression"], "children": ["Classes/Shifter/Archetypes/ChildOfManticore/Spikes/GrowingSpikesFeatureLevel1", "Classes/Shifter/ShifterClass"]}

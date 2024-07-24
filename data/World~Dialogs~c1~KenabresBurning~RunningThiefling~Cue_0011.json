@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/RunningThiefling/Answer_0010"], "children": ["Units/NPC/Commoners/Act_1_WorldwoundIncursion/Woljif_Q1/Thiefling_RogueCustomer", "World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0020"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/RunningThiefling/Answer_0010"], "children": ["World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0020", "Units/NPC/Commoners/Act_1_WorldwoundIncursion/Woljif_Q1/Thiefling_RogueCustomer"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_States/CorruptionBookEvent"], "children": ["World/Dialogs/c1/CorruptionBE/BookPage_0001", "World/Quests/c1/Errands/RestInPeace/Objective_0001"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01/Chapter01_States/CorruptionBookEvent"], "children": ["World/Quests/c1/Errands/RestInPeace/Objective_0001", "World/Dialogs/c1/CorruptionBE/BookPage_0001"]}

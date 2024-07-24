@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Evocation/ElementalWallAcidAbility"], "children": ["Traits/Races/Common/UndeadType", "Traits/Races/Common/UndeadType", "Classes/Wizard/WizardClass", "Classes/Wizard/WizardClass"]}
+{"parents": ["Classes/Wizard/Evocation/ElementalWallAcidAbility"], "children": ["Traits/Races/Common/UndeadType", "Classes/Wizard/WizardClass"]}

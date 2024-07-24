@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Siege_has_begun/CommandTeleport", "Root/Upgraders/Player/PF-483756"], "children": ["World/Areas/DLC4_Shifter/DLC4_Gundrun/DLC4_Gundrun", "World/Areas/DLC4_Shifter/DLC4_Gundrun/DLC4_Gundrun"]}
+{"parents": ["Root/Upgraders/Player/PF-483756", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Siege_has_begun/CommandTeleport"], "children": ["World/Areas/DLC4_Shifter/DLC4_Gundrun/DLC4_Gundrun"]}

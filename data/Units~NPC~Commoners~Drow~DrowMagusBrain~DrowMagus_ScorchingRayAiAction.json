@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Drow/DrowMagusBrain/DrowMagus_Brain", "Units/NPC/Commoners/Drow/DrowMagusBrain/DrowMagus_Brain14"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/ScorchingRay"]}
+{"parents": ["Units/NPC/Commoners/Drow/DrowMagusBrain/DrowMagus_Brain", "Units/NPC/Commoners/Drow/DrowMagusBrain/DrowMagus_Brain14"], "children": ["Spells/Level2/ScorchingRay", "Brain/Considerations/AttackTargetsPriority"]}

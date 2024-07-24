@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/TestEtudes/TEST_Reflection_Base"], "children": ["World/Etudes/Common/WrathOfTheRighteous/TestEtudes/TEST_Reflection_Base", "World/Encounters/TestArea1/UnlockableFlags/TEST_ReflectionWeatherChange"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/TestEtudes/TEST_Reflection_Base"], "children": ["World/Encounters/TestArea1/UnlockableFlags/TEST_ReflectionWeatherChange", "World/Etudes/Common/WrathOfTheRighteous/TestEtudes/TEST_Reflection_Base"]}

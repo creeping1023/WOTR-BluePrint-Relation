@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/Armwrestling/CueSequence_0007"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/SoldierParty_Kayden"]}
+{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/Armwrestling/CueSequence_0007"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/SoldierParty_Kayden", "Units/Companions/Seelah/Seelah_Companion"]}

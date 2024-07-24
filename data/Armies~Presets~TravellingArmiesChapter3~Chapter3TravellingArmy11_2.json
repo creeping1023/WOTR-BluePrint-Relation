@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/ArmyRoot"], "children": ["Armies/UnitBlueprints/ArmyNabasuStandard", "Armies/UnitBlueprints/ArmyGhoulStandard", "Armies/UnitBlueprints/ArmyCultist_Baphomet_Melee"]}
+{"parents": ["Root/Kingdom/ArmyRoot"], "children": ["Armies/UnitBlueprints/ArmyGhoulStandard", "Armies/UnitBlueprints/ArmyCultist_Baphomet_Melee", "Armies/UnitBlueprints/ArmyNabasuStandard"]}

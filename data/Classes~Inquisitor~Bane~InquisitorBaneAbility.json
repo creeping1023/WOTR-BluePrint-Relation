@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Bane/InquisitorBaneNormalFeature"], "children": ["Classes/Inquisitor/Bane/InquisitorBaneResource", "Classes/Inquisitor/Bane/InquisitorBaneBuff"]}
+{"parents": ["Classes/Inquisitor/Bane/InquisitorBaneNormalFeature"], "children": ["Classes/Inquisitor/Bane/InquisitorBaneBuff", "Classes/Inquisitor/Bane/InquisitorBaneResource"]}

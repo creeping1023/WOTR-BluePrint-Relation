@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Divination/DivinationSchoolForetellAidToggleAbility"], "children": ["Classes/Wizard/Divination/DivinationSchoolForetellAidAura", "Spells/Level1/EnlargePersonBuff"]}
+{"parents": ["Classes/Wizard/Divination/DivinationSchoolForetellAidToggleAbility"], "children": ["Spells/Level1/EnlargePersonBuff", "Classes/Wizard/Divination/DivinationSchoolForetellAidAura"]}

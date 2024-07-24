@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0032"], "children": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0115", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0116", "World/Dialogs/c1/KenabresBurning/MeetEmber/SequenceExit_0114"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0032"], "children": ["World/Dialogs/c1/KenabresBurning/MeetEmber/SequenceExit_0114", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0116", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0115"]}

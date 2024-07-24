@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Temple/Wolf_Meet/Cue_0001"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/Temple/Wolf_Meet/Cue_4"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Temple/Wolf_Meet/Cue_0001"], "children": ["World/Dialogs/DLC4_Shifter/Temple/Wolf_Meet/Cue_4", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

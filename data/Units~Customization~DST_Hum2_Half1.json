@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CP_Bandit_Bard", "Units/Customization/CP_Bandit_Cleric", "Units/Customization/CP_CultistsRanged6-8"], "children": ["Races/HumanRace", "Races/HalflingRace"]}
+{"parents": ["Units/Customization/CP_Bandit_Bard", "Units/Customization/CP_CultistsRanged6-8", "Units/Customization/CP_Bandit_Cleric"], "children": ["Races/HumanRace", "Races/HalflingRace"]}

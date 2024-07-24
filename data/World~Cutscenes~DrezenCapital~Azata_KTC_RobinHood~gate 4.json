@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/gate 12", "World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/Azata_KTC_RobinHood", "World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/gate 3"], "children": ["World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/CommandAction 2"]}
+{"parents": ["World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/Azata_KTC_RobinHood", "World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/gate 12", "World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/gate 3"], "children": ["World/Cutscenes/DrezenCapital/Azata_KTC_RobinHood/CommandAction 2"]}

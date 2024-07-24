@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Omox/ColyphyrDungeon/FulsomeQueen", "Units/Monsters/Demon Omox/ColyphyrDungeon/FulsomeQueen_Vision"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Omox/ColyphyrDungeon/FulsomeQueenBrain/FulsomeQueen_AiAction_ElementalAssessor"]}
+{"parents": ["Units/Monsters/Demon Omox/ColyphyrDungeon/FulsomeQueen_Vision", "Units/Monsters/Demon Omox/ColyphyrDungeon/FulsomeQueen"], "children": ["Units/Monsters/Demon Omox/ColyphyrDungeon/FulsomeQueenBrain/FulsomeQueen_AiAction_ElementalAssessor", "Brain/Actions/AttackAiAction"]}

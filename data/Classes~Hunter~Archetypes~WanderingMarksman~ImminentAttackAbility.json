@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackFeature"], "children": ["Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackEffectBuff", "Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackResource"]}
+{"parents": ["Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackFeature"], "children": ["Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackResource", "Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackEffectBuff"]}

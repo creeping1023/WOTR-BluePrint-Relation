@@ -1,1 +1,1 @@
-{"parents": ["Items/Rods/Briar/Briar"], "children": ["Buffs/Confusion", "Spells/Level5/DominatePersonBuff", "Buffs/Frightened", "Spells/Level5/SongOfDiscordEnragedBuff", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Items/Rods/Briar/Briar"], "children": ["Buffs/Confusion", "Weapons/Types/Special/TouchItem", "Buffs/Frightened", "Spells/Level5/DominatePersonBuff", "Spells/Level5/SongOfDiscordEnragedBuff"]}

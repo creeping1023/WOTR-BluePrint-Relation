@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GreyborQ3_DryCrossroads/GreyborBarks/gate2"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborStates/GreyborNotInTheGuild", "Units/Companions/Greybor/Greybor_Companion"]}
+{"parents": ["World/Cutscenes/GreyborQ3_DryCrossroads/GreyborBarks/gate2"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborStates/GreyborNotInTheGuild"]}

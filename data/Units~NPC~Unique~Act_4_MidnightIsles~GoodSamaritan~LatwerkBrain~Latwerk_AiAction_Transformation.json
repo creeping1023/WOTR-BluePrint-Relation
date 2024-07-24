@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/GoodSamaritan/LatwerkBrain/LatwerkBrain"], "children": ["Brain/Considerations/NoBuffTransformation", "Brain/Considerations/TargetSelf", "Spells/Level6/Transformation"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/GoodSamaritan/LatwerkBrain/LatwerkBrain"], "children": ["Brain/Considerations/TargetSelf", "Spells/Level6/Transformation", "Brain/Considerations/NoBuffTransformation"]}

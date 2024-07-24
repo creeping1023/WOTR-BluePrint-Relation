@@ -1,1 +1,1 @@
-{"children": ["Classes/Monster/Dragon/DragonClass", "Factions/Neutrals", "Brain/Dumb Monster Brain", "Feats/Dodge", "CreatureAbilities/NaturalArmor/NaturalArmor2", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR"]}
+{"children": ["Factions/Neutrals", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR", "Brain/Dumb Monster Brain", "CreatureAbilities/NaturalArmor/NaturalArmor2", "Feats/Dodge", "Classes/Monster/Dragon/DragonClass"]}

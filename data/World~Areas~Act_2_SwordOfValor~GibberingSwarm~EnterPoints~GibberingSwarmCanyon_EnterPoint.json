@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/SwarmProblem_BE/SwarmProblem_BE", "QA/Arbiter/arbiter_start_preset", "QA/Clockwork/clockwork_smoketest_preset"], "children": ["World/Areas/Act_2_SwordOfValor/GibberingSwarm/GibberingSwarm", "World/Areas/Act_2_SwordOfValor/GibberingSwarm/GibberingSwarm"]}
+{"parents": ["QA/Clockwork/clockwork_smoketest_preset", "QA/Arbiter/arbiter_start_preset", "World/Dialogs/c2_vs/GibberingSwarm/SwarmProblem_BE/SwarmProblem_BE"], "children": ["World/Areas/Act_2_SwordOfValor/GibberingSwarm/GibberingSwarm"]}

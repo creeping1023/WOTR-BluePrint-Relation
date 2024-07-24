@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/CR2_BanditAlchemistBrain"], "children": ["Brain/Considerations/NoBuffTrueStrike", "Spells/Level1/TargetedBombAdmixture"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Graveyard/Brain/CR2_BanditAlchemistBrain"], "children": ["Spells/Level1/TargetedBombAdmixture", "Brain/Considerations/NoBuffTrueStrike"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/KenabresBurning/ActionsHolders/DestroyCircle_CheckPassedActions"], "children": ["World/Cutscenes/KenabresBurning/RemoveVrokMagicCircle/CommandDelay", "World/Cutscenes/KenabresBurning/RemoveVrokMagicCircle/gate"]}
+{"parents": ["World/Encounters/KenabresBurning/ActionsHolders/DestroyCircle_CheckPassedActions"], "children": ["World/Cutscenes/KenabresBurning/RemoveVrokMagicCircle/gate", "World/Cutscenes/KenabresBurning/RemoveVrokMagicCircle/CommandDelay"]}

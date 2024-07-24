@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/IZCollapsing/IZCollapsing", "World/Cutscenes/Iz/IZCollapsing/gate2"], "children": ["World/Cutscenes/Iz/IZCollapsing/CommandAction"]}
+{"parents": ["World/Cutscenes/Iz/IZCollapsing/gate2", "World/Cutscenes/Iz/IZCollapsing/IZCollapsing"], "children": ["World/Cutscenes/Iz/IZCollapsing/CommandAction"]}

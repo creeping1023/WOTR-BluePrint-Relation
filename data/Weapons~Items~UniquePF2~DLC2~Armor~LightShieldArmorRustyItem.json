@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/LightShieldType"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Shields/Types/LightShieldType", "Items/DestructibleItemsShards/MetalShardItem"]}

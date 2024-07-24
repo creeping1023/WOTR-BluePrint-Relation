@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Encounters/KenabresBurning/ActionsHolders/CatTigger_interIcon_CheckPassedActions"], "children": ["Items/Familiars/Cat/Cat_Ability"]}
+{"parents": ["World/Encounters/KenabresBurning/ActionsHolders/CatTigger_interIcon_CheckPassedActions", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/Familiars/Cat/Cat_Ability"]}

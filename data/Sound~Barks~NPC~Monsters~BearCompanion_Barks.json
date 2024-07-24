@@ -1,1 +1,1 @@
-{"parents": ["Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBear_Medium", "Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBear_Large", "Classes/Pets/AnimalCompanionUnitBear"]}
+{"parents": ["Classes/Pets/AnimalCompanionUnitBear", "Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBear_Large", "Units/MountedCombatDummies/Mounts/AnimalCompanionUnitBear_Medium"]}

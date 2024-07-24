@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonMirrorCompanion/Answer_0067"], "children": ["World/Quests/MythicQuests/Aeon/AeonFixAlignment/Obj1_FixAlignment", "World/Dialogs/c3/Mythic_Aeon/AeonMirrorCompanion/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonMirrorCompanion/Answer_0067"], "children": ["World/Dialogs/c3/Mythic_Aeon/AeonMirrorCompanion/AnswersList_0002", "World/Quests/MythicQuests/Aeon/AeonFixAlignment/Obj1_FixAlignment"]}

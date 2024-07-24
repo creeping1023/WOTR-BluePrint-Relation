@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/DefendersHeart/WoljifHeyYou/Answer_0024", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c1/Errands/WoljifIrabeth/Objective_0001", "World/Dialogs/c1/DefendersHeart/WoljifHeyYou/AnswersList_0004"]}
+{"parents": ["World/Dialogs/c1/DefendersHeart/WoljifHeyYou/Answer_0024", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c1/DefendersHeart/WoljifHeyYou/AnswersList_0004", "World/Quests/c1/Errands/WoljifIrabeth/Objective_0001"]}

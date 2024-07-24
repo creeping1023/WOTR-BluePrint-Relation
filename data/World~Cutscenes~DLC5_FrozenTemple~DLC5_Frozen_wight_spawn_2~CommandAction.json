@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Frozen_wight_spawn_2/gate"], "children": ["Buffs/NPC_Untargetable", "CreatureAbilities/Unlootable", "Factions/Mobs", "World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_FrozenWightsSpawn", "World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_FrozenWightsSpawn"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Frozen_wight_spawn_2/gate"], "children": ["Factions/Mobs", "CreatureAbilities/Unlootable", "World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_FrozenWightsSpawn", "Buffs/NPC_Untargetable"]}

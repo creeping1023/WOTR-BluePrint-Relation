@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/Treason/gate 8"], "children": ["World/Cutscenes/GrayGarrison/Treason/CommandBark 1", "World/Cutscenes/GrayGarrison/Treason/gate 2", "World/Cutscenes/GrayGarrison/Treason/CommandUnitPlayCutsceneAnimation 1"]}
+{"parents": ["World/Cutscenes/GrayGarrison/Treason/gate 8"], "children": ["World/Cutscenes/GrayGarrison/Treason/gate 2", "World/Cutscenes/GrayGarrison/Treason/CommandUnitPlayCutsceneAnimation 1", "World/Cutscenes/GrayGarrison/Treason/CommandBark 1"]}

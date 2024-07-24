@@ -1,1 +1,1 @@
-{"parents": ["Brain/Considerations/EnemiesNoBuff_Prayer", "Spells/CutsceneSpells/PrayerQuickened_Cutscene", "Spells/Level3/PrayerDebuffAbility", "Weapons/Items/UniquePF2/Chapter3/FortunesTemperPrayer"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter3/FortunesTemperPrayer", "Spells/CutsceneSpells/PrayerQuickened_Cutscene", "Brain/Considerations/EnemiesNoBuff_Prayer", "Spells/Level3/PrayerDebuffAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate10"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/Yozz_WithPlayer"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate10"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/Yozz_WithPlayer", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

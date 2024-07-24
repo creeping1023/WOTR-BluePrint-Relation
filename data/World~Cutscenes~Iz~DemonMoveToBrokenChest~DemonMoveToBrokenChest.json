@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Iz/ActionsHolders/Loot13Chest_OnDestructionActions"], "children": ["World/Cutscenes/Iz/DemonMoveToBrokenChest/CommandMoveUnit1", "World/Cutscenes/Iz/DemonMoveToBrokenChest/CommandDelay", "World/Cutscenes/Iz/DemonMoveToBrokenChest/CommandMoveUnit"]}
+{"parents": ["World/Encounters/Iz/ActionsHolders/Loot13Chest_OnDestructionActions"], "children": ["World/Cutscenes/Iz/DemonMoveToBrokenChest/CommandDelay", "World/Cutscenes/Iz/DemonMoveToBrokenChest/CommandMoveUnit", "World/Cutscenes/Iz/DemonMoveToBrokenChest/CommandMoveUnit1"]}

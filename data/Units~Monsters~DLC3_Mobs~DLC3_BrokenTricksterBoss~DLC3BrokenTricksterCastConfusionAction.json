@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_BrokenTricksterBoss/DLC3_BrokenTricksterBrain"], "children": ["Brain/Considerations/NoBuffConfusion", "Brain/Considerations/NotUndeadConsideration", "Spells/Level4/ConfusionSpell"]}
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_BrokenTricksterBoss/DLC3_BrokenTricksterBrain"], "children": ["Brain/Considerations/NotUndeadConsideration", "Spells/Level4/ConfusionSpell", "Brain/Considerations/NoBuffConfusion"]}

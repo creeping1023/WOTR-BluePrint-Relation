@@ -1,1 +1,1 @@
-{"parents": ["CreatureAbilities/Templates/DLC1/Anomaly/AnomalyTemplateRangeFeature", "Units/NPC/Unique/DLC1_Megaepic/WintersunDragon_Features/DLC1_WintersunDragon_Feature_Prebuff", "CreatureAbilities/Templates/DLC1/Anomaly/AnomalyTemplateMeleeFeature"]}
+{"parents": ["CreatureAbilities/Templates/DLC1/Anomaly/AnomalyTemplateMeleeFeature", "CreatureAbilities/Templates/DLC1/Anomaly/AnomalyTemplateRangeFeature", "Units/NPC/Unique/DLC1_Megaepic/WintersunDragon_Features/DLC1_WintersunDragon_Feature_Prebuff"]}

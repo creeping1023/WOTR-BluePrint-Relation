@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/LightMace", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Axiomatic"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Axiomatic", "Weapons/Enchantments/Enhancement1", "Weapons/Types/SimpleLight/LightMace"]}

@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/ObsidianFlowArea"], "children": ["Root/SystemMechanics/Conditions/ChargeBuff", "Spells/Level4/ObsidianFlowChargeBuff"]}
+{"parents": ["Spells/Level4/ObsidianFlowArea"], "children": ["Spells/Level4/ObsidianFlowChargeBuff", "Root/SystemMechanics/Conditions/ChargeBuff"]}

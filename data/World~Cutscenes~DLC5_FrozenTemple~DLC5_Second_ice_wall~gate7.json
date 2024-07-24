@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Second_ice_wall/gate9"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Second_ice_wall/CommandDelay10", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Second_ice_wall/gate"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Second_ice_wall/gate9"], "children": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Second_ice_wall/gate", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Second_ice_wall/CommandDelay10"]}

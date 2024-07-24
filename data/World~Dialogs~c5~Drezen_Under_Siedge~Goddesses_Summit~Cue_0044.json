@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0043"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula", "Units/NPC/Unique/Areelu/Areelu", "World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0045"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0043"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0045", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"]}

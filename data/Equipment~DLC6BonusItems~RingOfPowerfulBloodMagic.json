@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/Chapter1/Scrolls_DefendersHeartVendorTable"], "children": ["Equipment/DLC6BonusItems/RingOfPowerfulBloodMagicEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic", "Items/Vendors/Chapter1/Scrolls_DefendersHeartVendorTable"], "children": ["Equipment/DLC6BonusItems/RingOfPowerfulBloodMagicEnchantment"]}

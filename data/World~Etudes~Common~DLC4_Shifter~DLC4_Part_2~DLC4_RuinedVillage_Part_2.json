@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC4_Shifter/DLC4_Part_2"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_2", "World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_RuinedVillage"]}
+{"parents": ["World/Etudes/Common/DLC4_Shifter/DLC4_Part_2"], "children": ["World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_RuinedVillage", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_2", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

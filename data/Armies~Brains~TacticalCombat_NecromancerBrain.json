@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyNecromancer"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackArcher", "Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegative", "Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegativeHeal"]}
+{"parents": ["Armies/UnitBlueprints/ArmyNecromancer"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegative", "Armies/Brains/Actions/TacticalCombat_AIAction_ChannelNegativeHeal", "Armies/Brains/Actions/TacticalCombatAiAttackArcher"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/ElementalBloodline/Air/BloodlineElementalAirSpellLevel1", "Classes/Bloodrager/BloodragerBloodlines/BloodragerElementalBloodline/ElementalElectricity/BloodragerElementalElectricitySpell7"], "children": ["FX/Spell Level None/SonicCone15Feet00"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerElementalBloodline/ElementalElectricity/BloodragerElementalElectricitySpell7", "Classes/Sorcerer/ElementalBloodline/Air/BloodlineElementalAirSpellLevel1"], "children": ["FX/Spell Level None/SonicCone15Feet00"]}

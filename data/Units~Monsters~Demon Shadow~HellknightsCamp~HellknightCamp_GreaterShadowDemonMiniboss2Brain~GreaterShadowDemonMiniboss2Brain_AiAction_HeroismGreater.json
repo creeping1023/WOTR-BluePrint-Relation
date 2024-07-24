@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Shadow/HellknightsCamp/HellknightCamp_GreaterShadowDemonMiniboss2Brain/GreaterShadowDemonMiniboss2Brain"], "children": ["Brain/Considerations/NoBuffHeroismGreater", "Spells/Level6/HeroismGreater"]}
+{"parents": ["Units/Monsters/Demon Shadow/HellknightsCamp/HellknightCamp_GreaterShadowDemonMiniboss2Brain/GreaterShadowDemonMiniboss2Brain"], "children": ["Spells/Level6/HeroismGreater", "Brain/Considerations/NoBuffHeroismGreater"]}

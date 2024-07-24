@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticOneHanded/Estoc", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Agile"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Agile", "Weapons/Enchantments/Enhancement1", "Weapons/Types/ExoticOneHanded/Estoc"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_TavernKeeper/Cue_0008"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/DLC5_BarmenGemilHokks", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_TavernKeeper/AnswersList_0001"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_TavernKeeper/Cue_0008"], "children": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_TavernKeeper/AnswersList_0001", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/DLC5_BarmenGemilHokks"]}

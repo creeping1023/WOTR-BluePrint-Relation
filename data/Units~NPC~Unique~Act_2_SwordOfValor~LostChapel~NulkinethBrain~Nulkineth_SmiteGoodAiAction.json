@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/AttackTargetsPriority", "CreatureAbilities/Templates/Half-Fiend/HalfFiendSmiteGood/HalfFiendSmiteGoodAbility"]}
+{"children": ["Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AttackTargetsPriority", "CreatureAbilities/Templates/Half-Fiend/HalfFiendSmiteGood/HalfFiendSmiteGoodAbility"]}

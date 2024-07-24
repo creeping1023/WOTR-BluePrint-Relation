@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichSkeletalCompanionUpgrades/Bard/LichSkeletalBardTierI"], "children": ["Classes/Bard/BardicPerformances/BardicPerformanceResource", "Classes/Monster/Undead/UndeadClass"]}
+{"parents": ["Mythic/Lich/LichSkeletalCompanionUpgrades/Bard/LichSkeletalBardTierI"], "children": ["Classes/Monster/Undead/UndeadClass", "Classes/Bard/BardicPerformances/BardicPerformanceResource"]}

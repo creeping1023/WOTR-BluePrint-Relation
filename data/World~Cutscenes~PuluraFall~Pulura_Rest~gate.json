@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/PuluraFall/Pulura_Rest/Pulura_Rest"], "children": ["World/Cutscenes/PuluraFall/Pulura_Rest/CommandFadeout", "World/Cutscenes/PuluraFall/Pulura_Rest/gate 1", "World/Cutscenes/PuluraFall/Pulura_Rest/CommandAction", "World/Cutscenes/PuluraFall/Pulura_Rest/gate 1"]}
+{"parents": ["World/Cutscenes/PuluraFall/Pulura_Rest/Pulura_Rest"], "children": ["World/Cutscenes/PuluraFall/Pulura_Rest/CommandAction", "World/Cutscenes/PuluraFall/Pulura_Rest/gate 1", "World/Cutscenes/PuluraFall/Pulura_Rest/CommandFadeout"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Anemora/Answer_0053"], "children": ["World/Areas/Act_2_SwordOfValor/MarodersLair/Buffs/InitiativeBuff", "Factions/Mobs", "World/Encounters/Iz/ActionsHolders/AnemoraStartCombat"]}
+{"parents": ["World/Dialogs/c5/Iz/Anemora/Answer_0053"], "children": ["Factions/Mobs", "World/Encounters/Iz/ActionsHolders/AnemoraStartCombat", "World/Areas/Act_2_SwordOfValor/MarodersLair/Buffs/InitiativeBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronStrength/WitchStrengthPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level6/BullsStrengthMass"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronStrength/WitchStrengthPatronProgression"], "children": ["Spells/Level6/BullsStrengthMass", "Classes/Witch/WitchClass"]}

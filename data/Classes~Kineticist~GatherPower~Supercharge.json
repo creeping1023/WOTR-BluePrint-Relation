@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/Archetypes/KineticKnight/KineticKnightArchetype", "Classes/Kineticist/KineticistProgression", "Classes/Kineticist/Archetypes/ElementalEngine/ElementalEngineArchetype"], "children": ["Classes/Kineticist/GatherPower/GatherPowerFeature"]}
+{"parents": ["Classes/Kineticist/Archetypes/ElementalEngine/ElementalEngineArchetype", "Classes/Kineticist/KineticistProgression", "Classes/Kineticist/Archetypes/KineticKnight/KineticKnightArchetype"], "children": ["Classes/Kineticist/GatherPower/GatherPowerFeature"]}

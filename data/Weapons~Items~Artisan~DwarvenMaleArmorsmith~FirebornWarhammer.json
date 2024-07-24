@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level2/SummonElementalSmallFire", "Weapons/Types/MartialOneHanded/Warhammer", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Artisan/DwarvenMaleArmorsmith/FirebornWarhammerEnchantmentFire"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Artisan/DwarvenMaleArmorsmith/FirebornWarhammerEnchantmentFire", "Weapons/Enchantments/Enhancement4", "Spells/Level2/SummonElementalSmallFire", "Weapons/Types/MartialOneHanded/Warhammer"]}

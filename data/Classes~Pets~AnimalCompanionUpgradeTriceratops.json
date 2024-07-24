@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionFeatureTriceratops_PreorderBonus", "Classes/Pets/AnimalCompanionFeatureTriceratops"], "children": ["Classes/Pets/Triceratops_Feature_PowerfulChargeFeature", "Classes/Pets/IterativeNaturalAttacksBuff"]}
+{"parents": ["Classes/Pets/AnimalCompanionFeatureTriceratops_PreorderBonus", "Classes/Pets/AnimalCompanionFeatureTriceratops"], "children": ["Classes/Pets/IterativeNaturalAttacksBuff", "Classes/Pets/Triceratops_Feature_PowerfulChargeFeature"]}

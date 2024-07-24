@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate2"], "children": ["World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside", "Spells/CutsceneSpells/AreshkagalDungeon/ConeOfFire_50ft_cutscene"]}
+{"parents": ["World/Cutscenes/AreeluLabReturn/ChildDeath/gate2"], "children": ["Spells/CutsceneSpells/AreshkagalDungeon/ConeOfFire_50ft_cutscene", "World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside"]}

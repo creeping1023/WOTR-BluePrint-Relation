@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/InRangeConsideration", "Brain/Considerations/Caster", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/TouchOfSlime"]}
+{"children": ["Brain/Considerations/Caster", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/InRangeConsideration", "Spells/Level4/TouchOfSlime"]}

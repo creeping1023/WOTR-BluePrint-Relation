@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/AreeluIntro/CueSequence_0020"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/NPC/Unique/Areelu/Areelu", "World/Dialogs/c5/Iz/AreeluIntro/Cue_0024"]}
+{"parents": ["World/Dialogs/c5/Iz/AreeluIntro/CueSequence_0020"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Dialogs/c5/Iz/AreeluIntro/Cue_0024", "Units/Companions/Nenio/Nenio_Companion"]}

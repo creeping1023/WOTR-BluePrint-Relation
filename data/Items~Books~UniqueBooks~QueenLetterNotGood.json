@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Cue_0016", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Cue_0016"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

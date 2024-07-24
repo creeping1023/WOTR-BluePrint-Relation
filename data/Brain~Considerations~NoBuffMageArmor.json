@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/MageArmorAiAction", "Units/NPC/Commoners/Demon Succubus/Lair/Lair_SuccubusBossBrain/SuccubusDominateMageArmorAIAction"], "children": ["Spells/Level1/MageArmorBuff"]}
+{"parents": ["Units/NPC/Commoners/Demon Succubus/Lair/Lair_SuccubusBossBrain/SuccubusDominateMageArmorAIAction", "Brain/Actions/MageArmorAiAction"], "children": ["Spells/Level1/MageArmorBuff"]}

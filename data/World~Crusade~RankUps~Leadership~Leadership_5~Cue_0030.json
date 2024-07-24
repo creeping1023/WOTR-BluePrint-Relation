@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Leadership/Leadership_5/CueSequence_0026", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Crusade/RankUps/Leadership/Leadership_5/Cue_0006", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Crusade/RankUps/Leadership/Leadership_5/CueSequence_0026", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Crusade/RankUps/Leadership/Leadership_5/Cue_0006"]}

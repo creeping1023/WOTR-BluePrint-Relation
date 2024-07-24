@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/gate", "World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/ElanAttacksBBD", "World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/gate 2"], "children": ["World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/CommandAction 1"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/gate 2", "World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/ElanAttacksBBD", "World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/gate"], "children": ["World/Cutscenes/DrezenCitadel_Level1/ElanComesToBBD/CommandAction 1"]}

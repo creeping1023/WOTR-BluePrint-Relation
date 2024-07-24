@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Trickster/TricksterRankUp_6/Answer_0016"], "children": ["Armies/CrusadeGlobalBuffs/FlagTrickster6Pets", "Armies/CrusadeGlobalBuffs/FlagTrickster6Pets", "World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster/MythicRankUps"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Trickster/TricksterRankUp_6/Answer_0016"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster/MythicRankUps", "Armies/CrusadeGlobalBuffs/FlagTrickster6Pets"]}

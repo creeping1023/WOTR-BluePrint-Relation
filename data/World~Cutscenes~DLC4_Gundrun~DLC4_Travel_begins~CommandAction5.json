@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Travel_begins/gate"], "children": ["World/Quests/DLC4_Shifter/DLC4_Gundrun_WagonEscort/Objective_0001", "World/Quests/DLC4_Shifter/DLC4_Gundrun_WagonEscort/Objective_0002", "Buffs/LocalMapMarker_POI_ShowAlways"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Travel_begins/gate"], "children": ["World/Quests/DLC4_Shifter/DLC4_Gundrun_WagonEscort/Objective_0002", "Buffs/LocalMapMarker_POI_ShowAlways", "World/Quests/DLC4_Shifter/DLC4_Gundrun_WagonEscort/Objective_0001"]}

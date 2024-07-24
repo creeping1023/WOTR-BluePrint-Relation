@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Mongrelman/AlushinyrraHigherCity/Mighty_CorruptedMongrelmanDefencive"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/ChargeAiAction"]}
+{"parents": ["Units/NPC/Commoners/Mongrelman/AlushinyrraHigherCity/Mighty_CorruptedMongrelmanDefencive"], "children": ["Brain/Actions/ChargeAiAction", "Brain/Actions/AttackAiAction"]}

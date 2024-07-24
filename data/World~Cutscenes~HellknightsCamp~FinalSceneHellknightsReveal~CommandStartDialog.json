@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/gate"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/HellknightsStronghold/RegillReveal/RegillReveal_Q2_dialog"]}
+{"parents": ["World/Cutscenes/HellknightsCamp/FinalSceneHellknightsReveal/gate"], "children": ["World/Dialogs/Companions/CompanionQuests/Regill/Q2_WatchYourStep/HellknightsStronghold/RegillReveal/RegillReveal_Q2_dialog", "Units/Companions/Regill/Regill_Companion"]}

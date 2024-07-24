@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC1_Megaepic/DLC1_Iz_AxisLair/Presets/DLC1_Iz_AxisLair_Default_Preset", "QA/Arbiter/Scenario/DLC1/DLC1_Iz_AxisLair"], "children": ["World/Areas/DLC1_Megaepic/DLC1_Iz_AxisLair/DLC1_Iz_AxisLair", "World/Areas/DLC1_Megaepic/DLC1_Iz_AxisLair/DLC1_Iz_AxisLair"]}
+{"parents": ["QA/Arbiter/Scenario/DLC1/DLC1_Iz_AxisLair", "World/Areas/DLC1_Megaepic/DLC1_Iz_AxisLair/Presets/DLC1_Iz_AxisLair_Default_Preset"], "children": ["World/Areas/DLC1_Megaepic/DLC1_Iz_AxisLair/DLC1_Iz_AxisLair"]}

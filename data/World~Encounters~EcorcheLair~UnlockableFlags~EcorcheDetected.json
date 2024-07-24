@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/EcorcheLair/ConditionsHolders/Ecorche_PerceptionCheckConditions", "World/Encounters/EcorcheLair/ActionsHolders/Ecorche_PerceptionCheck_Actions"]}
+{"parents": ["World/Encounters/EcorcheLair/ActionsHolders/Ecorche_PerceptionCheck_Actions", "World/Encounters/EcorcheLair/ConditionsHolders/Ecorche_PerceptionCheckConditions"]}

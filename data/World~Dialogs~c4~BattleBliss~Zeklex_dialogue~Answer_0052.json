@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0053", "World/Quests/c4/ChampionOfTheArena/Obj6_JoinToThirdFight"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c4/ChampionOfTheArena/Obj6_JoinToThirdFight", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0053"]}

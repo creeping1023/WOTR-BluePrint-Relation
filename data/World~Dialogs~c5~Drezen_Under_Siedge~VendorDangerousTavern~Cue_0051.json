@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/VendorDangerousTavern/CueSequence_0048"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/YakerAnkelli_Hellknight", "World/Dialogs/c5/Drezen_Under_Siedge/VendorDangerousTavern/Cue_0052"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/VendorDangerousTavern/CueSequence_0048"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/VendorDangerousTavern/Cue_0052", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/YakerAnkelli_Hellknight"]}

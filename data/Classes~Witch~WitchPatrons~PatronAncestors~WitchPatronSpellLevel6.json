@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronAncestors/WitchAncestorsPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level6/HeroismGreater"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronAncestors/WitchAncestorsPatronProgression"], "children": ["Spells/Level6/HeroismGreater", "Classes/Witch/WitchClass"]}

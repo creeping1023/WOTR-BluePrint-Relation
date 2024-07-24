@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/gate", "World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/gate3", "World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/MythicRoom_scene"], "children": ["World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/CommandAction1"]}
+{"parents": ["World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/gate3", "World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/MythicRoom_scene", "World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/gate"], "children": ["World/Cutscenes/DLC1_AxisDungeon/MythicRoom_scene/CommandAction1"]}

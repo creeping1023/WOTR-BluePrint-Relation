@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/Archetypes/FiendfleshShifter/ShifterAspectFiendFeature"], "children": ["Classes/Shifter/Archetypes/FiendfleshShifter/ShifterAspectFiendResource", "Classes/Shifter/Archetypes/FiendfleshShifter/ShifterAspectFiendBuff"]}
+{"parents": ["Classes/Shifter/Archetypes/FiendfleshShifter/ShifterAspectFiendFeature"], "children": ["Classes/Shifter/Archetypes/FiendfleshShifter/ShifterAspectFiendBuff", "Classes/Shifter/Archetypes/FiendfleshShifter/ShifterAspectFiendResource"]}

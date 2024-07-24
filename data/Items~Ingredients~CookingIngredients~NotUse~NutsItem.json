@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR0/Forest_Loot_DLC3_Kohh_Double1_chest1", "Dugeons/Loot/DungeonLootExclude", "Dugeons/Loot/DungeonLootCookingIngredients"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootCookingIngredients", "Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/Forest_Loot_DLC3_Kohh_Double1_chest1"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

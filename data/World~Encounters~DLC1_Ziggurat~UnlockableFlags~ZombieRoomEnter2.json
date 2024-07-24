@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room/WaitFlag1", "World/Encounters/DLC1_Ziggurat/ScriptZones/DLC1_Ziggurat_Enters_Zombie_room2", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room/CommandControlCamera3"]}
+{"parents": ["World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room/CommandControlCamera3", "World/Encounters/DLC1_Ziggurat/ScriptZones/DLC1_Ziggurat_Enters_Zombie_room2", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room/WaitFlag1"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/Imitator/ImitationRogueBuff", "Classes/Slayer/Archetypes/Imitator/ImitationBarbarianBuff"], "children": ["Classes/Rogue/UncannyDodge", "Classes/Rogue/ImprovedUncannyDodge", "Classes/Rogue/UncannyDodge", "Classes/Slayer/Archetypes/Imitator/ImitationUncannyDodge"]}
+{"parents": ["Classes/Slayer/Archetypes/Imitator/ImitationBarbarianBuff", "Classes/Slayer/Archetypes/Imitator/ImitationRogueBuff"], "children": ["Classes/Rogue/ImprovedUncannyDodge", "Classes/Rogue/UncannyDodge", "Classes/Slayer/Archetypes/Imitator/ImitationUncannyDodge"]}

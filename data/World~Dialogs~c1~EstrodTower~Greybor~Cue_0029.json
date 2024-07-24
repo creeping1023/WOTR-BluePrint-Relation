@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Greybor/CueSequence_0028"], "children": ["Units/Companions/Ember/Ember_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/EstrodTower/GreyborNPCLevel10", "World/Dialogs/c1/EstrodTower/Greybor/Cue_0031"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Greybor/CueSequence_0028"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/EstrodTower/GreyborNPCLevel10", "Units/Companions/Ember/Ember_Companion", "World/Dialogs/c1/EstrodTower/Greybor/Cue_0031"]}

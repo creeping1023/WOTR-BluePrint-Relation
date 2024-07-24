@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KohhDungeon/FirstArenaCloseDoor/gate 1"], "children": ["World/Cutscenes/KohhDungeon/CyborgTurnedOff/CyborgTurnedOff", "World/Cutscenes/KohhDungeon/CyborgTurnedOff/CyborgTurnedOff", "World/Cutscenes/KohhDungeon/CyborgsTurnOn/CyborgsTurnOn", "World/Cutscenes/KohhDungeon/CyborgsTurnOn/CyborgsTurnOn"]}
+{"parents": ["World/Cutscenes/KohhDungeon/FirstArenaCloseDoor/gate 1"], "children": ["World/Cutscenes/KohhDungeon/CyborgsTurnOn/CyborgsTurnOn", "World/Cutscenes/KohhDungeon/CyborgTurnedOff/CyborgTurnedOff"]}

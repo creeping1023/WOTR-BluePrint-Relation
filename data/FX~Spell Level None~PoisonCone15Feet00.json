@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenTechniqueCaydenTrickAbility", "Units/Monsters/Hydra/PoisonousHydraBreathWeapon", "Spells/Level7/PoisonBreath"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Units/Monsters/Hydra/PoisonousHydraBreathWeapon", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenTechniqueCaydenTrickAbility", "Spells/Level7/PoisonBreath"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

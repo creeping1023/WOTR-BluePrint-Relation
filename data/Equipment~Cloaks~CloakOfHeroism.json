@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Spells/Level3/Heroism"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level3/Heroism", "Items/DestructibleItemsShards/ClothShardItem"]}

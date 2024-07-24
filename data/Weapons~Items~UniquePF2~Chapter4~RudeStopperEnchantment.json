@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter4/RudeStopperItem"], "children": ["Weapons/Items/UniquePF2/Chapter4/RudeStopperBuff", "Buffs/CanNotAttack", "Weapons/Items/UniquePF2/Chapter4/RudeStopperBuff", "Buffs/ForbidSpellCastingBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter4/RudeStopperItem"], "children": ["Buffs/ForbidSpellCastingBuff", "Weapons/Items/UniquePF2/Chapter4/RudeStopperBuff", "Buffs/CanNotAttack"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/Rushlight_SmithVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Warhammer", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/Anarchic", "Weapons/Items/Unique/LateChapters_4thPart/ChaosHammerEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/Rushlight_SmithVendorTable"], "children": ["Weapons/Enchantments/Anarchic", "Weapons/Enchantments/Enhancement4", "Weapons/Types/MartialOneHanded/Warhammer", "Weapons/Items/Unique/LateChapters_4thPart/ChaosHammerEnchant"]}

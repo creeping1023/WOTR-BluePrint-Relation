@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nocticula_main/Cue_0491", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Ember/Ember_Companion", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula", "World/Dialogs/c4/Nocticula_main/Cue_0493"]}
+{"parents": ["World/Dialogs/c4/Nocticula_main/Cue_0491", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/Nocticula_main/Cue_0493", "Units/Companions/Ember/Ember_Companion", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"]}

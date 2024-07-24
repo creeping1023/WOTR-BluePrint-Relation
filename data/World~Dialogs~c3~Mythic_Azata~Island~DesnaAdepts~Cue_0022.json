@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/Cue_0023"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_DesnaPriest", "World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/AnswersList_0036"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/Cue_0023"], "children": ["World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/AnswersList_0036", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_DesnaPriest"]}

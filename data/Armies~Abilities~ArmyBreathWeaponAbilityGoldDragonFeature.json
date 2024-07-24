@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/KTC_ArmyDragonDiscipleBard", "Armies/UnitBlueprints/ArmyDragonGold", "Armies/UnitBlueprints/ArmyDragonDiscipleBard"], "children": ["Armies/Abilities/ArmyBreathWeaponAbilityGoldDragon", "Armies/Abilities/ArmyBreathWeaponAbilityGoldDragonFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyDragonDiscipleBard", "Armies/UnitBlueprints/KTC_ArmyDragonDiscipleBard", "Armies/UnitBlueprints/ArmyDragonGold"], "children": ["Armies/Abilities/ArmyBreathWeaponAbilityGoldDragon", "Armies/Abilities/ArmyBreathWeaponAbilityGoldDragonFact"]}

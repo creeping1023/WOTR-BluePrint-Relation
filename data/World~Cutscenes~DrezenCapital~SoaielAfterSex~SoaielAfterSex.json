@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DrezenCapital/ScriptZones/SosielRomance_BarksAfterSex"], "children": ["World/Cutscenes/DrezenCapital/SoaielAfterSex/CommandAction", "World/Cutscenes/DrezenCapital/SoaielAfterSex/CommandDelay", "World/Cutscenes/DrezenCapital/SoaielAfterSex/gate"]}
+{"parents": ["World/Encounters/DrezenCapital/ScriptZones/SosielRomance_BarksAfterSex"], "children": ["World/Cutscenes/DrezenCapital/SoaielAfterSex/gate", "World/Cutscenes/DrezenCapital/SoaielAfterSex/CommandAction", "World/Cutscenes/DrezenCapital/SoaielAfterSex/CommandDelay"]}

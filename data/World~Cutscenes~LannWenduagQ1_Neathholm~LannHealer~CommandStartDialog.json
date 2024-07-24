@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/gate 4"], "children": ["World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_LannNotCompanion", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q1_UndergroundArmy/Lann_Duel/Lann_Duel_dialogue"]}
+{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/LannHealer/gate 4"], "children": ["World/Dialogs/Companions/CompanionQuests/Wenduag/Q1_UndergroundArmy/Lann_Duel/Lann_Duel_dialogue", "World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_LannNotCompanion"]}

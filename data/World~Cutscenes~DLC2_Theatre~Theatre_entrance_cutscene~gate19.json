@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_Theatre/Theatre_entrance_cutscene/gate20", "World/Cutscenes/DLC2_Theatre/Theatre_entrance_cutscene/Theatre_entrance_cutscene"], "children": ["World/Cutscenes/DLC2_Theatre/Theatre_entrance_cutscene/CommandAction7"]}
+{"parents": ["World/Cutscenes/DLC2_Theatre/Theatre_entrance_cutscene/Theatre_entrance_cutscene", "World/Cutscenes/DLC2_Theatre/Theatre_entrance_cutscene/gate20"], "children": ["World/Cutscenes/DLC2_Theatre/Theatre_entrance_cutscene/CommandAction7"]}

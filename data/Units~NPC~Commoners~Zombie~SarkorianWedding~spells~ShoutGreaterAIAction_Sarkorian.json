@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_Skiled_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/ShoutGreater"]}
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_Skiled_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Spells/Level6/ShoutGreater", "Brain/Considerations/AttackTargetsPriority"]}

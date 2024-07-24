@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Valmallos/Valmallos_Features/Valmallos_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/LongRange", "Mythic/Aeon/AeonBlackHoleAbility"]}
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Valmallos/Valmallos_Features/Valmallos_Brain"], "children": ["Mythic/Aeon/AeonBlackHoleAbility", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/LongRange"]}

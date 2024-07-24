@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nexus_Camp/HeraldIntro/HeraldIntro_Nexus_c4_dialog"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/PlayerIsLich", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/Cue_0001"]}
+{"parents": ["World/Dialogs/c4/Nexus_Camp/HeraldIntro/HeraldIntro_Nexus_c4_dialog"], "children": ["World/Dialogs/c4/Nexus_Camp/HeraldIntro/Cue_0001", "World/Etudes/Common/WrathOfTheRighteous/MythicLich/PlayerIsLich", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

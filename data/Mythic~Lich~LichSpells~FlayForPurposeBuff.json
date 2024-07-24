@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichSpells/FlayForPurpose", "Mythic/Lich/LichSpells/RepurposeBuffUndead"], "children": ["Mythic/Lich/LichSpells/RepurposeBuffTimer", "Mythic/Lich/LichSpells/RepurposeCasterBuff"]}
+{"parents": ["Mythic/Lich/LichSpells/RepurposeBuffUndead", "Mythic/Lich/LichSpells/FlayForPurpose"], "children": ["Mythic/Lich/LichSpells/RepurposeCasterBuff", "Mythic/Lich/LichSpells/RepurposeBuffTimer"]}

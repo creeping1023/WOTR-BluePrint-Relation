@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/SarkorianWedding/BossFightPhase2/CommandAction"], "children": ["Spells/Level8/SeamantleBuff", "Spells/Level2/MirrorImageBuff", "Spells/Level4/DivinePowerBuff"]}
+{"parents": ["World/Cutscenes/SarkorianWedding/BossFightPhase2/CommandAction"], "children": ["Spells/Level2/MirrorImageBuff", "Spells/Level8/SeamantleBuff", "Spells/Level4/DivinePowerBuff"]}

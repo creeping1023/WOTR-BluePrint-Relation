@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Nightcrawler/SummonedNightcrawler_Lich", "Mythic/Lich/LichSpells/PitOfDespairArea", "Mythic/Lich/LichSpells/PitOfDespair"], "children": ["CreatureAbilities/NegativeEnergyAffinity"]}
+{"parents": ["Mythic/Lich/LichSpells/PitOfDespair", "Units/Monsters/Nightcrawler/SummonedNightcrawler_Lich", "Mythic/Lich/LichSpells/PitOfDespairArea"], "children": ["CreatureAbilities/NegativeEnergyAffinity"]}

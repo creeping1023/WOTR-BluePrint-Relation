@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichUniqueAbilities/WeaponOfDeath/WeaponOfDeathToggleAbility"], "children": ["Weapons/Enchantments/NullifyingEnchantment", "Weapons/Enchantments/BaneLiving", "Mythic/Lich/LichUniqueAbilities/WeaponOfDeath/WeaponOfDeathEnchantment"]}
+{"parents": ["Mythic/Lich/LichUniqueAbilities/WeaponOfDeath/WeaponOfDeathToggleAbility"], "children": ["Weapons/Enchantments/BaneLiving", "Weapons/Enchantments/NullifyingEnchantment", "Mythic/Lich/LichUniqueAbilities/WeaponOfDeath/WeaponOfDeathEnchantment"]}

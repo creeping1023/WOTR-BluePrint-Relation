@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0094"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0096"]}
+{"parents": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0094"], "children": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Arusha_Start/Cue_0096", "Units/Companions/Woljif/Woljif_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/GalfreyIsReady/CueSequence_0001"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c5/Mythic_Devil/DevilishTemptation/GalfreyIsReady/Cue_2"]}
+{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/GalfreyIsReady/CueSequence_0001"], "children": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/GalfreyIsReady/Cue_2", "Units/Companions/Seelah/Seelah_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyPainajaiStandard", "Armies/UnitBlueprints/ArmyPainajaiRanged"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "FX/Creatures/Creature_PainajaiSpear00_Projectile", "Weapons/Items/Unique/ColdIronSpearPlus1"]}
+{"parents": ["Armies/UnitBlueprints/ArmyPainajaiRanged", "Armies/UnitBlueprints/ArmyPainajaiStandard"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPower", "Weapons/Items/Unique/ColdIronSpearPlus1", "FX/Creatures/Creature_PainajaiSpear00_Projectile"]}

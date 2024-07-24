@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Manticore/ManticorePoisonClawsFeature", "Spells/PoisonedDart", "Units/Monsters/Manticore/ManticorePoisonBiteFeature", "Brain/Considerations/HasPoison"]}
+{"parents": ["Units/Monsters/Manticore/ManticorePoisonClawsFeature", "Spells/PoisonedDart", "Brain/Considerations/HasPoison", "Units/Monsters/Manticore/ManticorePoisonBiteFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/AlushinyrraMediumCity/ActionsHolders/WrongPlaceWarning_Actions"], "children": ["World/Cutscenes/AlushinyrraMediumCity/BattleEncounter_MediumCityWrongPlace/CommandUnitLookAt", "World/Cutscenes/AlushinyrraMediumCity/BattleEncounter_MediumCityWrongPlace/gate"]}
+{"parents": ["World/Encounters/AlushinyrraMediumCity/ActionsHolders/WrongPlaceWarning_Actions"], "children": ["World/Cutscenes/AlushinyrraMediumCity/BattleEncounter_MediumCityWrongPlace/gate", "World/Cutscenes/AlushinyrraMediumCity/BattleEncounter_MediumCityWrongPlace/CommandUnitLookAt"]}

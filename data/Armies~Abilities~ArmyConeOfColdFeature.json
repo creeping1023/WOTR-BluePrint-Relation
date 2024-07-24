@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyKineticist", "Armies/UnitBlueprints/ArmyArcanist", "Armies/UnitBlueprints/ArmyNightwalker"], "children": ["Armies/Abilities/ArmyConeOfCold", "Armies/Abilities/ArmyConeOfColdFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyArcanist", "Armies/UnitBlueprints/ArmyKineticist", "Armies/UnitBlueprints/ArmyNightwalker"], "children": ["Armies/Abilities/ArmyConeOfColdFact", "Armies/Abilities/ArmyConeOfCold"]}

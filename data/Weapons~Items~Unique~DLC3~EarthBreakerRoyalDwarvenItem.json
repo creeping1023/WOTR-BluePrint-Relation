@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR20/Forest_RazmirReward"], "children": ["Weapons/Types/MartialTwoHanded/EarthBreaker", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/BaneHumanoidGiant", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Loot/Good/CR20/Forest_RazmirReward", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Corrosive", "Weapons/Enchantments/BaneHumanoidGiant", "Weapons/Types/MartialTwoHanded/EarthBreaker", "Weapons/Enchantments/Enhancement2"]}

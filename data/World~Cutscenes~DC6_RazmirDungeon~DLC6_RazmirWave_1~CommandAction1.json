@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_RazmirPool", "Factions/Mobs", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_RazmirFirstWave", "Buffs/NPC_Untargetable", "Buffs/NPC_Protection"]}
+{"children": ["Factions/Mobs", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_RazmirFirstWave", "Buffs/NPC_Protection", "World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_RazmirPool", "Buffs/NPC_Untargetable"]}

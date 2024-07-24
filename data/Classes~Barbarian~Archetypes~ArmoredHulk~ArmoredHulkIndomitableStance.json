@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/Archetypes/ArmoredHulk/ArmoredHulkArchetype", "Classes/Barbarian/BarbarianProgression"], "children": ["Root/SystemMechanics/Conditions/ChargeBuff", "Root/SystemMechanics/Conditions/ChargeBuff", "Root/SystemMechanics/Conditions/ChargeBuff"]}
+{"parents": ["Classes/Barbarian/BarbarianProgression", "Classes/Barbarian/Archetypes/ArmoredHulk/ArmoredHulkArchetype"], "children": ["Root/SystemMechanics/Conditions/ChargeBuff"]}

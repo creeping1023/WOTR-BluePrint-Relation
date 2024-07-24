@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Answer_0048"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DrezenUnderSiedge/Orengofta", "World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Answer_0050"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Answer_0048"], "children": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Answer_0050", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DrezenUnderSiedge/Orengofta"]}

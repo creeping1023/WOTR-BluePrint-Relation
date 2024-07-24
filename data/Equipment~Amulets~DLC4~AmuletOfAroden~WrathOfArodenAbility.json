@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Amulets/DLC4/AmuletOfAroden/AmuletofArodenItem", "Equipment/Amulets/DLC4/AmuletOfAroden/BaneNonHumanFeature", "Equipment/Amulets/DLC4/AmuletOfAroden/BaneNonHuman"], "children": ["Races/HumanRace", "Mythic/Lich/LichMythicClass"]}
+{"parents": ["Equipment/Amulets/DLC4/AmuletOfAroden/BaneNonHuman", "Equipment/Amulets/DLC4/AmuletOfAroden/BaneNonHumanFeature", "Equipment/Amulets/DLC4/AmuletOfAroden/AmuletofArodenItem"], "children": ["Mythic/Lich/LichMythicClass", "Races/HumanRace"]}

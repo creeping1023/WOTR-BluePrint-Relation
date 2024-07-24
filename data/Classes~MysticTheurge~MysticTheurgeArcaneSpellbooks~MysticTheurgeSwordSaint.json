@@ -1,1 +1,1 @@
-{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Magus/MagusClass", "Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype", "Classes/Magus/MagusClass", "Classes/Magus/Archetypes/SwordSaint/SwordSaintSpellbook"]}
+{"parents": ["Classes/MysticTheurge/MysticTheurgeArcaneSpellbooks/MysticTheurgeArcaneSpellbookSelection"], "children": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype", "Classes/Magus/Archetypes/SwordSaint/SwordSaintSpellbook", "Classes/Magus/MagusClass"]}

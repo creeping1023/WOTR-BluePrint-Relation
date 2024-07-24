@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot"], "children": ["Test/Blueprints/Enemy Character", "CreatureAbilities/Immunities/ImmunityToFear", "Traits/Races/Common/FeyType", "Factions/Mobs", "Brain/Passive Monster Brain", "WeaponEmptyHand"]}
+{"parents": ["Root/BlueprintRoot"], "children": ["Factions/Mobs", "Test/Blueprints/Enemy Character", "Brain/Passive Monster Brain", "Traits/Races/Common/FeyType", "CreatureAbilities/Immunities/ImmunityToFear", "WeaponEmptyHand"]}

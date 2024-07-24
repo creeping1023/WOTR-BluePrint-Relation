@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CP_Bandit_Melee", "Units/Customization/CP_CultistMelee6-8", "Units/Customization/CP_CultistBarbarian"], "children": ["Races/HumanRace", "Races/HalfOrcRace"]}
+{"parents": ["Units/Customization/CP_CultistMelee6-8", "Units/Customization/CP_Bandit_Melee", "Units/Customization/CP_CultistBarbarian"], "children": ["Races/HumanRace", "Races/HalfOrcRace"]}

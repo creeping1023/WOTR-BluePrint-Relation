@@ -1,1 +1,1 @@
-{"parents": ["Races/DwarfRace", "Traits/Races/Dwarf/BarrowDwarf"], "children": ["Races/GoblinRace", "Races/HalfOrcRace"]}
+{"parents": ["Races/DwarfRace", "Traits/Races/Dwarf/BarrowDwarf"], "children": ["Races/HalfOrcRace", "Races/GoblinRace"]}

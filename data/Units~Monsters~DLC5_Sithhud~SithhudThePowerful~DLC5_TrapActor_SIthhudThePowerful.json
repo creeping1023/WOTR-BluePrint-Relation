@@ -1,1 +1,1 @@
-{"children": ["Traps/TrapActor_Lvl10", "Traps/TrapActor_Lvl10", "Classes/Monster/Dragon/DragonClass", "Factions/Traps", "WeaponEmptyHand", "Traps/TrapDagger_Lvl10", "Traps/TrapActorFeature"]}
+{"children": ["Traps/TrapActor_Lvl10", "Traps/TrapActorFeature", "Traps/TrapDagger_Lvl10", "Classes/Monster/Dragon/DragonClass", "WeaponEmptyHand", "Factions/Traps"]}

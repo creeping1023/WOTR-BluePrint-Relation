@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp04_Option05"], "children": ["Armies/UnitBlueprints/ArmyVescavorSwarmStandard", "Armies/Abilities/ArmyBanishmentFeature"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp04_Option05"], "children": ["Armies/Abilities/ArmyBanishmentFeature", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]}

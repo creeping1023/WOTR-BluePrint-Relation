@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_CultistMagicBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Brains/Considerations/TacticalConsideration_MediumRange", "Armies/Abilities/ArmyAcidArrow"]}
+{"parents": ["Armies/Brains/TacticalCombat_CultistMagicBrain"], "children": ["Armies/Abilities/ArmyAcidArrow", "Armies/Brains/Considerations/TacticalConsideration_MediumRange", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"]}

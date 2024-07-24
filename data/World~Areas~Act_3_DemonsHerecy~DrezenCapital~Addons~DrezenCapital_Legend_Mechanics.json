@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLegend/LegendStates/Legend_Begins/LegendDrezen_Fight", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/LegendStates/Legend_Begins/LegendDrezen"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicLegend/LegendStates/Legend_Begins/LegendDrezen", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/LegendStates/Legend_Begins/LegendDrezen_Fight"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/LootTables/FullList"], "children": ["Weapons/Types/MartialRanged/CompositeLongbow", "Weapons/Enchantments/Enhancement1", "Weapons/Items/Unique/Chapter2/DevourerOfMetalEnchant", "Weapons/Enchantments/Oversized"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/LootTables/FullList"], "children": ["Weapons/Items/Unique/Chapter2/DevourerOfMetalEnchant", "Weapons/Enchantments/Oversized", "Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialRanged/CompositeLongbow"]}

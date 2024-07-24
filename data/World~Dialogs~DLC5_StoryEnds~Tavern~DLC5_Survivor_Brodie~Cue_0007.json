@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Brodie/Answer_0006"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Gravedigger", "Items/Quivers/HolyArrowsQuiver/HolyArrowsQuiverItem"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Brodie/Answer_0006"], "children": ["Items/Quivers/HolyArrowsQuiver/HolyArrowsQuiverItem", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Gravedigger"]}

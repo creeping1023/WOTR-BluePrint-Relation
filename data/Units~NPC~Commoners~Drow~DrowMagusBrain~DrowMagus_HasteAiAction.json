@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Drow/DrowMagusBrain/DrowMagus_Brain"], "children": ["Brain/Considerations/NoBuffHaste", "Spells/Level3/Haste"]}
+{"parents": ["Units/NPC/Commoners/Drow/DrowMagusBrain/DrowMagus_Brain"], "children": ["Spells/Level3/Haste", "Brain/Considerations/NoBuffHaste"]}

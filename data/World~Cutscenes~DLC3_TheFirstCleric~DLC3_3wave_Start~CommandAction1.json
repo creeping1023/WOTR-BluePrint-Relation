@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/gate1"], "children": ["World/Encounters/DLC3_TheFirstCleric/SummonPools/3Wave_SP", "Factions/Mobs", "World/Encounters/DLC3_TheFirstCleric/SummonPools/3Wave_SP", "Buffs/NPC_ProtectionProne", "World/Encounters/DLC3_TheFirstCleric/SummonPools/3Wave_SP"]}
+{"parents": ["World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/gate1"], "children": ["Factions/Mobs", "Buffs/NPC_ProtectionProne", "World/Encounters/DLC3_TheFirstCleric/SummonPools/3Wave_SP"]}

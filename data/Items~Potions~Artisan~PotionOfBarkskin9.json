@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level2/Barkskin"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level2/Barkskin", "Items/DestructibleItemsShards/GlassShardItem"]}

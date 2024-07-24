@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsFeature"], "children": ["Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsConsumingElementsResource", "Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsConsumingElementsBuff"]}
+{"parents": ["Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsFeature"], "children": ["Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsConsumingElementsBuff", "Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsConsumingElementsResource"]}

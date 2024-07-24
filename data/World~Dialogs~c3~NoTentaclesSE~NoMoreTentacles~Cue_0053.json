@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Answer_0007"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfreySquire1", "World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/AnswersList_0054"]}
+{"parents": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Answer_0007"], "children": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/AnswersList_0054", "Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfreySquire1"]}

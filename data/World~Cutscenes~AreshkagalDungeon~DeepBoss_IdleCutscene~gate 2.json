@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/DeepBoss_IdleCutscene/gate", "World/Cutscenes/AreshkagalDungeon/DeepBoss_IdleCutscene/DeepBoss_IdleCutscene"], "children": ["World/Cutscenes/AreshkagalDungeon/DeepBoss_IdleCutscene/CommandAction 4"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/DeepBoss_IdleCutscene/DeepBoss_IdleCutscene", "World/Cutscenes/AreshkagalDungeon/DeepBoss_IdleCutscene/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/DeepBoss_IdleCutscene/CommandAction 4"]}

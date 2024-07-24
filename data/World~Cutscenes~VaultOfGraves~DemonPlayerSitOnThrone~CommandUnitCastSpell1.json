@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/gate3"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DemonCh5/NocticulaPalaceFight/EndingInShamirasPalace", "Mythic/Demon/DemonSpells/DemonTeleportCutsceneQuickened"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/DemonPlayerSitOnThrone/gate3"], "children": ["Mythic/Demon/DemonSpells/DemonTeleportCutsceneQuickened", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DemonCh5/NocticulaPalaceFight/EndingInShamirasPalace"]}

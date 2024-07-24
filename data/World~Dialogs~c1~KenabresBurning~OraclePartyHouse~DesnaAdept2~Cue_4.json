@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/OraclePartyHouse/DesnaAdept2/CueSequence_0030"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c1/KenabresBurning/OraclePartyHouse/DesnaAdept2/Cue_5"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/OraclePartyHouse/DesnaAdept2/CueSequence_0030"], "children": ["World/Dialogs/c1/KenabresBurning/OraclePartyHouse/DesnaAdept2/Cue_5", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

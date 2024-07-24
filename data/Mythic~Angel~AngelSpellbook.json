@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/AccursedBrandBuff", "Mythic/Angel/AngelMythicClass"], "children": ["Mythic/Angel/AngeSpellsPerDay", "Mythic/Angel/AngelClericSpelllist", "Mythic/Angel/AngelMythicSpelllist", "Mythic/Angel/AngelMythicClass"]}
+{"parents": ["Mythic/Angel/AngelMythicClass", "Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/AccursedBrandBuff"], "children": ["Mythic/Angel/AngelMythicSpelllist", "Mythic/Angel/AngelClericSpelllist", "Mythic/Angel/AngeSpellsPerDay", "Mythic/Angel/AngelMythicClass"]}

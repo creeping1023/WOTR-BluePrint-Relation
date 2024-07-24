@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/EchoAmbushesHerald/gate1"], "children": ["FX/Spell Level 7/UmbralStrike00_Old", "World/Encounters/AlushinyrraLowerCity/SummonPools/EchoWoundsHeraldPool", "World/Encounters/AlushinyrraLowerCity/SummonPools/AlushinyrraHeraldSummonPool"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/EchoAmbushesHerald/gate1"], "children": ["World/Encounters/AlushinyrraLowerCity/SummonPools/AlushinyrraHeraldSummonPool", "World/Encounters/AlushinyrraLowerCity/SummonPools/EchoWoundsHeraldPool", "FX/Spell Level 7/UmbralStrike00_Old"]}

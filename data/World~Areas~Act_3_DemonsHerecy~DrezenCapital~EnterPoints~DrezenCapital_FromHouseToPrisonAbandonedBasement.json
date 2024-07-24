@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DrezenCapital/ActionsHolders/HouseToPrisonAbandonedFromBasement_Transition"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital_HouseToPrisonAbandoned"]}
+{"parents": ["World/Encounters/DrezenCapital/ActionsHolders/HouseToPrisonAbandonedFromBasement_Transition"], "children": ["World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital_HouseToPrisonAbandoned", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"]}

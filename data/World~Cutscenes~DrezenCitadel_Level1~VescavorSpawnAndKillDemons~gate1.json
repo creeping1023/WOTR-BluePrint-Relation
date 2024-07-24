@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level1/VescavorSpawnAndKillDemons/VescavorSpawnAndKillDemons"], "children": ["World/Cutscenes/DrezenCitadel_Level1/VescavorSpawnAndKillDemons/CommandSpawnUnits", "World/Cutscenes/DrezenCitadel_Level1/VescavorSpawnAndKillDemons/CommandAction"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level1/VescavorSpawnAndKillDemons/VescavorSpawnAndKillDemons"], "children": ["World/Cutscenes/DrezenCitadel_Level1/VescavorSpawnAndKillDemons/CommandAction", "World/Cutscenes/DrezenCitadel_Level1/VescavorSpawnAndKillDemons/CommandSpawnUnits"]}

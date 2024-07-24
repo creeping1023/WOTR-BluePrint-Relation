@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Demon_SideQuest/Shamira/Cue_14"], "children": ["Spells/Level6/HeroismGreaterBuff", "Buffs/Shaken", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Demon_SideQuest/Shamira/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Demon_SideQuest/Shamira/Cue_14"], "children": ["Buffs/Shaken", "Spells/Level6/HeroismGreaterBuff", "World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Demon_SideQuest/Shamira/AnswersList_0002"]}

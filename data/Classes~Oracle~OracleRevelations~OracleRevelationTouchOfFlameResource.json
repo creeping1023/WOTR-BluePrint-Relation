@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationTouchOfFlameAbility", "Classes/Oracle/OracleRevelations/OracleRevelationTouchOfFlame"], "children": ["Classes/Oracle/OracleClass", "Classes/Oracle/OracleClass"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationTouchOfFlame", "Classes/Oracle/OracleRevelations/OracleRevelationTouchOfFlameAbility"], "children": ["Classes/Oracle/OracleClass"]}

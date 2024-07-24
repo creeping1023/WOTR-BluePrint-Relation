@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonJudgment_c3/Q9AeonDrezenSadistic/AeonSadistic_Court/Cue_0012"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAeon_Ch3/Lellan", "World/Dialogs/c3/Mythic_Aeon/AeonJudgment_c3/Q9AeonDrezenSadistic/AeonSadistic_Court/Cue_0016"]}
+{"parents": ["World/Dialogs/c3/Mythic_Aeon/AeonJudgment_c3/Q9AeonDrezenSadistic/AeonSadistic_Court/Cue_0012"], "children": ["World/Dialogs/c3/Mythic_Aeon/AeonJudgment_c3/Q9AeonDrezenSadistic/AeonSadistic_Court/Cue_0016", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAeon_Ch3/Lellan"]}

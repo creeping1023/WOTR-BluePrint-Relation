@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/HagDefeated/CommandAction 4", "Root/Upgraders/Player/PF-213124", "World/Cutscenes/ArueshalaeRedoubt/HagDefeated/CommandStartDialog"], "children": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_0001"]}
+{"parents": ["Root/Upgraders/Player/PF-213124", "World/Cutscenes/ArueshalaeRedoubt/HagDefeated/CommandAction 4", "World/Cutscenes/ArueshalaeRedoubt/HagDefeated/CommandStartDialog"], "children": ["World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_0001"]}

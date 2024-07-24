@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/gate"], "children": ["World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/CommandDelay", "World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/CommandAction1"]}
+{"parents": ["World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/gate"], "children": ["World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/CommandAction1", "World/Cutscenes/DLC3_TheFirstCleric/DLC3_3wave_Start/CommandDelay"]}

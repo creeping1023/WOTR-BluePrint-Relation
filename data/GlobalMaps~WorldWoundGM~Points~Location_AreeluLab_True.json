@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_AreeluLab"], "children": ["World/Encounters/AreeluLab/UnlockableFlags/AL_FirstTimeHologram", "World/Areas/Act_3_DemonsHerecy/AreeluLab/EnterPoints/AreeluLabOutside_Enter"]}
+{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_AreeluLab"], "children": ["World/Areas/Act_3_DemonsHerecy/AreeluLab/EnterPoints/AreeluLabOutside_Enter", "World/Encounters/AreeluLab/UnlockableFlags/AL_FirstTimeHologram"]}

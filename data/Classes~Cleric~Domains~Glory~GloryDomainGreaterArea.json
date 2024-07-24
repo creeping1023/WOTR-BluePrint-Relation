@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainGreaterBuffSeparatist", "Classes/Cleric/Domains/Glory/GloryDomainGreaterBuff"], "children": ["Spells/Level3/HeroismBuff"]}
+{"parents": ["Classes/Cleric/Domains/Glory/GloryDomainGreaterBuff", "Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainGreaterBuffSeparatist"], "children": ["Spells/Level3/HeroismBuff"]}

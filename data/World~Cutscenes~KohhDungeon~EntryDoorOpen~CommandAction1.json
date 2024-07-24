@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KohhDungeon/EntryDoorOpen/EntryDoorOpen"], "children": ["World/Encounters/KohhDungeon/SummonPools/ArenaCyborgs", "World/Cutscenes/KohhDungeon/CyborgTurnedOff/CyborgTurnedOff"]}
+{"parents": ["World/Cutscenes/KohhDungeon/EntryDoorOpen/EntryDoorOpen"], "children": ["World/Cutscenes/KohhDungeon/CyborgTurnedOff/CyborgTurnedOff", "World/Encounters/KohhDungeon/SummonPools/ArenaCyborgs"]}

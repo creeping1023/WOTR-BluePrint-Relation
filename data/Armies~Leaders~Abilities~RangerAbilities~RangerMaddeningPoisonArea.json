@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerMaddeningPoisonAbility"], "children": ["Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower", "Armies/Leaders/Abilities/RangerAbilities/RangerMaddeningPoisonBuff"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerMaddeningPoisonAbility"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerMaddeningPoisonBuff", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}

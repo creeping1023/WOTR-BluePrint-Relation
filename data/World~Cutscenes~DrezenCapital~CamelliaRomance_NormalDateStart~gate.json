@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateStart/CamelliaRomance_NormalDateStart", "World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateStart/gate 2"], "children": ["World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateStart/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateStart/gate 2", "World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateStart/CamelliaRomance_NormalDateStart"], "children": ["World/Cutscenes/DrezenCapital/CamelliaRomance_NormalDateStart/CommandStartDialog"]}

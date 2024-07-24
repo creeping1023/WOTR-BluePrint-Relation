@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicDragon/KTC_MythicDragonRankUp1"], "children": ["Kingdom/CrusadeProjects/KTCEvents/KTC_DragonRankUp01", "Kingdom/CrusadeProjects/KTCEvents/KTC_DragonRankUp01", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/MythicDragonRankUps"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicDragon/KTC_MythicDragonRankUp1"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDragon/MythicDragonRankUps", "Kingdom/CrusadeProjects/KTCEvents/KTC_DragonRankUp01"]}

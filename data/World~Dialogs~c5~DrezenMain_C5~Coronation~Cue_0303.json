@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Answer_0156"], "children": ["Units/NPC/Commoners/Act_2_SwordOfValor/WarCamp/KenabresCrusader_FakeWarCamp_ArmedFullplate", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0186"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Answer_0156"], "children": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0186", "Units/NPC/Commoners/Act_2_SwordOfValor/WarCamp/KenabresCrusader_FakeWarCamp_ArmedFullplate"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Demon Babau/KenabresBurning/BabauWithShortspear"], "children": ["Weapons/Types/SimpleOneHanded/Shortspear", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Demon Babau/KenabresBurning/BabauWithShortspear"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Types/SimpleOneHanded/Shortspear"]}

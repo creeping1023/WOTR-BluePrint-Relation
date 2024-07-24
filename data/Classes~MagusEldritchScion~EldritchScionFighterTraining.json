@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/MagusProgression", "Classes/MagusEldritchScion/EldritchScionProgression"], "children": ["Classes/Fighter/FighterClass", "Classes/Magus/MagusClass", "Classes/Basic/BasicFeatSelection"]}
+{"parents": ["Classes/Magus/MagusProgression", "Classes/MagusEldritchScion/EldritchScionProgression"], "children": ["Classes/Basic/BasicFeatSelection", "Classes/Fighter/FighterClass", "Classes/Magus/MagusClass"]}

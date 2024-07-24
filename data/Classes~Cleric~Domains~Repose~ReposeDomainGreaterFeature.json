@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Repose/ReposeDomainProgressionSecondary", "Classes/Cleric/Domains/Repose/ReposeDomainProgression"], "children": ["Classes/Cleric/Domains/Repose/ReposeDomainGreaterToggleAbility", "Classes/Cleric/Domains/Repose/ReposeDomainGreaterResource"]}
+{"parents": ["Classes/Cleric/Domains/Repose/ReposeDomainProgressionSecondary", "Classes/Cleric/Domains/Repose/ReposeDomainProgression"], "children": ["Classes/Cleric/Domains/Repose/ReposeDomainGreaterResource", "Classes/Cleric/Domains/Repose/ReposeDomainGreaterToggleAbility"]}

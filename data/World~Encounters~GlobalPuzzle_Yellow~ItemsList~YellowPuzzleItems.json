@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/GlobalPuzzle_Yellow/ConditionsHolders/Slot_1_1_ItemRestriction"], "children": ["Items/Areas/GlobalPuzzle/DominoFlask1", "Items/Areas/GlobalPuzzle/DominoFlask2", "Items/Areas/GlobalPuzzle/DominoFlask3"]}
+{"parents": ["World/Encounters/GlobalPuzzle_Yellow/ConditionsHolders/Slot_1_1_ItemRestriction"], "children": ["Items/Areas/GlobalPuzzle/DominoFlask3", "Items/Areas/GlobalPuzzle/DominoFlask1", "Items/Areas/GlobalPuzzle/DominoFlask2"]}

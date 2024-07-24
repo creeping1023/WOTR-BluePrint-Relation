@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/Goblin_Grand_AlchemistBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Alchemist/Discoveries/ExplosiveBombs/ExplosiveBomb"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/Goblin_Grand_AlchemistBrain"], "children": ["Classes/Alchemist/Discoveries/ExplosiveBombs/ExplosiveBomb", "Brain/Considerations/AttackTargetsPriority"]}

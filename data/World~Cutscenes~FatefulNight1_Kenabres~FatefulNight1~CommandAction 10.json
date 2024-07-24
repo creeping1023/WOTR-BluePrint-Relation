@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/gate 12"], "children": ["Spells/CutsceneSpells/InvisibilityBuff_Cutscene", "World/Encounters/FatefulNight1_Kenabres/SummonPools/MainCharacterCopy"]}
+{"parents": ["World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/gate 12"], "children": ["World/Encounters/FatefulNight1_Kenabres/SummonPools/MainCharacterCopy", "Spells/CutsceneSpells/InvisibilityBuff_Cutscene"]}

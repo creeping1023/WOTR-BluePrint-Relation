@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/FinalDungeon_Colyphyr/Baphomet/Cue_0024"], "children": ["World/Dialogs/c4/FinalDungeon_Colyphyr/Baphomet/Cue_0001"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/Baphomet/Cue_0024", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/FinalDungeon_Colyphyr/Baphomet/Cue_0001"]}

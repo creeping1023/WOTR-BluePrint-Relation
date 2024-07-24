@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/FeatMageCommonChoice6", "Armies/Leaders/Progression/FeatZealousLearnerChoice", "Armies/Leaders/Progression/FeatRangerCommonChoice4"], "children": ["Armies/Abilities/ArmyTotalDefenseImproved", "Armies/Abilities/ArmyTotalDefense"]}
+{"parents": ["Armies/Leaders/Progression/FeatRangerCommonChoice4", "Armies/Leaders/Progression/FeatZealousLearnerChoice", "Armies/Leaders/Progression/FeatMageCommonChoice6"], "children": ["Armies/Abilities/ArmyTotalDefenseImproved", "Armies/Abilities/ArmyTotalDefense"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_RichQuarter/Gravedigger_to_ghoul/CommandAction 14", "World/Cutscenes/DLC2_Graveyard/Gravedigger_transform/CommandAction 14", "Root/BlueprintRoot"], "children": ["DLC/DLC2/Dlc2Campaign", "Achievements/Groups/DLC2TrophyGroup"]}
+{"parents": ["World/Cutscenes/DLC2_Graveyard/Gravedigger_transform/CommandAction 14", "Root/BlueprintRoot", "World/Cutscenes/DLC2_RichQuarter/Gravedigger_to_ghoul/CommandAction 14"], "children": ["Achievements/Groups/DLC2TrophyGroup", "DLC/DLC2/Dlc2Campaign"]}

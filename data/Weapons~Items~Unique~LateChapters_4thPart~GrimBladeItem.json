@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level6/HarmCast", "Weapons/Types/ExoticOneHanded/BastardSword", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/AdamantineWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/AdamantineWeaponEnchantment", "Weapons/Types/ExoticOneHanded/BastardSword", "Weapons/Enchantments/Enhancement5", "Spells/Level6/HarmCast"]}

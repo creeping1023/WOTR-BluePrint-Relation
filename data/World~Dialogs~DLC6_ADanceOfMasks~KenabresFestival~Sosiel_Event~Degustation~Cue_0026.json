@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Sosiel_Event/Degustation/Answer_0025"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_GnomeWinemaker", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Sosiel_Event/Degustation/Cue_0030"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Sosiel_Event/Degustation/Answer_0025"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Sosiel_Event/Degustation/Cue_0030", "Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_GnomeWinemaker"]}

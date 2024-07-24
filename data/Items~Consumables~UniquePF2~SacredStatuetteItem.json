@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0075", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Items/Consumables/UniquePF2/SacredStatuetteAbiility"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0075"], "children": ["Items/Consumables/UniquePF2/SacredStatuetteAbiility", "Items/DestructibleItemsShards/GlassShardItem"]}

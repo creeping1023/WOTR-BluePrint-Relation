@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_5/AnswersList_0013"], "children": ["World/Crusade/RankUps/Military/Military_5/Cue_0007", "World/Crusade/RankUps/Military/Military_5/Cue_0001", "Armies/CrusadeGlobalBuffs/FlagMilitary5CunningTactic"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_5/AnswersList_0013"], "children": ["Armies/CrusadeGlobalBuffs/FlagMilitary5CunningTactic", "World/Crusade/RankUps/Military/Military_5/Cue_0001", "World/Crusade/RankUps/Military/Military_5/Cue_0007"]}

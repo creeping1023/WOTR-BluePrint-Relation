@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Bracers/GearsRuleItem", "Equipment/Bracers/DLC3/GearsRuleItem 1"], "children": ["Equipment/Bracers/GearsRuleFeature", "Equipment/Bracers/GearsRuleFeatureBombs12", "Equipment/Bracers/GearsRuleFeatureImmunities20"]}
+{"parents": ["Equipment/Bracers/DLC3/GearsRuleItem 1", "Equipment/Bracers/GearsRuleItem"], "children": ["Equipment/Bracers/GearsRuleFeatureBombs12", "Equipment/Bracers/GearsRuleFeatureImmunities20", "Equipment/Bracers/GearsRuleFeature"]}

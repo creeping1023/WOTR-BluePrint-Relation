@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/Answer_0022", "World/Dialogs/c3/Wintersun/SoanaBear/Answer_0019"], "children": ["Units/Monsters/Bear/Wintersun/WintersunBear", "World/Dialogs/c3/Wintersun/SoanaBear/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/Answer_0022", "World/Dialogs/c3/Wintersun/SoanaBear/Answer_0019"], "children": ["World/Dialogs/c3/Wintersun/SoanaBear/AnswersList_0003", "Units/Monsters/Bear/Wintersun/WintersunBear"]}

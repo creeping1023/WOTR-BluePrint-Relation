@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Bracers/DLC2/CharonsTouchFalseLifeFeature", "Items/DestructibleItemsShards/MetalShardItem", "Spells/Level6/HarmCast", "EquipmentEntities/Bracers/KEE_Bracers_BracersArcaneNormalGems"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["EquipmentEntities/Bracers/KEE_Bracers_BracersArcaneNormalGems", "Items/DestructibleItemsShards/MetalShardItem", "Spells/Level6/HarmCast", "Equipment/Bracers/DLC2/CharonsTouchFalseLifeFeature"]}

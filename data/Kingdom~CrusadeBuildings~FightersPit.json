@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLogistics3FightersPit", "Armies/Abilities/BonusFactsForArmy/ArmyBuildingFightersPit"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingFightersPit", "Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLogistics3FightersPit"]}

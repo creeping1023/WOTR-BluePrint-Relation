@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_2", "World/Dialogs/c5/TheatrePlay/Cue_0015_gnomeShared"], "children": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Kenabres/Tinna_Dwarf", "World/Dialogs/c5/TheatrePlay/Cue_0017"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0015_gnomeShared", "World/Dialogs/c5/TheatrePlay/Cue_2"], "children": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Kenabres/Tinna_Dwarf", "World/Dialogs/c5/TheatrePlay/Cue_0017"]}

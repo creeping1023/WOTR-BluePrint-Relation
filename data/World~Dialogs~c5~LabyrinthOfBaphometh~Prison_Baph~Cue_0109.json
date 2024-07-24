@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0079"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/BaphometVision_IvoryLabyrinth", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0110"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0079"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0110", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/BaphometVision_IvoryLabyrinth"]}

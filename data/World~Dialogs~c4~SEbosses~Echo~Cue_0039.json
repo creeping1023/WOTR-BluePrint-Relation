@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/SEbosses/Echo/Cue_0004"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/AngelTargona", "Units/Monsters/Demon Derakni/PuluraFall/EchoOfDeskari", "World/Dialogs/c4/SEbosses/Echo/Cue_0043"]}
+{"parents": ["World/Dialogs/c4/SEbosses/Echo/Cue_0004", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/SEbosses/Echo/Cue_0043", "Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/AngelTargona", "Units/Monsters/Demon Derakni/PuluraFall/EchoOfDeskari"]}

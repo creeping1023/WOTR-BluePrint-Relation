@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/UniquePF2/Chapter3/HolyFlamingDoubleAxePlus3Item"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Flaming"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter3/HolyFlamingDoubleAxePlus3Item", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Flaming", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

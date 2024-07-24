@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/BigKamelandsVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/BigKamelandsVendorTable"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DC6_RazmirDungeon/ScriptZones/DLC6_Razmir_ChoirDialog"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/ChoirDialog/Cue_0001", "World/Cutscenes/WarCamp/AmbienceTalking(Unit)/AmbienceTalking(Unit)", "World/Cutscenes/WarCamp/AmbienceTalking(Unit)/AmbienceTalking(Unit)"]}
+{"parents": ["World/Encounters/DC6_RazmirDungeon/ScriptZones/DLC6_Razmir_ChoirDialog"], "children": ["World/Cutscenes/WarCamp/AmbienceTalking(Unit)/AmbienceTalking(Unit)", "World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/ChoirDialog/Cue_0001"]}

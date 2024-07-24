@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeAllyBuff", "Classes/Cleric/Archetypes/Separatist/Domains/Plant/PlantDomainBaseAbilitySeparatist", "Classes/Cleric/Domains/Plant/PlantDomainBaseAbility"], "children": ["Spells/Level1/EnlargePersonBuff"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Plant/PlantDomainBaseAbilitySeparatist", "Mythic/Aeon/AeonGaze/AeonNormalizeSizeGazeAllyBuff", "Classes/Cleric/Domains/Plant/PlantDomainBaseAbility"], "children": ["Spells/Level1/EnlargePersonBuff"]}

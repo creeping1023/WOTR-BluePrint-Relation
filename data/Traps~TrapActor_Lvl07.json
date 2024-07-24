@@ -1,1 +1,1 @@
-{"parents": ["Root/TrapSettings/TrapSettings_CR7", "Traps/DraftTraps/Lvl7_DraftFireballTrap"], "children": ["Traps/TrapActor_Lvl03", "Traps/TrapActor_Lvl03", "Classes/Monster/Dragon/DragonClass", "Factions/Traps", "WeaponEmptyHand", "Traps/TrapDagger_Lvl07", "Traps/TrapActorFeature"]}
+{"parents": ["Traps/DraftTraps/Lvl7_DraftFireballTrap", "Root/TrapSettings/TrapSettings_CR7"], "children": ["Traps/TrapDagger_Lvl07", "Traps/TrapActorFeature", "Traps/TrapActor_Lvl03", "Classes/Monster/Dragon/DragonClass", "WeaponEmptyHand", "Factions/Traps"]}

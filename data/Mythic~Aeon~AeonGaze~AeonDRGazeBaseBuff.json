@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Aeon/AeonGaze/AeonDRGazeAbility"], "children": ["Mythic/Aeon/AeonGaze/AeonDRGazeArea", "Mythic/Aeon/AeonGaze/AeonGazeDCProperty"]}
+{"parents": ["Mythic/Aeon/AeonGaze/AeonDRGazeAbility"], "children": ["Mythic/Aeon/AeonGaze/AeonGazeDCProperty", "Mythic/Aeon/AeonGaze/AeonDRGazeArea"]}

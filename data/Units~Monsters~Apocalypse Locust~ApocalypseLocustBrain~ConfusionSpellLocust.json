@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/MaddeningBuzzAreaEffect"], "children": ["Spells/Level4/ConfusionSpell", "Buffs/Confusion", "Buffs/Confusion", "Buffs/Confusion"]}
+{"parents": ["Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/MaddeningBuzzAreaEffect"], "children": ["Buffs/Confusion", "Spells/Level4/ConfusionSpell"]}

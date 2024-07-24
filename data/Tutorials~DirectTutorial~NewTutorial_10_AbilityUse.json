@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MeetCamelia/Cue_0026"], "children": ["Tutorials/DirectTutorial/NewTutorial_10_AbilityUse_Gamepad", "Encyclopedia/Tutorial_10_AbilityUse"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/MeetCamelia/Cue_0026"], "children": ["Encyclopedia/Tutorial_10_AbilityUse", "Tutorials/DirectTutorial/NewTutorial_10_AbilityUse_Gamepad"]}

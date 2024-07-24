@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/AnswersList_0003"], "children": ["World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/Cue_0064", "World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/Answer_0012", "Classes/Basic/Deities/SarenraeFeature"]}
+{"parents": ["World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/AnswersList_0003"], "children": ["World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/Answer_0012", "Classes/Basic/Deities/SarenraeFeature", "World/Dialogs/c1/DefendersHeart/Staunton_DefHeart/Cue_0064"]}

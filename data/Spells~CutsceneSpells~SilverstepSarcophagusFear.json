@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["Buffs/Shaken", "Spells/Level4/FearBuff", "Traits/Races/Common/UndeadType", "Feats/SelectiveChannel"]}
+{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["Buffs/Shaken", "Spells/Level4/FearBuff", "Feats/SelectiveChannel", "Traits/Races/Common/UndeadType"]}

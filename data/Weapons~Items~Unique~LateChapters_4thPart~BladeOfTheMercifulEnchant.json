@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters_4thPart/BladeOfTheMercifulItem"], "children": ["Weapons/Items/Unique/LateChapters_4thPart/BladeOfTheMercifulFeature", "CreatureAbilities/Subtypes/SubtypeGood"]}
+{"parents": ["Weapons/Items/Unique/LateChapters_4thPart/BladeOfTheMercifulItem"], "children": ["CreatureAbilities/Subtypes/SubtypeGood", "Weapons/Items/Unique/LateChapters_4thPart/BladeOfTheMercifulFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_SilkShadow", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/SilkShadow/SilkShadow"], "children": ["Items/Areas/Act_5_HeraldOfTheIvoryLabyrinth/HuntingSilkShadow/ZoeyPendant"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/SilkShadow/SilkShadow", "Units/NPC/Unique/DLC1_Megaepic/DLC1_SilkShadow"], "children": ["Items/Areas/Act_5_HeraldOfTheIvoryLabyrinth/HuntingSilkShadow/ZoeyPendant"]}

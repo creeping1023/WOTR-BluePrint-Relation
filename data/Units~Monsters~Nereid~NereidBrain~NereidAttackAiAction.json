@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Nereid/NereidBrain/NereidBrain", "Units/Monsters/Nereid/NereidBrain/NereidSummonedBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Nereid/NereidBrain/NereidAlreadyPoisonedConsideration"]}
+{"parents": ["Units/Monsters/Nereid/NereidBrain/NereidBrain", "Units/Monsters/Nereid/NereidBrain/NereidSummonedBrain"], "children": ["Units/Monsters/Nereid/NereidBrain/NereidAlreadyPoisonedConsideration", "Brain/Considerations/AttackTargetsPriority"]}

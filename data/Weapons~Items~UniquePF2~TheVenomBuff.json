@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/TheVenomProperty", "Weapons/Items/UniquePF2/TheVenomEnchantmentSecond", "Weapons/Items/UniquePF2/TheVenomEnchantment"], "children": ["Spells/Level1/BlessBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/TheVenomProperty", "Weapons/Items/UniquePF2/TheVenomEnchantment", "Weapons/Items/UniquePF2/TheVenomEnchantmentSecond"], "children": ["Spells/Level1/BlessBuff"]}

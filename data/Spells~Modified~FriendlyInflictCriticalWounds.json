@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity", "Equipment/Rings/DLC5/DLC5_DarkLifeRingFeature"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Classes/Cleric/Domains/Death/DeathDomainGreaterLiving", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Equipment/Rings/DLC5/DLC5_DarkLifeRingFeature", "Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Weapons/Types/Special/TouchItem", "Classes/Cleric/Domains/Death/DeathDomainGreaterLiving"]}

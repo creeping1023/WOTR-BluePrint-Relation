@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Shifter_Defheart/Cue_0001"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Cutscenes/DefendersHeart/DLC4_Ulbrig_who_is_leader/DLC4_Ulbrig_who_is_leader", "World/Dialogs/DLC4_Shifter/Shifter_Defheart/Cue_0002"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Shifter_Defheart/Cue_0001"], "children": ["World/Cutscenes/DefendersHeart/DLC4_Ulbrig_who_is_leader/DLC4_Ulbrig_who_is_leader", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/Shifter_Defheart/Cue_0002"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Weapons/DLC3/DLC3_GuardianBattleaxeFeature", "Equipment/Shields/DLC3/DLC3_GuardianHeavyShieldFeature"], "children": ["Weapons/Enchantments/Speed", "Weapons/Types/MartialOneHanded/Battleaxe"]}
+{"parents": ["Equipment/Shields/DLC3/DLC3_GuardianHeavyShieldFeature", "Items/Weapons/DLC3/DLC3_GuardianBattleaxeFeature"], "children": ["Weapons/Enchantments/Speed", "Weapons/Types/MartialOneHanded/Battleaxe"]}

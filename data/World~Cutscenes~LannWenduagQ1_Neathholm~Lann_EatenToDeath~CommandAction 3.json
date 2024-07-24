@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/Lann_EatenToDeath/Lann_EatenToDeath"], "children": ["Classes/Barbarian/Rage/StandartRageBuff", "Units/Companions/Wenduag/Wenduag_Companion"]}
+{"parents": ["World/Cutscenes/LannWenduagQ1_Neathholm/Lann_EatenToDeath/Lann_EatenToDeath"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "Classes/Barbarian/Rage/StandartRageBuff"]}

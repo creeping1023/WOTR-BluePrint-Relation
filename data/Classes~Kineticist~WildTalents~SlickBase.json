@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/WildTalents/SlickShortAbility", "Classes/Kineticist/WildTalents/SlickAbility", "Classes/Kineticist/WildTalents/SlickFeature"], "children": ["Classes/Kineticist/WildTalents/SlickAbility", "Classes/Kineticist/WildTalents/SlickShortAbility"]}
+{"parents": ["Classes/Kineticist/WildTalents/SlickFeature", "Classes/Kineticist/WildTalents/SlickAbility", "Classes/Kineticist/WildTalents/SlickShortAbility"], "children": ["Classes/Kineticist/WildTalents/SlickAbility", "Classes/Kineticist/WildTalents/SlickShortAbility"]}

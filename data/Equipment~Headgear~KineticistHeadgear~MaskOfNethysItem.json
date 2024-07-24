@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Masks/KEE_Mask_MaskCultistAreshkagal", "Equipment/Headgear/KineticistHeadgear/MaskOfNethysEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["EquipmentEntities/Masks/KEE_Mask_MaskCultistAreshkagal", "Equipment/Headgear/KineticistHeadgear/MaskOfNethysEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

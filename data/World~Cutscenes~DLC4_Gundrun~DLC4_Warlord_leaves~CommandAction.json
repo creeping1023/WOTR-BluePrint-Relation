@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/gate1"], "children": ["World/Cutscenes/GenericScenes/UnitsArmwrestling_Param/UnitsArmwrestling_Param", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Welcome/Gundrun_Welcome_dialogue"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Warlord_leaves/gate1"], "children": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Welcome/Gundrun_Welcome_dialogue", "World/Cutscenes/GenericScenes/UnitsArmwrestling_Param/UnitsArmwrestling_Param"]}

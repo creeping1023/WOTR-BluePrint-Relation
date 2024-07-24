@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Bandits/EnlargeSelf", "Spells/Level1/EnlargePerson", "Classes/Druid/Archetypes/GoliathDruid/PrimalDruidArchetype", "Races/NPCRaces/DuargarRace/DuergarEnlargePersonAbility"]}
+{"parents": ["Spells/Level1/EnlargePerson", "Classes/Druid/Archetypes/GoliathDruid/PrimalDruidArchetype", "Units/NPC/Commoners/Bandits/EnlargeSelf", "Races/NPCRaces/DuargarRace/DuergarEnlargePersonAbility"]}

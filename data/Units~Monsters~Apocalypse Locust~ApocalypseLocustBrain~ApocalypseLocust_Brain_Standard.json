@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/ApocalypseLocust_AiAction_BreathWeapon"]}
+{"children": ["Units/Monsters/Apocalypse Locust/ApocalypseLocustBrain/ApocalypseLocust_AiAction_BreathWeapon", "Brain/Actions/AttackAiAction"]}

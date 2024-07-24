@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Invisible_drunkard/gate1"], "children": ["Spells/CutsceneSpells/DLC4_InvisibilityBuff_Cutscene", "World/Cutscenes/Daeran_Q1_KenabresMansion/DrunkIdle_Param/DrunkIdle_Param"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_Invisible_drunkard/gate1"], "children": ["World/Cutscenes/Daeran_Q1_KenabresMansion/DrunkIdle_Param/DrunkIdle_Param", "Spells/CutsceneSpells/DLC4_InvisibilityBuff_Cutscene"]}

@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter5/DeathPactItem"], "children": ["World/Encounters/DLC3_DarknessLair/Buffs/Darkness_DimensionLock_Buff", "Weapons/Items/UniquePF2/Chapter5/DeathPactCR19_GalluStandard", "Spells/CutsceneSpells/SummonMonsterPool"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter5/DeathPactItem"], "children": ["Weapons/Items/UniquePF2/Chapter5/DeathPactCR19_GalluStandard", "World/Encounters/DLC3_DarknessLair/Buffs/Darkness_DimensionLock_Buff", "Spells/CutsceneSpells/SummonMonsterPool"]}

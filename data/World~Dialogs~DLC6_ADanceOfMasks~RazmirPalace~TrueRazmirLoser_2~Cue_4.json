@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/TrueRazmirLoser_2/CueSequence_0001"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/TrueRazmirLoser_2/Cue_5"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/TrueRazmirLoser_2/CueSequence_0001"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/TrueRazmirLoser_2/Cue_5", "Units/Companions/Nenio/Nenio_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranKickedOutHeadTimer"], "children": ["Items/Areas/Companions/Daeran/DaeranHead", "World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranNotInParty_KickedOut"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranKickedOutHeadTimer"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranNotInParty_KickedOut", "Items/Areas/Companions/Daeran/DaeranHead"]}

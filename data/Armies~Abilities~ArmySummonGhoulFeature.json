@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyNabasuStandard"], "children": ["Armies/Abilities/ArmySummonGhoul", "Armies/Abilities/ArmySummonGhoulFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyNabasuStandard"], "children": ["Armies/Abilities/ArmySummonGhoulFact", "Armies/Abilities/ArmySummonGhoul"]}

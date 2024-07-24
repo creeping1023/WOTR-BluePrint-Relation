@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Armor/Items/Unique/LateChapters_4thPart/SageArmorEnchant"], "children": ["Spells/Level1/MageShieldBuff", "Spells/Level1/MageShieldBuffPermanent", "Equipment/Armor/Enchantments/FireResistance10Feature", "Equipment/Armor/Enchantments/FireResistance10Feature"]}
+{"parents": ["Equipment/Armor/Items/Unique/LateChapters_4thPart/SageArmorEnchant"], "children": ["Spells/Level1/MageShieldBuffPermanent", "Spells/Level1/MageShieldBuff", "Equipment/Armor/Enchantments/FireResistance10Feature"]}

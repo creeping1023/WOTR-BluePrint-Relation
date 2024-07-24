@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Locust/MeetAnemora/Answer_0024"], "children": ["Units/Monsters/Demon Lord Deskari/DemonLordDeskari", "World/Dialogs/c5/Mythic_Locust/MeetAnemora/Cue_0029"]}
+{"parents": ["World/Dialogs/c5/Mythic_Locust/MeetAnemora/Answer_0024"], "children": ["World/Dialogs/c5/Mythic_Locust/MeetAnemora/Cue_0029", "Units/Monsters/Demon Lord Deskari/DemonLordDeskari"]}

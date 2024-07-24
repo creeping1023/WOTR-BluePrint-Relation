@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/AlushinyrraLowerCity/TemporaryPortalMapDialogue/Cue_0001"], "children": ["World/Encounters/AlushinyrraCity/Items/TeleportationMarks/NexusArk_Mark", "World/Areas/Act_4_MidnightIsles/Nexus/EnterPoints/NexusPortalArk"]}
+{"parents": ["World/Dialogs/Test/AlushinyrraLowerCity/TemporaryPortalMapDialogue/Cue_0001"], "children": ["World/Areas/Act_4_MidnightIsles/Nexus/EnterPoints/NexusPortalArk", "World/Encounters/AlushinyrraCity/Items/TeleportationMarks/NexusArk_Mark"]}

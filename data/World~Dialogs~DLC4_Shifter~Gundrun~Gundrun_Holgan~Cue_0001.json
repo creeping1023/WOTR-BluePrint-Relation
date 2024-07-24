@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Holgan/Answer_0002"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR7_GundrunRangerLocalHero", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Holgan/AnswersList_0001"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Holgan/Answer_0002"], "children": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Holgan/AnswersList_0001", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR7_GundrunRangerLocalHero"]}

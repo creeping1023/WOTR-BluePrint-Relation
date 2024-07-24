@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mineshaft_14/LiLura_Bye/Cue_0009", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c5/Mineshaft_14/LiLura_Bye/Cue_0009"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

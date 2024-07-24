@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/CueSequence_0222"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0225"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/CueSequence_0222"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0225", "Units/Companions/Greybor/Greybor_Companion"]}

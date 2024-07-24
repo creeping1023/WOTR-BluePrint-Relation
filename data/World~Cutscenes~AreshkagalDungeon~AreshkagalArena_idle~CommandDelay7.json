@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/AreshkagalArena_idle/gate5"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/NenioCompanion/NenioStates/AreshkagalTakeNenio"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/AreshkagalArena_idle/gate5"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/NenioCompanion/NenioStates/AreshkagalTakeNenio", "Units/Companions/Nenio/Nenio_Companion"]}

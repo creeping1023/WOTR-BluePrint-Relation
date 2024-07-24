@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyCrushingDespairFeature", "Armies/Brains/Actions/TacticalCombat_AIAction_CrushingDespair"], "children": ["Spells/Level3/ArmyCrushingDespairBuff", "Armies/Abilities/ArmyCrushingDespairResource"]}
+{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_CrushingDespair", "Armies/Abilities/ArmyCrushingDespairFeature"], "children": ["Spells/Level3/ArmyCrushingDespairBuff", "Armies/Abilities/ArmyCrushingDespairResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/SosielBattle/CommandStartDialog"], "children": ["World/Dialogs/c2_vs/LostChapel/Sosiel_Dead_Hellknight/Cue_0001", "World/Quests/c2_vs/LostChapel/Add_3-3_Soeiel"]}
+{"parents": ["World/Cutscenes/LostChapel/SosielBattle/CommandStartDialog"], "children": ["World/Quests/c2_vs/LostChapel/Add_3-3_Soeiel", "World/Dialogs/c2_vs/LostChapel/Sosiel_Dead_Hellknight/Cue_0001"]}

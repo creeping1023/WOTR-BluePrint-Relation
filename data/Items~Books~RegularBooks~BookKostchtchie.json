@@ -1,1 +1,1 @@
-{"parents": ["Loot/Quest/DLC5_GoblinsPartyInTheTower/DLC5_TowerOfGoblins_Loot_28_Trash", "Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR3/Forest_SorcererCrypt_KostchtchieBook"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Good/CR3/Forest_SorcererCrypt_KostchtchieBook", "Loot/Quest/DLC5_GoblinsPartyInTheTower/DLC5_TowerOfGoblins_Loot_28_Trash", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

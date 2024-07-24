@@ -1,1 +1,1 @@
-{"parents": ["Items/Rods/Oculus/OculusItem"], "children": ["Spells/Level6/TrueSeeingBuff", "Spells/Level7/InsanityBuff", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Items/Rods/Oculus/OculusItem"], "children": ["Weapons/Types/Special/TouchItem", "Spells/Level6/TrueSeeingBuff", "Spells/Level7/InsanityBuff"]}

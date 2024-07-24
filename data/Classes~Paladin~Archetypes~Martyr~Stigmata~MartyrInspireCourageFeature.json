@@ -1,1 +1,1 @@
-{"parents": ["Feats/ExtraPerformancePaladinMartyr", "Classes/Paladin/Archetypes/Martyr/MartyrArchetype"], "children": ["Classes/Paladin/Archetypes/Martyr/Stigmata/MartyrInspireCourageToggleAbility", "Feats/ExtraPerformancePaladinMartyr"]}
+{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrArchetype", "Feats/ExtraPerformancePaladinMartyr"], "children": ["Classes/Paladin/Archetypes/Martyr/Stigmata/MartyrInspireCourageToggleAbility", "Feats/ExtraPerformancePaladinMartyr"]}

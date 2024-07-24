@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/ChurchResolution02/ChurchResolution02"], "children": ["World/Cutscenes/LostChapel/CrusadersOnKneesParam/CrusadersOnKneesParam", "World/Encounters/LostChapel/SummonPools/GhoulsAtChurch", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/LostChapel/ChurchResolution02/ChurchResolution02"], "children": ["Factions/Mobs", "World/Encounters/LostChapel/SummonPools/GhoulsAtChurch", "World/Cutscenes/LostChapel/CrusadersOnKneesParam/CrusadersOnKneesParam"]}

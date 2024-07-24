@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_PlayerFinalChoice"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter06_Extra/Ending_Locust", "World/Dialogs/Epilogues/Cue_0139", "World/Dialogs/Epilogues/Answer_0140"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_PlayerFinalChoice"], "children": ["World/Dialogs/Epilogues/Answer_0140", "World/Etudes/Common/WrathOfTheRighteous/Chapter06_Extra/Ending_Locust", "World/Dialogs/Epilogues/Cue_0139"]}

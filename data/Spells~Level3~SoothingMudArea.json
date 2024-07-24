@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level3/SoothingMud"], "children": ["Spells/Level3/SoothingMudBuff", "Spells/Level3/SoothingMudCooldownBuff", "Spells/Level3/SoothingMudBuff", "Spells/Level3/SoothingMudDifficultTerrainBuff"]}
+{"parents": ["Spells/Level3/SoothingMud"], "children": ["Spells/Level3/SoothingMudCooldownBuff", "Spells/Level3/SoothingMudBuff", "Spells/Level3/SoothingMudDifficultTerrainBuff"]}

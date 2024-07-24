@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Areas/DLC6_RomanceLann_AfterParty"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/LannRomance/SurpriseDate/Cue_0001", "Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Areas/DLC6_RomanceLann_AfterParty"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/LannRomance/SurpriseDate/Cue_0001"]}

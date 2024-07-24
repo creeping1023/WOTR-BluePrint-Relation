@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/GoldenGolemPortal_Idle/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/GoldenGolemPortal_Idle/CommandDelay", "World/Cutscenes/AreshkagalDungeon/GoldenGolemPortal_Idle/gate 1"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/GoldenGolemPortal_Idle/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/GoldenGolemPortal_Idle/gate 1", "World/Cutscenes/AreshkagalDungeon/GoldenGolemPortal_Idle/CommandDelay"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/Brains/Shadow_Angel_Brain/MythicShadow_Angel_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Spells/Level8/HolyAura"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/Brains/Shadow_Angel_Brain/MythicShadow_Angel_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level8/HolyAura"]}

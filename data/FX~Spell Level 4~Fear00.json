@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/Fear", "Spells/CutsceneSpells/CrushingDespairTrollLair", "Spells/Level6/BansheeBlast", "Spells/Level3/CrushingDespair"], "children": ["FX/Spell Level 4/Fear00_Trajectory"]}
+{"parents": ["Spells/Level3/CrushingDespair", "Spells/CutsceneSpells/CrushingDespairTrollLair", "Spells/Level6/BansheeBlast", "Spells/Level4/Fear"], "children": ["FX/Spell Level 4/Fear00_Trajectory"]}

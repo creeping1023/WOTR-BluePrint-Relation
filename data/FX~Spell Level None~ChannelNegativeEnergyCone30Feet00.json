@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyBreathWeaponAbilityPlagueDragon", "Classes/Warpriest/Archetypes/Shieldbearer/WarpriestShieldbearerChannelNegativeEnergy"], "children": ["FX/Spell Level None/ChannelNegativeEnergyCone30Feet00_Trajectory"]}
+{"parents": ["Classes/Warpriest/Archetypes/Shieldbearer/WarpriestShieldbearerChannelNegativeEnergy", "Armies/Abilities/ArmyBreathWeaponAbilityPlagueDragon"], "children": ["FX/Spell Level None/ChannelNegativeEnergyCone30Feet00_Trajectory"]}

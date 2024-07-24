@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/XantirLeutenant_Sanctum_Brain/XantirLeutenant_Sanctum_Brain"], "children": ["Brain/Considerations/IsThreatedConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/HarmCast"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/XantirLeutenant_Sanctum_Brain/XantirLeutenant_Sanctum_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/IsThreatedConsideration", "Spells/Level6/HarmCast"]}

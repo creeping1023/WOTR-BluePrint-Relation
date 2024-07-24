@@ -1,1 +1,1 @@
-{"parents": ["Items/LootTables/Test/TestSpecial", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Trident", "Weapons/Enchantments/Enhancement2"]}
+{"parents": ["Items/LootTables/Test/TestSpecial", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement2", "Weapons/Types/SimpleTwoHanded/Trident"]}

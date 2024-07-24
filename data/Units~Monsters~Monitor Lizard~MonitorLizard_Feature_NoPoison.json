@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Monitor Lizard/CR2_MonitorLizardStandart_NoPoison", "Units/Monsters/Monitor Lizard/CR3_MonitorLizardAdvanced_NoPoison"], "children": ["Units/Monsters/Monitor Lizard/MonitorLizardPoisonFeature"]}
+{"parents": ["Units/Monsters/Monitor Lizard/CR3_MonitorLizardAdvanced_NoPoison", "Units/Monsters/Monitor Lizard/CR2_MonitorLizardStandart_NoPoison"], "children": ["Units/Monsters/Monitor Lizard/MonitorLizardPoisonFeature"]}

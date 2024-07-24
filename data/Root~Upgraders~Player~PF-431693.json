@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/Companions/CompanionQuests/Arueshalae/Q3/BackToReality/ArueShalaeQ3_BackToReality_Dialogue", "Units/Companions/Arueshalae/Arueshalae_Companion", "Units/Companions/Arueshalae/ArueshalaeBlessingOfDesnaFeature"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "Units/Companions/Arueshalae/ArueshalaeBlessingOfDesnaFeature", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q3/BackToReality/ArueShalaeQ3_BackToReality_Dialogue"]}

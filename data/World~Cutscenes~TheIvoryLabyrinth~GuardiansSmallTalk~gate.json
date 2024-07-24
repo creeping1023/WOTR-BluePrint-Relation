@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TheIvoryLabyrinth/GuardiansSmallTalk/gate 3", "World/Cutscenes/TheIvoryLabyrinth/GuardiansSmallTalk/GuardiansSmallTalk"], "children": ["World/Cutscenes/TheIvoryLabyrinth/GuardiansSmallTalk/CommandAction"]}
+{"parents": ["World/Cutscenes/TheIvoryLabyrinth/GuardiansSmallTalk/GuardiansSmallTalk", "World/Cutscenes/TheIvoryLabyrinth/GuardiansSmallTalk/gate 3"], "children": ["World/Cutscenes/TheIvoryLabyrinth/GuardiansSmallTalk/CommandAction"]}

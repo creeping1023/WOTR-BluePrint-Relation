@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Oread/OreadHeritages/OreadHeritageIronsoul"], "children": ["Spells/Level1/LeadBlades", "Spells/Level1/LeadBlades", "Spells/Level1/LeadBlades", "Spells/Level1/LeafBladesBuff", "Spells/Level1/LeadBlades", "Traits/Races/Oread/OreadSpellLikes/OreadSpellLikeResource", "Spells/Level1/LeadBlades"]}
+{"parents": ["Traits/Races/Oread/OreadHeritages/OreadHeritageIronsoul"], "children": ["Spells/Level1/LeafBladesBuff", "Traits/Races/Oread/OreadSpellLikes/OreadSpellLikeResource", "Spells/Level1/LeadBlades"]}

@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/SunderArmorAiAction", "Classes/Oracle/OracleRevelations/OracleRevelationManeuverMasterySunder", "Feats/Maneuvers/SunderArmor/ImprovedSunder", "Brain/Actions/SmiteGoodSunderArmorAiAction"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationManeuverMasterySunder", "Brain/Actions/SunderArmorAiAction", "Feats/Maneuvers/SunderArmor/ImprovedSunder", "Brain/Actions/SmiteGoodSunderArmorAiAction"]}

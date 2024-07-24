@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyReachingStrikeActivatableAbility"], "children": ["Armies/Abilities/ArmyReachingStrikeStopBuff", "Armies/Abilities/ArmySweepingBlowBuff", "Armies/Abilities/ArmyReachingStrikeStopBuff", "Armies/Abilities/ArmyReachingStrike"]}
+{"parents": ["Armies/Abilities/ArmyReachingStrikeActivatableAbility"], "children": ["Armies/Abilities/ArmyReachingStrike", "Armies/Abilities/ArmySweepingBlowBuff", "Armies/Abilities/ArmyReachingStrikeStopBuff"]}

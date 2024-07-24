@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialRanged/CompositeShortbow", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/DLC3/ShortbowElvenEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/DLC3/ShortbowElvenEnchantment", "Weapons/Enchantments/Enhancement4", "Weapons/Types/MartialRanged/CompositeShortbow"]}

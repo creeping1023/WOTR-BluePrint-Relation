@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/ChallengeEvilBuff"], "children": ["Spells/Level1/ChallengeEvilAttackBuff", "Classes/Paladin/SmiteEvil/SmiteEvilBuff"]}
+{"parents": ["Spells/Level1/ChallengeEvilBuff"], "children": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff", "Spells/Level1/ChallengeEvilAttackBuff"]}

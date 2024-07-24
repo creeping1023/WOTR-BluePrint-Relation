@@ -1,1 +1,1 @@
-{"parents": ["Feats/Teamwork/CoordinatedDefense", "Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianSupportFeature", "Classes/Cavalier/CavalierTacticianAbilitySwift"], "children": ["Feats/Teamwork/CoordinatedDefense", "Feats/Teamwork/CoordinatedDefense"]}
+{"parents": ["Classes/Cavalier/CavalierTacticianAbilitySwift", "Feats/Teamwork/CoordinatedDefense", "Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianSupportFeature"], "children": ["Feats/Teamwork/CoordinatedDefense"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0089"], "children": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0094", "World/Quests/Companions/Daeran/Q2_WhileWorldBurns/02_AskDaeranVisit"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0089"], "children": ["World/Quests/Companions/Daeran/Q2_WhileWorldBurns/02_AskDaeranVisit", "World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0094"]}

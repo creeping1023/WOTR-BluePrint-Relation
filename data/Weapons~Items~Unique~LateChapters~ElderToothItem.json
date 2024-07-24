@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/PunchingDagger", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/LateChapters/ElderToothEnchantmentLethal", "Weapons/Items/Unique/LateChapters/ElderToothEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/LateChapters/ElderToothEnchantment", "Weapons/Enchantments/Enhancement4", "Weapons/Types/SimpleLight/PunchingDagger", "Weapons/Items/Unique/LateChapters/ElderToothEnchantmentLethal"]}

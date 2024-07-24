@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionUpgradeTriceratops", "Equipment/SpecialEditions/UniquePF2/BackersItems/TriceratopsStatuette/TriceratopsStatuetteUpgradeUnit"], "children": ["Weapons/Items/Standard/NaturalWeapon/Gore1d8"]}
+{"parents": ["Equipment/SpecialEditions/UniquePF2/BackersItems/TriceratopsStatuette/TriceratopsStatuetteUpgradeUnit", "Classes/Pets/AnimalCompanionUpgradeTriceratops"], "children": ["Weapons/Items/Standard/NaturalWeapon/Gore1d8"]}

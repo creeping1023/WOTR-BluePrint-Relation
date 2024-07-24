@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0005"], "children": ["Units/NPC/Commoners/Act_1_WorldwoundIncursion/AreshkagalStrangers/AreshkagalStranger_Human_Female", "World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0003"]}
+{"parents": ["World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0005"], "children": ["World/Dialogs/c5/AreshkagalTomb/VowToAreshka/Cue_0003", "Units/NPC/Commoners/Act_1_WorldwoundIncursion/AreshkagalStrangers/AreshkagalStranger_Human_Female"]}

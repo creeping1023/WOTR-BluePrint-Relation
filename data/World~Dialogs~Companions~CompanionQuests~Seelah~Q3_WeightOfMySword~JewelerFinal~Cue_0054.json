@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/JewelerFinal/CueSequence_0052", "World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/JewelerFinal/Cue_0056"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR5_KnightElan"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/JewelerFinal/Cue_0056", "World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/JewelerFinal/CueSequence_0052"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR5_KnightElan"]}

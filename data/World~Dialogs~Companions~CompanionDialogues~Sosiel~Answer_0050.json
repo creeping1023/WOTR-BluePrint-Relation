@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0002", "QA/Clockwork/Scenario/Exploration/ScenarioParts/dontRemoveToParty"], "children": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0051", "Units/Companions/Trever/Trever_Companion"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/dontRemoveToParty", "World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0002"], "children": ["Units/Companions/Trever/Trever_Companion", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0051"]}

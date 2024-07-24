@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_Companions"], "children": ["Units/Companions/Arueshalae/EvilArueshalae_Companion", "World/Dialogs/Epilogues/Cue_0445", "World/Dialogs/Epilogues/Cue_0380", "World/Dialogs/Epilogues/Answer_0373"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_Companions"], "children": ["Units/Companions/Arueshalae/EvilArueshalae_Companion", "World/Dialogs/Epilogues/Cue_0445", "World/Dialogs/Epilogues/Answer_0373", "World/Dialogs/Epilogues/Cue_0380"]}

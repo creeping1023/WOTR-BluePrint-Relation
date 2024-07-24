@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0415", "World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0085", "World/Dialogs/c5/DrezenMain_C5/KTC_AneviaStart/Cue_0016"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/KTC_AneviaStart/Cue_0016", "World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/Cue_0085", "World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0415"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/CriticalMultiplierIncrease", "Weapons/Enchantments/Agile", "Weapons/Enchantments/Anarchic"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Anarchic", "Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Agile", "Weapons/Enchantments/CriticalMultiplierIncrease", "Weapons/Enchantments/Enhancement2"]}

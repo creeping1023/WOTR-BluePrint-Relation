@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/Thaw_MainCampain", "Root/BlueprintRoot"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/Thaw_MainCampain"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2"]}

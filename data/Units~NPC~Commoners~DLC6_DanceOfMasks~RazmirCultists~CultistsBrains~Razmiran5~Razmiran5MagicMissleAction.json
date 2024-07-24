@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/RazmirCultists/CultistsBrains/Razmiran5/Razmiran5BrainEvoker"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level1/MagicMissile"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/RazmirCultists/CultistsBrains/Razmiran5/Razmiran5BrainEvoker"], "children": ["Spells/Level1/MagicMissile", "Brain/Considerations/AttackTargetsPriority"]}

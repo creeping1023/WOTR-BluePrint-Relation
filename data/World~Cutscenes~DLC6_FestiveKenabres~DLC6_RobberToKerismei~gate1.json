@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_RobberToKerismei/DLC6_RobberToKerismei", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_RobberToKerismei/gate"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_RobberToKerismei/CommandAction1"]}
+{"parents": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_RobberToKerismei/gate", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_RobberToKerismei/DLC6_RobberToKerismei"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_RobberToKerismei/CommandAction1"]}

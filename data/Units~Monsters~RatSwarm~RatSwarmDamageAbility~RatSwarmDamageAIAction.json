@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/RatSwarm/RatSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration", "Units/Monsters/RatSwarm/RatSwarmDamageAbility/RatSwarmDamageAbility"]}
+{"parents": ["Units/Monsters/RatSwarm/RatSwarmBrain"], "children": ["Units/Monsters/RatSwarm/RatSwarmDamageAbility/RatSwarmDamageAbility", "Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_StandardCleric"], "children": ["Brain/Considerations/NoBuffBless", "Brain/Considerations/AoE_ChooseMoreFriends", "Spells/Level1/Bless"]}
+{"parents": ["Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Brain_StandardCleric"], "children": ["Brain/Considerations/NoBuffBless", "Spells/Level1/Bless", "Brain/Considerations/AoE_ChooseMoreFriends"]}

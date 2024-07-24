@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/GesmerhaMain/Answer_0008"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/DLC1_BlindCarver_Wintersun", "World/Dialogs/DLC1_Megaepic/Iz/GesmerhaMain/Cue_4"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/GesmerhaMain/Answer_0008"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/GesmerhaMain/Cue_4", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/DLC1_BlindCarver_Wintersun"]}

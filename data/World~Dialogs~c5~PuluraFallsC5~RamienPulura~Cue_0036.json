@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/PuluraFallsC5/RamienPulura/CueSequence_0034"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien", "World/Dialogs/c5/PuluraFallsC5/RamienPulura/Cue_0037"]}
+{"parents": ["World/Dialogs/c5/PuluraFallsC5/RamienPulura/CueSequence_0034"], "children": ["World/Dialogs/c5/PuluraFallsC5/RamienPulura/Cue_0037", "Units/Companions/Daeran/Daeran_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/MythicDemon_RankUp02_Option03"], "children": ["Armies/Leaders/Feats/Bonus/Demon2ConsumingFlame", "Kingdom/GlobalMapRituals/GlobalSpellDemonAbyssalSummon", "Kingdom/GlobalMapRituals/GlobalSpellDemonAbyssalSummon"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/MythicDemon_RankUp02_Option03"], "children": ["Kingdom/GlobalMapRituals/GlobalSpellDemonAbyssalSummon", "Armies/Leaders/Feats/Bonus/Demon2ConsumingFlame"]}

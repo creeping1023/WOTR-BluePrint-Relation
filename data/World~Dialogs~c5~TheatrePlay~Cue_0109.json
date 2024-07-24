@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/CueSequence_0107"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed", "World/Etudes/Common/WrathOfTheRighteous/AzataChanged", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/CueSequence_0107"], "children": ["World/Etudes/Common/WrathOfTheRighteous/AzataChanged", "Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed"]}

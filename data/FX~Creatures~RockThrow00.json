@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_Catapult_FailShot", "Spells/CutsceneSpells/TrollRock_Cutscene", "Weapons/Types/NaturalWeapon/RockThrow", "Units/Monsters/DLC3_Mobs/DLC3_Catapult_Bullrush"], "children": ["FX/Creatures/RockThrow00_Trajectory"]}
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_Catapult_Bullrush", "Weapons/Types/NaturalWeapon/RockThrow", "Spells/CutsceneSpells/TrollRock_Cutscene", "Units/Monsters/DLC3_Mobs/DLC3_Catapult_FailShot"], "children": ["FX/Creatures/RockThrow00_Trajectory"]}

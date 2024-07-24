@@ -1,1 +1,1 @@
-{"parents": ["Classes/StudentOfWar/StudentOfWarProgression"], "children": ["Classes/StudentOfWar/StudentOfWarKnowYourEnemyBuff", "CreatureAbilities/Immunities/ImmunityToCritical"]}
+{"parents": ["Classes/StudentOfWar/StudentOfWarProgression"], "children": ["CreatureAbilities/Immunities/ImmunityToCritical", "Classes/StudentOfWar/StudentOfWarKnowYourEnemyBuff"]}

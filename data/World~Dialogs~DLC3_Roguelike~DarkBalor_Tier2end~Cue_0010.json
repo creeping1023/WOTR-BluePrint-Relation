@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_0008"], "children": ["Units/NPC/Commoners/DLC3_RogueLike/DLC3_Steersman", "World/Cutscenes/DLC3_AlushinyrraPort/Balor_brokeChains/Balor_brokeChains", "World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/AnswersList_0011"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_0008"], "children": ["World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/AnswersList_0011", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Steersman", "World/Cutscenes/DLC3_AlushinyrraPort/Balor_brokeChains/Balor_brokeChains"]}

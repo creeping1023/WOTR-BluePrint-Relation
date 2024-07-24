@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_SithhudThePowerful", "World/Etudes/Common/WrathOfTheRighteous/Chapter06_Extra/Threshold"], "children": ["World/Cutscenes/ThresholdOutdoor/CombatStateOffParam/CommandSetCombatMode"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter06_Extra/Threshold", "Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_SithhudThePowerful"], "children": ["World/Cutscenes/ThresholdOutdoor/CombatStateOffParam/CommandSetCombatMode"]}

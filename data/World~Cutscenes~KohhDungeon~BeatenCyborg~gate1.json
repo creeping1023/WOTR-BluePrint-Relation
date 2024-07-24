@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KohhDungeon/BeatenCyborg/BeatenCyborg"], "children": ["World/Cutscenes/KohhDungeon/BeatenCyborg/CommandAction", "World/Cutscenes/KohhDungeon/BeatenCyborg/gate", "World/Cutscenes/KohhDungeon/BeatenCyborg/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Cutscenes/KohhDungeon/BeatenCyborg/BeatenCyborg"], "children": ["World/Cutscenes/KohhDungeon/BeatenCyborg/CommandAction", "World/Cutscenes/KohhDungeon/BeatenCyborg/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/KohhDungeon/BeatenCyborg/gate"]}

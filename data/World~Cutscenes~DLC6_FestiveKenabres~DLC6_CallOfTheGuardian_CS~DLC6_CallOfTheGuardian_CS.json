@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_FestiveKenabres/DLC6_MageMerchant/Cue_4"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_CallOfTheGuardian_CS/CommandAction", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_CallOfTheGuardian_CS/gate"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_FestiveKenabres/DLC6_MageMerchant/Cue_4"], "children": ["World/Cutscenes/DLC6_FestiveKenabres/DLC6_CallOfTheGuardian_CS/gate", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_CallOfTheGuardian_CS/CommandAction"]}

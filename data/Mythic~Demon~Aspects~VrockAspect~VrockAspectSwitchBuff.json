@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/Aspects/VrockAspect/VrockAspectAbility", "Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff"], "children": ["Mythic/Demon/DemonRage/DemonRageBuff", "Mythic/Demon/Aspects/VrockAspect/VrockAspectEffectBuff"]}
+{"parents": ["Mythic/Demon/Aspects/VrockAspect/VrockAspectAbility", "Mythic/Demon/DemonLordAspect/NocticulaAspect/NocticulaAspectBuff"], "children": ["Mythic/Demon/Aspects/VrockAspect/VrockAspectEffectBuff", "Mythic/Demon/DemonRage/DemonRageBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_LiarsSurvivors/Cue_2"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/DLC2_RichQuarter/Liars/CR4_Cultist_Liars", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_LiarsSurvivors/AnswersList_0003"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_LiarsSurvivors/Cue_2"], "children": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_LiarsSurvivors/AnswersList_0003", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_RichQuarter/Liars/CR4_Cultist_Liars"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Spells/Level6/BeastShapeIVShamblingMoundBuff", "Classes/Druid/WildShape/WildShapeIVShamblingMoundBuff"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}
+{"parents": ["Classes/Druid/WildShape/WildShapeIVShamblingMoundBuff", "Dugeons/Loot/DungeonLootExclude", "Spells/Level6/BeastShapeIVShamblingMoundBuff"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}

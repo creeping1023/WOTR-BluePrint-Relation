@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/Nexus_AngelicBurning/WaitFlag", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "Root/Upgraders/Player/PF-380323", "World/Cutscenes/Nexus/Angel_Nexus_KTC1/CommandAction 14", "World/Dialogs/c4/Mythic_Angel/AngelCouncil/AngelCouncil_Nexus_c4_dialog"]}
+{"parents": ["World/Dialogs/c4/Mythic_Angel/AngelCouncil/AngelCouncil_Nexus_c4_dialog", "World/Cutscenes/Nexus/Angel_Nexus_KTC1/CommandAction 14", "World/Cutscenes/Nexus/Nexus_AngelicBurning/WaitFlag", "Root/Upgraders/Player/PF-380323", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"]}

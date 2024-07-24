@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC5_LowFantasy2/DLC5_CommandersAdventure/DLC5_SithhudLair/DLC5_SithhudBossFight"], "children": ["World/Cutscenes/DLC5_SithhudLair/DLC5_Sithhud_hand_disappear/CommandDelay11", "World/Cutscenes/DLC5_SithhudLair/DLC5_Sithhud_hand_disappear/CommandAction4"]}
+{"parents": ["World/Etudes/Common/DLC5_LowFantasy2/DLC5_CommandersAdventure/DLC5_SithhudLair/DLC5_SithhudBossFight"], "children": ["World/Cutscenes/DLC5_SithhudLair/DLC5_Sithhud_hand_disappear/CommandAction4", "World/Cutscenes/DLC5_SithhudLair/DLC5_Sithhud_hand_disappear/CommandDelay11"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Luck/LuckDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/Archetypes/Separatist/Domains/Luck/LuckDomainBaseResourceSeparatist", "Classes/Cleric/Domains/Luck/LuckDomainBaseBuff"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Luck/LuckDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/Domains/Luck/LuckDomainBaseBuff", "Classes/Cleric/Archetypes/Separatist/Domains/Luck/LuckDomainBaseResourceSeparatist"]}

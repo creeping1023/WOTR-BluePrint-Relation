@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_ShadowBalorNahindry_MainGame", "Units/Monsters/DLC3_Mobs/DLC3_ShadowBalorNahindry"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Classes/Monster/MonsterMythic/MonsterMythicSpellbook"]}
+{"parents": ["Units/Monsters/DLC3_Mobs/DLC3_ShadowBalorNahindry", "Units/Monsters/DLC3_Mobs/DLC3_ShadowBalorNahindry_MainGame"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Classes/Monster/MonsterMythic/MonsterMythicSpellbook"]}

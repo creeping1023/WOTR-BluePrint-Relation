@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/HalfElf/HalfElfHeritageSelection", "Traits/Races/HalfElf/Adaptability"], "children": ["Traits/Races/Common/KeenSenses", "Traits/Races/Elf/ElvenImmunities"]}
+{"parents": ["Traits/Races/HalfElf/Adaptability", "Traits/Races/HalfElf/HalfElfHeritageSelection"], "children": ["Traits/Races/Common/KeenSenses", "Traits/Races/Elf/ElvenImmunities"]}

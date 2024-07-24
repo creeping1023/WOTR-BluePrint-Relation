@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/PF2_DLC5/Tavern/QuartermasterArmor/DLC5_QuartermasterArmorAfterShadowPlaneVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Unique/LateChapters/BladeguardArmorItem"]}
+{"parents": ["Items/Vendors/PF2_DLC5/Tavern/QuartermasterArmor/DLC5_QuartermasterArmorAfterShadowPlaneVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Shields/Unique/LateChapters/BladeguardArmorItem", "Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/StudentOfStone/Feats/ShaitanEarthblastFeature"], "children": ["Buffs/Staggered", "Classes/Monk/Archetypes/StudentOfStone/Feats/ElementalFist/ElementalFistAbilityResource", "Classes/Monk/Archetypes/StudentOfStone/Feats/ShaitanStyleBuff"]}
+{"parents": ["Classes/Monk/Archetypes/StudentOfStone/Feats/ShaitanEarthblastFeature"], "children": ["Classes/Monk/Archetypes/StudentOfStone/Feats/ShaitanStyleBuff", "Classes/Monk/Archetypes/StudentOfStone/Feats/ElementalFist/ElementalFistAbilityResource", "Buffs/Staggered"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Gundrun/DLC4_HolganFireSupport/Answer_0009"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR7_GundrunRangerLocalHero", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/DLC4_AlchemistLiquidQuestItem"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Gundrun/DLC4_HolganFireSupport/Answer_0009"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/DLC4_AlchemistLiquidQuestItem", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR7_GundrunRangerLocalHero"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/SarzaksisBrain/SarzaksisBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Classes/Arcanist/ArcanistExploits/ArcanistExploitAcidJetAbility"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/SarzaksisBrain/SarzaksisBrain"], "children": ["Classes/Arcanist/ArcanistExploits/ArcanistExploitAcidJetAbility", "Brain/Considerations/AttackTargetsPriority"]}

@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Armor/Items/Artisan/ElvenFemaleWeaponsmith/LightAbsorberChainshirtItem", "Equipment/Cloaks/CloakOfShadows", "Equipment/Cloaks/Artisan/HalfElfMaleTailor/CloakOfTheChosenItem"], "children": ["Units/Monsters/WildHunt/BlindnessImmunity"]}
+{"parents": ["Equipment/Cloaks/Artisan/HalfElfMaleTailor/CloakOfTheChosenItem", "Equipment/Armor/Items/Artisan/ElvenFemaleWeaponsmith/LightAbsorberChainshirtItem", "Equipment/Cloaks/CloakOfShadows"], "children": ["Units/Monsters/WildHunt/BlindnessImmunity"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Venture_Captain_Hilor/Hilor_MainDialogue/Answer_0168", "Root/Upgraders/Player/PF-345545"], "children": ["World/Cutscenes/LocustDevour_Param/LocustDevour_Param", "World/Cutscenes/DrezenCapital/LocustEatHilor/LocustEatHilor"]}
+{"parents": ["Root/Upgraders/Player/PF-345545", "World/Dialogs/NPC_Common/Venture_Captain_Hilor/Hilor_MainDialogue/Answer_0168"], "children": ["World/Cutscenes/DrezenCapital/LocustEatHilor/LocustEatHilor", "World/Cutscenes/LocustDevour_Param/LocustDevour_Param"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/Answer_0022"], "children": ["Units/Monsters/Bear/Wintersun/WintersunBear", "Items/Areas/Act_3_DemonsHerecy/Wintersun/SoanaMedallion", "World/Cutscenes/WintersunOutdoor/ForestQuest_BearLight/ForestQuest_BearLight"]}
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaBear/Answer_0022"], "children": ["World/Cutscenes/WintersunOutdoor/ForestQuest_BearLight/ForestQuest_BearLight", "Units/Monsters/Bear/Wintersun/WintersunBear", "Items/Areas/Act_3_DemonsHerecy/Wintersun/SoanaMedallion"]}

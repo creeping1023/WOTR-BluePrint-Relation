@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocusGreater/WeaponFocusGreaterGreataxe", "Feats/WeaponFocus/WeaponFocus"], "children": ["Weapons/Types/MartialTwoHanded/Greataxe", "Feats/WeaponFocusGreater/WeaponFocusGreaterGreataxe"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocus", "Feats/WeaponFocusGreater/WeaponFocusGreaterGreataxe"], "children": ["Weapons/Types/MartialTwoHanded/Greataxe", "Feats/WeaponFocusGreater/WeaponFocusGreaterGreataxe"]}

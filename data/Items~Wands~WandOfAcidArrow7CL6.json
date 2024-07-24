@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/SadistVendorTable", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level2/AcidArrow"]}
+{"parents": ["World/Areas/Random_Encounters/RE_TrashLootSettings", "Items/Vendors/SadistVendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Items/DestructibleItemsShards/WoodShardItem", "Spells/Level2/AcidArrow"]}

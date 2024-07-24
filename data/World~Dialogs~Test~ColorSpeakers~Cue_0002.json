@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/ColorSpeakers/Answer_0001"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicLich_Ch3/CiarUndead", "World/Dialogs/Test/ColorSpeakers/AnswersList_0007"]}
+{"parents": ["World/Dialogs/Test/ColorSpeakers/Answer_0001"], "children": ["World/Dialogs/Test/ColorSpeakers/AnswersList_0007", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicLich_Ch3/CiarUndead"]}

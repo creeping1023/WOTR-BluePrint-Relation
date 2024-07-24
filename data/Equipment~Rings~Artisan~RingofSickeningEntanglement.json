@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level2/SickeningEntanglement"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level2/SickeningEntanglement", "Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level8/Seamantle"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronEndurance/WitchEndurancePatronProgression"], "children": ["Spells/Level8/Seamantle", "Classes/Witch/WitchClass"]}

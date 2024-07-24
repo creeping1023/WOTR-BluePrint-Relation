@@ -1,1 +1,1 @@
-{"parents": ["Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverEnchantment"], "children": ["World/Etudes/Common/ImportantStates/GameAchievements/58_Midnight Aim", "World/Etudes/Common/ImportantStates/MidnightArrowsStates"]}
+{"parents": ["Items/Quivers/MidnightArrowQuiver/MidnightArrowQuiverEnchantment"], "children": ["World/Etudes/Common/ImportantStates/MidnightArrowsStates", "World/Etudes/Common/ImportantStates/GameAchievements/58_Midnight Aim"]}

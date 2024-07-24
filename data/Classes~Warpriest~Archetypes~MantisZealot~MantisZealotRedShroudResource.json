@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotRedShroudFeature", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotRedShroudToggleAbility"], "children": ["Classes/Slayer/SlayerClass"]}
+{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotRedShroudToggleAbility", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotRedShroudFeature"], "children": ["Classes/Slayer/SlayerClass"]}

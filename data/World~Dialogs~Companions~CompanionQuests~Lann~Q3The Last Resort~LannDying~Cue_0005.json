@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/LannDying/CueSequence_0001"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/LannDying/CueSequence_0001"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

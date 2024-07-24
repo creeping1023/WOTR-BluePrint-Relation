@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusLongsword"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Feats/WeaponFocus/WeaponFocusLongsword", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusLongsword"], "children": ["Feats/WeaponFocus/WeaponFocusLongsword", "Weapons/Types/MartialOneHanded/Longsword", "Classes/Fighter/FighterClass"]}

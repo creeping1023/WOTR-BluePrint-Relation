@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/Cue_0007"], "children": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/Cue_6", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/SequenceExit_0004"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/Cue_0007"], "children": ["World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/SequenceExit_0004", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/Cue_6"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0035"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0037"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0035"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielMonster/Cue_0037", "Units/Companions/Ember/Ember_Companion"]}

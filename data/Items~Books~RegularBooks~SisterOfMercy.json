@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Quest/LostChapel/BookLoot03", "Loot/Quest/LostChapel/BookLoot_3", "Loot/Quest/LostChapel/PoorLoot10"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/LostChapel/BookLoot03", "Loot/Quest/LostChapel/PoorLoot10", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/LostChapel/BookLoot_3"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

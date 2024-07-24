@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/KTC_ArmyBellflowerHalfling", "Armies/UnitBlueprints/ArmySlinger", "Armies/UnitBlueprints/ArmyBellflowerHalfling"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackArmoredHatredRanged"]}
+{"parents": ["Armies/UnitBlueprints/ArmySlinger", "Armies/UnitBlueprints/ArmyBellflowerHalfling", "Armies/UnitBlueprints/KTC_ArmyBellflowerHalfling"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackArmoredHatredRanged"]}

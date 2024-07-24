@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC3_RogueLike/DLC3_SeaHub_Double/DLC3_The_FirstCleric_Double"], "children": ["DLC/MainGame/MainCampaign", "World/Etudes/Common/DLC3_Roguelike/DLC3_Integration"]}
+{"parents": ["World/Areas/DLC3_RogueLike/DLC3_SeaHub_Double/DLC3_The_FirstCleric_Double"], "children": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Integration", "DLC/MainGame/MainCampaign"]}

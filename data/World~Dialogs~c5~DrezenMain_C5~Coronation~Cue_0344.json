@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0243", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0342"], "children": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Answer_0346", "Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Storyteller"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0342", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0243"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Storyteller", "World/Dialogs/c5/DrezenMain_C5/Coronation/Answer_0346"]}

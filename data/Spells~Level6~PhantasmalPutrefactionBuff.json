@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level6/PhantasmalPutrefaction", "Equipment/Cloaks/DLC3/RovagugSpawnCloakCorruptAbility", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/NoBuffPhantasmalPutrefaction"], "children": ["Spells/Level6/CloakofDreamsEffectBuff", "Spells/Level6/CloakofDreamsEffectBuff"]}
+{"parents": ["Equipment/Cloaks/DLC3/RovagugSpawnCloakCorruptAbility", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/NoBuffPhantasmalPutrefaction", "Spells/Level6/PhantasmalPutrefaction"], "children": ["Spells/Level6/CloakofDreamsEffectBuff"]}

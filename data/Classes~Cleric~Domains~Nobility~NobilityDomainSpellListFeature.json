@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Nobility/NobilityDomainBaseFeature", "Classes/Cleric/Archetypes/Separatist/Domains/Nobility/NobilityDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Nobility/NobilityDomainSpellList"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Nobility/NobilityDomainBaseFeatureSeparatist", "Classes/Cleric/Domains/Nobility/NobilityDomainBaseFeature"], "children": ["Classes/Cleric/ClericClass", "Classes/Cleric/Domains/Nobility/NobilityDomainSpellList"]}

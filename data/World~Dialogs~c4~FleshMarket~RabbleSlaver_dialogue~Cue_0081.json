@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0080"], "children": ["Units/Companions/Regill/Regill_Companion", "Units/Companions/Daeran/Daeran_Companion"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0080"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/Companions/Regill/Regill_Companion"]}

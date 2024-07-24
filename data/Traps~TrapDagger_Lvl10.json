@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Traps/TrapActor_Lvl10", "Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_TrapActor_SIthhudThePowerful", "Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_TrapActor_SIthhud"], "children": ["Weapons/Types/SimpleLight/Dagger"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_TrapActor_SIthhud", "Dugeons/Loot/DungeonLootExclude", "Traps/TrapActor_Lvl10", "Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_TrapActor_SIthhudThePowerful"], "children": ["Weapons/Types/SimpleLight/Dagger"]}

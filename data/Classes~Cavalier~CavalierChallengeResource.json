@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierChallengeAbility", "Classes/Cavalier/CavalierChallengeFeature", "Armies/Abilities/ArmyCavaliersChallangeResourceFix"], "children": ["Classes/Cavalier/CavalierClass"]}
+{"parents": ["Armies/Abilities/ArmyCavaliersChallangeResourceFix", "Classes/Cavalier/CavalierChallengeAbility", "Classes/Cavalier/CavalierChallengeFeature"], "children": ["Classes/Cavalier/CavalierClass"]}

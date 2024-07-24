@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/DLC4_AdviserBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level7/SummonElementalGreaterWater"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/DLC4_AdviserBrain"], "children": ["Spells/Level7/SummonElementalGreaterWater", "Brain/Considerations/AttackTargetsPriority"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0024"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed", "Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0026"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0024"], "children": ["World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0026", "Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed"]}

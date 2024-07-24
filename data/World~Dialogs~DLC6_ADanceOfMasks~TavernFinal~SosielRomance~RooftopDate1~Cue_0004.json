@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate1/Answer_0005"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate1/Cue_0007"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate1/Answer_0005"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate1/Cue_0007", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

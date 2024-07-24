@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/Lich_AttackPharasmaPriestess/CommandUnitCastSpell"], "children": ["FX/Spell Level None/NegativeCommonProjectile00", "Weapons/Types/Special/RayItem", "Buffs/Prone"]}
+{"parents": ["World/Cutscenes/DrezenCapital/Lich_AttackPharasmaPriestess/CommandUnitCastSpell"], "children": ["Weapons/Types/Special/RayItem", "Buffs/Prone", "FX/Spell Level None/NegativeCommonProjectile00"]}

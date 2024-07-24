@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level8/FrightfulAspectArea", "Units/NPC/Commoners/Axiomite/AxiomiteCasterMiniboss_Features/AxiomiteCasterMiniboss_Buff_FrightfulAspect", "Spells/Level8/FrightfulAspectBuff"]}
+{"parents": ["Units/NPC/Commoners/Axiomite/AxiomiteCasterMiniboss_Features/AxiomiteCasterMiniboss_Buff_FrightfulAspect", "Spells/Level8/FrightfulAspectArea", "Spells/Level8/FrightfulAspectBuff"]}

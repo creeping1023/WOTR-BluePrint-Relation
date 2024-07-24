@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/PlayerApproachesSeelah"], "children": ["World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/CommandAction", "World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/gate"]}
+{"parents": ["World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/PlayerApproachesSeelah"], "children": ["World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/gate", "World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/CommandAction"]}

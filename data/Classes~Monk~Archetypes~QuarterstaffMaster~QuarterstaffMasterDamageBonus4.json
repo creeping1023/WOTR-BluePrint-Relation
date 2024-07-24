@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype", "Spells/Level1/LeafBladesBuff", "Classes/Monk/MonkProgression"]}
+{"parents": ["Spells/Level1/LeafBladesBuff", "Classes/Monk/MonkProgression", "Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype"]}

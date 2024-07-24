@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Hermit/Answer_0087"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_FrozenTemple/Hermit/DLC5_Hermit", "World/Dialogs/DLC5_StoryEnds/AbyssHub/Hermit/Cue_0090"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Hermit/Answer_0087"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/Hermit/Cue_0090", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_FrozenTemple/Hermit/DLC5_Hermit"]}

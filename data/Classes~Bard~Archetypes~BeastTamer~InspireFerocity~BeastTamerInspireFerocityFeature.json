@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bard/Archetypes/BeastTamer/BeastTamerArchetype", "Root/Upgraders/Player/PF-167761"], "children": ["Classes/Bard/Archetypes/BeastTamer/InspireFerocity/BeastTamerInspireFerocityToggleAbility"]}
+{"parents": ["Root/Upgraders/Player/PF-167761", "Classes/Bard/Archetypes/BeastTamer/BeastTamerArchetype"], "children": ["Classes/Bard/Archetypes/BeastTamer/InspireFerocity/BeastTamerInspireFerocityToggleAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyBanishmentFeature"], "children": ["Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerSixth", "Armies/Abilities/ArmyBanishmentResource", "Buffs/ArmySummonedCreatureVisual"]}
+{"parents": ["Armies/Abilities/ArmyBanishmentFeature"], "children": ["Armies/Abilities/ArmyBanishmentResource", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPowerSixth", "Buffs/ArmySummonedCreatureVisual"]}

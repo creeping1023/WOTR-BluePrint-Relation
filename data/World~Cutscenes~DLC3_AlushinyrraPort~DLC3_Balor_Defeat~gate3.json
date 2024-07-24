@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_AlushinyrraPort/DLC3_Balor_Defeat/gate2", "World/Cutscenes/DLC3_AlushinyrraPort/DLC3_Balor_Defeat/DLC3_Balor_Defeat"], "children": ["World/Cutscenes/DLC3_AlushinyrraPort/DLC3_Balor_Defeat/CommandAction12"]}
+{"parents": ["World/Cutscenes/DLC3_AlushinyrraPort/DLC3_Balor_Defeat/DLC3_Balor_Defeat", "World/Cutscenes/DLC3_AlushinyrraPort/DLC3_Balor_Defeat/gate2"], "children": ["World/Cutscenes/DLC3_AlushinyrraPort/DLC3_Balor_Defeat/CommandAction12"]}

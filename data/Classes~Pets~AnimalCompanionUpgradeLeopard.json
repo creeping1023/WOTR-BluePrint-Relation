@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-440979_LeopardUpgrader", "Classes/Pets/AnimalCompanionFeatureLeopard"], "children": ["CreatureAbilities/ReducedReach", "Classes/Rogue/SneakAttack"]}
+{"parents": ["Classes/Pets/AnimalCompanionFeatureLeopard", "Root/Upgraders/Player/PF-440979_LeopardUpgrader"], "children": ["CreatureAbilities/ReducedReach", "Classes/Rogue/SneakAttack"]}

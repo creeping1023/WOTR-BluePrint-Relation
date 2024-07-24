@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0078", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0083"], "children": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_0089", "World/Quests/DLC1_Megaepic/Errands/Aranka/Objective_0001"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0078", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0083"], "children": ["World/Quests/DLC1_Megaepic/Errands/Aranka/Objective_0001", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_0089"]}

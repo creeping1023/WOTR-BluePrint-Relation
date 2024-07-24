@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterMajorForms/Bear/BearGrabActivatableAbility"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Classes/Shifter/ShifterMajorForms/Bear/BearGrappledInitiatorBuff", "Classes/Shifter/ShifterMajorForms/Bear/BearGrappledTargetBuff"]}
+{"parents": ["Classes/Shifter/ShifterMajorForms/Bear/BearGrabActivatableAbility"], "children": ["Classes/Shifter/ShifterMajorForms/Bear/BearGrappledTargetBuff", "Weapons/Types/NaturalWeapon/ClawType", "Classes/Shifter/ShifterMajorForms/Bear/BearGrappledInitiatorBuff"]}

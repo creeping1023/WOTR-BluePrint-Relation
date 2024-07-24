@@ -1,1 +1,1 @@
-{"parents": ["Units/Companions/DLC4ShifterCompanion/Shifter_FeatureList", "Classes/Basic/BasicFeatSelection", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Mythic/Feats/ExtraFeatMythicFeat"], "children": ["DLC/DLC4/Dlc4Reward", "Classes/Shifter/ShifterClass"]}
+{"parents": ["Classes/Basic/BasicFeatSelection", "Mythic/Feats/ExtraFeatMythicFeat", "Mythic/GoldenDragon/DragonLevel2FeatSelection", "Units/Companions/DLC4ShifterCompanion/Shifter_FeatureList"], "children": ["DLC/DLC4/Dlc4Reward", "Classes/Shifter/ShifterClass"]}

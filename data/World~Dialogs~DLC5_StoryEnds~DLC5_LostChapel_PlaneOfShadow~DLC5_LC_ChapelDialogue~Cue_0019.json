@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ChapelDialogue/CueSequence_0017"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "World/Dialogs/DLC5_StoryEnds/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ChapelDialogue/Cue_21"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ChapelDialogue/CueSequence_0017"], "children": ["World/Dialogs/DLC5_StoryEnds/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ChapelDialogue/Cue_21", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]}

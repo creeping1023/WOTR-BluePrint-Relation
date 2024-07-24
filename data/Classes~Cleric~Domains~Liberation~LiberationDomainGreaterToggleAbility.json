@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Liberation/LiberationDomainGreaterFeature"], "children": ["Classes/Cleric/Domains/Liberation/LiberationDomainGreaterResource", "Classes/Cleric/Domains/Liberation/LiberationDomainGreaterBuff"]}
+{"parents": ["Classes/Cleric/Domains/Liberation/LiberationDomainGreaterFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Liberation/LiberationDomainGreaterResource", "Classes/Cleric/Domains/Liberation/LiberationDomainGreaterBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_CR6_FetchlingReanimator", "Spells/Level1/Firebelly", "Spells/Level1/FirebellyAbility"], "children": ["Spells/Level1/FirebellyAbility", "Spells/Level1/FirebellyAbility"]}
+{"parents": ["Spells/Level1/Firebelly", "Spells/Level1/FirebellyAbility", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/DLC5_CR6_FetchlingReanimator"], "children": ["Spells/Level1/FirebellyAbility"]}

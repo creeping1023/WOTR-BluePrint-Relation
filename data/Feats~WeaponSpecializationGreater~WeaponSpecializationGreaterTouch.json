@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationTouch"], "children": ["Weapons/Types/Special/TouchType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationTouch"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationTouch"], "children": ["Feats/WeaponSpecialization/WeaponSpecializationTouch", "Classes/Fighter/FighterClass", "Weapons/Types/Special/TouchType"]}

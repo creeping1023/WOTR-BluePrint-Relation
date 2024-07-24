@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0017"], "children": ["World/Cutscenes/Mineshaft14_Indoor/Dweller_GoAway/CommandDelay", "World/Cutscenes/Mineshaft14_Indoor/Dweller_GoAway/CommandMoveUnit", "World/Cutscenes/Mineshaft14_Indoor/Dweller_GoAway/gate"]}
+{"parents": ["World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0017"], "children": ["World/Cutscenes/Mineshaft14_Indoor/Dweller_GoAway/gate", "World/Cutscenes/Mineshaft14_Indoor/Dweller_GoAway/CommandMoveUnit", "World/Cutscenes/Mineshaft14_Indoor/Dweller_GoAway/CommandDelay"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level8/ProtectionFromSpells"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level8/ProtectionFromSpells", "Items/DestructibleItemsShards/GlassShardItem"]}

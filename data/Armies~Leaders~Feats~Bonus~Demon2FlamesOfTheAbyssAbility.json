@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Feats/Bonus/Demon2FlamesOfTheAbyss"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/Bonus/Demon2FlamesOfTheAbyssBuff", "FX/Spell Level 3/ScreamingFlames00", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}
+{"parents": ["Armies/Leaders/Feats/Bonus/Demon2FlamesOfTheAbyss"], "children": ["Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff", "Armies/Leaders/LeaderManaResource", "Armies/Leaders/Feats/Bonus/Demon2FlamesOfTheAbyssBuff", "FX/Spell Level 3/ScreamingFlames00"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverWayOfTimeManipulatorProgression"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/ChronoTriggerAbility", "Classes/Arcanist/Archetypes/MagicDeceiver/ChronoTriggerResource"]}
+{"parents": ["Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverWayOfTimeManipulatorProgression"], "children": ["Classes/Arcanist/Archetypes/MagicDeceiver/ChronoTriggerResource", "Classes/Arcanist/Archetypes/MagicDeceiver/ChronoTriggerAbility"]}

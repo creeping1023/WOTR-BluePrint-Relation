@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Siabrae/CR19_Siabrae_Brain", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/WintersunSiabrae_Brain/WintersunSiabrae_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level5/AcidicSpray"]}
+{"parents": ["Units/NPC/Commoners/Siabrae/CR19_Siabrae_Brain", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/WintersunSiabrae_Brain/WintersunSiabrae_Brain"], "children": ["Spells/Level5/AcidicSpray", "Brain/Considerations/AttackTargetsPriority"]}

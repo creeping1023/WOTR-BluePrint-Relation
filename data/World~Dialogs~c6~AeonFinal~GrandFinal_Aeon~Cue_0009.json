@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/AeonFinal/GrandFinal_Aeon/Cue_0010", "World/Dialogs/c6/AeonFinal/GrandFinal_Aeon/Cue_0007"], "children": ["World/Cutscenes/ThresholdIndoor_Aeon/AeonStart2Glow/AeonStart2Glow", "World/Dialogs/c6/AeonFinal/GrandFinal_Aeon/Cue_0008"]}
+{"parents": ["World/Dialogs/c6/AeonFinal/GrandFinal_Aeon/Cue_0007", "World/Dialogs/c6/AeonFinal/GrandFinal_Aeon/Cue_0010"], "children": ["World/Dialogs/c6/AeonFinal/GrandFinal_Aeon/Cue_0008", "World/Cutscenes/ThresholdIndoor_Aeon/AeonStart2Glow/AeonStart2Glow"]}

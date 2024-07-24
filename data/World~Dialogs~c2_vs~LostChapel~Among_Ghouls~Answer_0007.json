@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Among_Ghouls/AnswersList_0006"], "children": ["World/Encounters/LostChapel/SummonPools/PileGhouls", "World/Cutscenes/LostChapel/GhoulsPretending/GhoulsPretending", "Factions/Mobs", "Spells/CutsceneSpells/ProneBuff"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Among_Ghouls/AnswersList_0006"], "children": ["Factions/Mobs", "World/Cutscenes/LostChapel/GhoulsPretending/GhoulsPretending", "World/Encounters/LostChapel/SummonPools/PileGhouls", "Spells/CutsceneSpells/ProneBuff"]}

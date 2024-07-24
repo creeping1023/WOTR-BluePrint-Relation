@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/TE_CrystalsFromDemonLords/gate"], "children": ["World/Encounters/ThresholdIndoor_SecondFloor/SummonPools/AllFinalEnemiesTE", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/TE_CrystalsFromDemonLords/gate"], "children": ["Factions/Mobs", "World/Encounters/ThresholdIndoor_SecondFloor/SummonPools/AllFinalEnemiesTE"]}

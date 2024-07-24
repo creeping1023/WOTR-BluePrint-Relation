@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0002", "QA/Clockwork/Scenario/Exploration/ScenarioParts/dontRemoveToParty"], "children": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0020"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/dontRemoveToParty", "World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0002"], "children": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0020"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/WitchDarkPactPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level8/Seamantle"]}
+{"parents": ["Classes/Witch/Archetypes/DarkSisterWitch/WitchDarkPactPatronProgression"], "children": ["Spells/Level8/Seamantle", "Classes/Witch/WitchClass"]}

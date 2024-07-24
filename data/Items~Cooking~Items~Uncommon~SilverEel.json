@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/BanditConspiratorVendorTable", "Items/Vendors/C11_OlegVendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/PF2_DLC2/DLC2_NaumVendorTable"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/Vendors/PF2_DLC2/DLC2_NaumVendorTable", "Items/Vendors/BanditConspiratorVendorTable", "Items/Vendors/C11_OlegVendorTable"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

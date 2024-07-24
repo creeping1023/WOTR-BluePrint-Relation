@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationLightCrossbow"], "children": ["Weapons/Types/SimpleRanged/LightCrossbow", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationLightCrossbow"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationLightCrossbow"], "children": ["Weapons/Types/SimpleRanged/LightCrossbow", "Feats/WeaponSpecialization/WeaponSpecializationLightCrossbow", "Classes/Fighter/FighterClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/SkaldProgression", "Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic", "Classes/Skald/RagingSong/InspiredRageEffectBuff"]}
+{"parents": ["Classes/Skald/RagingSong/InspiredRageEffectBuff", "Classes/Skald/RagingSong/InspiredRageEffectBuffMythic", "Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype", "Classes/Skald/SkaldProgression"]}

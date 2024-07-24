@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/DLC4_Shifter/DLC4_Wilds_GhostHunters_Pony/Objective_0001", "World/Etudes/Common/DLC4_Shifter"], "children": ["World/Quests/DLC4_Shifter/DLC4_Wilds_GhostHunters_Pony/Objective_0001"]}
+{"parents": ["World/Etudes/Common/DLC4_Shifter", "World/Quests/DLC4_Shifter/DLC4_Wilds_GhostHunters_Pony/Objective_0001"], "children": ["World/Quests/DLC4_Shifter/DLC4_Wilds_GhostHunters_Pony/Objective_0001"]}

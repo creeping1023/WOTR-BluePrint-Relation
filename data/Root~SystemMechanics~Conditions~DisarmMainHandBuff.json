@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/NumerianCamp/LabEquipment/Cue_0023", "Brain/Considerations/NoBuffDisarm", "Root/BlueprintRoot"]}
+{"parents": ["Root/BlueprintRoot", "Brain/Considerations/NoBuffDisarm", "World/Dialogs/c5/NumerianCamp/LabEquipment/Cue_0023"]}

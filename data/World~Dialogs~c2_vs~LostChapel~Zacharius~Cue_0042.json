@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/LostChapel/Zacharius/Cue_0040"], "children": ["World/Dialogs/c2_vs/LostChapel/Zacharius/AnswersList_0034"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Zacharius/Cue_0040", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/LostChapel/Zacharius/AnswersList_0034"]}

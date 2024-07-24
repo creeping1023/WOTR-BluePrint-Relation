@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/Archeology/Collector/CueSequence_0044"], "children": ["Items/Archeology/Artifacts/Kellid/Artifact_TigerArmor-shard", "Items/Archeology/Artifacts/Kellid/Artifact_TigerArmor-shard", "World/Dialogs/Test/Archeology/Collector/Cue_0289"]}
+{"parents": ["World/Dialogs/Test/Archeology/Collector/CueSequence_0044"], "children": ["World/Dialogs/Test/Archeology/Collector/Cue_0289", "Items/Archeology/Artifacts/Kellid/Artifact_TigerArmor-shard"]}

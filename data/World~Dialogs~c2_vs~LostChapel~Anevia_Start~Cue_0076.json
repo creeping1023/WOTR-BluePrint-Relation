@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/LostChapel/Anevia_Start/CueSequence_0073"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c2_vs/LostChapel/Anevia_Start/Cue_0077"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Anevia_Start/CueSequence_0073", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/LostChapel/Anevia_Start/Cue_0077", "Units/Companions/Seelah/Seelah_Companion"]}

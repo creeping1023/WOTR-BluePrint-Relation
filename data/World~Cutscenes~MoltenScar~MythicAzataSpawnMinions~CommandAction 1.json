@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/MoltenScar/MythicAzataSpawnMinions/gate"], "children": ["World/Encounters/MoltenScar/SummonPools/AzataMobs1", "Factions/Friends", "World/Encounters/MoltenScar/SummonPools/AzataMobs2", "Factions/Friends", "World/Encounters/MoltenScar/SummonPools/AzataMobs3", "Factions/Friends"]}
+{"parents": ["World/Cutscenes/MoltenScar/MythicAzataSpawnMinions/gate"], "children": ["Factions/Friends", "World/Encounters/MoltenScar/SummonPools/AzataMobs2", "World/Encounters/MoltenScar/SummonPools/AzataMobs3", "World/Encounters/MoltenScar/SummonPools/AzataMobs1"]}

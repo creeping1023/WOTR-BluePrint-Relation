@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0002"], "children": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0230", "World/Quests/Companions/Sosiel/Romance/Sosiel_Romance_Cards_Errand/Objective_0001"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0002"], "children": ["World/Quests/Companions/Sosiel/Romance/Sosiel_Romance_Cards_Errand/Objective_0001", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0230"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_before/Cue_0007"], "children": ["World/Dialogs/c3/IvorySanctum/Xanthir_before/Answer_0005", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir", "World/Dialogs/c3/IvorySanctum/Xanthir_before/Cue_0012"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_before/Cue_0007"], "children": ["World/Dialogs/c3/IvorySanctum/Xanthir_before/Answer_0005", "World/Dialogs/c3/IvorySanctum/Xanthir_before/Cue_0012", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir"]}

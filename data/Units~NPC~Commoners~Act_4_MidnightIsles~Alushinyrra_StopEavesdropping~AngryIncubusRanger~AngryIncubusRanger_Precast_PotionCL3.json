@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/Alushinyrra_StopEavesdropping/AngryIncubusRanger"], "children": ["Spells/Level2/SeeInvisibilitytBuff", "Spells/Level2/BlurBuff"]}
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/Alushinyrra_StopEavesdropping/AngryIncubusRanger"], "children": ["Spells/Level2/BlurBuff", "Spells/Level2/SeeInvisibilitytBuff"]}

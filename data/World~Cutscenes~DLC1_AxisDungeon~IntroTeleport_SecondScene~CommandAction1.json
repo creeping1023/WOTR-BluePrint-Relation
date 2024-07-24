@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_SecondScene/gate1"], "children": ["Factions/CutsceneNeutrals", "CreatureAbilities/Unlootable", "Buffs/Areas/Act_1_WorldwoundIncursion/DefendersHeart/FadeOutBuff", "Buffs/SummonedCreatureVisual"]}
+{"parents": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_SecondScene/gate1"], "children": ["Buffs/Areas/Act_1_WorldwoundIncursion/DefendersHeart/FadeOutBuff", "CreatureAbilities/Unlootable", "Buffs/SummonedCreatureVisual", "Factions/CutsceneNeutrals"]}

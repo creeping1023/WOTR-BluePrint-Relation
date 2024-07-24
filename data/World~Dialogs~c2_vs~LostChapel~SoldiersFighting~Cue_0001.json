@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/LostChapel/SoldiersFighting/SoldiersFighting_Dialogue"], "children": ["World/Dialogs/c2_vs/LostChapel/SoldiersFighting/Cue_0022"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/SoldiersFighting/SoldiersFighting_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/LostChapel/SoldiersFighting/Cue_0022"]}

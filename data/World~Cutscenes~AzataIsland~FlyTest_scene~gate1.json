@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AzataIsland/FlyTest_scene/gate"], "children": ["World/Cutscenes/AzataIsland/FlyTest_scene/CommandAction 21", "World/Cutscenes/AzataIsland/FlyTest_scene/CommandDelay 20", "World/Cutscenes/AzataIsland/FlyTest_scene/CommandAction 22"]}
+{"parents": ["World/Cutscenes/AzataIsland/FlyTest_scene/gate"], "children": ["World/Cutscenes/AzataIsland/FlyTest_scene/CommandDelay 20", "World/Cutscenes/AzataIsland/FlyTest_scene/CommandAction 22", "World/Cutscenes/AzataIsland/FlyTest_scene/CommandAction 21"]}

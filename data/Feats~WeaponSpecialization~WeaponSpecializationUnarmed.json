@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterUnarmed"], "children": ["Weapons/Types/Special/Unarmed", "Classes/Fighter/FighterClass", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterUnarmed"]}
+{"parents": ["Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterUnarmed"], "children": ["Weapons/Types/Special/Unarmed", "Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterUnarmed", "Classes/Fighter/FighterClass"]}

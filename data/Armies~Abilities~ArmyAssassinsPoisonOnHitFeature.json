@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagTrickster6EquipmentBuff2", "Armies/CrusadeGlobalBuffs/ArmyUnitsPoisonedStrikeUndead", "Armies/UnitBlueprints/ArmyAssassin"], "children": ["Armies/Abilities/ArmyAssassinsPoisonOnHitBuff"]}
+{"parents": ["Armies/UnitBlueprints/ArmyAssassin", "Armies/CrusadeGlobalBuffs/FlagTrickster6EquipmentBuff2", "Armies/CrusadeGlobalBuffs/ArmyUnitsPoisonedStrikeUndead"], "children": ["Armies/Abilities/ArmyAssassinsPoisonOnHitBuff"]}

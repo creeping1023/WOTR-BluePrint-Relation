@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/ElementalFocus/Air/EnvelopingWinds", "Classes/Kineticist/ElementalFocus/Air/EnvelopingWindsAbility"], "children": ["Classes/Kineticist/KineticistClass"]}
+{"parents": ["Classes/Kineticist/ElementalFocus/Air/EnvelopingWindsAbility", "Classes/Kineticist/ElementalFocus/Air/EnvelopingWinds"], "children": ["Classes/Kineticist/KineticistClass"]}

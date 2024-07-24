@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/AngelTargona_Brain/AngelTargona_Brain"], "children": ["Brain/Considerations/InjurySerious", "Brain/Considerations/HelpTargetsPriority", "Spells/Level6/HealCast"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/AngelTargona_Brain/AngelTargona_Brain"], "children": ["Brain/Considerations/InjurySerious", "Spells/Level6/HealCast", "Brain/Considerations/HelpTargetsPriority"]}

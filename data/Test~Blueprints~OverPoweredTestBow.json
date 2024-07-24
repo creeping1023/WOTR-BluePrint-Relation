@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Player/PlayerTestLevel10WithBow"], "children": ["FX/Spell Level None/Arrow", "Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Unique/SeriouslyEliteExpertise"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Pregens/PartyPregenTests/Player/PlayerTestLevel10WithBow"], "children": ["Weapons/Types/MartialRanged/Longbow", "Weapons/Enchantments/Unique/SeriouslyEliteExpertise", "Weapons/Enchantments/Enhancement1", "FX/Spell Level None/Arrow"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Camelia/Cue_0174"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaStates/Camellia_NewName", "World/Dialogs/Companions/CompanionDialogues/Camelia/AnswersList_0030"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Camelia/Cue_0174"], "children": ["World/Dialogs/Companions/CompanionDialogues/Camelia/AnswersList_0030", "World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaStates/Camellia_NewName"]}

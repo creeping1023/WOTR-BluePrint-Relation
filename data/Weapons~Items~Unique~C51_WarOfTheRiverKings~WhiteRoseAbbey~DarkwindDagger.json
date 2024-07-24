@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/Dagger", "Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/C51_WarOfTheRiverKings/WhiteRoseAbbey/DarkwindDaggerEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement4", "Weapons/Items/Unique/C51_WarOfTheRiverKings/WhiteRoseAbbey/DarkwindDaggerEnchantment", "Weapons/Types/SimpleLight/Dagger"]}

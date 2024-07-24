@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterAspectSelectionFeature", "Classes/Shifter/ShifterMajorForms/MajorFormFeature"], "children": ["Classes/Shifter/ShifterAspects/ShifterAspectHorseAbility", "Classes/Shifter/ShifterAspectResource"]}
+{"parents": ["Classes/Shifter/ShifterMajorForms/MajorFormFeature", "Classes/Shifter/ShifterAspectSelectionFeature"], "children": ["Classes/Shifter/ShifterAspects/ShifterAspectHorseAbility", "Classes/Shifter/ShifterAspectResource"]}

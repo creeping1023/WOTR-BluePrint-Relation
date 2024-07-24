@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraMediumCity/CasterMinibossEndOfPhase2/CasterMinibossEndOfPhase2"], "children": ["World/Encounters/AlushinyrraMediumCity/SummonPools/CasterMinibossPhase2", "Spells/CutsceneSpells/Alushinyrra/CutsceneVampiricTouch"]}
+{"parents": ["World/Cutscenes/AlushinyrraMediumCity/CasterMinibossEndOfPhase2/CasterMinibossEndOfPhase2"], "children": ["Spells/CutsceneSpells/Alushinyrra/CutsceneVampiricTouch", "World/Encounters/AlushinyrraMediumCity/SummonPools/CasterMinibossPhase2"]}

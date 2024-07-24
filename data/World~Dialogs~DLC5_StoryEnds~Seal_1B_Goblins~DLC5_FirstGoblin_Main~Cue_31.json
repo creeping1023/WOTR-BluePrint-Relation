@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/CueSequence_0005"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/Cue_32"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/CueSequence_0005"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1B_Goblins/DLC5_FirstGoblin_Main/Cue_32", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

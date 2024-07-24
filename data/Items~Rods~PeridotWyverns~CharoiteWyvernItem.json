@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/Rods/PeridotWyverns/CharoiteWyvernSpell"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/Rods/PeridotWyverns/CharoiteWyvernSpell", "Items/DestructibleItemsShards/MetalShardItem"]}

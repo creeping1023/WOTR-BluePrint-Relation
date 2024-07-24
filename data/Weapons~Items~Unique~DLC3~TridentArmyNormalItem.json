@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Trident", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Shock2d6", "Weapons/Enchantments/Speed"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Shock2d6", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Enhancement2", "Weapons/Types/SimpleTwoHanded/Trident"]}

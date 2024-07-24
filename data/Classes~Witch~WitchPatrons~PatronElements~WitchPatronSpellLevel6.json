@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronElements/WitchElementsPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level6/AcidFog"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronElements/WitchElementsPatronProgression"], "children": ["Spells/Level6/AcidFog", "Classes/Witch/WitchClass"]}

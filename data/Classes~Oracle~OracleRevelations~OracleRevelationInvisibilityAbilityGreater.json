@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationInvisibilityGreater"], "children": ["Classes/Oracle/OracleRevelations/OracleRevelationInvisibilityResource", "Classes/Oracle/OracleRevelations/OracleRevelationInvisibilityGreaterBuff"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationInvisibilityGreater"], "children": ["Classes/Oracle/OracleRevelations/OracleRevelationInvisibilityGreaterBuff", "Classes/Oracle/OracleRevelations/OracleRevelationInvisibilityResource"]}

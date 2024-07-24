@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/GargantuanStandard/NaturalWeapon/TalonGargantuan2d6", "Weapons/Types/NaturalWeapon/TalonsType"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/TalonsType", "Weapons/Items/GargantuanStandard/NaturalWeapon/TalonGargantuan2d6"]}

@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/LawbringerItem"], "children": ["Classes/Barbarian/Rage/StandartRageBuff", "Spells/Level3/RageSpellBuff"]}
+{"parents": ["Weapons/Items/Unique/LateChapters/LawbringerItem"], "children": ["Spells/Level3/RageSpellBuff", "Classes/Barbarian/Rage/StandartRageBuff"]}

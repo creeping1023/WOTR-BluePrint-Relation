@@ -1,1 +1,1 @@
-{"children": ["Units/Monsters/Treant/TreantBrain/BlightedTreant_Consideration_TrampleRange", "Brain/Considerations/AttackTargetsPriority", "Root/SystemMechanics/Abilities/OverrunAbility"]}
+{"children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Treant/TreantBrain/BlightedTreant_Consideration_TrampleRange", "Root/SystemMechanics/Abilities/OverrunAbility"]}

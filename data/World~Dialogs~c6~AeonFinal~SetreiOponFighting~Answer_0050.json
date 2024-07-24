@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/AnswersList_0034"], "children": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0051", "World/Encounters/ThresholdIndoor_Aeon/UnlockableFlags/SetreiSarkorisUnlocked"]}
+{"parents": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/AnswersList_0034"], "children": ["World/Encounters/ThresholdIndoor_Aeon/UnlockableFlags/SetreiSarkorisUnlocked", "World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0051"]}

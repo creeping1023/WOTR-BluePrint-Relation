@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/CueSequence_0006"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "Units/Companions/Arueshalae/Arueshalae_Companion"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Orengofta/CueSequence_0006"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

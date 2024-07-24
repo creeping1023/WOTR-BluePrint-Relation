@@ -1,1 +1,1 @@
-{"parents": ["Feats/VitalStrike/VitalStrikeFeatureImproved", "Feats/MountedCombat/SpiritedChargeCheckMountedBuff", "Feats/VitalStrike/VitalStrikeFeatureGreater", "Feats/VitalStrike/VitalStrikeFeature", "Units/Abilities/Mounts/MountedBuff"]}
+{"parents": ["Units/Abilities/Mounts/MountedBuff", "Feats/VitalStrike/VitalStrikeFeatureImproved", "Feats/VitalStrike/VitalStrikeFeatureGreater", "Feats/VitalStrike/VitalStrikeFeature", "Feats/MountedCombat/SpiritedChargeCheckMountedBuff"]}

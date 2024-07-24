@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/RuinsRaidPlace/DevilishTemptation_BigDemon_Cutscene/gate"], "children": ["Factions/CutsceneNeutrals", "CreatureAbilities/Unlootable"]}
+{"parents": ["World/Cutscenes/RuinsRaidPlace/DevilishTemptation_BigDemon_Cutscene/gate"], "children": ["CreatureAbilities/Unlootable", "Factions/CutsceneNeutrals"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Mythics/TricksterCouncil/TricksterCouncil", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0001", "Factions/Friends"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Factions/Friends", "World/Areas/Mythics/TricksterCouncil/TricksterCouncil", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0001"]}

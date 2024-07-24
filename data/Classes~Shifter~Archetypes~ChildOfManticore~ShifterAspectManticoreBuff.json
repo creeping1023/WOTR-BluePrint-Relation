@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/Archetypes/ChildOfManticore/ShifterAspectManticoreAbility", "Equipment/DLC4BonusItems/HatOfTheOwlFeature"], "children": ["Classes/Shifter/Archetypes/ChildOfManticore/ShifterAspectManticoreLevelUp", "Classes/Shifter/ShifterClass"]}
+{"parents": ["Equipment/DLC4BonusItems/HatOfTheOwlFeature", "Classes/Shifter/Archetypes/ChildOfManticore/ShifterAspectManticoreAbility"], "children": ["Classes/Shifter/Archetypes/ChildOfManticore/ShifterAspectManticoreLevelUp", "Classes/Shifter/ShifterClass"]}

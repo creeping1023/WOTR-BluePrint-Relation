@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/Answer_0027"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/Cue_0033"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/Answer_0027"], "children": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/Cue_0033", "Units/Companions/Regill/Regill_Companion"]}

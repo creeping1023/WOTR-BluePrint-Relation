@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Fallen/SarkorianWedding_FallenBoss/SarkorianWedding_FallenBoss"], "children": ["Spells/Level6/ColdIceStrike", "Spells/Level4/DivinePower", "Spells/Level6/HarmCast", "Spells/Level3/Prayer", "Spells/Level5/ProfaneNimbus", "Spells/Level4/ShieldOfDawn"]}
+{"parents": ["Units/NPC/Commoners/Fallen/SarkorianWedding_FallenBoss/SarkorianWedding_FallenBoss"], "children": ["Spells/Level4/ShieldOfDawn", "Spells/Level5/ProfaneNimbus", "Spells/Level3/Prayer", "Spells/Level6/ColdIceStrike", "Spells/Level4/DivinePower", "Spells/Level6/HarmCast"]}

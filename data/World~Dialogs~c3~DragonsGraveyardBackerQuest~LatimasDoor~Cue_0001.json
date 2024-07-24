@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/LatimasDoor_dialogue"], "children": ["World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/Cue_0018"]}
+{"parents": ["World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/LatimasDoor_dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/Cue_0018"]}

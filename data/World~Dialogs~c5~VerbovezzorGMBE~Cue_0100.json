@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/VerbovezzorGMBE/BookPage_0098"], "children": ["Mythic/SwarmThatWalks/LocustNPCBonuses/LocustNPCMartialBonus", "World/Dialogs/c5/VerbovezzorGMBE/Cue_0101"]}
+{"parents": ["World/Dialogs/c5/VerbovezzorGMBE/BookPage_0098"], "children": ["World/Dialogs/c5/VerbovezzorGMBE/Cue_0101", "Mythic/SwarmThatWalks/LocustNPCBonuses/LocustNPCMartialBonus"]}

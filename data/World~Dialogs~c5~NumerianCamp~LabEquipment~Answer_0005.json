@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/NumerianCamp/LabEquipment/Answer_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c5/NumerianCamp/LabEquipment/AnswersList_0003"], "children": ["World/Dialogs/c5/NumerianCamp/LabEquipment/Cue_0011"]}
+{"parents": ["World/Dialogs/c5/NumerianCamp/LabEquipment/AnswersList_0003", "World/Dialogs/c5/NumerianCamp/LabEquipment/Answer_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c5/NumerianCamp/LabEquipment/Cue_0011"]}

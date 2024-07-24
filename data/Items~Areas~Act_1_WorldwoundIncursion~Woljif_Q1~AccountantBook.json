@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR2/PF2_RichHuman_CommonFundHiddenRoomLoot"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Good/CR2/PF2_RichHuman_CommonFundHiddenRoomLoot", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

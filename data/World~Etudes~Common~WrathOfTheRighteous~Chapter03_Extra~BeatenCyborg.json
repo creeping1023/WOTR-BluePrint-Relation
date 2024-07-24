@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/MedLabCyborgs"], "children": ["World/Cutscenes/KohhDungeon/BeatenCyborg/BeatenCyborg", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/MedLabCyborgs"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/MedLabCyborgs", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Cutscenes/KohhDungeon/BeatenCyborg/BeatenCyborg", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/MedLabCyborgs"]}

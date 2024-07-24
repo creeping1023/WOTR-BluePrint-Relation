@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterStart/Minagho_Second/Cue_0001"], "children": ["World/Cutscenes/GrayGarrison/Dizziness/CommandCameraShake", "World/Cutscenes/GrayGarrison/Dizziness/CommandDelay", "World/Cutscenes/GrayGarrison/Dizziness/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterStart/Minagho_Second/Cue_0001"], "children": ["World/Cutscenes/GrayGarrison/Dizziness/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/GrayGarrison/Dizziness/CommandCameraShake", "World/Cutscenes/GrayGarrison/Dizziness/CommandDelay"]}

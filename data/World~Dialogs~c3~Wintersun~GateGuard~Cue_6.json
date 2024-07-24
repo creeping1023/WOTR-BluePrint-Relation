@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/GateGuard/Cue_3"], "children": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Units/Companions/Finnean/Finnean_Companion", "World/Dialogs/c3/Wintersun/GateGuard/Cue_7"]}
+{"parents": ["World/Dialogs/c3/Wintersun/GateGuard/Cue_3"], "children": ["World/Dialogs/c3/Wintersun/GateGuard/Cue_7", "Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "Units/Companions/Finnean/Finnean_Companion"]}

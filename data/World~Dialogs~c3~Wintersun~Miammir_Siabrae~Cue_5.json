@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_4"], "children": ["Classes/Druid/DruidClass", "Classes/Shifter/ShifterClass", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_9"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_4"], "children": ["Classes/Druid/DruidClass", "World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_9", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "Classes/Shifter/ShifterClass"]}

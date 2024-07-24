@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/DLC5_Postgame/SithhudIsFinallyDead/CueSequence_0008"], "children": ["Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "World/Etudes/Common/WrathOfTheRighteous/FinneanLevelUp_2_Lich", "Units/Companions/Finnean/Finnean_Companion"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/DLC5_Postgame/SithhudIsFinallyDead/CueSequence_0008"], "children": ["Units/Companions/Finnean/Finnean_Companion", "Weapons/Items/UniquePF2/Finnean/FinneanBaseItem", "World/Etudes/Common/WrathOfTheRighteous/FinneanLevelUp_2_Lich"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/CommandAction", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0040"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Kaylessa"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0040", "World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/CommandAction"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Kaylessa"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0006"], "children": ["World/Encounters/LostChapel/SummonPools/CrusadersPlaza", "World/Areas/Act_3_DemonsHerecy/IvorySanctum/Buffs/InspiredByDialogue"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0006", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Areas/Act_3_DemonsHerecy/IvorySanctum/Buffs/InspiredByDialogue", "World/Encounters/LostChapel/SummonPools/CrusadersPlaza"]}

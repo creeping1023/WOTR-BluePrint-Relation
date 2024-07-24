@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC5_Achievements", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Achievements/DLC5_51_Cold_Snap", "World/Etudes/Common/DLC5_Achievements", "Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_SithhudSeal8Buff"]}
+{"parents": ["World/Etudes/Common/DLC5_Achievements", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/DLC5_Achievements", "Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_SithhudSeal8Buff", "Achievements/DLC5_51_Cold_Snap"]}

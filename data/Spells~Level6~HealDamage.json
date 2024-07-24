@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level6/Heal", "Spells/Level6/HealCasterBuff", "Mythic/MythicAbilities/BoundlessHealing"]}
+{"parents": ["Mythic/MythicAbilities/BoundlessHealing", "Spells/Level6/Heal", "Spells/Level6/HealCasterBuff"]}

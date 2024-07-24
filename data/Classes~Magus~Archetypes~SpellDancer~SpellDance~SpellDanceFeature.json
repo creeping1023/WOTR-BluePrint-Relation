@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/SpellDancer/SpellDancerArchetype"], "children": ["Classes/Magus/Archetypes/SpellDancer/SpellDance/SpellDanceAbility", "Classes/Magus/ArcanePool/ArcanePoolResourse"]}
+{"parents": ["Classes/Magus/Archetypes/SpellDancer/SpellDancerArchetype"], "children": ["Classes/Magus/ArcanePool/ArcanePoolResourse", "Classes/Magus/Archetypes/SpellDancer/SpellDance/SpellDanceAbility"]}

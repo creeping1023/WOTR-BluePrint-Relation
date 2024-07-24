@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSpellLikes/RayOfFrostBackgroundsFeature"], "children": ["Spells/Level0/RayOfFrost", "Spells/Level0/RayOfFrost", "Spells/Level0/RayOfFrost", "FX/Abilities/RayOfFrost00", "Weapons/Types/Special/RayItem", "Spells/Level0/RayOfFrost", "Spells/Level0/RayOfFrost"]}
+{"parents": ["Backgrounds/BackgroundsSpellLikes/RayOfFrostBackgroundsFeature"], "children": ["Weapons/Types/Special/RayItem", "FX/Abilities/RayOfFrost00", "Spells/Level0/RayOfFrost"]}

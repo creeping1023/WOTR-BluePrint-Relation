@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyBestowCurseBlastFeature"], "children": ["Armies/Abilities/ArmyBestowCurseBlastBuff", "Armies/Abilities/ArmyBestowCurseBlastResource"]}
+{"parents": ["Armies/Abilities/ArmyBestowCurseBlastFeature"], "children": ["Armies/Abilities/ArmyBestowCurseBlastResource", "Armies/Abilities/ArmyBestowCurseBlastBuff"]}

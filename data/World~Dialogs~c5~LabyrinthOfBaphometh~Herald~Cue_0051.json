@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Herald/CueSequence_0037"], "children": ["Units/Companions/Woljif/Woljif_Companion", "World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Cue_0052"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Herald/CueSequence_0037"], "children": ["World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Cue_0052", "Units/Companions/Woljif/Woljif_Companion"]}

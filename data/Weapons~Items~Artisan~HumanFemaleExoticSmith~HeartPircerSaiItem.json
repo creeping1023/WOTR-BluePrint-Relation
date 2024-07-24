@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticLight/Sai", "Weapons/Enchantments/Bleed", "Weapons/Enchantments/Agile", "Weapons/Enchantments/Enhancement3", "Weapons/Items/Artisan/HumanFemaleExoticSmith/HeartPircerSaiInitiative2"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Bleed", "Weapons/Types/ExoticLight/Sai", "Weapons/Enchantments/Enhancement3", "Weapons/Items/Artisan/HumanFemaleExoticSmith/HeartPircerSaiInitiative2", "Weapons/Enchantments/Agile"]}

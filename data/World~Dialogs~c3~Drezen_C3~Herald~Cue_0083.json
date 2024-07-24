@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/Herald/Cue_0082", "World/Dialogs/c3/Drezen_C3/Herald/Cue_0084", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/Drezen_C3/Herald/Cue_0085"], "children": ["World/Dialogs/c3/Drezen_C3/Herald/AnswersList_0116"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/Herald/Cue_0082", "World/Dialogs/c3/Drezen_C3/Herald/Cue_0085", "World/Dialogs/c3/Drezen_C3/Herald/Cue_0084", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/Drezen_C3/Herald/AnswersList_0116"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/SilverDragon/Terendelev/Terendelev_Features/Terendelev_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/NotUndeadConsideration", "Spells/Level4/Boneshatter"]}
+{"parents": ["Units/Monsters/SilverDragon/Terendelev/Terendelev_Features/Terendelev_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NotUndeadConsideration", "Spells/Level4/Boneshatter"]}

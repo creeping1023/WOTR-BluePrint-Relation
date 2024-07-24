@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/GateGuard/AnswersList_0002", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/GateGuard/Cue_0100", "World/Dialogs/c4/GateGuard/Cue_0007"]}
+{"parents": ["World/Dialogs/c4/GateGuard/AnswersList_0002", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c4/GateGuard/Cue_0007", "World/Dialogs/c4/GateGuard/Cue_0100"]}

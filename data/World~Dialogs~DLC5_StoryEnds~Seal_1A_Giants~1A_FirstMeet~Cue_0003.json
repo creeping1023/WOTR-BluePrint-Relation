@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0002"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_BraveSonNaked", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/AnswersList_0004"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/Cue_0002"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/AnswersList_0004", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_BraveSonNaked"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Random_Encounters/Special_Encounters/Chapter_5/SE_Lann_Q3_Sull", "Kingdom/GlobalMapRituals/GlobalSpellTeleportParty"], "children": ["World/Etudes/Common/TeleportationChecker_SE/TeleportationChecker_Group"]}
+{"parents": ["Kingdom/GlobalMapRituals/GlobalSpellTeleportParty", "World/Areas/Random_Encounters/Special_Encounters/Chapter_5/SE_Lann_Q3_Sull"], "children": ["World/Etudes/Common/TeleportationChecker_SE/TeleportationChecker_Group"]}

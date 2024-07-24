@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/IvorySanctum/ScriptZones/SanctumScene1", "World/Encounters/IvorySanctum/ScriptZones/SanctumScene2"], "children": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cue_0001"]}
+{"parents": ["World/Encounters/IvorySanctum/ScriptZones/SanctumScene2", "World/Encounters/IvorySanctum/ScriptZones/SanctumScene1"], "children": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cue_0001"]}

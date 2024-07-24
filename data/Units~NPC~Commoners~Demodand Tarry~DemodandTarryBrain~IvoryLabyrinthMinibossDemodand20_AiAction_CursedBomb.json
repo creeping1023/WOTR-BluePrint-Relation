@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demodand Tarry/DemodandTarryBrain/IvoryLabyrinthMinibossDemodand20_Brain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/AoE_ChooseMoreEnemies", "Classes/Alchemist/Discoveries/CursedBombs/CurseIdiocyBomb"]}
+{"parents": ["Units/NPC/Commoners/Demodand Tarry/DemodandTarryBrain/IvoryLabyrinthMinibossDemodand20_Brain"], "children": ["Classes/Alchemist/Discoveries/CursedBombs/CurseIdiocyBomb", "Brain/Considerations/AoE_AvoidFriends", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

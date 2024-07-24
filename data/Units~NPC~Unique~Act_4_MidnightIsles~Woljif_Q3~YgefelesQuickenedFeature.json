@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Woljif_Q3/Ygefeles"], "children": ["Spells/Level3/Haste", "Spells/Level4/InvisibilityGreater", "Spells/Level3/Slow", "Spells/Level2/MirrorImage", "Spells/Level4/ConfusionSpell"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Woljif_Q3/Ygefeles"], "children": ["Spells/Level3/Haste", "Spells/Level4/InvisibilityGreater", "Spells/Level4/ConfusionSpell", "Spells/Level2/MirrorImage", "Spells/Level3/Slow"]}

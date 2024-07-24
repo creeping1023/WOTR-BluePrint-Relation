@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/DeskariArrives/gate 4"], "children": ["Factions/CutsceneNeutrals", "World/Encounters/Iz/SummonPools/DerakniPack1"]}
+{"parents": ["World/Cutscenes/Iz/DeskariArrives/gate 4"], "children": ["World/Encounters/Iz/SummonPools/DerakniPack1", "Factions/CutsceneNeutrals"]}

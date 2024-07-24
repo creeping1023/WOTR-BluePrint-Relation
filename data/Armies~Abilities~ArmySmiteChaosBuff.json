@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmySmiteChaosOnAttack"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/ArodensWrath/Scabbard_ArodensWrathFeature", "Classes/Paladin/SmiteEvil/SmiteEvilBuff_Scabbard", "Classes/Paladin/SmiteEvil/SmiteEvilBuff_NoScabbard"]}
+{"parents": ["Armies/Abilities/ArmySmiteChaosOnAttack"], "children": ["Classes/Paladin/SmiteEvil/SmiteEvilBuff_Scabbard", "Equipment/SpecialEditions/UniquePF2/BackersItems/ArodensWrath/Scabbard_ArodensWrathFeature", "Classes/Paladin/SmiteEvil/SmiteEvilBuff_NoScabbard"]}

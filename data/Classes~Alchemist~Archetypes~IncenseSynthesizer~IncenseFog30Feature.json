@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogIncreasedRangeFeature", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogEffectBuff"], "children": ["Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFog30ToggleAbility"]}
+{"parents": ["Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogEffectBuff", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogIncreasedRangeFeature"], "children": ["Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFog30ToggleAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/Alushinyrra/InvisibleHeraldBuff", "World/Dialogs/c4/SEbosses/Echo/Cue_0009"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/Alushinyrra_States"]}
+{"parents": ["World/Dialogs/c4/SEbosses/Echo/Cue_0009", "Spells/CutsceneSpells/Alushinyrra/InvisibleHeraldBuff"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/Alushinyrra_States"]}

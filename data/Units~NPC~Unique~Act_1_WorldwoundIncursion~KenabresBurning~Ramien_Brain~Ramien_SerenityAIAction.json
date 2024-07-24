@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien_Brain/Ramien_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/Serenity"]}
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien_Brain/Ramien_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level4/Serenity", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

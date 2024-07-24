@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Artisan/ElvenFemaleWeaponsmith/TroubleSolverItem", "Weapons/Items/Artisan/DwarvenMaleArmorsmith/CrossbowofSlowdown"], "children": ["Buffs/Slowed"]}
+{"parents": ["Weapons/Items/Artisan/DwarvenMaleArmorsmith/CrossbowofSlowdown", "Weapons/Items/Artisan/ElvenFemaleWeaponsmith/TroubleSolverItem"], "children": ["Buffs/Slowed"]}

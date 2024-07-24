@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_FirstFightCuscene/gate3"], "children": ["Buffs/NPC_Untargetable", "Factions/Mobs", "World/Cutscenes/KenabresBurning/CombatStateOff/CombatStateOff", "World/Cutscenes/KenabresBurning/CombatStateOff/CombatStateOff"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_FirstFightCuscene/gate3"], "children": ["Factions/Mobs", "World/Cutscenes/KenabresBurning/CombatStateOff/CombatStateOff", "Buffs/NPC_Untargetable"]}

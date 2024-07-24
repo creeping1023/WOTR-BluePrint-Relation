@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/DruidMaze/Tree/Cue_0065", "World/Dialogs/c3/DruidMaze/Tree/CueSequence_0049"], "children": ["Units/Companions/Ember/Ember_Companion"]}
+{"parents": ["World/Dialogs/c3/DruidMaze/Tree/CueSequence_0049", "World/Dialogs/c3/DruidMaze/Tree/Cue_0065"], "children": ["Units/Companions/Ember/Ember_Companion"]}

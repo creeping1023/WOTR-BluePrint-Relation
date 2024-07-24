@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0052"], "children": ["World/Encounters/SinisterVillage/UnlockableFlags/PregnancyInfoMalessa", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0054"]}
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0052"], "children": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0054", "World/Encounters/SinisterVillage/UnlockableFlags/PregnancyInfoMalessa"]}

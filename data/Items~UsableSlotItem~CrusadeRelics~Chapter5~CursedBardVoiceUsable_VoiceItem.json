@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/Events/Relics/Ch5/CursedBardVoice_Enchanting_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/UsableSlotItem/CrusadeRelics/Chapter5/CursedBardVoiceUsable_VoiceAbility"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch5/CursedBardVoice_Enchanting_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Items/UsableSlotItem/CrusadeRelics/Chapter5/CursedBardVoiceUsable_VoiceAbility"]}

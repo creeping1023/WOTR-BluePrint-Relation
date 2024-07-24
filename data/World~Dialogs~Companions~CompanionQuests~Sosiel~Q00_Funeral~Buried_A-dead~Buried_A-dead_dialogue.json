@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresGraveyard/BuriedAliveSpawn/CommandStartDialog", "World/Encounters/KenabresGraveyard/ConditionsHolders/Spawner [BuriedAlivePreson]_Conditions"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/Buried_A-dead/Cue_0001"]}
+{"parents": ["World/Encounters/KenabresGraveyard/ConditionsHolders/Spawner [BuriedAlivePreson]_Conditions", "World/Cutscenes/KenabresGraveyard/BuriedAliveSpawn/CommandStartDialog"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/Buried_A-dead/Cue_0001"]}

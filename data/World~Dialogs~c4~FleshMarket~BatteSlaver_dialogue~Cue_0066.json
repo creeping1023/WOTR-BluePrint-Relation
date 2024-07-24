@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/BatteSlaver_dialogue/CueSequence_0064"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskSlaveTrader", "World/Dialogs/c4/FleshMarket/BatteSlaver_dialogue/Cue_0068"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/BatteSlaver_dialogue/CueSequence_0064"], "children": ["World/Dialogs/c4/FleshMarket/BatteSlaver_dialogue/Cue_0068", "Units/Companions/Daeran/Daeran_Companion", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/BlackMaskSlaveTrader"]}

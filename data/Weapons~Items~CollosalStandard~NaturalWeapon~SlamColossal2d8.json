@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "QA/Unused/Units/Monsters/Mandragora/CR15_ImmenseMandragora"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}
+{"parents": ["QA/Unused/Units/Monsters/Mandragora/CR15_ImmenseMandragora", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}

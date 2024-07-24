@@ -1,1 +1,1 @@
-{"parents": ["Classes/HellknightSignifer/HellknightSigniferAssiduous GazeFeature"], "children": ["Spells/Level6/TrueSeeingBuff", "Classes/HellknightSignifer/HellknightSigniferClass", "Classes/HellknightSignifer/HellknightSigniferAssiduous GazeResource"]}
+{"parents": ["Classes/HellknightSignifer/HellknightSigniferAssiduous GazeFeature"], "children": ["Classes/HellknightSignifer/HellknightSigniferAssiduous GazeResource", "Classes/HellknightSignifer/HellknightSigniferClass", "Spells/Level6/TrueSeeingBuff"]}

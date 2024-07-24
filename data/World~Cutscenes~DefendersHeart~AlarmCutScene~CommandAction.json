@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/AlarmCutScene/gate 2"], "children": ["World/Quests/c1/ProtectTavern/Objective_01_BeWary", "World/Quests/c1/ProtectTavern/Objective_02_GetReady"]}
+{"parents": ["World/Cutscenes/DefendersHeart/AlarmCutScene/gate 2"], "children": ["World/Quests/c1/ProtectTavern/Objective_02_GetReady", "World/Quests/c1/ProtectTavern/Objective_01_BeWary"]}

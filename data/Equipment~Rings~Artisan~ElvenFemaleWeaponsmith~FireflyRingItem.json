@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level5/Cleanse", "Equipment/CommonEnchantments/Dexterity8"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level5/Cleanse", "Equipment/CommonEnchantments/Dexterity8", "Items/DestructibleItemsShards/MetalShardItem"]}

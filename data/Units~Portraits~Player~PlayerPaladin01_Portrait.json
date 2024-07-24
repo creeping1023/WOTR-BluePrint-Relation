@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot", "Units/Portraits/TreverHumanMwangiMaleWarrior", "Armies/Leaders/Warlords/WarlordUnits/Warlord_event_66_2_Fighter", "Armies/Leaders/Warlords/WarlordLeaderEvent66_2", "Units/Pregens/StartGame/StartGamePregenPaladinUnit"], "children": ["Races/HumanRace"]}
+{"parents": ["Armies/Leaders/Warlords/WarlordUnits/Warlord_event_66_2_Fighter", "Units/Pregens/StartGame/StartGamePregenPaladinUnit", "Root/BlueprintRoot", "Units/Portraits/TreverHumanMwangiMaleWarrior", "Armies/Leaders/Warlords/WarlordLeaderEvent66_2"], "children": ["Races/HumanRace"]}

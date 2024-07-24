@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/AnswersList_0016"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Cue_3", "Classes/Hellknight/HellknightClass", "Classes/HellknightSignifer/HellknightSigniferClass"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/AnswersList_0016"], "children": ["Classes/Hellknight/HellknightClass", "Classes/HellknightSignifer/HellknightSigniferClass", "World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Cue_3"]}

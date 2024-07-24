@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Coronation_Azata", "Root/Upgraders/Player/PF-300175"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Coronation_Azata", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/RobinHoodArriveOnIsland"]}
+{"parents": ["Root/Upgraders/Player/PF-300175", "World/Etudes/Common/WrathOfTheRighteous/Coronation_Azata"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/RobinHoodArriveOnIsland", "World/Etudes/Common/WrathOfTheRighteous/Coronation_Azata"]}

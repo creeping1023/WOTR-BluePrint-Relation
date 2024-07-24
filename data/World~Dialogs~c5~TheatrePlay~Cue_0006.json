@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0023"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/CrusadeTheatre/Theatre_GnomTwinsChosen", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwins", "World/Dialogs/c5/TheatrePlay/Cue_0026"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/Cue_0023"], "children": ["World/Dialogs/c5/TheatrePlay/Cue_0026", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwins", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/CrusadeTheatre/Theatre_GnomTwinsChosen"]}

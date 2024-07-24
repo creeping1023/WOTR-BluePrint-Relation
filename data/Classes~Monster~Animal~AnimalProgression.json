@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Nereid/NereidBrain/NereidBeguilingAuraAreaEffect", "Classes/Monster/Animal/AnimalClass"], "children": ["Classes/Monster/Animal/AnimalClass", "Classes/Monster/Animal/AnimalClass", "Traits/Races/Common/AnimalType"]}
+{"parents": ["Classes/Monster/Animal/AnimalClass", "Units/Monsters/Nereid/NereidBrain/NereidBeguilingAuraAreaEffect"], "children": ["Traits/Races/Common/AnimalType", "Classes/Monster/Animal/AnimalClass"]}

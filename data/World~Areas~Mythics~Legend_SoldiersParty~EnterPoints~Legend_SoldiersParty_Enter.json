@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Mythics/Legend_SoldiersParty/Presets/Legend_SoldiersParty_Default_Preset", "GlobalMaps/WorldWoundGM/Points/Location_SoldiersParty"], "children": ["World/Areas/Mythics/Legend_SoldiersParty/Legend_SoldiersParty", "World/Areas/Mythics/Legend_SoldiersParty/Legend_SoldiersParty"]}
+{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_SoldiersParty", "World/Areas/Mythics/Legend_SoldiersParty/Presets/Legend_SoldiersParty_Default_Preset"], "children": ["World/Areas/Mythics/Legend_SoldiersParty/Legend_SoldiersParty"]}

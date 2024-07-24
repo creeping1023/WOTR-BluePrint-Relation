@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantColdResist20Buff", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantColdResist20Buff"], "children": ["Equipment/Armor/Enchantments/ColdResistance20Feature"]}
+{"parents": ["Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantColdResist20Buff", "Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantColdResist20Buff"], "children": ["Equipment/Armor/Enchantments/ColdResistance20Feature"]}

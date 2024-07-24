@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaBeforeBear/Cue_2"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c3/Wintersun/SoanaBeforeBear/Cue_0003"]}
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaBeforeBear/Cue_2"], "children": ["World/Dialogs/c3/Wintersun/SoanaBeforeBear/Cue_0003", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

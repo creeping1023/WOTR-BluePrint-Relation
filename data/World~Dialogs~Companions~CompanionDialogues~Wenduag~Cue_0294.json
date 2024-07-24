@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/Answer_0292"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/WenduagCompanion/WenduagRomance/WenduagRomance_WenduRomFlag6", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0295"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/Answer_0292"], "children": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0295", "World/Etudes/Common/WrathOfTheRighteous/Companions/WenduagCompanion/WenduagRomance/WenduagRomance_WenduRomFlag6"]}

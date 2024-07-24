@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/RitualMageChoice3", "Armies/Leaders/Progression/RitualRangerChoice3", "Armies/Leaders/Progression/RitualWarriorChoice4", "Armies/Leaders/Warlords/Warlord_SwarmOmnipresent"], "children": ["Armies/Rituals/RitualHasteAbility"]}
+{"parents": ["Armies/Leaders/Progression/RitualMageChoice3", "Armies/Leaders/Warlords/Warlord_SwarmOmnipresent", "Armies/Leaders/Progression/RitualRangerChoice3", "Armies/Leaders/Progression/RitualWarriorChoice4"], "children": ["Armies/Rituals/RitualHasteAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/KiPowers/KiSpitVenomFeature"], "children": ["Spells/Level3/SpitVenomBlindBuff", "Classes/Monk/KiPowers/KiSpitVenomBuff", "Classes/Monk/KiPowers/KiPowerResource", "FX/Spell Level 2/PoisonArrow00", "Weapons/Types/Special/RayItem", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/KiPowers/KiSpitVenomFeature"], "children": ["FX/Spell Level 2/PoisonArrow00", "Classes/Monk/MonkClass", "Weapons/Types/Special/RayItem", "Classes/Monk/KiPowers/KiSpitVenomBuff", "Classes/Monk/KiPowers/KiPowerResource", "Spells/Level3/SpitVenomBlindBuff"]}

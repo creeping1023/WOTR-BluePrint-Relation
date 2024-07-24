@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Spawn/GhoulPitSpawn1/GhoulPitSpawn1"], "children": ["World/Cutscenes/Spawn/GhoulPitSpawn1/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Spawn/GhoulPitSpawn1/gate"]}
+{"parents": ["World/Cutscenes/Spawn/GhoulPitSpawn1/GhoulPitSpawn1"], "children": ["World/Cutscenes/Spawn/GhoulPitSpawn1/gate", "World/Cutscenes/Spawn/GhoulPitSpawn1/CommandUnitPlayCutsceneAnimation"]}

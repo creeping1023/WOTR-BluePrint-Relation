@@ -1,1 +1,1 @@
-{"parents": ["Test/Scenes/UnitDescriptionExport/Area"], "children": ["Test/Scenes/UnitDescriptionExport/Area", "Test/Scenes/UnitDescriptionExport/AreaEnterPart", "Root/DefaultUnit", "DLC/MainGame/MainCampaign"]}
+{"parents": ["Test/Scenes/UnitDescriptionExport/Area"], "children": ["Root/DefaultUnit", "DLC/MainGame/MainCampaign", "Test/Scenes/UnitDescriptionExport/Area", "Test/Scenes/UnitDescriptionExport/AreaEnterPart"]}

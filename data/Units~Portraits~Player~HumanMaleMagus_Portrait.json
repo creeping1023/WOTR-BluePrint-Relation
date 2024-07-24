@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Warlords/WarlordUnits/Warlord_15_Fighter", "Units/NPC/Commoners/DLC5_Storys_End/DLC5TestSkaldUnitLevel11", "Root/BlueprintRoot", "Armies/Leaders/Warlords/WarlordLeaderWarrior4"], "children": ["Races/HumanRace"]}
+{"parents": ["Root/BlueprintRoot", "Armies/Leaders/Warlords/WarlordLeaderWarrior4", "Armies/Leaders/Warlords/WarlordUnits/Warlord_15_Fighter", "Units/NPC/Commoners/DLC5_Storys_End/DLC5TestSkaldUnitLevel11"], "children": ["Races/HumanRace"]}

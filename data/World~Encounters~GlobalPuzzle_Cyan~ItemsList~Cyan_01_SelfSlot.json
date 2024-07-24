@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanCheckIfNextValueIs01", "World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanSelfSlotChecker"], "children": ["Items/Areas/GlobalPuzzle/DominoCyan1x3", "Items/Areas/GlobalPuzzle/DominoCyan1x4"]}
+{"parents": ["World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanSelfSlotChecker", "World/Encounters/GlobalPuzzle_Cyan/ConditionsHolders/CyanCheckIfNextValueIs01"], "children": ["Items/Areas/GlobalPuzzle/DominoCyan1x4", "Items/Areas/GlobalPuzzle/DominoCyan1x3"]}

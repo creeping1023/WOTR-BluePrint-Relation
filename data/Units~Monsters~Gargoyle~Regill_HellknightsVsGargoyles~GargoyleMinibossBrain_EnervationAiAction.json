@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Gargoyle/Regill_HellknightsVsGargoyles/GargoyleMinibossBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/NotUndeadConsideration", "Spells/Level4/Enervation"]}
+{"parents": ["Units/Monsters/Gargoyle/Regill_HellknightsVsGargoyles/GargoyleMinibossBrain"], "children": ["Brain/Considerations/HeavyArmorConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/Enervation", "Brain/Considerations/NotUndeadConsideration"]}

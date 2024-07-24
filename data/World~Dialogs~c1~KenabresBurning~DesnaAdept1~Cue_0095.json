@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/CueSequence_0077"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/CueSequence_0077"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest", "Units/Companions/Nenio/Nenio_Companion"]}

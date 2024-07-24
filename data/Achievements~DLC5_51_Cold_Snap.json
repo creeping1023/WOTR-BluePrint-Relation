@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/Cold_Snap_MainCampain", "Root/BlueprintRoot"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/Cold_Snap_MainCampain"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2"]}

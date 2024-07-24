@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0591", "World/Dialogs/Epilogues/Cue_0342", "World/Dialogs/Epilogues/Cue_0501"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Storyteller"]}
+{"parents": ["World/Dialogs/Epilogues/Cue_0501", "World/Dialogs/Epilogues/Cue_0342", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0591"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Storyteller"]}

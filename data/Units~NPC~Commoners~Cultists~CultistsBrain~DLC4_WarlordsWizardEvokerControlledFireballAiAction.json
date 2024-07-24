@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/DLC4_WarlordsWizardEvokerStandardBrain"], "children": ["Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerControlledFireballAiAction", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/ControlledFireball"]}
+{"parents": ["Units/NPC/Commoners/Cultists/CultistsBrain/DLC4_WarlordsWizardEvokerStandardBrain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level4/ControlledFireball", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerControlledFireballAiAction"]}

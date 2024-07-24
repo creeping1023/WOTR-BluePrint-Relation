@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahFirstCutscene/gate 13"], "children": ["World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_AngelicSquadFinal", "Factions/CutsceneNeutrals", "Buffs/NPC_Immortality"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahFirstCutscene/gate 13"], "children": ["Buffs/NPC_Immortality", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_AngelicSquadFinal", "Factions/CutsceneNeutrals"]}

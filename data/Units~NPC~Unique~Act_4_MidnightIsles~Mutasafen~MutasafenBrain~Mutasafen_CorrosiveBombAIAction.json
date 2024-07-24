@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Mutasafen/MutasafenBrain/Mutasafen_Brain"], "children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Items/Consumables/CorrosionBombAbility"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Mutasafen/MutasafenBrain/Mutasafen_Brain"], "children": ["Items/Consumables/CorrosionBombAbility", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

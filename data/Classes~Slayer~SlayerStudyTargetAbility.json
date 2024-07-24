@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/SlayerStudyTargetFeature", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/Slayer_AiAction_StudyMove"], "children": ["Classes/Slayer/SlayerStudyTargetBuff", "Classes/Slayer/SlayerStudyTargetBuff"]}
+{"parents": ["Classes/Slayer/SlayerStudyTargetFeature", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/Slayer_AiAction_StudyMove"], "children": ["Classes/Slayer/SlayerStudyTargetBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate", "World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/ThresholdOutdoor_Encounter05"], "children": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/CommandAction00"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/ThresholdOutdoor_Encounter05", "World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/gate"], "children": ["World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter05/CommandAction00"]}

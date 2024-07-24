@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiSelection"], "children": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenKiBarskin", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiSelection"], "children": ["Classes/Monk/MonkClass", "Classes/Monk/Archetypes/DrunkenMaster/DrunkenKiPowers/DrunkenKiBarskin"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronAgility/WitchAgilityPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level4/FreedomOfMovementCast"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronAgility/WitchAgilityPatronProgression"], "children": ["Spells/Level4/FreedomOfMovementCast", "Classes/Witch/WitchClass"]}

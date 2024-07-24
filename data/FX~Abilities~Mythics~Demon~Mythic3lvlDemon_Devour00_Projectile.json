@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyLocustAttackBuff", "Mythic/Demon/DemonSpells/DevourTouch", "Armies/Abilities/ArmyLocustAttackCast"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Armies/Abilities/ArmyLocustAttackBuff", "Armies/Abilities/ArmyLocustAttackCast", "Mythic/Demon/DemonSpells/DevourTouch"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

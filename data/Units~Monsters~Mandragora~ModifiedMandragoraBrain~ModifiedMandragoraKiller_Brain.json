@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Mandragora/CR20_ModifiedMandragoraKiller"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/SunderArmorAiAction"]}
+{"parents": ["Units/Monsters/Mandragora/CR20_ModifiedMandragoraKiller"], "children": ["Brain/Actions/SunderArmorAiAction", "Brain/Actions/AttackAiAction"]}

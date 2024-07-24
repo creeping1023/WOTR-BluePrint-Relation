@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/DLC3_Mobs/Tier3Boss/DLC3_FallenAngelBoss_Stage1_cutscene"], "children": ["Weapons/Types/MartialTwoHanded/Glaive", "Weapons/Enchantments/AdamantineWeaponEnchantment", "Weapons/Enchantments/Enhancement5"]}
+{"parents": ["Units/Monsters/DLC3_Mobs/Tier3Boss/DLC3_FallenAngelBoss_Stage1_cutscene", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/AdamantineWeaponEnchantment", "Weapons/Types/MartialTwoHanded/Glaive", "Weapons/Enchantments/Enhancement5"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/AnswersList_0078"], "children": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0101", "World/Encounters/LannWenduagQ1_Neathholm/UnlockableFlags/Lann_DuelLost_PerceptionSuccess"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/AnswersList_0078"], "children": ["World/Encounters/LannWenduagQ1_Neathholm/UnlockableFlags/Lann_DuelLost_PerceptionSuccess", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0101"]}

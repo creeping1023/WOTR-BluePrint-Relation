@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot"], "children": ["Armies/MoraleEffects/FearLowMoraleBuff", "Armies/MoraleEffects/DazeLowMoraleBuff", "Kingdom/TacticalCombat/KingdomMoraleForArmies"]}
+{"parents": ["Root/BlueprintRoot"], "children": ["Kingdom/TacticalCombat/KingdomMoraleForArmies", "Armies/MoraleEffects/DazeLowMoraleBuff", "Armies/MoraleEffects/FearLowMoraleBuff"]}

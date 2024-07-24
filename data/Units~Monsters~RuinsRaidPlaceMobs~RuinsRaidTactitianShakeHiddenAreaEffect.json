@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidTactitianShakeHiddenAreaBuff"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidTactitianPreciseHiddenAreaEffect", "Feats/Teamwork/ShakeItOff", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianShakeItOffBuff"]}
+{"parents": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidTactitianShakeHiddenAreaBuff"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidTactitianPreciseHiddenAreaEffect", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianShakeItOffBuff", "Feats/Teamwork/ShakeItOff"]}

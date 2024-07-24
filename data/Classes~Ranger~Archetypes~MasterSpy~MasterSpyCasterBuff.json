@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/Archetypes/MasterSpy/MasterSpyAbility"], "children": ["Classes/Ranger/Archetypes/MasterSpy/MasterSpyDamageBuff", "Classes/Ranger/Archetypes/MasterSpy/MasterSpyArchetype", "Classes/Ranger/RangerClass", "Classes/Ranger/RangerClass"]}
+{"parents": ["Classes/Ranger/Archetypes/MasterSpy/MasterSpyAbility"], "children": ["Classes/Ranger/Archetypes/MasterSpy/MasterSpyDamageBuff", "Classes/Ranger/RangerClass", "Classes/Ranger/Archetypes/MasterSpy/MasterSpyArchetype"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Glabrezu/MidnightFane/MidnightFane_GlabrezuRitualists"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Glabrezu/MidnightFane/GlabrezuRitualists_AiAction_QMirrorImage"]}
+{"parents": ["Units/Monsters/Demon Glabrezu/MidnightFane/MidnightFane_GlabrezuRitualists"], "children": ["Units/Monsters/Demon Glabrezu/MidnightFane/GlabrezuRitualists_AiAction_QMirrorImage", "Brain/Actions/AttackAiAction"]}

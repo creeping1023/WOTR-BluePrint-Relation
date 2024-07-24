@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_FestiveKenabres/DLC6_Protester/Answer_0011"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_Protester", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_FestiveKenabres/DLC6_Protester/Cue_20"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_FestiveKenabres/DLC6_Protester/Answer_0011"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_FestiveKenabres/DLC6_Protester/Cue_20", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_Protester"]}

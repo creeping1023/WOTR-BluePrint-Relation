@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/HologramTrade/Answer_0020"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Dialogs/c4/Mythic_Azata/HologramTrade/Cue_0030"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/HologramTrade/Answer_0020"], "children": ["World/Dialogs/c4/Mythic_Azata/HologramTrade/Cue_0030", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}

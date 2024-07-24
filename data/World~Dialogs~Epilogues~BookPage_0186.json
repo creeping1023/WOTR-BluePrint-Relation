@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_Mythics"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend", "World/Dialogs/Epilogues/Cue_0201", "World/Dialogs/Epilogues/Answer_0202"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_Mythics"], "children": ["World/Dialogs/Epilogues/Cue_0201", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/PlayerIsLegend", "World/Dialogs/Epilogues/Answer_0202"]}

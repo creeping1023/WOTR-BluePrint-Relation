@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/HermitDead/Cue_0024"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC5_StoryEnds/AbyssHub/HermitDead/Cue_0026"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/HermitDead/Cue_0024"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/HermitDead/Cue_0026", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

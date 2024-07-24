@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Finnean/Chapter3/FinneanDoubleAxeStage2", "Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus3/Enhancement3/StandardDoubleAxePlus3"], "children": ["Weapons/Types/ExoticTwoHanded/DoubleAxe", "Weapons/Enchantments/Enhancement3"]}
+{"parents": ["Weapons/Items/TotalPlus3/Enhancement3/StandardDoubleAxePlus3", "Dugeons/Loot/DungeonLootExclude", "Weapons/Items/UniquePF2/Finnean/Chapter3/FinneanDoubleAxeStage2"], "children": ["Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticTwoHanded/DoubleAxe"]}

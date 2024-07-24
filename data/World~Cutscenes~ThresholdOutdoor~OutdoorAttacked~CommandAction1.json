@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdOutdoor/OutdoorAttacked/gate"], "children": ["World/Quests/c6/OutdoorDefense/Obj2_LastStand", "World/Encounters/ThresholdOutdoor/SummonPools/ThresholdOutdoorCampAll", "World/Cutscenes/ThresholdOutdoor/CampAutoAggro/CampAutoAggro"]}
+{"parents": ["World/Cutscenes/ThresholdOutdoor/OutdoorAttacked/gate"], "children": ["World/Encounters/ThresholdOutdoor/SummonPools/ThresholdOutdoorCampAll", "World/Cutscenes/ThresholdOutdoor/CampAutoAggro/CampAutoAggro", "World/Quests/c6/OutdoorDefense/Obj2_LastStand"]}

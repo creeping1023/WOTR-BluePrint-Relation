@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Galfrey_Incognito/AnswersList_0005", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Galfrey_Incognito/Cue_3", "World/Encounters/WarCamp/UnlockableFlags/Irabeth_reinf"]}
+{"parents": ["World/Dialogs/NPC_Common/Galfrey_Incognito/AnswersList_0005", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Encounters/WarCamp/UnlockableFlags/Irabeth_reinf", "World/Dialogs/NPC_Common/Galfrey_Incognito/Cue_3"]}

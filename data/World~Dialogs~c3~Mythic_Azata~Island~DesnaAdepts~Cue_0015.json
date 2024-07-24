@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/Answer_0009"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/Cue_0016"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/Answer_0009"], "children": ["World/Dialogs/c3/Mythic_Azata/Island/DesnaAdepts/Cue_0016", "Units/Companions/Arueshalae/Arueshalae_Companion"]}

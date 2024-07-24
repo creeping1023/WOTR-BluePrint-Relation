@@ -1,1 +1,1 @@
-{"parents": ["Brain/Companions/ClericPregenBrain", "Units/NPC/Commoners/Cultists/CultistsBrain/DLC3_CultistConjurerBrain_6level"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level3/SummonMonsterIIIBase", "Spells/Level3/SummonMonsterIIISingle"]}
+{"parents": ["Brain/Companions/ClericPregenBrain", "Units/NPC/Commoners/Cultists/CultistsBrain/DLC3_CultistConjurerBrain_6level"], "children": ["Spells/Level3/SummonMonsterIIISingle", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/SummonMonsterIIIBase"]}

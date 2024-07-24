@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-323468", "Dugeons/Loot/DungeonLootExclude", "Loot/Quest/ArueshalaeRedoubt/BellTongueLoot", "World/Encounters/ArueshalaeRedoubt/ActionsHolders/Bell_Ring"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Root/Upgraders/Player/PF-323468", "Loot/Quest/ArueshalaeRedoubt/BellTongueLoot", "Dugeons/Loot/DungeonLootExclude", "World/Encounters/ArueshalaeRedoubt/ActionsHolders/Bell_Ring"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

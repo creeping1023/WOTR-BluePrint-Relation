@@ -1,1 +1,1 @@
-{"children": ["Factions/CutsceneNeutrals", "CreatureAbilities/Subtypes/SubtypeExtraplanar", "Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AttachAeonEyeBuffIfPlayerIsAeon"]}
+{"children": ["Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AttachAeonEyeBuffIfPlayerIsAeon", "CreatureAbilities/Subtypes/SubtypeExtraplanar", "Factions/CutsceneNeutrals"]}

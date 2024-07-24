@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilitySelection", "Mythic/Feats/ExtraMythicAbilityMythicFeat"], "children": ["Units/Abilities/Mounts/MountedBuff", "Mythic/MythicAbilities/PerfectCavalryBuff"]}
+{"parents": ["Mythic/Feats/ExtraMythicAbilityMythicFeat", "Mythic/MythicAbilitySelection"], "children": ["Units/Abilities/Mounts/MountedBuff", "Mythic/MythicAbilities/PerfectCavalryBuff"]}

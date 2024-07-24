@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level5/CommandGreater/CommandGreater", "Spells/Level5/CommandGreater/CommandGreaterFall"]}
+{"children": ["Spells/Level5/CommandGreater/CommandGreaterFall", "Brain/Considerations/AttackTargetsPriority", "Spells/Level5/CommandGreater/CommandGreater", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

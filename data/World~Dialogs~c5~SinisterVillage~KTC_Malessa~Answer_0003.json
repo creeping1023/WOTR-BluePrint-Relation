@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SinisterVillage/KTC_Malessa/Answer_0022", "QA/Clockwork/Scenario/Act_1/Efimov_Summit", "World/Dialogs/c5/SinisterVillage/KTC_Malessa/AnswersList_0002"], "children": ["World/Dialogs/c5/SinisterVillage/KTC_Malessa/Cue_0006"]}
+{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit", "World/Dialogs/c5/SinisterVillage/KTC_Malessa/Answer_0022", "World/Dialogs/c5/SinisterVillage/KTC_Malessa/AnswersList_0002"], "children": ["World/Dialogs/c5/SinisterVillage/KTC_Malessa/Cue_0006"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/WarCamp_DefaultPeaceful_SosielGoToDefault/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_DefaultPeaceful_SosielGoToDefault/CommandAction 1", "World/Cutscenes/WarCamp/WarCamp_DefaultPeaceful_SosielGoToDefault/CommandUnitLookAt"]}
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_DefaultPeaceful_SosielGoToDefault/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_DefaultPeaceful_SosielGoToDefault/CommandUnitLookAt", "World/Cutscenes/WarCamp/WarCamp_DefaultPeaceful_SosielGoToDefault/CommandAction 1"]}

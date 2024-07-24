@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Mandragora/CR20_ModifiedMandragoraSuicide", "Units/Monsters/Mandragora/ModifiedMandragoraBrain/ModifiedMandragora_SuicideActivateAiAction"], "children": ["Units/Monsters/Mandragora/ModifiedMandragoraSuicideBuff"]}
+{"parents": ["Units/Monsters/Mandragora/ModifiedMandragoraBrain/ModifiedMandragora_SuicideActivateAiAction", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraSuicide"], "children": ["Units/Monsters/Mandragora/ModifiedMandragoraSuicideBuff"]}

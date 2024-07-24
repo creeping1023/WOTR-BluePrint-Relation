@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/GateGuard/Cue_0085"], "children": ["World/Dialogs/c4/GateGuard/Cue_0109_DaeNocta", "World/Dialogs/c4/GateGuard/SequenceExit_0108"]}
+{"parents": ["World/Dialogs/c4/GateGuard/Cue_0085"], "children": ["World/Dialogs/c4/GateGuard/SequenceExit_0108", "World/Dialogs/c4/GateGuard/Cue_0109_DaeNocta"]}

@@ -1,1 +1,1 @@
-{"parents": ["Feats/DLC5/StunningCriticalToggleAbility"], "children": ["Buffs/Staggered", "Buffs/Stunned", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawStunningCriticalBuff"]}
+{"parents": ["Feats/DLC5/StunningCriticalToggleAbility"], "children": ["Buffs/Stunned", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawStunningCriticalBuff", "Buffs/Staggered"]}

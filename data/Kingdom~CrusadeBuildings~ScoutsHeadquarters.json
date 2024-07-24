@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagRegionScoutsHeadquarters", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingScoutsHeadquarters"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingScoutsHeadquarters", "Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagRegionScoutsHeadquarters"]}

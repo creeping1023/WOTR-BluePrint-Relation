@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionRomances/Arueshalae/Main_C4/Wakeup/Arueshalae_Romance_C4_Wakeup_Dialogue"], "children": ["World/Dialogs/Companions/CompanionRomances/Arueshalae/Main_C4/Wakeup/AnswersList_0002"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Arueshalae/Main_C4/Wakeup/Arueshalae_Romance_C4_Wakeup_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionRomances/Arueshalae/Main_C4/Wakeup/AnswersList_0002"]}

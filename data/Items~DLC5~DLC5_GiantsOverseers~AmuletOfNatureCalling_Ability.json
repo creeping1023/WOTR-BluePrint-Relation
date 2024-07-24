@@ -1,1 +1,1 @@
-{"parents": ["Items/DLC5/DLC5_GiantsOverseers/AmuletOfNatureCalling_Item"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_ErastilDeerSummoned", "Buffs/SummonedCreatureSpawnAllyI-III"]}
+{"parents": ["Items/DLC5/DLC5_GiantsOverseers/AmuletOfNatureCalling_Item"], "children": ["Buffs/SummonedCreatureSpawnAllyI-III", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_ErastilDeerSummoned"]}

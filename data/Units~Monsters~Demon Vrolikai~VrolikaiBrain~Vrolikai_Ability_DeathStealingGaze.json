@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Vrolikai/VrolikaiBrain/Vrolikai_Feature_DeathStealingGaze", "Units/Monsters/Demon Vrolikai/VrolikaiBrain/Vrolikai_AreaEffect_DeathStealingGaze"], "children": ["Units/Monsters/Demon Vrolikai/VrolikaiBrain/Vrolikai_Buff_DeathStealingGaze"]}
+{"parents": ["Units/Monsters/Demon Vrolikai/VrolikaiBrain/Vrolikai_AreaEffect_DeathStealingGaze", "Units/Monsters/Demon Vrolikai/VrolikaiBrain/Vrolikai_Feature_DeathStealingGaze"], "children": ["Units/Monsters/Demon Vrolikai/VrolikaiBrain/Vrolikai_Buff_DeathStealingGaze"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/WeaponBond/WeaponBondDisruptionChoice", "Weapons/Items/GargantuanStandard/NaturalWeapon/VileArmsDevastator2d8", "Weapons/Items/GargantuanStandard/NaturalWeapon/VileArmsDevastator3d8"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Classes/Paladin/WeaponBond/WeaponBondDisruptionChoice", "Weapons/Items/GargantuanStandard/NaturalWeapon/VileArmsDevastator3d8", "Weapons/Items/GargantuanStandard/NaturalWeapon/VileArmsDevastator2d8"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}

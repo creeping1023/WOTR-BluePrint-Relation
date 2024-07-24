@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Lann/AnswersList_0083", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Lann/Cue_0095"]}
+{"parents": ["QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "World/Dialogs/Companions/CompanionDialogues/Lann/AnswersList_0083"], "children": ["World/Dialogs/Companions/CompanionDialogues/Lann/Cue_0095"]}

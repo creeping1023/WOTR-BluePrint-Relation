@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Judgments/JudgmentFaithHunterFeature"], "children": ["Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/Judgments/SmitingJudgmentFeatureAlignmentAdd", "Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/Judgments/SmitingJudgmentFeatureAdamantite"]}
+{"parents": ["Classes/Inquisitor/Judgments/JudgmentFaithHunterFeature"], "children": ["Classes/Inquisitor/Judgments/SmitingJudgmentFeatureAdamantite", "Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/Judgments/SmitingJudgmentFeatureAlignmentAdd"]}

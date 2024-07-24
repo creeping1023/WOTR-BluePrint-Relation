@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/ArueshalaeRedoubt/CultCamp_Final/Dialogue_CultCamp_Final"], "children": ["World/Encounters/ArueshalaeRedoubt/UnlockableFlags/FreeScoutsCount", "World/Dialogs/Test/ArueshalaeRedoubt/CultCamp_Final/Cue_0019"]}
+{"parents": ["World/Dialogs/Test/ArueshalaeRedoubt/CultCamp_Final/Dialogue_CultCamp_Final"], "children": ["World/Dialogs/Test/ArueshalaeRedoubt/CultCamp_Final/Cue_0019", "World/Encounters/ArueshalaeRedoubt/UnlockableFlags/FreeScoutsCount"]}

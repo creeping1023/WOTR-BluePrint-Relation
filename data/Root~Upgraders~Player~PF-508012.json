@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Sosiel/03_Prisoner/Sosiel_Companion_03_Quest", "World/Quests/c4/Colyphyr/Obj1_DestroyMines", "World/Quests/Companions/Sosiel/03_Prisoner/SosiQ3_HiddenFail"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Sosiel/03_Prisoner/SosiQ3_HiddenFail", "World/Quests/Companions/Sosiel/03_Prisoner/Sosiel_Companion_03_Quest", "World/Quests/c4/Colyphyr/Obj1_DestroyMines"]}

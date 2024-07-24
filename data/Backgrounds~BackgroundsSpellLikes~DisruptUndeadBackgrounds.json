@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSpellLikes/DisruptUndeadBackgroundsFeature"], "children": ["Spells/Level0/DisruptUndead", "Spells/Level0/DisruptUndead", "Spells/Level0/DisruptUndead", "FX/Abilities/DisruptUndead00", "Weapons/Types/Special/RayItem", "Spells/Level0/DisruptUndead", "Spells/Level0/DisruptUndead", "Traits/Races/Common/UndeadType"]}
+{"parents": ["Backgrounds/BackgroundsSpellLikes/DisruptUndeadBackgroundsFeature"], "children": ["Weapons/Types/Special/RayItem", "Traits/Races/Common/UndeadType", "Spells/Level0/DisruptUndead", "FX/Abilities/DisruptUndead00"]}

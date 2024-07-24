@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/ArrowOfLaw", "Backgrounds/BackgroundsSpellLikes/DisruptUndeadBackgrounds", "Spells/Level0/DisruptUndead"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}
+{"parents": ["Spells/Level0/DisruptUndead", "Backgrounds/BackgroundsSpellLikes/DisruptUndeadBackgrounds", "Spells/Level1/ArrowOfLaw"], "children": ["FX/Abilities/DisruptUndead00_Trajectory"]}

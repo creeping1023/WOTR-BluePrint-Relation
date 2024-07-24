@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Conjuration/ConjurationAcidDartFeature"], "children": ["Classes/Wizard/Conjuration/ConjurationAcidDartResource", "FX/Spell Level None/AcidCommonProjectile00", "Weapons/Types/Special/RayItem", "Classes/Wizard/WizardClass"]}
+{"parents": ["Classes/Wizard/Conjuration/ConjurationAcidDartFeature"], "children": ["Weapons/Types/Special/RayItem", "FX/Spell Level None/AcidCommonProjectile00", "Classes/Wizard/WizardClass", "Classes/Wizard/Conjuration/ConjurationAcidDartResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_46", "Dugeons/Loot/DungeonLootDLC5"], "children": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradedSithhudRodActivatableAbility"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_46", "Dugeons/Loot/DungeonLootDLC5", "Dugeons/Loot/DungeonLootExclude"], "children": ["Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradedSithhudRodActivatableAbility"]}

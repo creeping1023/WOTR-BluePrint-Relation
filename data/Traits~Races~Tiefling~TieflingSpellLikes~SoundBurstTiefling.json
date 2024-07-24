@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Tiefling/TieflingHeritageDiv"], "children": ["Spells/Level2/SoundBurst", "Spells/Level2/SoundBurst", "Spells/Level2/SoundBurst", "Buffs/Stunned", "Spells/Level2/SoundBurst", "Spells/Level2/SoundBurst", "Spells/Level2/SoundBurst", "Traits/Races/Tiefling/TieflingSpellLikes/TieflingSpellLikeResource", "Spells/Level2/SoundBurst"]}
+{"parents": ["Traits/Races/Tiefling/TieflingHeritageDiv"], "children": ["Spells/Level2/SoundBurst", "Buffs/Stunned", "Traits/Races/Tiefling/TieflingSpellLikes/TieflingSpellLikeResource"]}

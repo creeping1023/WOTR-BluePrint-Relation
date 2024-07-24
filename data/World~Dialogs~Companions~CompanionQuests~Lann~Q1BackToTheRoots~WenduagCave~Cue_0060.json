@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/WenduagCave/Cue_0059"], "children": ["World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_Wenduag", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/WenduagCave/Cue_0059", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Factions/Mobs", "World/Encounters/LannWenduagQ1_Neathholm/SummonPools/LannQ1_Wenduag"]}

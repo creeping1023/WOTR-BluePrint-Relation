@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorSwarmDamageAura/VescavorSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff", "Buffs/SwarmTargetBuff"]}
+{"parents": ["Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorSwarmDamageAura/VescavorSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff"]}

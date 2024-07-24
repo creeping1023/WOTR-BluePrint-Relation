@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordChoiceAbility", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordPlus2"], "children": ["Classes/Warpriest/SacredWeaponEnchant/SacredWeaponEnchantAxiomaticBuff"]}
+{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordPlus2", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordChoiceAbility"], "children": ["Classes/Warpriest/SacredWeaponEnchant/SacredWeaponEnchantAxiomaticBuff"]}

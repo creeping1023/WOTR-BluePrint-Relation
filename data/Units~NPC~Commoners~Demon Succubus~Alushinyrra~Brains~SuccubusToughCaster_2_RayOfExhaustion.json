@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demon Succubus/Alushinyrra/Brains/SuccubusToughCaster_2_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/NoBuffConfusion", "Spells/Level3/RayOfExhaustion"]}
+{"parents": ["Units/NPC/Commoners/Demon Succubus/Alushinyrra/Brains/SuccubusToughCaster_2_Brain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level3/RayOfExhaustion", "Brain/Considerations/NoBuffConfusion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Answer_0006"], "children": ["World/Encounters/BattleBliss/UnlockableFlags/RightWordsOnArena", "World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Cue_0012"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Answer_0006"], "children": ["World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Cue_0012", "World/Encounters/BattleBliss/UnlockableFlags/RightWordsOnArena"]}

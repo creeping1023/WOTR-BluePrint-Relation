@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Mandragora/ImmenseMandragoraPoisonFeature", "Units/Monsters/Mandragora/ModifiedMandragoraSuicideBuff", "Brain/Considerations/HasPoison"]}
+{"parents": ["Units/Monsters/Mandragora/ImmenseMandragoraPoisonFeature", "Brain/Considerations/HasPoison", "Units/Monsters/Mandragora/ModifiedMandragoraSuicideBuff"]}

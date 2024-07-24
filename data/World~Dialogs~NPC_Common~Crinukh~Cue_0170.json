@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Crinukh/Cue_0114"], "children": ["Kingdom/CrusadeProjects/KTCProjects/Crinukh_Army", "World/Dialogs/NPC_Common/Crinukh/AnswersList_0173"]}
+{"parents": ["World/Dialogs/NPC_Common/Crinukh/Cue_0114"], "children": ["World/Dialogs/NPC_Common/Crinukh/AnswersList_0173", "Kingdom/CrusadeProjects/KTCProjects/Crinukh_Army"]}

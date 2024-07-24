@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Irabeth/Cue_0198"], "children": ["DLC/DLC2/Dlc2Campaign", "Items/Rods/PF2DLC2/SithhudsRodItem", "World/Dialogs/NPC_Common/Irabeth/Cue_0199"]}
+{"parents": ["World/Dialogs/NPC_Common/Irabeth/Cue_0198"], "children": ["Items/Rods/PF2DLC2/SithhudsRodItem", "World/Dialogs/NPC_Common/Irabeth/Cue_0199", "DLC/DLC2/Dlc2Campaign"]}

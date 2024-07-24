@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianAlliedSpellcasterAbility", "Classes/Hunter/Archetypes/Forester/ForesterTactician/ForesterTacticianAlliedSpellcasterAbility"], "children": ["Feats/Teamwork/AlliedSpellcaster"]}
+{"parents": ["Classes/Hunter/Archetypes/Forester/ForesterTactician/ForesterTacticianAlliedSpellcasterAbility", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianAlliedSpellcasterAbility"], "children": ["Feats/Teamwork/AlliedSpellcaster"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC4_Wilds/ConditionsHolders/DLC4_Wilds_Gate_1_ItemRestriction", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Items/DLC4/DLC4_Wilds/DLC4_SecondKey"]}
+{"parents": ["Items/DLC4/DLC4_Wilds/DLC4_SecondKey", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "World/Encounters/DLC4_Wilds/ConditionsHolders/DLC4_Wilds_Gate_1_ItemRestriction"]}

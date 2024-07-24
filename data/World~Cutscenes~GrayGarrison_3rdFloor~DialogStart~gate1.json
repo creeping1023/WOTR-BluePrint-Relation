@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison_3rdFloor/DialogStart/DialogStart", "World/Cutscenes/GrayGarrison_3rdFloor/DialogStart/gate"], "children": ["World/Cutscenes/GrayGarrison_3rdFloor/DialogStart/CommandAction"]}
+{"parents": ["World/Cutscenes/GrayGarrison_3rdFloor/DialogStart/gate", "World/Cutscenes/GrayGarrison_3rdFloor/DialogStart/DialogStart"], "children": ["World/Cutscenes/GrayGarrison_3rdFloor/DialogStart/CommandAction"]}

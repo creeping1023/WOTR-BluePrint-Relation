@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainStandard", "Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainBless"], "children": ["Brain/Considerations/NoBuffDivineFavor", "Spells/Level1/DivineFavor"]}
+{"parents": ["Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainStandard", "Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainBless"], "children": ["Spells/Level1/DivineFavor", "Brain/Considerations/NoBuffDivineFavor"]}

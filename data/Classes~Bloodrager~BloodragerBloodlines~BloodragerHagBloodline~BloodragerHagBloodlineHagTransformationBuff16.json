@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerHagBloodline/BloodragerHagBloodlineBaseBuff"], "children": ["Classes/Barbarian/GreaterRageFeature", "Classes/Bloodrager/BloodragerGreaterBloodrage", "Classes/Bloodrager/BloodragerMightyBloodrage"]}
+{"parents": ["Classes/Bloodrager/BloodragerBloodlines/BloodragerHagBloodline/BloodragerHagBloodlineBaseBuff"], "children": ["Classes/Bloodrager/BloodragerGreaterBloodrage", "Classes/Bloodrager/BloodragerMightyBloodrage", "Classes/Barbarian/GreaterRageFeature"]}

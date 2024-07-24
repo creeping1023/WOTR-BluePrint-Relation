@@ -1,1 +1,1 @@
-{"parents": ["Classes/Sorcerer/CelestialBloodline/BloodlineCelestialAuraOfHeavenFeature"], "children": ["Classes/Sorcerer/CelestialBloodline/BloodlineCelestialAuraOfHeavenBuff", "Classes/Sorcerer/CelestialBloodline/BloodlineCelestialAuraOfHeavenResource"]}
+{"parents": ["Classes/Sorcerer/CelestialBloodline/BloodlineCelestialAuraOfHeavenFeature"], "children": ["Classes/Sorcerer/CelestialBloodline/BloodlineCelestialAuraOfHeavenResource", "Classes/Sorcerer/CelestialBloodline/BloodlineCelestialAuraOfHeavenBuff"]}

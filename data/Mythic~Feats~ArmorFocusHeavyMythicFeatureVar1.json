@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Feats/ArmorFocusMythicSelection"], "children": ["Mythic/Feats/ArmorFocusHeavyMythicFeatureVar1Buff", "Feats/ArmorFocus/ArmorFocusHeavy"]}
+{"parents": ["Mythic/Feats/ArmorFocusMythicSelection"], "children": ["Feats/ArmorFocus/ArmorFocusHeavy", "Mythic/Feats/ArmorFocusHeavyMythicFeatureVar1Buff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_SithhudLair/DLC5_BattleVs10Sithhud_M2/gate3"], "children": ["World/Cutscenes/TerendelevLair/CombatModeParam/CombatModeParam", "Units/Monsters/DLC5_Sithhud/DLC5_SithhudVisionBlindFightHiddenBuff", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DLC5_SithhudLair/DLC5_BattleVs10Sithhud_M2/gate3"], "children": ["Units/Monsters/DLC5_Sithhud/DLC5_SithhudVisionBlindFightHiddenBuff", "Factions/Mobs", "World/Cutscenes/TerendelevLair/CombatModeParam/CombatModeParam"]}

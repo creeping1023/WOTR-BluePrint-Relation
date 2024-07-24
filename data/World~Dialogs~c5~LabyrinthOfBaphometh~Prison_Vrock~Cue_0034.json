@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0039"], "children": ["Items/Areas/Act_1_WorldwoundIncursion/KenabresBurning/NDagger", "Spells/Level4/DivinePowerBuff", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0035"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0039"], "children": ["Items/Areas/Act_1_WorldwoundIncursion/KenabresBurning/NDagger", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Cue_0035", "Spells/Level4/DivinePowerBuff"]}

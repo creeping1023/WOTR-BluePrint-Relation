@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Trickster/KTC_FindLab/KTC_FindLab_Dialogue"], "children": ["World/Quests/MythicQuests/Trickster/C3_FoolKing/Obj_04_Wait", "World/Dialogs/c3/Mythic_Trickster/KTC_FindLab/Cue_0002"]}
+{"parents": ["World/Dialogs/c3/Mythic_Trickster/KTC_FindLab/KTC_FindLab_Dialogue"], "children": ["World/Dialogs/c3/Mythic_Trickster/KTC_FindLab/Cue_0002", "World/Quests/MythicQuests/Trickster/C3_FoolKing/Obj_04_Wait"]}

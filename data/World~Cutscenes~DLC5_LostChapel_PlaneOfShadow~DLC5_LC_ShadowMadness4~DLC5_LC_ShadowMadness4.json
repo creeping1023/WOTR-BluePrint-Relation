@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_LostChapel_PlaneOfShadow/ScriptZones/DLC5_LC_VoidZone4"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ShadowMadness4/CommandAction", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ShadowMadness4/CommandDelay"]}
+{"parents": ["World/Encounters/DLC5_LostChapel_PlaneOfShadow/ScriptZones/DLC5_LC_VoidZone4"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ShadowMadness4/CommandDelay", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_ShadowMadness4/CommandAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/TowerInTheBody/DLC5_CR9_Tower_In_The_BodyBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level2/ScorchingRay"]}
+{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/FinalBattle/TowerInTheBody/DLC5_CR9_Tower_In_The_BodyBrain"], "children": ["Spells/Level2/ScorchingRay", "Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority"]}

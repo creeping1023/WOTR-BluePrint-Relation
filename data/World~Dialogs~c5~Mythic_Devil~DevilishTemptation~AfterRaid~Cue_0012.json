@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/Answer_0005"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/QueenGalfreyIZ", "World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/Cue_0013"]}
+{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/Answer_0005"], "children": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/Cue_0013", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Iz/QueenGalfreyIZ"]}

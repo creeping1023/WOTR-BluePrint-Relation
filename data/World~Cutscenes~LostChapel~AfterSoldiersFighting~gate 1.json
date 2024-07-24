@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/AfterSoldiersFighting/AfterSoldiersFighting", "World/Cutscenes/LostChapel/AfterSoldiersFighting/gate"], "children": ["World/Cutscenes/LostChapel/AfterSoldiersFighting/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/LostChapel/AfterSoldiersFighting/gate", "World/Cutscenes/LostChapel/AfterSoldiersFighting/AfterSoldiersFighting"], "children": ["World/Cutscenes/LostChapel/AfterSoldiersFighting/CommandStartDialog"]}

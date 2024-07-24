@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/Cue_0004"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_NPC", "World/Quests/DLC5_StoryEnds/DLC5_Main_Good/Obj_03_GiantsAdventure"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/Cue_0004"], "children": ["World/Quests/DLC5_StoryEnds/DLC5_Main_Good/Obj_03_GiantsAdventure", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_NPC"]}

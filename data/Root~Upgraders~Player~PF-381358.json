@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Woljif/Q3Woljif_DarkMoonRising/Q3Woljif_DarkMoonRising", "World/Etudes/Common/WrathOfTheRighteous/Companions/WoljifCompanion/Woljif_AbandonedMansion_CutScenePat"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/WoljifCompanion/Woljif_AbandonedMansion_CutScenePat", "World/Quests/Companions/Woljif/Q3Woljif_DarkMoonRising/Q3Woljif_DarkMoonRising"]}

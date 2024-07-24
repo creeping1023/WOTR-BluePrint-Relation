@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level1/IrabethStartCutsceneEncouraged/gate 6"], "children": ["World/Encounters/DrezenCitadel_Level1/SummonPools/StartScene_moreCrusaders", "World/Cutscenes/DrezenCitadel_Level1/StartScene_moreCrusaders/StartScene_moreCrusaders"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level1/IrabethStartCutsceneEncouraged/gate 6"], "children": ["World/Cutscenes/DrezenCitadel_Level1/StartScene_moreCrusaders/StartScene_moreCrusaders", "World/Encounters/DrezenCitadel_Level1/SummonPools/StartScene_moreCrusaders"]}

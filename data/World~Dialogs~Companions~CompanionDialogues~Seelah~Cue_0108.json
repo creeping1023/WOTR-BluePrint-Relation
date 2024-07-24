@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Seelah/Answer_0101", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Seelah/Answer_0103"], "children": ["World/Dialogs/Companions/CompanionDialogues/Seelah/AnswersList_0003"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Seelah/Answer_0103", "World/Dialogs/Companions/CompanionDialogues/Seelah/Answer_0101", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Seelah/AnswersList_0003"]}

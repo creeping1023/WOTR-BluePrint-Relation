@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/Cue_0067_NoGiefSex"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph", "Units/Companions/Camelia/Camelia_Companion"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/Cue_0067_NoGiefSex"], "children": ["Units/Companions/Camelia/Camelia_Companion", "Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph"]}

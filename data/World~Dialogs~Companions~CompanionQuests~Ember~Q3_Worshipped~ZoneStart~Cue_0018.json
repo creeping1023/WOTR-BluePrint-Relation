@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Answer_0011"], "children": ["World/UnlockableFlags/Companions/EmberEnding_Evil", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0019"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Answer_0011"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0019", "World/UnlockableFlags/Companions/EmberEnding_Evil"]}

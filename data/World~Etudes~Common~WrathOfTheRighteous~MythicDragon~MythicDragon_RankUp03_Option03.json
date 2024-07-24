@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Dragon/DragonRankUp_3/Answer_0007"], "children": ["Armies/CrusadeGlobalBuffs/FlagDragon3EnemyLoseMoraleOnHit", "Kingdom/CrusadeProjects/Dragon/DragonFlags/FlagDragon3Fallen", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/Rank3"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Dragon/DragonRankUp_3/Answer_0007"], "children": ["Kingdom/CrusadeProjects/Dragon/DragonFlags/FlagDragon3Fallen", "Armies/CrusadeGlobalBuffs/FlagDragon3EnemyLoseMoraleOnHit", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/Rank3"]}

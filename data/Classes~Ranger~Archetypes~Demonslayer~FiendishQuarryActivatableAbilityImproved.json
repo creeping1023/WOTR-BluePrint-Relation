@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/Archetypes/Demonslayer/ImprovedFiendishQuarryFeature"], "children": ["Classes/Ranger/QuarryEvilBuff", "Classes/Ranger/Archetypes/Demonslayer/FiendishQuarryBuffImproved"]}
+{"parents": ["Classes/Ranger/Archetypes/Demonslayer/ImprovedFiendishQuarryFeature"], "children": ["Classes/Ranger/Archetypes/Demonslayer/FiendishQuarryBuffImproved", "Classes/Ranger/QuarryEvilBuff"]}

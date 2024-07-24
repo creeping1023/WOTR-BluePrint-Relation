@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/RestBookEvent_2/Cue_92"], "children": ["World/Encounters/DLC2_RichQuarter/UnlockableFlags/Healer_state_flag", "Spells/Level1/BlessBuff"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/RestBookEvent_2/Cue_92"], "children": ["Spells/Level1/BlessBuff", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Healer_state_flag"]}

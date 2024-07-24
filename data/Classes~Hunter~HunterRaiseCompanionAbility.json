@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/HunterRaiseCompanion"], "children": ["Classes/Hunter/HunterRaiseCompanionResource", "Classes/Hunter/HunterClass"]}
+{"parents": ["Classes/Hunter/HunterRaiseCompanion"], "children": ["Classes/Hunter/HunterClass", "Classes/Hunter/HunterRaiseCompanionResource"]}

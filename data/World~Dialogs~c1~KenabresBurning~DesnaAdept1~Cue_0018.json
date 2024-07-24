@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/Check_0015"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest", "World/Dialogs/c1/KenabresBurning/DesnaAdept1/Cue_0053"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/Check_0015"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaAdept1/Cue_0053", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest"]}

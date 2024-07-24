@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/MythicQuests/Azata/C3_AboveClouds/05_GoToIslandAlch", "World/Encounters/AzataIsland/UnlockableFlags/SpringVsSpring_DialogFlag"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Encounters/AzataIsland/UnlockableFlags/SpringVsSpring_DialogFlag", "World/Quests/MythicQuests/Azata/C3_AboveClouds/05_GoToIslandAlch"]}

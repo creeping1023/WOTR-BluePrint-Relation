@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands", "Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Root/CraftRoot"], "children": ["Items/DestructibleItemsShards/PaperShardItem", "Spells/Level9/WindsOfVengeance"]}
+{"parents": ["Dugeons/Loot/DungeonLootMagic", "Root/CraftRoot", "Dugeons/Loot/DungeonLootScrolls", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootScrollsAndWands"], "children": ["Spells/Level9/WindsOfVengeance", "Items/DestructibleItemsShards/PaperShardItem"]}

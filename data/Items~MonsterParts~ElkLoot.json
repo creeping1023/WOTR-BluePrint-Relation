@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Elk/CR5_MegalocerosAdvanced", "Units/Monsters/Elk/CR4_Megaloceros", "Units/Monsters/Elk/CR2_Elk", "Units/Monsters/Elk/CR1_ElkStandard"], "children": ["Items/MonsterParts/ElkPelt", "Items/Ingredients/CookingIngredients/Uncommon/CorruptedAnimalMeatItem"]}
+{"parents": ["Units/Monsters/Elk/CR1_ElkStandard", "Units/Monsters/Elk/CR5_MegalocerosAdvanced", "Units/Monsters/Elk/CR2_Elk", "Units/Monsters/Elk/CR4_Megaloceros"], "children": ["Items/Ingredients/CookingIngredients/Uncommon/CorruptedAnimalMeatItem", "Items/MonsterParts/ElkPelt"]}

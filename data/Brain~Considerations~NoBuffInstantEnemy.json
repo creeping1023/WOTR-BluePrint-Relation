@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/InstantEnemyAiAction", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/DLC4_AdviserInstantEnemyAiAction"], "children": ["Spells/Level3/InstantEnemyBuff"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/DLC4_AdviserInstantEnemyAiAction", "Brain/Actions/InstantEnemyAiAction"], "children": ["Spells/Level3/InstantEnemyBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/RaptureOfRupture/Velexia_Second_Date/Cue_0099"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c4/RaptureOfRupture/Velexia_Second_Date/Cue_0101"]}
+{"parents": ["World/Dialogs/c4/RaptureOfRupture/Velexia_Second_Date/Cue_0099"], "children": ["World/Dialogs/c4/RaptureOfRupture/Velexia_Second_Date/Cue_0101", "Units/Companions/Seelah/Seelah_Companion"]}

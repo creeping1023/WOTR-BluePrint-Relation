@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Final/Cue_28"], "children": ["World/Cutscenes/DLC4_Wilds/DLC4_WoldDeathEnd/CommandAction", "World/Cutscenes/DLC4_Wilds/DLC4_WoldDeathEnd/CommandDelay", "World/Cutscenes/DLC4_Wilds/DLC4_WoldDeathEnd/gate"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Final/Cue_28"], "children": ["World/Cutscenes/DLC4_Wilds/DLC4_WoldDeathEnd/gate", "World/Cutscenes/DLC4_Wilds/DLC4_WoldDeathEnd/CommandAction", "World/Cutscenes/DLC4_Wilds/DLC4_WoldDeathEnd/CommandDelay"]}

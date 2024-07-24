@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombat_PainajaiRangedBrain", "Armies/Brains/TacticalCombat_PainajaiMeleeBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Ability_ChainSpear"]}
+{"parents": ["Armies/Brains/TacticalCombat_PainajaiMeleeBrain", "Armies/Brains/TacticalCombat_PainajaiRangedBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Ability_ChainSpear"]}

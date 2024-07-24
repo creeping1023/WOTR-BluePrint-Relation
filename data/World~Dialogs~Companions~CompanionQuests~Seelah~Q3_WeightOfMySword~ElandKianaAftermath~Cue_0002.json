@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/ElandKianaAftermath/Cue_0001"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/ElandKianaAftermath/AnswersList_0003"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/ElandKianaAftermath/Cue_0001"], "children": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/ElandKianaAftermath/AnswersList_0003", "Units/Companions/Seelah/Seelah_Companion"]}

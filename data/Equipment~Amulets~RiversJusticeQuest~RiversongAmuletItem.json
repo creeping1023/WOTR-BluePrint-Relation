@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Armor/Enchantments/ElectricityResistance20Enchant", "Equipment/Amulets/RiversJusticeQuest/RiversongAmuletEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Enchantments/ElectricityResistance20Enchant", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/RiversJusticeQuest/RiversongAmuletEnchantment"]}

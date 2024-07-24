@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_HillGiantBarbarian"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/GreatCleaveAiAction"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_HillGiantBarbarian"], "children": ["Brain/Actions/GreatCleaveAiAction", "Brain/Actions/AttackAiAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid"], "children": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_StoneskinAIAction", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CatsGraceAIAction", "Brain/Actions/AttackAiAction"]}
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CatsGraceAIAction", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_StoneskinAIAction"]}

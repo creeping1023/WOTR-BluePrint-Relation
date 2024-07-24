@@ -1,1 +1,1 @@
-{"parents": ["Classes/Druid/Archetypes/Drovier/DrovierArchetype"], "children": ["Classes/Druid/Archetypes/Drovier/DrovierAspectResource", "Classes/Druid/Archetypes/Drovier/DrovierAspectResourcePrerequisite", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]}
+{"parents": ["Classes/Druid/Archetypes/Drovier/DrovierArchetype"], "children": ["Classes/Druid/Archetypes/Drovier/DrovierAspectResource", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact", "Classes/Druid/Archetypes/Drovier/DrovierAspectResourcePrerequisite"]}

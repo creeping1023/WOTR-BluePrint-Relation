@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronInsanity/WitchInsanityPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level6/OverwhelmingPresence"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronInsanity/WitchInsanityPatronProgression"], "children": ["Spells/Level6/OverwhelmingPresence", "Classes/Witch/WitchClass"]}

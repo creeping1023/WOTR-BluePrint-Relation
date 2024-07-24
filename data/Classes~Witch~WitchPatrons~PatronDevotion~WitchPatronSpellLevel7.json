@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level4/BestowGraceOfTheChampionCast"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Spells/Level4/BestowGraceOfTheChampionCast", "Classes/Witch/WitchClass"]}

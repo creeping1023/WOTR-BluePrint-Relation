@@ -1,1 +1,1 @@
-{"parents": ["CreatureAbilities/Templates/Vampire/VampireTemplate", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Vampire/Vampire/VampireFeatures"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Vampire/Vampire/VampireFeatures", "CreatureAbilities/Templates/Vampire/VampireTemplate"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/SoanaMain/Answer_0006"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Soana", "World/Etudes/Common/DLC1_Megaepic/DLC1_IZ/DLC1_IZ_SoanaBroken_ByText", "World/Cutscenes/DLC1_Iz/Kill_Soana/Kill_Soana"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/SoanaMain/Answer_0006"], "children": ["World/Cutscenes/DLC1_Iz/Kill_Soana/Kill_Soana", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Soana", "World/Etudes/Common/DLC1_Megaepic/DLC1_IZ/DLC1_IZ_SoanaBroken_ByText"]}

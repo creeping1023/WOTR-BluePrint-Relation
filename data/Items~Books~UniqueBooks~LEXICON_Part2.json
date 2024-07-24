@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/LEXICON_Part2Feature", "World/Etudes/Common/LEXICON_Part2_HasBeenRead", "Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/LEXICON_Part2Feature", "Items/DestructibleItemsShards/PaperShardItem", "World/Etudes/Common/LEXICON_Part2_HasBeenRead"]}

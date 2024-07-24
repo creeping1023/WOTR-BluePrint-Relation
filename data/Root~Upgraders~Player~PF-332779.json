@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborInParty/DragonHunt_Q1/WoundWormLair_Event", "GlobalMaps/WorldWoundGM/Points/Location_WoundwormsLair"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["GlobalMaps/WorldWoundGM/Points/Location_WoundwormsLair", "World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborInParty/DragonHunt_Q1/WoundWormLair_Event"]}

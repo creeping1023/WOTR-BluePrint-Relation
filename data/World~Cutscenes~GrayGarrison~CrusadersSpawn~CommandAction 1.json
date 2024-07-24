@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GrayGarrison/CrusadersSpawn/gate 2"], "children": ["World/Encounters/GrayGarrison/SummonPools/Inquisitors", "Factions/NeutralGuards"]}
+{"parents": ["World/Cutscenes/GrayGarrison/CrusadersSpawn/gate 2"], "children": ["Factions/NeutralGuards", "World/Encounters/GrayGarrison/SummonPools/Inquisitors"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Scrolls/Level5/ScrollOfElementalBodyIIWater", "Spells/Level5/ElementalBodyIIBase"], "children": ["Spells/Level5/ElementalBodyIIWaterBuff", "Classes/Druid/DruidClass", "Spells/Level5/ElementalBodyIIWaterBuff", "Spells/Level5/ElementalBodyIIBase"]}
+{"parents": ["Items/Scrolls/Level5/ScrollOfElementalBodyIIWater", "Spells/Level5/ElementalBodyIIBase"], "children": ["Spells/Level5/ElementalBodyIIWaterBuff", "Classes/Druid/DruidClass", "Spells/Level5/ElementalBodyIIBase"]}

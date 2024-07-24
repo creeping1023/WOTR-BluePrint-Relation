@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianRanger_AiAction_InstantEnemy", "Units/NPC/Unique/Act_4_MidnightIsles/GoodSamaritan/LatwerkBrain/Latwerk_AiAction_Quarry"]}
+{"children": ["Units/NPC/Unique/Act_4_MidnightIsles/GoodSamaritan/LatwerkBrain/Latwerk_AiAction_Quarry", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianRanger_AiAction_InstantEnemy", "Brain/Actions/AttackAiAction"]}

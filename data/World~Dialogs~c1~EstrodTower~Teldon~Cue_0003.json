@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Teldon/Cue_5"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0004"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Teldon/Cue_5"], "children": ["World/Dialogs/c1/EstrodTower/Teldon/Cue_0004", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

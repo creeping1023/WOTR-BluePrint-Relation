@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationHeatAura", "Classes/Oracle/OracleRevelations/OracleRevelationHeatAuraAbility"], "children": ["Classes/Oracle/OracleClass", "Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationHeatAura", "Classes/Oracle/OracleRevelations/OracleRevelationHeatAuraAbility"], "children": ["Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}

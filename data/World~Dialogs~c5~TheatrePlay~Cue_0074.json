@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/TheatrePlay/Answer_0066"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_HalfElfDancerFullplate", "World/Cutscenes/DrezenCapital/Theatre_LiliFall/Theatre_LiliFall", "World/Dialogs/c5/TheatrePlay/Cue_0009"]}
+{"parents": ["World/Dialogs/c5/TheatrePlay/Answer_0066"], "children": ["World/Dialogs/c5/TheatrePlay/Cue_0009", "World/Cutscenes/DrezenCapital/Theatre_LiliFall/Theatre_LiliFall", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_HalfElfDancerFullplate"]}

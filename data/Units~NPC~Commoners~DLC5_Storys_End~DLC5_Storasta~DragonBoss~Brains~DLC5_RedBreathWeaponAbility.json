@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DragonBoss/DLC5_RedDragonBoss", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DragonBoss/Brains/DLC5_BreathWeaponAction"], "children": ["FX/Abilities/Kinetic_SteamLine00"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DragonBoss/Brains/DLC5_BreathWeaponAction", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DragonBoss/DLC5_RedDragonBoss"], "children": ["FX/Abilities/Kinetic_SteamLine00"]}

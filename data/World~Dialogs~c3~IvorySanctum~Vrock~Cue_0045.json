@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Vrock/CueSequence_0044"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/c3/IvorySanctum/Vrock/Cue_0049"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Vrock/CueSequence_0044"], "children": ["World/Dialogs/c3/IvorySanctum/Vrock/Cue_0049", "Units/Companions/Ember/Ember_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bard/Archetypes/Thundercaller/StormCall/StormCallBuff"], "children": ["Classes/Bard/Archetypes/Thundercaller/StormCall/GreaterStormCallFeature", "Spells/Level3/InsideTheStormBuff", "Spells/Level3/InsideTheStormBuff", "Classes/Bard/BardClass"]}
+{"parents": ["Classes/Bard/Archetypes/Thundercaller/StormCall/StormCallBuff"], "children": ["Classes/Bard/BardClass", "Classes/Bard/Archetypes/Thundercaller/StormCall/GreaterStormCallFeature", "Spells/Level3/InsideTheStormBuff"]}

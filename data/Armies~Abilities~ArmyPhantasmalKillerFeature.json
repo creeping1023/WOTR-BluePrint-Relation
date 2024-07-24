@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyIllusionist", "Armies/UnitBlueprints/ArmyPainajaiRanged", "Armies/UnitBlueprints/ArmyPainajaiStandard", "Armies/UnitBlueprints/KTC_ArmyIllusionist"], "children": ["Armies/Abilities/ArmyPhantasmalKiller", "Armies/Abilities/ArmyPhantasmalKillerFact"]}
+{"parents": ["Armies/UnitBlueprints/KTC_ArmyIllusionist", "Armies/UnitBlueprints/ArmyIllusionist", "Armies/UnitBlueprints/ArmyPainajaiRanged", "Armies/UnitBlueprints/ArmyPainajaiStandard"], "children": ["Armies/Abilities/ArmyPhantasmalKillerFact", "Armies/Abilities/ArmyPhantasmalKiller"]}

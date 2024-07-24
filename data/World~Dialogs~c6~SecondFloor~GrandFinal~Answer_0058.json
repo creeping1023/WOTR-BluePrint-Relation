@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/AnswersList_0052"], "children": ["World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0097", "Mythic/Demon/DemonMythicClass", "World/Etudes/Common/ImportantStates/GameAchievements/GameAchievements_Flag/MythicChoices_Demon_Achievement"]}
+{"parents": ["World/Dialogs/c6/SecondFloor/GrandFinal/AnswersList_0052"], "children": ["Mythic/Demon/DemonMythicClass", "World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0097", "World/Etudes/Common/ImportantStates/GameAchievements/GameAchievements_Flag/MythicChoices_Demon_Achievement"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level1/MagicMissile"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level1/MagicMissile", "Items/DestructibleItemsShards/MetalShardItem"]}

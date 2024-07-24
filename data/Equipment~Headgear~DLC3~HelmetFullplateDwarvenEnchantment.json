@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Headgear/DLC3/HelmetFullplateDwarvenItem"], "children": ["Races/HalfOrcRace", "Traits/Races/Common/GiantSubtype", "Races/GoblinRace", "Equipment/Headgear/DLC3/HelmetFullplateDwarvenBuff", "Equipment/Headgear/DLC3/HelmetFullplateDwarvenBuff", "Equipment/Headgear/DLC3/HelmetFullplateDwarvenBuff"]}
+{"parents": ["Equipment/Headgear/DLC3/HelmetFullplateDwarvenItem"], "children": ["Equipment/Headgear/DLC3/HelmetFullplateDwarvenBuff", "Traits/Races/Common/GiantSubtype", "Races/HalfOrcRace", "Races/GoblinRace"]}

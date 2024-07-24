@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/Ziggurat_CiarAttack/CommandAction", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/Ziggurat/ZigguratNoMoreLich"], "children": ["World/Areas/Act_3_DemonsHerecy/Ziggurat/Ziggurat", "World/Areas/Act_3_DemonsHerecy/Ziggurat/Ziggurat"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/Ziggurat/ZigguratNoMoreLich", "World/Cutscenes/DrezenCapital/Ziggurat_CiarAttack/CommandAction"], "children": ["World/Areas/Act_3_DemonsHerecy/Ziggurat/Ziggurat"]}

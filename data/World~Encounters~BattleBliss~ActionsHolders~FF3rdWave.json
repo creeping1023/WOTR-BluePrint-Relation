@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/BattleBliss/FinalFight_ThirdWave/CommandAction"], "children": ["Factions/Mobs", "World/Encounters/BattleBliss/UnlockableFlags/ArenaBattleAtselm_Friendly", "Factions/NeutralGuards", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/BattleBliss/FinalFight_ThirdWave/CommandAction"], "children": ["Factions/Mobs", "Factions/NeutralGuards", "World/Encounters/BattleBliss/UnlockableFlags/ArenaBattleAtselm_Friendly"]}

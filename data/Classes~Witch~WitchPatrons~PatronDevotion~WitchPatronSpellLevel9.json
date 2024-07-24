@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level9/HealMass"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronDevotion/WitchDevotionPatronProgression"], "children": ["Spells/Level9/HealMass", "Classes/Witch/WitchClass"]}

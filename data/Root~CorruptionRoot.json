@@ -1,1 +1,1 @@
-{"parents": ["Root/BlueprintRoot"], "children": ["Buffs/Corruption/CorruptionLevel1", "Buffs/Corruption/CorruptionLevel2", "Buffs/Corruption/CorruptionLevel3", "Buffs/GlobalMap/DivineServiceSpeedModifier"]}
+{"parents": ["Root/BlueprintRoot"], "children": ["Buffs/Corruption/CorruptionLevel1", "Buffs/Corruption/CorruptionLevel3", "Buffs/Corruption/CorruptionLevel2", "Buffs/GlobalMap/DivineServiceSpeedModifier"]}

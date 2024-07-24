@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0075"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_MidnightFaneReinforced", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0035"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0075"], "children": ["World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0035", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_MidnightFaneReinforced", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]}

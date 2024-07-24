@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Glaive", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Unholy", "Weapons/Items/Unique/EE/DeterrenceEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Unholy", "Weapons/Items/Unique/EE/DeterrenceEnchantment", "Weapons/Types/MartialTwoHanded/Glaive", "Weapons/Enchantments/Enhancement3"]}

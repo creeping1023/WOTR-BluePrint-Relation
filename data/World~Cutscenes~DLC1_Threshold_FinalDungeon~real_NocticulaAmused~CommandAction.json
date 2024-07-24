@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/real_NocticulaAmused/gate"], "children": ["World/Encounters/DLC1_Threshold_FinalDungeon/UnlockableFlags/DLC1NocticulaOptionalFight_flag", "World/Encounters/DLC1_Threshold_FinalDungeon/SummonPools/NocticulaOptionalFightPool"]}
+{"parents": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/real_NocticulaAmused/gate"], "children": ["World/Encounters/DLC1_Threshold_FinalDungeon/SummonPools/NocticulaOptionalFightPool", "World/Encounters/DLC1_Threshold_FinalDungeon/UnlockableFlags/DLC1NocticulaOptionalFight_flag"]}

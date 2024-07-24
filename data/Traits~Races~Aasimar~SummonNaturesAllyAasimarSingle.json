@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Aasimar/AgathionHeritage"], "children": ["Units/Monsters/Leopard/LeopardSummoned", "Buffs/SummonedCreatureSpawnAllyI-III", "Spells/CutsceneSpells/SummonMonsterPool", "Traits/Races/Aasimar/HaloAasimar/AasimarSpellLikeResource"]}
+{"parents": ["Traits/Races/Aasimar/AgathionHeritage"], "children": ["Units/Monsters/Leopard/LeopardSummoned", "Buffs/SummonedCreatureSpawnAllyI-III", "Traits/Races/Aasimar/HaloAasimar/AasimarSpellLikeResource", "Spells/CutsceneSpells/SummonMonsterPool"]}

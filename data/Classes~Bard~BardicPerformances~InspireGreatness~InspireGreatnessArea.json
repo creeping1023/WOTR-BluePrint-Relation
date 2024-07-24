@@ -1,1 +1,1 @@
-{"parents": ["Classes/Bard/BardicPerformances/InspireGreatness/InspireGreatnessBuff"], "children": ["Classes/Bard/BardicPerformances/InspireGreatness/InspireGreatnessEffectBuff", "Feats/DLC6/DiscordantVoice", "Feats/DLC6/DiscordantVoiceBuff"]}
+{"parents": ["Classes/Bard/BardicPerformances/InspireGreatness/InspireGreatnessBuff"], "children": ["Feats/DLC6/DiscordantVoice", "Classes/Bard/BardicPerformances/InspireGreatness/InspireGreatnessEffectBuff", "Feats/DLC6/DiscordantVoiceBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/FireRaising_startcombat/FireRaising_startcombat"], "children": ["World/Encounters/DefendersHeart/SummonPools/DH_FireRaisingPool", "World/Encounters/DefendersHeart/SummonPools/AllkittensPool2"]}
+{"parents": ["World/Cutscenes/DefendersHeart/FireRaising_startcombat/FireRaising_startcombat"], "children": ["World/Encounters/DefendersHeart/SummonPools/AllkittensPool2", "World/Encounters/DefendersHeart/SummonPools/DH_FireRaisingPool"]}

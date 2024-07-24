@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Seelah_Event/SaveThePet/Answer_0020"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Seelah_Event/SaveThePet/Cue_0022"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Seelah_Event/SaveThePet/Answer_0020"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Seelah_Event/SaveThePet/Cue_0022", "Units/Companions/Seelah/Seelah_Companion"]}

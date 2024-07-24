@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Armies/Leaders/Warlords/WarlordUnits/Warlord_7_Wizard"], "children": ["Spells/Level3/FeatherStepMass", "Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Speed"]}
+{"parents": ["Armies/Leaders/Warlords/WarlordUnits/Warlord_7_Wizard", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Speed", "Spells/Level3/FeatherStepMass"]}

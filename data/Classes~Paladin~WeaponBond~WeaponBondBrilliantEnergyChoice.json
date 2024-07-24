@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/WeaponBond/WeaponBondPlus4", "Classes/Paladin/Archetypes/DivineHunter/DivineHunterBondPlus4"], "children": ["Classes/Paladin/WeaponBond/WeaponBondBrilliantEnergyBuff"]}
+{"parents": ["Classes/Paladin/Archetypes/DivineHunter/DivineHunterBondPlus4", "Classes/Paladin/WeaponBond/WeaponBondPlus4"], "children": ["Classes/Paladin/WeaponBond/WeaponBondBrilliantEnergyBuff"]}

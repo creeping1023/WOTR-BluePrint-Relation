@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_8_true/Cue_0044"], "children": ["World/Crusade/RankUps/Military/Military_8_true/Cue_0016", "Units/Companions/Regill/Regill_Companion", "World/Crusade/RankUps/Military/Military_8_true/AnswersList_0031"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_8_true/Cue_0044"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Crusade/RankUps/Military/Military_8_true/AnswersList_0031", "World/Crusade/RankUps/Military/Military_8_true/Cue_0016"]}

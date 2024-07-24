@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Demon/DemonRankUp_5/Cue_0020"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Lauliegh", "World/Crusade/RankUps/MythicRankUps/Demon/DemonRankUp_5/Cue_0033"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Demon/DemonRankUp_5/Cue_0020"], "children": ["World/Crusade/RankUps/MythicRankUps/Demon/DemonRankUp_5/Cue_0033", "Units/NPC/Unique/Act_4_MidnightIsles/Lauliegh"]}

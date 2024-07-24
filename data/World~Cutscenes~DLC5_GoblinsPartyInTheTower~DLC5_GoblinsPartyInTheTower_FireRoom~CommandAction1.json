@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_FireRoom/gate1"], "children": ["World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_FireRoomParty", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_FireRoom/gate1"], "children": ["Factions/Mobs", "World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_FireRoomParty"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManor", "World/Encounters/HorgusManor/SummonPools/SecondFloorEnemies", "World/Quests/c1/HorgusManor/add_SummonHorgus", "World/Encounters/HorgusManor/SummonPools/SecondFloorEnemies"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManor", "World/Quests/c1/HorgusManor/add_SummonHorgus", "World/Encounters/HorgusManor/SummonPools/SecondFloorEnemies"]}

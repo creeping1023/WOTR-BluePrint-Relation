@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Irabeth_C3_Intro_Dialogue", "World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/AnswersList_0072", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0022"], "children": ["World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Cue_0077"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/AnswersList_0072", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0022", "World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Irabeth_C3_Intro_Dialogue"], "children": ["World/Dialogs/c3/Drezen_C3/Irabeth_C3_Intro/Cue_0077"]}

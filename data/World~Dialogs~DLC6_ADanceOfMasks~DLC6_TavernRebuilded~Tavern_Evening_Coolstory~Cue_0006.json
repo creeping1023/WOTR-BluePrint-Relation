@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_Coolstory/Cue_0007"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_Coolstory/Cue_8"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_Coolstory/Cue_0007"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Evening_Coolstory/Cue_8", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

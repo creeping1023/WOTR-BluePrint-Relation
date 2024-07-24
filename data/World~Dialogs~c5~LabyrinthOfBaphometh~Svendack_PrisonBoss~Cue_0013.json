@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/Cue_0012", "World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/Cue_0018"], "children": ["Factions/Mobs", "World/Cutscenes/TheIvoryLabyrinth/SvendackSpawnMoreTicks/SvendackSpawnMoreTicks"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/Cue_0018", "World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_PrisonBoss/Cue_0012"], "children": ["Factions/Mobs", "World/Cutscenes/TheIvoryLabyrinth/SvendackSpawnMoreTicks/SvendackSpawnMoreTicks"]}

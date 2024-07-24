@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Act_3_DemonsHerecy/MidnightFane/Presets/MidnightFane_Ch5_Legend", "World/Encounters/DrezenCapital/ActionsHolders/Drezen2FaneChapter5_AreaTransition"], "children": ["World/Areas/Act_3_DemonsHerecy/MidnightFane/MidnightFane", "World/Areas/Act_3_DemonsHerecy/MidnightFane/MidnightFane"]}
+{"parents": ["World/Encounters/DrezenCapital/ActionsHolders/Drezen2FaneChapter5_AreaTransition", "World/Areas/Act_3_DemonsHerecy/MidnightFane/Presets/MidnightFane_Ch5_Legend"], "children": ["World/Areas/Act_3_DemonsHerecy/MidnightFane/MidnightFane"]}

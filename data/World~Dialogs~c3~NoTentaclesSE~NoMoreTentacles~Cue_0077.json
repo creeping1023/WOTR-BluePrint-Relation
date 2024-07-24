@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0076"], "children": ["Units/Companions/Regill/Regill_Companion", "Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0076"], "children": ["Units/Companions/Lann/Lann_Companion", "Units/Companions/Regill/Regill_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/CueSequence_0039"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Hurlun", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0044"]}
+{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/CueSequence_0039"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Hurlun", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0044", "Units/Companions/Seelah/Seelah_Companion"]}

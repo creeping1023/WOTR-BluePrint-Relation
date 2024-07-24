@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Weapons/Types/SimpleRanged/Dart", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Flaming"]}
+{"parents": ["Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Types/SimpleRanged/Dart", "Weapons/Enchantments/Flaming", "Weapons/Enchantments/Enhancement2"]}

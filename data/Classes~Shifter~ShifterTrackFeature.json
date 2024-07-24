@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterProgression", "Classes/Shifter/Archetypes/WildEffigy/WildEffigyShifterArchetype", "Classes/Shifter/Archetypes/Weretouched/WereTouchedShifter"], "children": ["Classes/Shifter/ShifterClass"]}
+{"parents": ["Classes/Shifter/Archetypes/WildEffigy/WildEffigyShifterArchetype", "Classes/Shifter/Archetypes/Weretouched/WereTouchedShifter", "Classes/Shifter/ShifterProgression"], "children": ["Classes/Shifter/ShifterClass"]}

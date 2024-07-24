@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TricksterCouncil/DebriefNocta/DebriefNocta", "World/Cutscenes/TricksterCouncil/DebriefNocta/gate"], "children": ["World/Cutscenes/TricksterCouncil/DebriefNocta/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/TricksterCouncil/DebriefNocta/gate", "World/Cutscenes/TricksterCouncil/DebriefNocta/DebriefNocta"], "children": ["World/Cutscenes/TricksterCouncil/DebriefNocta/CommandStartDialog"]}

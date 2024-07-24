@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/GarmsOnTheParty/SoldierParty_GarmsOnTheParty_dialogue"], "children": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/Sorry/SoldierParty_Sorry_dialogue", "World/Dialogs/c5/Mythic_Legend/SoldierParty/GarmsOnTheParty/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/GarmsOnTheParty/SoldierParty_GarmsOnTheParty_dialogue"], "children": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/GarmsOnTheParty/AnswersList_0003", "World/Dialogs/c5/Mythic_Legend/SoldierParty/Sorry/SoldierParty_Sorry_dialogue"]}

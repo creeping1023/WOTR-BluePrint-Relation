@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/WordOfGod/WordOfGodTargetBuff", "Classes/Inquisitor/Archetypes/LivingGrimoire/WordOfGod/WordOfGodAbility"], "children": ["Classes/Inquisitor/Archetypes/LivingGrimoire/HolyBook/LivingGrimoireHolyBookWeapon"]}
+{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/WordOfGod/WordOfGodAbility", "Classes/Inquisitor/Archetypes/LivingGrimoire/WordOfGod/WordOfGodTargetBuff"], "children": ["Classes/Inquisitor/Archetypes/LivingGrimoire/HolyBook/LivingGrimoireHolyBookWeapon"]}

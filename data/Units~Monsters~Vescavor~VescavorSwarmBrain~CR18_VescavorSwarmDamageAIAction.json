@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Vescavor/VescavorSwarmBrain/CR18_VescavorSwarmSwarmBrain"], "children": ["Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration", "Units/Monsters/Vescavor/VescavorSwarmBrain/CR18_VescavorSwarmDamageAbility"]}
+{"parents": ["Units/Monsters/Vescavor/VescavorSwarmBrain/CR18_VescavorSwarmSwarmBrain"], "children": ["Units/Monsters/Vescavor/VescavorSwarmBrain/CR18_VescavorSwarmDamageAbility", "Brain/Considerations/SwarmTargetsPriority", "Brain/Considerations/SwarmBuffConsideration"]}

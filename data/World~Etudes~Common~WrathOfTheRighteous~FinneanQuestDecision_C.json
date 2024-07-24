@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Answer_0047", "World/Dialogs/Epilogues/Cue_0467", "World/Dialogs/Epilogues/BookPage_0463"], "children": ["World/Etudes/Common/WrathOfTheRighteous/FinneanQuestDecision"]}
+{"parents": ["World/Dialogs/Epilogues/BookPage_0463", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Answer_0047", "World/Dialogs/Epilogues/Cue_0467"], "children": ["World/Etudes/Common/WrathOfTheRighteous/FinneanQuestDecision"]}

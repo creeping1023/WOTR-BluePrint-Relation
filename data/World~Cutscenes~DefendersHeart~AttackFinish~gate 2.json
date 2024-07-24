@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/AttackFinish/AttackFinish", "World/Cutscenes/DefendersHeart/AttackFinish/gate 1"], "children": ["World/Cutscenes/DefendersHeart/AttackFinish/CommandAction2"]}
+{"parents": ["World/Cutscenes/DefendersHeart/AttackFinish/gate 1", "World/Cutscenes/DefendersHeart/AttackFinish/AttackFinish"], "children": ["World/Cutscenes/DefendersHeart/AttackFinish/CommandAction2"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/ThresholdIndoor_ClosingTheRift/ThresholdIndoor_ClosingTheRift"], "children": ["Spells/Level3/HasteBuff", "Spells/Level8/SeamantleBuff"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor_SecondFloor/ThresholdIndoor_ClosingTheRift/ThresholdIndoor_ClosingTheRift"], "children": ["Spells/Level8/SeamantleBuff", "Spells/Level3/HasteBuff"]}

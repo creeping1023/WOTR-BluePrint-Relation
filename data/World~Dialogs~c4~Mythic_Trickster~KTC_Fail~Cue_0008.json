@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Trickster/KTC_Fail/Answer_0005"], "children": ["World/Quests/MythicQuests/Trickster/C4_Lexicon2/Obj_00_Fail", "World/Quests/MythicQuests/Trickster/C4_Lexicon2/Obj_00_Fail", "World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/TricksterStates/TricksterMythicPathFailed"]}
+{"parents": ["World/Dialogs/c4/Mythic_Trickster/KTC_Fail/Answer_0005"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/TricksterStates/TricksterMythicPathFailed", "World/Quests/MythicQuests/Trickster/C4_Lexicon2/Obj_00_Fail"]}

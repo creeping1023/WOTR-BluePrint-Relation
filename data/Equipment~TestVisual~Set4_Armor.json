@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["EquipmentEntities/Armor/KEE_Armor_FullplateHellknight", "Equipment/Armor/Types/FullplateType"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Types/FullplateType", "EquipmentEntities/Armor/KEE_Armor_FullplateHellknight"]}

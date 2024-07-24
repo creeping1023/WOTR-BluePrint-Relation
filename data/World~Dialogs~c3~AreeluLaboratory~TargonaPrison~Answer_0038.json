@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/TargonaPrison/AnswersList_0019"], "children": ["World/Encounters/AreeluLab/SummonPools/AL_AngelGroup", "Factions/Mobs", "World/Cutscenes/WarCamp/WarCamp_Ambience_Relax/WarCamp_Ambience_Relax"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/TargonaPrison/AnswersList_0019"], "children": ["Factions/Mobs", "World/Encounters/AreeluLab/SummonPools/AL_AngelGroup", "World/Cutscenes/WarCamp/WarCamp_Ambience_Relax/WarCamp_Ambience_Relax"]}

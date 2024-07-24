@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/Archetypes/InstinctualWarrior/InstinctualWarriorArchetype"], "children": ["Classes/Basic/Proficiencies/SimpleWeaponProficiency", "Classes/Basic/Proficiencies/MartialWeaponProficiency", "Classes/Basic/Proficiencies/ShieldsProficiency"]}
+{"parents": ["Classes/Barbarian/Archetypes/InstinctualWarrior/InstinctualWarriorArchetype"], "children": ["Classes/Basic/Proficiencies/MartialWeaponProficiency", "Classes/Basic/Proficiencies/SimpleWeaponProficiency", "Classes/Basic/Proficiencies/ShieldsProficiency"]}

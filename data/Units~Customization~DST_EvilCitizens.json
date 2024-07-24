@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CP_EvilCitizens"], "children": ["Races/HumanRace", "Races/HalfElfRace", "Races/TieflingRace"]}
+{"parents": ["Units/Customization/CP_EvilCitizens"], "children": ["Races/TieflingRace", "Races/HumanRace", "Races/HalfElfRace"]}

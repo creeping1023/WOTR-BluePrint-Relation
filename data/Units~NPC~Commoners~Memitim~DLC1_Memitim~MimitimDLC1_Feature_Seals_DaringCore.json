@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Memitim/DLC1_Memitim/MimitimDLC1_Feature_Seals_NormalDaring"], "children": ["CreatureAbilities/Templates/DLC1/VallmalosSeals/ValmallosIronSeal/ValmallosIronSealFeature", "Units/NPC/Commoners/Memitim/DLC1_Memitim/MimitimDLC1_Feature_Seals_CoreHard"]}
+{"parents": ["Units/NPC/Commoners/Memitim/DLC1_Memitim/MimitimDLC1_Feature_Seals_NormalDaring"], "children": ["Units/NPC/Commoners/Memitim/DLC1_Memitim/MimitimDLC1_Feature_Seals_CoreHard", "CreatureAbilities/Templates/DLC1/VallmalosSeals/ValmallosIronSeal/ValmallosIronSealFeature"]}

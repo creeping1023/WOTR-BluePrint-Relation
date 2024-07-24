@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/BlindMan/Cue_0031"], "children": ["Units/Companions/Woljif/Woljif_Companion", "Units/Companions/Woljif/Woljif_Companion", "World/Dialogs/c2_vs/GibberingSwarm/BlindMan/Cue_0033"]}
+{"parents": ["World/Dialogs/c2_vs/GibberingSwarm/BlindMan/Cue_0031"], "children": ["World/Dialogs/c2_vs/GibberingSwarm/BlindMan/Cue_0033", "Units/Companions/Woljif/Woljif_Companion"]}

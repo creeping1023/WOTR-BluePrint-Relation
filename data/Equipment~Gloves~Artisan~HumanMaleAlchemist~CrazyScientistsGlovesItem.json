@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Armor/Enchantments/AcidResistance15Enchant", "Equipment/Armor/Enchantments/FireResistance15Enchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Enchantments/AcidResistance15Enchant", "Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Armor/Enchantments/FireResistance15Enchant"]}

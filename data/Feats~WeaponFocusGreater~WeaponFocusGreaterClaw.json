@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusClaw"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Feats/WeaponFocus/WeaponFocusClaw", "Classes/Fighter/FighterClass", "Weapons/Types/NaturalWeapon/ClawType1d8", "Weapons/Types/NaturalWeapon/ClawType2d4"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusClaw"], "children": ["Weapons/Types/NaturalWeapon/ClawType", "Feats/WeaponFocus/WeaponFocusClaw", "Weapons/Types/NaturalWeapon/ClawType1d8", "Classes/Fighter/FighterClass", "Weapons/Types/NaturalWeapon/ClawType2d4"]}

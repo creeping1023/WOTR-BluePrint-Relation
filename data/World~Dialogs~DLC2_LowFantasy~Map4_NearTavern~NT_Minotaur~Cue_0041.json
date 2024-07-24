@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/Answer_0038"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_GettingThrough/NT_GettingThrough_BookEvent"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_Minotaur/Answer_0038"], "children": ["World/Dialogs/DLC2_LowFantasy/Map4_NearTavern/NT_GettingThrough/NT_GettingThrough_BookEvent", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

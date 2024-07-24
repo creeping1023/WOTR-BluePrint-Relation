@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC1_StorytellerTower/ScriptZones/Cutscene_Start", "World/Cutscenes/DLC1_StorytellerTower/Devarra_Caleb_burn_Idle/WaitFlag", "World/Encounters/DLC1_StorytellerTower/ActionsHolders/Storyteller_Actions"]}
+{"parents": ["World/Cutscenes/DLC1_StorytellerTower/Devarra_Caleb_burn_Idle/WaitFlag", "World/Encounters/DLC1_StorytellerTower/ActionsHolders/Storyteller_Actions", "World/Encounters/DLC1_StorytellerTower/ScriptZones/Cutscene_Start"]}

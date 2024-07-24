@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/TheHazardItem"], "children": ["Weapons/Items/UniquePF2/TheHazardFortitudeBuff", "Weapons/Items/UniquePF2/TheHazardWillBuff", "Weapons/Items/UniquePF2/TheHazardReflexBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/TheHazardItem"], "children": ["Weapons/Items/UniquePF2/TheHazardFortitudeBuff", "Weapons/Items/UniquePF2/TheHazardReflexBuff", "Weapons/Items/UniquePF2/TheHazardWillBuff"]}

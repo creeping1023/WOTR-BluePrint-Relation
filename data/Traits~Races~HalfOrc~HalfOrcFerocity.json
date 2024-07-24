@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Fighter_FeatureList", "Traits/Races/HalfOrc/TribalHalfOrc", "Feats/Diehard", "Races/HalfOrcRace", "Traits/Races/HalfOrc/HumanRaisedHalfOrc"]}
+{"parents": ["Races/HalfOrcRace", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Fighter_FeatureList", "Traits/Races/HalfOrc/HumanRaisedHalfOrc", "Traits/Races/HalfOrc/TribalHalfOrc", "Feats/Diehard"]}

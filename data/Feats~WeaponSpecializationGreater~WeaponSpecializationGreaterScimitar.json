@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationScimitar"], "children": ["Weapons/Types/MartialOneHanded/Scimitar", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationScimitar"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationScimitar"], "children": ["Feats/WeaponSpecialization/WeaponSpecializationScimitar", "Weapons/Types/MartialOneHanded/Scimitar", "Classes/Fighter/FighterClass"]}

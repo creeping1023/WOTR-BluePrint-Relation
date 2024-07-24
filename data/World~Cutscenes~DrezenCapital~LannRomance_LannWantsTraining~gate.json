@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/LannRomance_LannWantsTraining/gate 2", "World/Cutscenes/DrezenCapital/LannRomance_LannWantsTraining/LannRomance_LannWantsTraining"], "children": ["World/Cutscenes/DrezenCapital/LannRomance_LannWantsTraining/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/DrezenCapital/LannRomance_LannWantsTraining/LannRomance_LannWantsTraining", "World/Cutscenes/DrezenCapital/LannRomance_LannWantsTraining/gate 2"], "children": ["World/Cutscenes/DrezenCapital/LannRomance_LannWantsTraining/CommandStartDialog"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03", "Kingdom/MoraleFlags/MoraleFlagSiegeChapter3Controller_buff", "World/Etudes/Common/WrathOfTheRighteous/Chapter05", "Kingdom/MoraleFlags/MoraleFlagSiegeChapter5Controller_buff"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Kingdom/MoraleFlags/MoraleFlagSiegeChapter3Controller_buff", "World/Etudes/Common/WrathOfTheRighteous/Chapter05", "Kingdom/MoraleFlags/MoraleFlagSiegeChapter5Controller_buff", "World/Etudes/Common/WrathOfTheRighteous/Chapter03"]}

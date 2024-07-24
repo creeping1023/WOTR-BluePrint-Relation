@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Cue_0024", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Answer_0007"], "children": ["Achievements/DLC1_04_SilverTongue", "World/Etudes/Common/DLC1_Achievements"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Answer_0007", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Cue_0024"], "children": ["Achievements/DLC1_04_SilverTongue", "World/Etudes/Common/DLC1_Achievements"]}

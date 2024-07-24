@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/ColdIronMasterwork/ColdIronMasterworkDwarvenUrgrosh", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead", "Weapons/Enchantments/Masterwork", "Weapons/Enchantments/ColdIronWeaponEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/ColdIronMasterwork/ColdIronMasterworkDwarvenUrgrosh"], "children": ["Weapons/Enchantments/ColdIronWeaponEnchantment", "Weapons/Enchantments/Masterwork", "Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead"]}

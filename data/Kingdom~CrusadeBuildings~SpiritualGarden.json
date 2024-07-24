@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLogistics8SpiritualGarden", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingSpiritualGarden", "Kingdom/Settlement/Settlement00_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLogistics8SpiritualGarden", "Kingdom/Settlement/Settlement00_Drezen", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingSpiritualGarden"]}

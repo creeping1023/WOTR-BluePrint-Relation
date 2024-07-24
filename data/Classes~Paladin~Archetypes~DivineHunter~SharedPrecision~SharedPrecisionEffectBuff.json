@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/DivineHunter/SharedPrecision/SharedPrecisionArea", "Classes/Paladin/Archetypes/DivineHunter/SharedPrecision/SharedPrecisionTargetBuff", "Feats/Teamwork/VolleyFire/VolleyFireCooldownBuff"]}
+{"parents": ["Classes/Paladin/Archetypes/DivineHunter/SharedPrecision/SharedPrecisionTargetBuff", "Feats/Teamwork/VolleyFire/VolleyFireCooldownBuff", "Classes/Paladin/Archetypes/DivineHunter/SharedPrecision/SharedPrecisionArea"]}

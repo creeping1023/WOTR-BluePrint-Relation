@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Answer_0060"], "children": ["Items/Potions/Level3/PotionOfHaste", "World/Dialogs/c3/SkeletalSalesmanSE/AnswersList_0004"]}
+{"parents": ["World/Dialogs/c3/SkeletalSalesmanSE/Answer_0060"], "children": ["World/Dialogs/c3/SkeletalSalesmanSE/AnswersList_0004", "Items/Potions/Level3/PotionOfHaste"]}

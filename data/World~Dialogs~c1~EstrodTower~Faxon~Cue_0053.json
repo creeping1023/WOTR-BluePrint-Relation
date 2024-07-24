@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/Answer_0052"], "children": ["World/Encounters/EstrodTower/SummonPools/FaxonEncounter", "World/Encounters/ReligionReactivityBuffs/Asmodeus_Debuff", "World/Dialogs/c1/EstrodTower/Faxon/Cue_0011"]}
+{"parents": ["World/Dialogs/c1/EstrodTower/Faxon/Answer_0052"], "children": ["World/Dialogs/c1/EstrodTower/Faxon/Cue_0011", "World/Encounters/EstrodTower/SummonPools/FaxonEncounter", "World/Encounters/ReligionReactivityBuffs/Asmodeus_Debuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelection"], "children": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/PredatoryProwesAbility", "Classes/Slayer/SlayerClass"]}
+{"parents": ["Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelection"], "children": ["Classes/Slayer/SlayerClass", "Classes/Slayer/Archetypes/Bloodseeker/NocturnalSelections/PredatoryProwesAbility"]}

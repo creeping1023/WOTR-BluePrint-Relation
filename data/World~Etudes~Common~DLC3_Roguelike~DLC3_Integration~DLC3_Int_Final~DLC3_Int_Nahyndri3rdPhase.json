@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_DemonsHeart/ScriptZones/DLC3_Nahyndri3rdPhase_SZ"], "children": ["Units/Monsters/DLC3_Mobs/DLC3_Nah_Stage3Buff", "World/Etudes/Common/DLC3_Roguelike/DLC3_Integration/DLC3_Int_Final/DLC3_Int_FinalBossFight"]}
+{"parents": ["World/Encounters/DLC3_DemonsHeart/ScriptZones/DLC3_Nahyndri3rdPhase_SZ"], "children": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Integration/DLC3_Int_Final/DLC3_Int_FinalBossFight", "Units/Monsters/DLC3_Mobs/DLC3_Nah_Stage3Buff"]}

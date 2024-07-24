@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/BoxTrick_sideQuest/MusicBox_main/Cue_0008", "World/Quests/Test/BoxTricksAsk/BoxTricksAsk"], "children": ["World/Quests/Test/BoxTricksAsk/BoxTricksAsk"]}
+{"parents": ["World/Quests/Test/BoxTricksAsk/BoxTricksAsk", "World/Dialogs/Test/BoxTrick_sideQuest/MusicBox_main/Cue_0008"], "children": ["World/Quests/Test/BoxTricksAsk/BoxTricksAsk"]}

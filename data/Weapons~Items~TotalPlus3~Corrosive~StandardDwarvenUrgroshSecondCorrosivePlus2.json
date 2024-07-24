@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus3/Corrosive/StandardDwarvenUrgroshCorrosivePlus2"], "children": ["Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Weapons/Items/TotalPlus3/Corrosive/StandardDwarvenUrgroshCorrosivePlus2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Corrosive", "Weapons/Enchantments/Enhancement2", "Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_8_true/Answer_0022"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Crusade/RankUps/Military/Military_8_true/Cue_0054"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_8_true/Answer_0022"], "children": ["World/Crusade/RankUps/Military/Military_8_true/Cue_0054", "Units/Companions/Greybor/Greybor_Companion"]}

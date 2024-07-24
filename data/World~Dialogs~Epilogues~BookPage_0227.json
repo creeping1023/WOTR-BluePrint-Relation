@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_Crusade"], "children": ["World/Dialogs/Epilogues/Cue_0246", "World/Dialogs/Epilogues/Cue_0247", "World/Dialogs/Epilogues/Cue_0248", "World/Dialogs/Epilogues/Cue_4", "World/Dialogs/Epilogues/Answer_0239"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_Crusade"], "children": ["World/Dialogs/Epilogues/Answer_0239", "World/Dialogs/Epilogues/Cue_0248", "World/Dialogs/Epilogues/Cue_0246", "World/Dialogs/Epilogues/Cue_0247", "World/Dialogs/Epilogues/Cue_4"]}

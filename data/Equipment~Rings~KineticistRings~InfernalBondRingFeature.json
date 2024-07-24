@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Rings/KineticistRings/InfernalBondRingEnchant"], "children": ["Classes/Kineticist/GatherPower/GatherPowerFeature", "Classes/Kineticist/GatherPower/GatherPowerFeature", "Equipment/Rings/ParagonOfWinterRingFeature"]}
+{"parents": ["Equipment/Rings/KineticistRings/InfernalBondRingEnchant"], "children": ["Equipment/Rings/ParagonOfWinterRingFeature", "Classes/Kineticist/GatherPower/GatherPowerFeature"]}

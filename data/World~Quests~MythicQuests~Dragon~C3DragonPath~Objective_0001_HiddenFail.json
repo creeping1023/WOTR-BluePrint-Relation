@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/MythicQuests/Dragon/C3DragonPath/C3DragonPath_quest", "Root/Upgraders/Player/PF-280598", "World/Dialogs/Interchapters/c3-c4/c3-c4_interchapter"], "children": ["World/Quests/MythicQuests/Dragon/C3DragonPath/C3DragonPath_quest"]}
+{"parents": ["World/Dialogs/Interchapters/c3-c4/c3-c4_interchapter", "Root/Upgraders/Player/PF-280598", "World/Quests/MythicQuests/Dragon/C3DragonPath/C3DragonPath_quest"], "children": ["World/Quests/MythicQuests/Dragon/C3DragonPath/C3DragonPath_quest"]}

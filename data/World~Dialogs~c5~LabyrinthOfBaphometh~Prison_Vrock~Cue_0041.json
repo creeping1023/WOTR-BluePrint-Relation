@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Answer_0040"], "children": ["World/Encounters/TheIvoryLabyrinth/UnlockableFlags/LocustPowerCounter", "Mythic/SwarmThatWalks/LocustNPCBonuses/LocustNPCMartialBonus", "World/Cutscenes/LocustDevour_Param/LocustDevour_Param"]}
+{"parents": ["World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Vrock/Answer_0040"], "children": ["World/Encounters/TheIvoryLabyrinth/UnlockableFlags/LocustPowerCounter", "World/Cutscenes/LocustDevour_Param/LocustDevour_Param", "Mythic/SwarmThatWalks/LocustNPCBonuses/LocustNPCMartialBonus"]}

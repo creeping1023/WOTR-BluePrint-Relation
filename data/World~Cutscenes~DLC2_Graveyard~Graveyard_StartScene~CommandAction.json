@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC2_Graveyard/Graveyard_StartScene/Graveyard_StartScene"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC2_LowFantasy/DLC2_CompanionStories/DLC2_CompanionStory_Sorcerer"]}
+{"parents": ["World/Cutscenes/DLC2_Graveyard/Graveyard_StartScene/Graveyard_StartScene"], "children": ["World/Dialogs/DLC2_LowFantasy/DLC2_CompanionStories/DLC2_CompanionStory_Sorcerer", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

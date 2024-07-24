@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot", "Items/Vendors/Chapter5/AzataTwins_Chapter5VendorTable"], "children": ["Items/DestructibleItemsShards/PaperShardItem", "Spells/Level8/Stormbolts"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/Chapter5/AzataTwins_Chapter5VendorTable", "Root/CraftRoot"], "children": ["Spells/Level8/Stormbolts", "Items/DestructibleItemsShards/PaperShardItem"]}

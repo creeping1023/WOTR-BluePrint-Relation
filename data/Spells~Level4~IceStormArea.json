@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/IceStorm"], "children": ["Spells/Level4/IceStormAreaBuff", "Spells/Level4/IceStormDifficultTerrainBuff", "Spells/Level4/IceStormAreaBuff", "Spells/Level4/IceStormDifficultTerrainBuff"]}
+{"parents": ["Spells/Level4/IceStorm"], "children": ["Spells/Level4/IceStormDifficultTerrainBuff", "Spells/Level4/IceStormAreaBuff"]}

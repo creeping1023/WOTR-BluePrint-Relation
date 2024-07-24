@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity", "Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff"], "children": ["Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff", "DLC/DLC5/Dlc5RewardCampaign"]}
+{"parents": ["Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff", "Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["Spells/DLC5NewSpells/FungalInfestation/FungalInfestationBuff", "DLC/DLC5/Dlc5RewardCampaign"]}

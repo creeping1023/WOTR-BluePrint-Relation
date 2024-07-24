@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/ShadowSpells/ShadowCasterBonusSpellsProgression"], "children": ["Classes/Wizard/WizardClass", "Spells/Level1/Vanish"]}
+{"parents": ["Classes/Wizard/Archetypes/ShadowCaster/ShadowSpells/ShadowCasterBonusSpellsProgression"], "children": ["Spells/Level1/Vanish", "Classes/Wizard/WizardClass"]}

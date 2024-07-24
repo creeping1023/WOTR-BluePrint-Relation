@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0049", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Flail", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/BaneConstruct", "Weapons/Enchantments/Ice2d6"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0049"], "children": ["Weapons/Enchantments/BaneConstruct", "Weapons/Enchantments/Ice2d6", "Weapons/Types/MartialOneHanded/Flail", "Weapons/Enchantments/Enhancement5"]}

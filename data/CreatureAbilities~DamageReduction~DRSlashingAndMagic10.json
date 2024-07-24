@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/CR16_ZombieLordFighter_Ranger_SarkorianLevel16_Juju", "Units/NPC/Commoners/Zombie/SarkorianWedding/CR16_ZombieLordFighter_Fighter_SarkorianLevel15_Juju", "CreatureAbilities/DamageReduction/DRBludgeoningAndMagic15"]}
+{"parents": ["Units/NPC/Commoners/Zombie/SarkorianWedding/CR16_ZombieLordFighter_Fighter_SarkorianLevel15_Juju", "CreatureAbilities/DamageReduction/DRBludgeoningAndMagic15", "Units/NPC/Commoners/Zombie/SarkorianWedding/CR16_ZombieLordFighter_Ranger_SarkorianLevel16_Juju"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/Answer_0037"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/c1/KenabresBurning/Hurlun/AnswersList_0035"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/Answer_0037"], "children": ["World/Dialogs/c1/KenabresBurning/Hurlun/AnswersList_0035", "Units/Companions/Ember/Ember_Companion"]}

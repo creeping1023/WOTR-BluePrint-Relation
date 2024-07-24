@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/AnswersList_0003"], "children": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/Cue_0213", "World/Quests/Companions/Camellia/Q2_HeartsDesire/Obj1_VisitBrothel", "Units/Companions/Camelia/Camelia_Companion"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/AnswersList_0003"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/Cue_0213", "World/Quests/Companions/Camellia/Q2_HeartsDesire/Obj1_VisitBrothel"]}

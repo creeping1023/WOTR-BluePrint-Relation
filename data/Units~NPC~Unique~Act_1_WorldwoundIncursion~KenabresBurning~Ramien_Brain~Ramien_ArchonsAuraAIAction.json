@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien_Brain/Ramien_Brain", "Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerClericBrain"], "children": ["Brain/Considerations/TargetSelf", "Spells/Level3/ArchonsAura"]}
+{"parents": ["Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerClericBrain", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien_Brain/Ramien_Brain"], "children": ["Spells/Level3/ArchonsAura", "Brain/Considerations/TargetSelf"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cultists_Baph_Desk", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeutenant_Sanctum", "World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cue_0002"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cultists_Baph_Desk", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/IvorySanctum/Cultists_Baph_Desk/Cue_0002", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeutenant_Sanctum"]}

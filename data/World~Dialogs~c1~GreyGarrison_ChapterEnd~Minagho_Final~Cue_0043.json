@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterEnd/Minagho_Final/Cue_0042"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/StauntonVane_GG", "Units/Companions/Lann/Lann_Companion", "World/Dialogs/c1/GreyGarrison_ChapterEnd/Minagho_Final/Cue_0044"]}
+{"parents": ["World/Dialogs/c1/GreyGarrison_ChapterEnd/Minagho_Final/Cue_0042"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/StauntonVane_GG", "World/Dialogs/c1/GreyGarrison_ChapterEnd/Minagho_Final/Cue_0044", "Units/Companions/Lann/Lann_Companion"]}

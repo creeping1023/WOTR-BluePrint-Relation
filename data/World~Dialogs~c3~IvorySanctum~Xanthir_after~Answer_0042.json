@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/AnswersList_0028"], "children": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0043", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Answer_0040", "World/Areas/Act_3_DemonsHerecy/IvorySanctum/Buffs/JerribethMark"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/AnswersList_0028"], "children": ["World/Dialogs/c3/IvorySanctum/Xanthir_after/Answer_0040", "World/Areas/Act_3_DemonsHerecy/IvorySanctum/Buffs/JerribethMark", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0043"]}

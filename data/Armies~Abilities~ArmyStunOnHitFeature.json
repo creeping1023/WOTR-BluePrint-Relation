@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/KTC_ArmyStoneInfantry", "Armies/UnitBlueprints/ArmyStoneInfantry", "Armies/UnitBlueprints/ArmyScaledFists", "Armies/UnitBlueprints/ArmyVavakiaStandard"], "children": ["Armies/Abilities/ArmyStunOnHitBuff"]}
+{"parents": ["Armies/UnitBlueprints/ArmyVavakiaStandard", "Armies/UnitBlueprints/ArmyScaledFists", "Armies/UnitBlueprints/ArmyStoneInfantry", "Armies/UnitBlueprints/KTC_ArmyStoneInfantry"], "children": ["Armies/Abilities/ArmyStunOnHitBuff"]}

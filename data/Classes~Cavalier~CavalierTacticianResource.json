@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianAbilitySwift", "Classes/Cavalier/CavalierTacticianFeature"], "children": ["Classes/Cavalier/CavalierClass"]}
+{"parents": ["Classes/Cavalier/CavalierTacticianAbilitySwift", "Classes/Cavalier/CavalierTacticianAbility", "Classes/Cavalier/CavalierTacticianFeature"], "children": ["Classes/Cavalier/CavalierClass"]}

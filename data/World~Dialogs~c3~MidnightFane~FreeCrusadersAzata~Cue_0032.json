@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FreeCrusadersAzata/Answer_0028"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "World/Dialogs/c3/MidnightFane/FreeCrusadersAzata/Cue_0052"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FreeCrusadersAzata/Answer_0028"], "children": ["World/Dialogs/c3/MidnightFane/FreeCrusadersAzata/Cue_0052", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor"]}

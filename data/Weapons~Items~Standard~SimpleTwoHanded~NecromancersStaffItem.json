@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/Forest_Second_Wizard"], "children": ["Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement1", "Weapons/Items/Standard/SimpleTwoHanded/NecromancersStaffEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR0/Forest_Second_Wizard"], "children": ["Weapons/Items/Standard/SimpleTwoHanded/NecromancersStaffEnchantment", "Weapons/Types/SimpleTwoHanded/Quarterstaff", "Weapons/Enchantments/Enhancement1"]}

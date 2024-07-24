@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/CrusadeProjects/MilitaryProjects/Event89ZagelforntzsMasterpiece"], "children": ["Armies/UnitBlueprints/ArmyZagelforntzGiants", "Armies/CrusadeGlobalBuffs/CrusadeBuffsFeatures/Event89ArmyUnitsZagelforntzsMasterpieceFeature"]}
+{"parents": ["Kingdom/CrusadeProjects/MilitaryProjects/Event89ZagelforntzsMasterpiece"], "children": ["Armies/CrusadeGlobalBuffs/CrusadeBuffsFeatures/Event89ArmyUnitsZagelforntzsMasterpieceFeature", "Armies/UnitBlueprints/ArmyZagelforntzGiants"]}

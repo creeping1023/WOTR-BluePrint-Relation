@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Dexterity8", "Equipment/CommonEnchantments/Constitution8", "Equipment/Belts/KineticistBelts/DevilsSashEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/CommonEnchantments/Dexterity8", "Equipment/Belts/KineticistBelts/DevilsSashEnchant", "Equipment/CommonEnchantments/Constitution8"]}

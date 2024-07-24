@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Hilor/CueSequence_0001"], "children": ["World/Quests/c5/HuntingSilkShadow/HuntingSilkShadow", "World/Quests/DLC1_Megaepic/Anomaly/Obj6_InvestigateKeyhole", "Units/Companions/Greybor/Greybor_Companion", "Units/Companions/Greybor/Greybor_Companion"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/TresholdOutdoor/Hilor/CueSequence_0001"], "children": ["World/Quests/DLC1_Megaepic/Anomaly/Obj6_InvestigateKeyhole", "Units/Companions/Greybor/Greybor_Companion", "World/Quests/c5/HuntingSilkShadow/HuntingSilkShadow"]}

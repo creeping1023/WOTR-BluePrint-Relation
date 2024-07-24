@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0043"], "children": ["Units/Companions/Lann/Lann_Companion", "Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0045"]}
+{"parents": ["World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0043"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0045", "Units/Companions/Seelah/Seelah_Companion"]}

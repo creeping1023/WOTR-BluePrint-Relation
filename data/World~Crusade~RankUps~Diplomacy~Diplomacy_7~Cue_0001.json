@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/Cue_0051"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Drezen/DiplomatFromIsger", "World/Crusade/RankUps/Diplomacy/Diplomacy_7/Cue_0124"]}
+{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/Cue_0051"], "children": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/Cue_0124", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Drezen/DiplomatFromIsger"]}

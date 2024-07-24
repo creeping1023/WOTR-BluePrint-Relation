@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shifter/ShifterACBonusUnlock"], "children": ["Classes/Monk/MonkACBonusBuff", "Classes/Monk/MonkACBonusBuffUnarmored"]}
+{"parents": ["Classes/Shifter/ShifterACBonusUnlock"], "children": ["Classes/Monk/MonkACBonusBuffUnarmored", "Classes/Monk/MonkACBonusBuff"]}

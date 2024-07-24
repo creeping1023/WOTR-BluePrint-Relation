@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Wizard_is_dead/gate4"], "children": ["World/Cutscenes/DLC3_ToxicPrison_1/DLC3_Unit_stop_param/DLC3_Unit_stop_param", "World/Cutscenes/LostChapel/FOWRevealParam/FOWRevealParam", "Spells/Level3/SpikedPitArea", "Spells/Level3/SpikedPitArea"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Wizard_is_dead/gate4"], "children": ["World/Cutscenes/LostChapel/FOWRevealParam/FOWRevealParam", "World/Cutscenes/DLC3_ToxicPrison_1/DLC3_Unit_stop_param/DLC3_Unit_stop_param", "Spells/Level3/SpikedPitArea"]}

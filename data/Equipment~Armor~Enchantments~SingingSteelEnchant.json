@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Armor/Items/Unique/IrovettisBreastplate", "Equipment/Armor/Items/TotalPlus7/SingingSteelBreastplatePlus5", "Mythic/Trickster/KnowledgeArcana/TricksterKnowledgeArcanaTier3Feature"], "children": ["Equipment/Armor/Enchantments/SingingSteelFeature"]}
+{"parents": ["Mythic/Trickster/KnowledgeArcana/TricksterKnowledgeArcanaTier3Feature", "Equipment/Armor/Items/Unique/IrovettisBreastplate", "Equipment/Armor/Items/TotalPlus7/SingingSteelBreastplatePlus5"], "children": ["Equipment/Armor/Enchantments/SingingSteelFeature"]}

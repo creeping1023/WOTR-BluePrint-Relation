@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyEarPiercingScreamFeature"], "children": ["Armies/Abilities/ArmyConfusedBuff", "Armies/Abilities/ArmyEarPiercingScreamResource"]}
+{"parents": ["Armies/Abilities/ArmyEarPiercingScreamFeature"], "children": ["Armies/Abilities/ArmyEarPiercingScreamResource", "Armies/Abilities/ArmyConfusedBuff"]}

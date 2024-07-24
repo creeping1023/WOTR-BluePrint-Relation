@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/CultHighPriestBrain/CultHighPriestBrain_Brain_Standard"], "children": ["Brain/Considerations/InRangeConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level7/Banishment"]}
+{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/CultHighPriestBrain/CultHighPriestBrain_Brain_Standard"], "children": ["Spells/Level7/Banishment", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/InRangeConsideration"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DC6_RazmirDungeon/ScriptZones/DLC6_Razmir_ChoirFoW"], "children": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_ChoirFoW/CommandAddFogOfWarRevealer", "World/Cutscenes/DC6_RazmirDungeon/DLC6_ChoirFoW/CommandAddFogOfWarRevealer1"]}
+{"parents": ["World/Encounters/DC6_RazmirDungeon/ScriptZones/DLC6_Razmir_ChoirFoW"], "children": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_ChoirFoW/CommandAddFogOfWarRevealer1", "World/Cutscenes/DC6_RazmirDungeon/DLC6_ChoirFoW/CommandAddFogOfWarRevealer"]}

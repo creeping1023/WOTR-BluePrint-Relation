@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/KTC_ArmyDragonDiscipleBard", "Armies/UnitBlueprints/ArmyDruids", "Armies/UnitBlueprints/ArmyDragonDiscipleBard", "Armies/UnitBlueprints/ArmySupport"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant"]}
+{"parents": ["Armies/UnitBlueprints/ArmyDragonDiscipleBard", "Armies/UnitBlueprints/KTC_ArmyDragonDiscipleBard", "Armies/UnitBlueprints/ArmyDruids", "Armies/UnitBlueprints/ArmySupport"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant"]}

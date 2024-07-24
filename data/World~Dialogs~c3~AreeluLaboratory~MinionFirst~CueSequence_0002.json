@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/MinionFirst/Cue_0001"], "children": ["World/Dialogs/c3/AreeluLaboratory/MinionFirst/Cue_0003", "World/Dialogs/c3/AreeluLaboratory/MinionFirst/SequenceExit_0004"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/MinionFirst/Cue_0001"], "children": ["World/Dialogs/c3/AreeluLaboratory/MinionFirst/SequenceExit_0004", "World/Dialogs/c3/AreeluLaboratory/MinionFirst/Cue_0003"]}

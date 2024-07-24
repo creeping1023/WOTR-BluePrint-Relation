@@ -1,1 +1,1 @@
-{"parents": ["Classes/Monk/KiPowers/KiWholenessOfBodyFeature"], "children": ["Classes/Monk/KiPowers/KiPowerResource", "Classes/Monk/MonkClass"]}
+{"parents": ["Classes/Monk/KiPowers/KiWholenessOfBodyFeature"], "children": ["Classes/Monk/MonkClass", "Classes/Monk/KiPowers/KiPowerResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Dragon/HalDragonForm/CueSequence_0029"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Cutscenes/TerendelevLair/CombatModeParam/CombatModeParam", "Units/Companions/Regill/Regill_Companion"]}
+{"parents": ["World/Dialogs/c3/Mythic_Dragon/HalDragonForm/CueSequence_0029"], "children": ["World/Cutscenes/TerendelevLair/CombatModeParam/CombatModeParam", "Units/Companions/Regill/Regill_Companion"]}

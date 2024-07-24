@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/IllusionistBrain/BanditIllusionistBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level4/PhantasmalKiller"]}
+{"parents": ["Units/NPC/Commoners/Bandits/BanditsFeatureLists/BanditWizard/IllusionistBrain/BanditIllusionistBrain"], "children": ["Spells/Level4/PhantasmalKiller", "Brain/Considerations/AttackTargetsPriority"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC3_RogueLike/DLC3_ToxicPrison_1/EnterPoints/DLC3_ToxicPrison_Exit", "Dugeons/Loot/DungeonLootExclude", "Root/DungeonRoot"]}
+{"parents": ["Root/DungeonRoot", "Dugeons/Loot/DungeonLootExclude", "World/Areas/DLC3_RogueLike/DLC3_ToxicPrison_1/EnterPoints/DLC3_ToxicPrison_Exit"]}

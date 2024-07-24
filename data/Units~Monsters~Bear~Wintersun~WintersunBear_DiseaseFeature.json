@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Bear/Wintersun/DLC1_WintersunBear", "Units/Monsters/Bear/Wintersun/WintersunBear"], "children": ["CreatureAbilities/Templates/PlaguedBeast/DemonPlague", "Buffs/Sickened", "Buffs/Nauseated", "Classes/Monster/MagicalBeast/MagicalBeastClass"]}
+{"parents": ["Units/Monsters/Bear/Wintersun/DLC1_WintersunBear", "Units/Monsters/Bear/Wintersun/WintersunBear"], "children": ["Buffs/Nauseated", "Classes/Monster/MagicalBeast/MagicalBeastClass", "Buffs/Sickened", "CreatureAbilities/Templates/PlaguedBeast/DemonPlague"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/MinotaurCleric_Brain_RangeCaster"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/LongRange", "Spells/Level2/Boneshaker"]}
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/MinotaurCleric_Brain_RangeCaster"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level2/Boneshaker", "Brain/Considerations/LongRange"]}

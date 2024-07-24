@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Morveg_NearPazzle/CueSequence_0001"], "children": ["ClassGroups/CastersOfDivineMagic", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Morveg"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Morveg_NearPazzle/CueSequence_0001"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Morveg", "ClassGroups/CastersOfDivineMagic"]}

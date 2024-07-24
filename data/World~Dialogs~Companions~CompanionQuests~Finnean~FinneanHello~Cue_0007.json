@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/FinneanHello_dialogue"], "children": ["Units/Companions/Finnean/Finnean_Companion", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/AnswersList_0002"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/FinneanHello_dialogue"], "children": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/AnswersList_0002", "Units/Companions/Finnean/Finnean_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/ArcaneTrickster/ArcaneTricksterProgression"], "children": ["Classes/ArcaneTrickster/InvisibleThief/InvisibleThiefToggleAbility", "Classes/ArcaneTrickster/InvisibleThief/InvisibleThiefResource"]}
+{"parents": ["Classes/ArcaneTrickster/ArcaneTricksterProgression"], "children": ["Classes/ArcaneTrickster/InvisibleThief/InvisibleThiefResource", "Classes/ArcaneTrickster/InvisibleThief/InvisibleThiefToggleAbility"]}

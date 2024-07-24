@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_TempleSeek/gate 4", "World/Cutscenes/DrezenCapital/CamelliaRomance_TempleSeek/CamelliaRomance_TempleSeek"], "children": ["World/Cutscenes/DrezenCapital/CamelliaRomance_TempleSeek/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/DrezenCapital/CamelliaRomance_TempleSeek/CamelliaRomance_TempleSeek", "World/Cutscenes/DrezenCapital/CamelliaRomance_TempleSeek/gate 4"], "children": ["World/Cutscenes/DrezenCapital/CamelliaRomance_TempleSeek/CommandStartDialog"]}

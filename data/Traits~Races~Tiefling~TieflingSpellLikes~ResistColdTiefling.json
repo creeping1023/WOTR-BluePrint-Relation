@@ -1,1 +1,1 @@
-{"parents": ["Traits/Races/Tiefling/TieflingHeritageClassic"], "children": ["Spells/Level2/ResistCold", "Spells/Level2/ResistCold", "Spells/Level2/ResistColdBuff", "Spells/Level2/ResistCold", "Spells/Level2/ResistCold", "Traits/Races/Tiefling/TieflingSpellLikes/TieflingSpellLikeResource", "Spells/Level2/ResistCold"]}
+{"parents": ["Traits/Races/Tiefling/TieflingHeritageClassic"], "children": ["Spells/Level2/ResistCold", "Spells/Level2/ResistColdBuff", "Traits/Races/Tiefling/TieflingSpellLikes/TieflingSpellLikeResource"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/SarkorianWedding/ScriptZones/SarkWed_Village_Spawner_SZ", "World/Cutscenes/SarkorianWedding/SarkWed_HouseBark_remove_fail/CommandAction", "World/Cutscenes/SarkorianWedding/SarkWed_HouseBark_remove/CommandAction"]}
+{"parents": ["World/Cutscenes/SarkorianWedding/SarkWed_HouseBark_remove_fail/CommandAction", "World/Cutscenes/SarkorianWedding/SarkWed_HouseBark_remove/CommandAction", "World/Encounters/SarkorianWedding/ScriptZones/SarkWed_Village_Spawner_SZ"]}

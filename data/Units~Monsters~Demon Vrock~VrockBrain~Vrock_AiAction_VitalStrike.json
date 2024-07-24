@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Vrock/VrockBrain/VrockMythicBrain"], "children": ["Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Consideration_NoFullAttack", "Brain/Considerations/AttackTargetsPriority", "Feats/VitalStrike/VitalStrikeAbilityGreater"]}
+{"parents": ["Units/Monsters/Demon Vrock/VrockBrain/VrockMythicBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/Demon Painajai/PainajaiBrain/Painajai_Consideration_NoFullAttack", "Feats/VitalStrike/VitalStrikeAbilityGreater"]}

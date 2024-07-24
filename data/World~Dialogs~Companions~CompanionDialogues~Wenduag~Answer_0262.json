@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/WendyRomance", "World/Dialogs/Companions/CompanionDialogues/Wenduag/AnswersList_0259"], "children": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0267"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/AnswersList_0259", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/WendyRomance"], "children": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0267"]}

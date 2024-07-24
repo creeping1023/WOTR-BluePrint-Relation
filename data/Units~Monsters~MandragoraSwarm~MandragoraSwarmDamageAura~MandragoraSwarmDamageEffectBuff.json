@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/MandragoraSwarm/MandragoraSwarmDamageAura/MandragoraSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff", "Buffs/SwarmTargetBuff"]}
+{"parents": ["Units/Monsters/MandragoraSwarm/MandragoraSwarmDamageAura/MandragoraSwarmDamageArea"], "children": ["Buffs/SwarmTargetBuff"]}

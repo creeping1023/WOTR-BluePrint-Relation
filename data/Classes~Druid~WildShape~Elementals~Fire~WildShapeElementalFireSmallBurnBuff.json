@@ -1,1 +1,1 @@
-{"parents": ["Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireSmallBurnCasterBuff", "Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireSmallBurnAbility"], "children": ["Classes/Druid/DruidClass"]}
+{"parents": ["Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireSmallBurnAbility", "Classes/Druid/WildShape/Elementals/Fire/WildShapeElementalFireSmallBurnCasterBuff"], "children": ["Classes/Druid/DruidClass"]}

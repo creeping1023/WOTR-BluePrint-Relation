@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/AlushynirraCity/YouOnlyMortalsLeaderBrain/YouOnlyMortalsLeader_Brain"], "children": ["Brain/Considerations/NoBuffOwlsWisdom", "Brain/Considerations/TargetSelf", "Spells/Level2/OwlsWisdom"]}
+{"parents": ["Units/Monsters/Deathsnatcher/AlushynirraCity/YouOnlyMortalsLeaderBrain/YouOnlyMortalsLeader_Brain"], "children": ["Spells/Level2/OwlsWisdom", "Brain/Considerations/TargetSelf", "Brain/Considerations/NoBuffOwlsWisdom"]}

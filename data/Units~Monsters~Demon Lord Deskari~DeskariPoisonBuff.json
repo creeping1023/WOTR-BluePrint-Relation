@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Lord Deskari/DeskariPoison", "Units/Monsters/Demon Lord Deskari/DeskariBreathWeaponAbility", "Units/Monsters/Demon Lord Deskari/DeskariBreathWeaponArea", "Brain/Considerations/HasPoison"]}
+{"parents": ["Units/Monsters/Demon Lord Deskari/DeskariBreathWeaponArea", "Units/Monsters/Demon Lord Deskari/DeskariPoison", "Units/Monsters/Demon Lord Deskari/DeskariBreathWeaponAbility", "Brain/Considerations/HasPoison"]}

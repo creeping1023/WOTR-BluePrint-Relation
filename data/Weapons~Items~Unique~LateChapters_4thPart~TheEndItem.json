@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/HeavyFlail", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/Anarchic", "Weapons/Enchantments/ViciousEnchantment", "Weapons/Items/Unique/LateChapters_4thPart/UnstoppableEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Anarchic", "Weapons/Enchantments/ViciousEnchantment", "Weapons/Items/Unique/LateChapters_4thPart/UnstoppableEnchantment", "Weapons/Types/MartialTwoHanded/HeavyFlail", "Weapons/Enchantments/Enhancement5"]}

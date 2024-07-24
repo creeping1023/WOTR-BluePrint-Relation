@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_5"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_0015"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_5"], "children": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Muse/Cue_0015", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

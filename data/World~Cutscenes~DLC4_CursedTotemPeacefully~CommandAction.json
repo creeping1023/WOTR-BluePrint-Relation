@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_CursedTotemPeacefully/DLC4_CursedTotemPeacefully"], "children": ["World/Encounters/DLC4_RuinedVillage/SummonPools/DLC4_CursedTotem", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DLC4_CursedTotemPeacefully/DLC4_CursedTotemPeacefully"], "children": ["Factions/Mobs", "World/Encounters/DLC4_RuinedVillage/SummonPools/DLC4_CursedTotem"]}

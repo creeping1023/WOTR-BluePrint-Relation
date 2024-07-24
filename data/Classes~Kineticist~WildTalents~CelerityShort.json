@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/WildTalents/CelerityBase", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulMentalProwessBuff"], "children": ["Spells/Level3/SlowBuff", "Spells/Level3/SlowBuff", "Spells/Level3/HasteBuff", "Classes/Kineticist/WildTalents/CelerityBase"]}
+{"parents": ["Classes/Kineticist/WildTalents/CelerityBase", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulMentalProwessBuff"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/SlowBuff", "Classes/Kineticist/WildTalents/CelerityBase"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Ember/Answer_0020"], "children": ["World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0027"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Ember/Answer_0020", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0027"]}

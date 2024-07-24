@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/CueSequence_0014"], "children": ["Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Cue_0022", "World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Cue_0020"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/CueSequence_0014"], "children": ["World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Cue_0022", "Units/Companions/Arueshalae/Arueshalae_Companion", "World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Cue_0020"]}

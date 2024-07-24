@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/Events/CrusadeEvents/CrusadeEvent02", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Unique/DisruptingWeapon"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/CrusadeEvents/CrusadeEvent02"], "children": ["Weapons/Types/SimpleOneHanded/HeavyMace", "Weapons/Enchantments/Unique/DisruptingWeapon", "Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement3"]}

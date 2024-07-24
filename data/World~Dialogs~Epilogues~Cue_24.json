@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/Cue_0247"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "World/Etudes/Common/WrathOfTheRighteous/MythicLich/PlayerIsLich"]}
+{"parents": ["World/Dialogs/Epilogues/Cue_0247"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicLich/PlayerIsLich", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

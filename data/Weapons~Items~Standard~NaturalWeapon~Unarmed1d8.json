@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/Monk/MonkUnarmedStrikeLevel4"], "children": ["Weapons/Types/Special/Unarmed"]}
+{"parents": ["Classes/Monk/MonkUnarmedStrikeLevel4", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/Special/Unarmed"]}

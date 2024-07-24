@@ -1,1 +1,1 @@
-{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Classes/Cleric/Domains/Death/DeathDomainGreaterLiving", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Mythic/DLC5ShardsAbilities/BrokenAffinity"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Weapons/Types/Special/TouchItem", "Classes/Cleric/Domains/Death/DeathDomainGreaterLiving"]}

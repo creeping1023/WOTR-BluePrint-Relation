@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DefendersHeart/SeelahFriendsScene/CommandStartDialog"], "children": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/Ch1_SeelahMeetsFriends/Cue_0001", "World/Quests/Companions/Seelah/Q0_FriendsInNeed/Obj2_GetDrunkWithSeelah"]}
+{"parents": ["World/Cutscenes/DefendersHeart/SeelahFriendsScene/CommandStartDialog"], "children": ["World/Quests/Companions/Seelah/Q0_FriendsInNeed/Obj2_GetDrunkWithSeelah", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/Ch1_SeelahMeetsFriends/Cue_0001"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/StatueChallenge_scene/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/StatueChallenge_scene/CommandDelay 2", "World/Cutscenes/AreshkagalDungeon/StatueChallenge_scene/gate 2"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/StatueChallenge_scene/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/StatueChallenge_scene/gate 2", "World/Cutscenes/AreshkagalDungeon/StatueChallenge_scene/CommandDelay 2"]}

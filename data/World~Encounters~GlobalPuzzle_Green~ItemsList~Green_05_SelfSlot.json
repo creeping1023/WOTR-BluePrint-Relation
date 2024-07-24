@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenCheckIfNextValueIs05", "World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenSelfSlotChecker"]}
+{"parents": ["World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenSelfSlotChecker", "World/Encounters/GlobalPuzzle_Green/ConditionsHolders/GreenCheckIfNextValueIs05"]}

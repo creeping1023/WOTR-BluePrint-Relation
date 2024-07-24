@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/Actions/TacticalCombat_AIAction_AlchemistAttack", "Armies/UnitBlueprints/ArmyAlchemist"], "children": ["FX/Abilities/AlchemistColdBomb00", "Weapons/Types/Special/BombItem"]}
+{"parents": ["Armies/UnitBlueprints/ArmyAlchemist", "Armies/Brains/Actions/TacticalCombat_AIAction_AlchemistAttack"], "children": ["FX/Abilities/AlchemistColdBomb00", "Weapons/Types/Special/BombItem"]}

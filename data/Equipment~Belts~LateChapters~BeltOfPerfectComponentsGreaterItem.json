@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/Rushlight_GeneralistVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/LeatherShardItem", "Equipment/Belts/LateChapters/BeltOfPerfectComponentsGreaterEnchant"]}
+{"parents": ["Items/Vendors/Rushlight_GeneralistVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Belts/LateChapters/BeltOfPerfectComponentsGreaterEnchant", "Items/DestructibleItemsShards/LeatherShardItem"]}

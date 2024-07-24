@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CP_CultistCaster"], "children": ["Races/HumanRace", "Races/ElfRace", "Races/HalflingRace"]}
+{"parents": ["Units/Customization/CP_CultistCaster"], "children": ["Races/HumanRace", "Races/HalflingRace", "Races/ElfRace"]}

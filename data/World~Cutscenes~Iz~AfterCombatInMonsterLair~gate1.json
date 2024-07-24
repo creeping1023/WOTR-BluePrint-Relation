@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/AfterCombatInMonsterLair/AfterCombatInMonsterLair", "World/Cutscenes/Iz/AfterCombatInMonsterLair/gate"], "children": ["World/Cutscenes/Iz/AfterCombatInMonsterLair/CommandAction"]}
+{"parents": ["World/Cutscenes/Iz/AfterCombatInMonsterLair/gate", "World/Cutscenes/Iz/AfterCombatInMonsterLair/AfterCombatInMonsterLair"], "children": ["World/Cutscenes/Iz/AfterCombatInMonsterLair/CommandAction"]}

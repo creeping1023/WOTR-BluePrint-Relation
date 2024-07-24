@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deer/CR0.5_DeerStandard", "Units/Monsters/Deer/CR0.5_JeetDeer"], "children": ["Items/MonsterParts/DeerPelt", "Items/Ingredients/CookingIngredients/Uncommon/CorruptedAnimalMeatItem"]}
+{"parents": ["Units/Monsters/Deer/CR0.5_JeetDeer", "Units/Monsters/Deer/CR0.5_DeerStandard"], "children": ["Items/MonsterParts/DeerPelt", "Items/Ingredients/CookingIngredients/Uncommon/CorruptedAnimalMeatItem"]}

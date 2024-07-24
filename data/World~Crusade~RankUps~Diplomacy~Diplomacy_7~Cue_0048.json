@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/CueSequence_0034"], "children": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/Cue_0038", "Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Crusade/RankUps/Diplomacy/Diplomacy_7/CueSequence_0034"], "children": ["Units/Companions/Lann/Lann_Companion", "World/Crusade/RankUps/Diplomacy/Diplomacy_7/Cue_0038"]}

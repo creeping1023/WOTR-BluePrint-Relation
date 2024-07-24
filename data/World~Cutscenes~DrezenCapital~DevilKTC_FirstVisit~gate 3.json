@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/gate"], "children": ["World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/CommandFadeout", "World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/CommandDelay", "World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/gate 1"]}
+{"parents": ["World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/gate"], "children": ["World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/CommandFadeout", "World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/gate 1", "World/Cutscenes/DrezenCapital/DevilKTC_FirstVisit/CommandDelay"]}

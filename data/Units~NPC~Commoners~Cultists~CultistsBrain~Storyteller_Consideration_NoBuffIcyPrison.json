@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/StorytellerBrain/Storyteller_AiAction_IcyPrisonMass"], "children": ["Spells/Level5/IcyPrisonParalyzedBuff", "Spells/Level5/IcyPrisonEntangledBuff"]}
+{"parents": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/StorytellerBrain/Storyteller_AiAction_IcyPrisonMass"], "children": ["Spells/Level5/IcyPrisonEntangledBuff", "Spells/Level5/IcyPrisonParalyzedBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/KillingGuards/KillingGuards"], "children": ["World/Cutscenes/VaultOfGraves/KillingGuards/CommandUnitAttack", "World/Cutscenes/VaultOfGraves/KillingGuards/CommandAction", "World/Cutscenes/VaultOfGraves/KillingGuards/gate1"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/KillingGuards/KillingGuards"], "children": ["World/Cutscenes/VaultOfGraves/KillingGuards/CommandUnitAttack", "World/Cutscenes/VaultOfGraves/KillingGuards/gate1", "World/Cutscenes/VaultOfGraves/KillingGuards/CommandAction"]}

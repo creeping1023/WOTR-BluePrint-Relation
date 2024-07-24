@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/AfterFight/AnswersList_0013"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/AfterFight/Cue_0019"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/AfterFight/AnswersList_0013", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/AfterFight/Cue_0019"]}

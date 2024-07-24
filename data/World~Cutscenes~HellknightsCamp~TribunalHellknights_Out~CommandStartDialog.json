@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/HellknightsCamp/TribunalHellknights_Out/gate"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/Avowal_RegillQ3_dialog"]}
+{"parents": ["World/Cutscenes/HellknightsCamp/TribunalHellknights_Out/gate"], "children": ["World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Avowal/Avowal_RegillQ3_dialog", "Units/Companions/Regill/Regill_Companion"]}

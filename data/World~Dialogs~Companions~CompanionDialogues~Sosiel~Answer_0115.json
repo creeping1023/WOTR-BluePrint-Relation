@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0112"], "children": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0118", "World/UnlockableFlags/Companions/Sosiel/Sosiel_HeroCounter"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/AnswersList_0112"], "children": ["World/UnlockableFlags/Companions/Sosiel/Sosiel_HeroCounter", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0118"]}

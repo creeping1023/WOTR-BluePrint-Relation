@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/WarlordMageProgression"], "children": ["Armies/Rituals/RitualFireball", "Armies/Rituals/RitualHaste", "Armies/Rituals/RitualSlow", "Armies/Rituals/RitualBearsEndurance"]}
+{"parents": ["Armies/Leaders/Progression/WarlordMageProgression"], "children": ["Armies/Rituals/RitualHaste", "Armies/Rituals/RitualBearsEndurance", "Armies/Rituals/RitualFireball", "Armies/Rituals/RitualSlow"]}

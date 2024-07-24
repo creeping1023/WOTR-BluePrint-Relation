@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/UnbreakableHeart"], "children": ["Spells/Level5/SongOfDiscordBuff", "Buffs/DLC3/DLC3_MODS/DLC3_RageConfusionIslandMod/DLC3_ConfusionBuff", "Buffs/DLC3/DLC3_MODS/DLC3_RageConfusionIslandMod/DLC3_RageBuff", "Spells/Level2/AidBuff"]}
+{"parents": ["Spells/Level1/UnbreakableHeart"], "children": ["Buffs/DLC3/DLC3_MODS/DLC3_RageConfusionIslandMod/DLC3_RageBuff", "Spells/Level5/SongOfDiscordBuff", "Buffs/DLC3/DLC3_MODS/DLC3_RageConfusionIslandMod/DLC3_ConfusionBuff", "Spells/Level2/AidBuff"]}

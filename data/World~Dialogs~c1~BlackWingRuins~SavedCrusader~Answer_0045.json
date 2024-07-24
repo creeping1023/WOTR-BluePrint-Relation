@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/BlackWingRuins/SavedCrusader/AnswersList_0002"], "children": ["World/Dialogs/c1/BlackWingRuins/SavedCrusader/Cue_0046", "World/Dialogs/c1/BlackWingRuins/SavedCrusader/Answer_0014", "Classes/Basic/Deities/NethysFeature"]}
+{"parents": ["World/Dialogs/c1/BlackWingRuins/SavedCrusader/AnswersList_0002"], "children": ["Classes/Basic/Deities/NethysFeature", "World/Dialogs/c1/BlackWingRuins/SavedCrusader/Answer_0014", "World/Dialogs/c1/BlackWingRuins/SavedCrusader/Cue_0046"]}

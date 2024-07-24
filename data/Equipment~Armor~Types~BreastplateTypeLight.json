@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Armor/Items/TotalPlus7/SingingSteelBreastplatePlus5"], "children": ["EquipmentEntities/Armor/KEE_Armor_BreastplateKnight", "Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Equipment/Armor/Items/TotalPlus7/SingingSteelBreastplatePlus5"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Armor/KEE_Armor_BreastplateKnight"]}

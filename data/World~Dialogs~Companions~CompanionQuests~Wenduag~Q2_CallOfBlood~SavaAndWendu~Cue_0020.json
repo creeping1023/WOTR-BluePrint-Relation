@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/SavaAndWendu/Check_0019"], "children": ["Units/Monsters/Demon Vrolikai/MongrelQuest/CR19_Savameleh", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/SavaAndWendu/Cue_0022"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/SavaAndWendu/Check_0019"], "children": ["World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/SavaAndWendu/Cue_0022", "Units/Monsters/Demon Vrolikai/MongrelQuest/CR19_Savameleh"]}

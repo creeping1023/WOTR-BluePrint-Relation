@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Spells/Level5/SummonMonsterVSingle", "Equipment/CommonEnchantments/Constitution4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Constitution4", "Spells/Level5/SummonMonsterVSingle", "Items/DestructibleItemsShards/ClothShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/GalfreyBodyguard"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/GalfreyBodyguardBrain/GalfreyBodyguard_AiAction_BullsStrength"]}
+{"parents": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/GalfreyBodyguard"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/GalfreyBodyguardBrain/GalfreyBodyguard_AiAction_BullsStrength", "Brain/Actions/AttackAiAction"]}

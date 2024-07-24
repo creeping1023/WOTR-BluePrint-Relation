@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Megidiah"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/MegidiahBrain/Megidiah_ShareFeat_AiAction"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Megidiah"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/MegidiahBrain/Megidiah_ShareFeat_AiAction", "Brain/Actions/AttackAiAction"]}

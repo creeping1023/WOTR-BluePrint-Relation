@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/Military/Military_7_true/AnswersList_0008"], "children": ["World/Crusade/RankUps/Military/Military_7_true/Cue_0036", "World/Crusade/RankUps/Military/Military_7_true/Cue_0003", "Armies/CrusadeGlobalBuffs/FlagMilitary7StuckInCombat"]}
+{"parents": ["World/Crusade/RankUps/Military/Military_7_true/AnswersList_0008"], "children": ["Armies/CrusadeGlobalBuffs/FlagMilitary7StuckInCombat", "World/Crusade/RankUps/Military/Military_7_true/Cue_0036", "World/Crusade/RankUps/Military/Military_7_true/Cue_0003"]}

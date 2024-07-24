@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/TheIvoryLabyrinth/AlderpashStartsCombat/gate", "World/Cutscenes/TheIvoryLabyrinth/AlderpashStartsCombat/AlderpashStartsCombat"], "children": ["World/Cutscenes/TheIvoryLabyrinth/AlderpashStartsCombat/CommandAction 8"]}
+{"parents": ["World/Cutscenes/TheIvoryLabyrinth/AlderpashStartsCombat/AlderpashStartsCombat", "World/Cutscenes/TheIvoryLabyrinth/AlderpashStartsCombat/gate"], "children": ["World/Cutscenes/TheIvoryLabyrinth/AlderpashStartsCombat/CommandAction 8"]}

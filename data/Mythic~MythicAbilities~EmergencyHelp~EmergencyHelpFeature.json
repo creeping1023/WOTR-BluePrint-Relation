@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilitySelection", "Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenClericFeatureList"], "children": ["Mythic/MythicAbilities/EmergencyHelp/EmergencyHelpAbility", "Mythic/MythicAbilities/EmergencyHelp/EmergencyHelpResource"]}
+{"parents": ["Units/Pregens/StartGame/DLC1StartPregens/DLC1StartPregenClericFeatureList", "Mythic/MythicAbilitySelection"], "children": ["Mythic/MythicAbilities/EmergencyHelp/EmergencyHelpResource", "Mythic/MythicAbilities/EmergencyHelp/EmergencyHelpAbility"]}

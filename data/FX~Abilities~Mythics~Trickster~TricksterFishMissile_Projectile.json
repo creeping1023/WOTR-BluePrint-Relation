@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Trickster/TricksterSpells/TricksterFishMissile", "Spells/CutsceneSpells/TricksterCutsceneFish"], "children": ["FX/Abilities/Mythics/Trickster/TricksterFishMissile_Trajectory"]}
+{"parents": ["Spells/CutsceneSpells/TricksterCutsceneFish", "Mythic/Trickster/TricksterSpells/TricksterFishMissile"], "children": ["FX/Abilities/Mythics/Trickster/TricksterFishMissile_Trajectory"]}

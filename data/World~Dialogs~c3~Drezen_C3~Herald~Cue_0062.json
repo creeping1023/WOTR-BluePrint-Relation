@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/Herald/Answer_0060"], "children": ["World/Encounters/DrezenCapital/UnlockableFlags/HeraldReadyToStandUp", "World/Dialogs/c3/Drezen_C3/Herald/AnswersList_0064", "World/Dialogs/c3/Drezen_C3/Herald/Cue_0028"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/Herald/Answer_0060"], "children": ["World/Dialogs/c3/Drezen_C3/Herald/Cue_0028", "World/Encounters/DrezenCapital/UnlockableFlags/HeraldReadyToStandUp", "World/Dialogs/c3/Drezen_C3/Herald/AnswersList_0064"]}

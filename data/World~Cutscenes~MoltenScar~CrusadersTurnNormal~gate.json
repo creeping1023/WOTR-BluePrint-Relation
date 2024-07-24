@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/MoltenScar/CrusadersTurnNormal/CrusadersTurnNormal"], "children": ["World/Cutscenes/MoltenScar/CrusadersTurnNormal/CommandAction", "World/Cutscenes/MoltenScar/CrusadersTurnNormal/CommandDelay 1", "World/Cutscenes/MoltenScar/CrusadersTurnNormal/gate 1"]}
+{"parents": ["World/Cutscenes/MoltenScar/CrusadersTurnNormal/CrusadersTurnNormal"], "children": ["World/Cutscenes/MoltenScar/CrusadersTurnNormal/CommandAction", "World/Cutscenes/MoltenScar/CrusadersTurnNormal/gate 1", "World/Cutscenes/MoltenScar/CrusadersTurnNormal/CommandDelay 1"]}

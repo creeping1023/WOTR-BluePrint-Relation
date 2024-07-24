@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Shrine_Final/Answer_0038"], "children": ["Units/NPC/Commoners/Act_3_DemonsHerecy/Ember_Q1/CR3_Cultist_Wizard_Baphomet_02", "World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Shrine_Final/Cue_0043"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Shrine_Final/Answer_0038"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q1_Wayward/Shrine_Final/Cue_0043", "Units/NPC/Commoners/Act_3_DemonsHerecy/Ember_Q1/CR3_Cultist_Wizard_Baphomet_02"]}

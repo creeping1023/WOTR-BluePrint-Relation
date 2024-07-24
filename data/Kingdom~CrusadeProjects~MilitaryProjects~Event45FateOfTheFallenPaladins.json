@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/MilitaryProjects/MilitaryProjectsFlags/Event45FateOfTheFallenPaladins", "World/Crusade/CrusadeArmy/Event_45_5", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["GlobalMaps/WorldWoundGM/Points/Point_Drezen", "Kingdom/CrusadeProjects/MilitaryProjects/MilitaryProjectsFlags/Event45FateOfTheFallenPaladins", "World/Crusade/CrusadeArmy/Event_45_5"]}

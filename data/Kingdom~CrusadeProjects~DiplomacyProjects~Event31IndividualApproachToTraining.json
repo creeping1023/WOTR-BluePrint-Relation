@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event31IndividualApproachToTraining", "Armies/CrusadeGlobalBuffs/Event31ArmyIndividualApproachToTraining"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/CrusadeGlobalBuffs/Event31ArmyIndividualApproachToTraining", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event31IndividualApproachToTraining"]}

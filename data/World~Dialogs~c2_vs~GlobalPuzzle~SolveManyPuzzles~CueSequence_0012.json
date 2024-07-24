@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/Cue_0011"], "children": ["World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/Cue_0014", "World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/SequenceExit_0013"]}
+{"parents": ["World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/Cue_0011", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/SequenceExit_0013", "World/Dialogs/c2_vs/GlobalPuzzle/SolveManyPuzzles/Cue_0014"]}

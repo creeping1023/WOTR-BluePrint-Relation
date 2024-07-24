@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Arueshalae_Q2_DimalchioMansion/Battle_Start/gate"], "children": ["World/Encounters/Arueshalae_Q2_DimalchioMansion/SummonPools/DimalchioGuards", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/Arueshalae_Q2_DimalchioMansion/Battle_Start/gate"], "children": ["Factions/Mobs", "World/Encounters/Arueshalae_Q2_DimalchioMansion/SummonPools/DimalchioGuards"]}

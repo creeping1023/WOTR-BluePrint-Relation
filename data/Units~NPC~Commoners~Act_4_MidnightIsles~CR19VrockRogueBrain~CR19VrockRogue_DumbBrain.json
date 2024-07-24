@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Demon Vrock/VrockBrain/VrockSporesAiAction", "Units/Monsters/Demon Vrock/VrockBrain/VrockStunningScreechLowPriorityAiAction", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/Slayer_AiAction_StudySwift"]}
+{"children": ["Units/Monsters/Demon Vrock/VrockBrain/VrockStunningScreechLowPriorityAiAction", "Units/Monsters/Demon Vrock/VrockBrain/VrockSporesAiAction", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/Slayer_AiAction_StudySwift", "Brain/Actions/AttackAiAction"]}

@@ -1,1 +1,1 @@
-{"children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/TowerShieldType", "Equipment/Shields/Enchantments/ShieldEnhancementBonus1", "Equipment/Armor/Enchantments/SavingThrowAgainsBlindnessEnchant"]}
+{"children": ["Equipment/Armor/Enchantments/SavingThrowAgainsBlindnessEnchant", "Equipment/Shields/Enchantments/ShieldEnhancementBonus1", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Shields/Types/TowerShieldType"]}

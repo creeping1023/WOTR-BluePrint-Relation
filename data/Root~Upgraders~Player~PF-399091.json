@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/DLC1_DimensionDoorMassFact", "Spells/Level4/DimensionDoorMassDLC", "Spells/Level4/DimensionDoorMassDLCFeature"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Spells/Level4/DimensionDoorMassDLC", "Spells/Level4/DimensionDoorMassDLCFeature", "World/Etudes/Common/DLC1_DimensionDoorMassFact"]}

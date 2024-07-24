@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/MythicLichSkeletonPets/MythicLichSkeletonFighterClass"], "children": ["Classes/Monster/Undead/UndeadProgression", "Classes/Monster/Undead/UndeadProgression", "Classes/Pets/MythicLichSkeletonPets/MythicLichSkeletonFighterClass", "Traits/Races/Common/UndeadType", "Traits/Races/Common/UndeadType"]}
+{"parents": ["Classes/Pets/MythicLichSkeletonPets/MythicLichSkeletonFighterClass"], "children": ["Traits/Races/Common/UndeadType", "Classes/Pets/MythicLichSkeletonPets/MythicLichSkeletonFighterClass", "Classes/Monster/Undead/UndeadProgression"]}

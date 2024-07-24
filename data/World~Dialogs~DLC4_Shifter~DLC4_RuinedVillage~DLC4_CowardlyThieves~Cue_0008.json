@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/Answer_0003"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_RuinedVillage/DLC4_CR14_ElfMarauderWizard", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/AnswersList_0002"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/Answer_0003"], "children": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/AnswersList_0002", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_RuinedVillage/DLC4_CR14_ElfMarauderWizard"]}

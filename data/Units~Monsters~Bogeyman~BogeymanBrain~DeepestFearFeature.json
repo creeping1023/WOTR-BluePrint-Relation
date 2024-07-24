@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Bogeyman/BogeymanBrain/DeepestFearAreaEffect", "Units/Monsters/Bogeyman/BogeymanBrain/BogeymanFeature"], "children": ["Units/Monsters/Bogeyman/BogeymanBrain/DeepestFearToggleAbility"]}
+{"parents": ["Units/Monsters/Bogeyman/BogeymanBrain/BogeymanFeature", "Units/Monsters/Bogeyman/BogeymanBrain/DeepestFearAreaEffect"], "children": ["Units/Monsters/Bogeyman/BogeymanBrain/DeepestFearToggleAbility"]}

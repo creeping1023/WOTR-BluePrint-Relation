@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Scythe", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Unique/TouchEnchant2"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Unique/TouchEnchant2", "Weapons/Enchantments/Enhancement2", "Weapons/Types/MartialTwoHanded/Scythe"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/Proclaimer/ProclaimerArchetype", "Classes/Warpriest/WarpriestProgression"], "children": ["Classes/Warpriest/WarpriestClass", "Classes/Warpriest/Archetypes/Proclaimer/ProclaimerZoneOfSanctification5FeetFeature"]}
+{"parents": ["Classes/Warpriest/Archetypes/Proclaimer/ProclaimerArchetype", "Classes/Warpriest/WarpriestProgression"], "children": ["Classes/Warpriest/Archetypes/Proclaimer/ProclaimerZoneOfSanctification5FeetFeature", "Classes/Warpriest/WarpriestClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/NumerianCamp/AutomaticDoor/Cue_0028", "World/Quests/c5/NumerianCamp/Obj2_2_PasswordHacker", "World/Quests/c5/NumerianCamp/NumerianCamp_quest"], "children": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest"]}
+{"parents": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest", "World/Quests/c5/NumerianCamp/Obj2_2_PasswordHacker", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/Cue_0028"], "children": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest"]}

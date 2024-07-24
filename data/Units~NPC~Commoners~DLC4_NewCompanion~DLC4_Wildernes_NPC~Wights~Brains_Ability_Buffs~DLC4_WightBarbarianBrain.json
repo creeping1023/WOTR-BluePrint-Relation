@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Wights/DLC4_CairnWight_Barbarian_CR8", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Wights/DLC4_CairnWight_Rogue_CR8"], "children": ["Brain/Actions/AttackAiAction", "Brain/Actions/ChargeAiAction"]}
+{"parents": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Wights/DLC4_CairnWight_Rogue_CR8", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Wights/DLC4_CairnWight_Barbarian_CR8"], "children": ["Brain/Actions/ChargeAiAction", "Brain/Actions/AttackAiAction"]}

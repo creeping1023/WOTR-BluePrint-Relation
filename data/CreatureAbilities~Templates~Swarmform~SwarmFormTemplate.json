@@ -1,1 +1,1 @@
-{"children": ["Units/Monsters/Demon Derakni/PuluraFall/SwarmImmunityFeature", "CreatureAbilities/Templates/Swarmform/SwarmFormDamageAuraBuff", "CreatureAbilities/Templates/Swarmform/SwarmFormTouchAttack"]}
+{"children": ["CreatureAbilities/Templates/Swarmform/SwarmFormDamageAuraBuff", "CreatureAbilities/Templates/Swarmform/SwarmFormTouchAttack", "Units/Monsters/Demon Derakni/PuluraFall/SwarmImmunityFeature"]}

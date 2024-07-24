@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_CamelliaRomance/DLC6_CamelliaRomance_Kisses/DLC6_CamelliaRomance_Kisses"], "children": ["World/Cutscenes/GenericScenes/UnitKissesUnit_Param/UnitKissesUnit_Param", "Units/Companions/Camelia/Camelia_Companion"]}
+{"parents": ["World/Cutscenes/DLC6_CamelliaRomance/DLC6_CamelliaRomance_Kisses/DLC6_CamelliaRomance_Kisses"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Cutscenes/GenericScenes/UnitKissesUnit_Param/UnitKissesUnit_Param"]}

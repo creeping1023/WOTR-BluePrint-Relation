@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Types/HideType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus4", "Equipment/Armor/Items/Unique/LateChapters/HodagHideEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Armor/Types/HideType", "Equipment/Armor/Enchantments/ArmorEnhancementBonus4", "Classes/Monster/Dragon/DragonClass", "Equipment/Armor/Items/Unique/LateChapters/HodagHideEnchant"]}

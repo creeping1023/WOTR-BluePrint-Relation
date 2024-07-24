@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/SoulsCrusaders/Answer_5"], "children": ["Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGorgo", "World/Dialogs/c5/Mythic_Devil/DevilishTemptation/SoulsCrusaders/Cue_8"]}
+{"parents": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/SoulsCrusaders/Answer_5"], "children": ["World/Dialogs/c5/Mythic_Devil/DevilishTemptation/SoulsCrusaders/Cue_8", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGorgo"]}

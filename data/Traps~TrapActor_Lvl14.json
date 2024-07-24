@@ -1,1 +1,1 @@
-{"parents": ["Root/TrapSettings/TrapSettings_CR14"], "children": ["Traps/TrapActor_Lvl03", "Traps/TrapActor_Lvl03", "Classes/Monster/Dragon/DragonClass", "Factions/Traps", "WeaponEmptyHand", "Traps/TrapDagger_Lvl14", "Traps/TrapActorFeature"]}
+{"parents": ["Root/TrapSettings/TrapSettings_CR14"], "children": ["Traps/TrapActorFeature", "Traps/TrapActor_Lvl03", "Traps/TrapDagger_Lvl14", "Classes/Monster/Dragon/DragonClass", "WeaponEmptyHand", "Factions/Traps"]}

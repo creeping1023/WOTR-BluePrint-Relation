@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionArchetypes/Aggressor/AggressorArchetype"], "children": ["CreatureAbilities/Bleed/Bleed1d6Buff", "Classes/Pets/AnimalCompanionArchetypes/Aggressor/AggressorMarkBuff", "Classes/Pets/AnimalCompanionArchetypes/Aggressor/AggressorMarkBuff", "Classes/Pets/AnimalCompanionArchetypes/Aggressor/AggressorMarkBuff"]}
+{"parents": ["Classes/Pets/AnimalCompanionArchetypes/Aggressor/AggressorArchetype"], "children": ["Classes/Pets/AnimalCompanionArchetypes/Aggressor/AggressorMarkBuff", "CreatureAbilities/Bleed/Bleed1d6Buff"]}

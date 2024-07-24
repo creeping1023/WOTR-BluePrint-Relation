@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Dyra_Vendor/Answer_0017"], "children": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Neathholm/Dyra_Trader_Neathholm", "World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Dyra_Vendor/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Dyra_Vendor/Answer_0017"], "children": ["World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Dyra_Vendor/AnswersList_0003", "Units/NPC/Unique/Act_0_Prologue/Prologue_Neathholm/Dyra_Trader_Neathholm"]}

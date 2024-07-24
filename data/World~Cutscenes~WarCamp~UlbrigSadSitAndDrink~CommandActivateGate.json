@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/UlbrigSadSitAndDrink/gate"], "children": ["World/Encounters/WarCamp/UnlockableFlags/DLC4_UlbrigAndPlayerDrink", "World/Cutscenes/WarCamp/UlbrigSadSitAndDrink/UlbrigSadSitAndDrink"]}
+{"parents": ["World/Cutscenes/WarCamp/UlbrigSadSitAndDrink/gate"], "children": ["World/Cutscenes/WarCamp/UlbrigSadSitAndDrink/UlbrigSadSitAndDrink", "World/Encounters/WarCamp/UnlockableFlags/DLC4_UlbrigAndPlayerDrink"]}

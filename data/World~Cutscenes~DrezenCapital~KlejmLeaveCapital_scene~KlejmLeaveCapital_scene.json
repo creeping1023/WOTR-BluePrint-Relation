@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Flamelance_Leader_Klejm/Cue_0017"], "children": ["World/Cutscenes/DrezenCapital/KlejmLeaveCapital_scene/CommandMoveUnit", "World/Cutscenes/DrezenCapital/KlejmLeaveCapital_scene/CommandAction"]}
+{"parents": ["World/Dialogs/NPC_Common/Flamelance_Leader_Klejm/Cue_0017"], "children": ["World/Cutscenes/DrezenCapital/KlejmLeaveCapital_scene/CommandAction", "World/Cutscenes/DrezenCapital/KlejmLeaveCapital_scene/CommandMoveUnit"]}

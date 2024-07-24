@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/RangerProgression", "Classes/Ranger/Archetypes/SableMarine/SableMarineArchetype", "Classes/Ranger/Archetypes/SableMarine/Hippogriff/HippogriffFlyingAttackRiderBuff"], "children": ["Classes/Ranger/Archetypes/SableMarine/SableMarineStrongestWingsAbility"]}
+{"parents": ["Classes/Ranger/Archetypes/SableMarine/SableMarineArchetype", "Classes/Ranger/Archetypes/SableMarine/Hippogriff/HippogriffFlyingAttackRiderBuff", "Classes/Ranger/RangerProgression"], "children": ["Classes/Ranger/Archetypes/SableMarine/SableMarineStrongestWingsAbility"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/WarlordRangerProgression", "Armies/Leaders/Progression/RitualWarriorChoice2", "Armies/Leaders/Progression/RitualMageChoice2"], "children": ["Armies/Rituals/RitualCureWoundsAbility"]}
+{"parents": ["Armies/Leaders/Progression/RitualWarriorChoice2", "Armies/Leaders/Progression/WarlordRangerProgression", "Armies/Leaders/Progression/RitualMageChoice2"], "children": ["Armies/Rituals/RitualCureWoundsAbility"]}

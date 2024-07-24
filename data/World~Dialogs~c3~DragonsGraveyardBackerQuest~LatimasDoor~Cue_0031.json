@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/Cue_0030"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/Cue_0032"]}
+{"parents": ["World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/Cue_0030"], "children": ["World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/Cue_0032", "Units/Companions/Nenio/Nenio_Companion"]}

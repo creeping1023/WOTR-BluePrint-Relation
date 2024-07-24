@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidessBrain"], "children": ["Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidessCastrightulMoan", "Brain/Considerations/AoE_AvoidFriends", "Units/Monsters/Demon Nabasu/NabasuBrain/DLC4_CorruptingGazeAbility"]}
+{"parents": ["Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidessBrain"], "children": ["Brain/Considerations/AoE_AvoidFriends", "Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidessCastrightulMoan", "Units/Monsters/Demon Nabasu/NabasuBrain/DLC4_CorruptingGazeAbility"]}

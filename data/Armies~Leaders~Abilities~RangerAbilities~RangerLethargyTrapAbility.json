@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrap"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrapArea", "Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrapResource"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrap"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrapResource", "Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrapArea"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/InfMummyBoss_DigOut/gate", "World/Cutscenes/AreshkagalDungeon/InfMummyBoss_DigOut/InfMummyBoss_DigOut"], "children": ["World/Cutscenes/AreshkagalDungeon/InfMummyBoss_DigOut/CommandAction 1"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/InfMummyBoss_DigOut/InfMummyBoss_DigOut", "World/Cutscenes/AreshkagalDungeon/InfMummyBoss_DigOut/gate"], "children": ["World/Cutscenes/AreshkagalDungeon/InfMummyBoss_DigOut/CommandAction 1"]}

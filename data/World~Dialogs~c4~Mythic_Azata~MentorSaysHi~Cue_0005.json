@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/MentorSaysHi/Cue_0007"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/HeraldMute", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald", "World/Dialogs/c4/Mythic_Azata/MentorSaysHi/Cue_0008"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/MentorSaysHi/Cue_0007"], "children": ["World/Dialogs/c4/Mythic_Azata/MentorSaysHi/Cue_0008", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald", "World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/HeraldMute"]}

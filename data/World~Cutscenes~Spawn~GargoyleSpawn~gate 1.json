@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Spawn/GargoyleSpawn/GargoyleSpawn"], "children": ["World/Cutscenes/Spawn/GargoyleSpawn/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Spawn/GargoyleSpawn/CommandDelay1", "World/Cutscenes/Spawn/GargoyleSpawn/CommandAction"]}
+{"parents": ["World/Cutscenes/Spawn/GargoyleSpawn/GargoyleSpawn"], "children": ["World/Cutscenes/Spawn/GargoyleSpawn/CommandAction", "World/Cutscenes/Spawn/GargoyleSpawn/CommandUnitPlayCutsceneAnimation", "World/Cutscenes/Spawn/GargoyleSpawn/CommandDelay1"]}

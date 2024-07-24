@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AzataIsland/AzataIsland_WeCanFly_scene/AzataIsland_WeCanFly_scene"], "children": ["World/Cutscenes/AzataIsland/AzataIsland_WeCanFly_scene/CommandUnitPlayCutsceneAnimation 7", "World/Cutscenes/AzataIsland/AzataIsland_WeCanFly_scene/gate 26"]}
+{"parents": ["World/Cutscenes/AzataIsland/AzataIsland_WeCanFly_scene/AzataIsland_WeCanFly_scene"], "children": ["World/Cutscenes/AzataIsland/AzataIsland_WeCanFly_scene/gate 26", "World/Cutscenes/AzataIsland/AzataIsland_WeCanFly_scene/CommandUnitPlayCutsceneAnimation 7"]}

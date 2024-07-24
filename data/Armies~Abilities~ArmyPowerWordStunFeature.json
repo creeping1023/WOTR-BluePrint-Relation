@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyVavakiaStandard"], "children": ["Armies/Abilities/ArmyPowerWordStun", "Armies/Abilities/ArmyPowerWordStunFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyVavakiaStandard"], "children": ["Armies/Abilities/ArmyPowerWordStunFact", "Armies/Abilities/ArmyPowerWordStun"]}

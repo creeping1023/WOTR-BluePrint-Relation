@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/ElementalFocus/Earth/FLeshOfStoneBuff", "Classes/Kineticist/ElementalFocus/Earth/FleshOfStoneFeature"], "children": ["Classes/Kineticist/KineticistClass"]}
+{"parents": ["Classes/Kineticist/ElementalFocus/Earth/FleshOfStoneFeature", "Classes/Kineticist/ElementalFocus/Earth/FLeshOfStoneBuff"], "children": ["Classes/Kineticist/KineticistClass"]}

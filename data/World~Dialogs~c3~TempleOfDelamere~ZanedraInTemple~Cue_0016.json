@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Answer_0015", "World/Encounters/TempleOfDelamere/ToIndoor"], "children": ["World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_0017"]}
+{"parents": ["World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Answer_0015", "World/Encounters/TempleOfDelamere/ToIndoor", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_0017"]}

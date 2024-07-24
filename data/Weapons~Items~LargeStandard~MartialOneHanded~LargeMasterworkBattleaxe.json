@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Battleaxe", "Weapons/Enchantments/Masterwork"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Masterwork", "Weapons/Types/MartialOneHanded/Battleaxe"]}

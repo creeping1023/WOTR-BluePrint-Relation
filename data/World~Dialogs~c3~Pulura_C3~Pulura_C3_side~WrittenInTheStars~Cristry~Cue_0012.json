@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Pulura_C3/Pulura_C3_side/WrittenInTheStars/Cristry/Answer_0010"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Vestari", "World/Dialogs/c3/Pulura_C3/Pulura_C3_side/WrittenInTheStars/Cristry/Cue_0017"]}
+{"parents": ["World/Dialogs/c3/Pulura_C3/Pulura_C3_side/WrittenInTheStars/Cristry/Answer_0010"], "children": ["World/Dialogs/c3/Pulura_C3/Pulura_C3_side/WrittenInTheStars/Cristry/Cue_0017", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Vestari"]}

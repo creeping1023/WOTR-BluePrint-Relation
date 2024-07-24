@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/ParagonOfDefenders/ParagonOfDefendersEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Headgear/ParagonOfDefenders/ParagonOfDefendersEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

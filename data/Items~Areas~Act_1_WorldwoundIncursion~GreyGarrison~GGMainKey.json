@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "QA/Clockwork/Scenario/Exploration/prologue_K_C", "QA/Clockwork/Scenario/Exploration/ScenarioParts/chap1", "QA/Clockwork/Scenario/Exploration/PrologueTest"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/chap1", "Dugeons/Loot/DungeonLootExclude", "QA/Clockwork/Scenario/Exploration/PrologueTest", "QA/Clockwork/Scenario/Exploration/prologue_K_C"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

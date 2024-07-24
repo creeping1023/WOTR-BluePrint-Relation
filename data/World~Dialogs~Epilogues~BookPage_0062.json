@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/Epilogues/Cue_0063", "World/Dialogs/Epilogues/Answer_0065"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["World/Dialogs/Epilogues/Answer_0065", "World/Dialogs/Epilogues/Cue_0063", "Units/Companions/Ember/Ember_Companion"]}

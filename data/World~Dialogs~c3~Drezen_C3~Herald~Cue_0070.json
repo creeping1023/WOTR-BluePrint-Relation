@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/Herald/Cue_0013"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Dialogs/c3/Drezen_C3/Herald/AnswersList_0020"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/Herald/Cue_0013"], "children": ["World/Dialogs/c3/Drezen_C3/Herald/AnswersList_0020", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}

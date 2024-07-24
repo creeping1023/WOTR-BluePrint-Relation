@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/SequenceExit_0032", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/Cue_0019"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/Cue_0019", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/SequenceExit_0032"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/AnswersList_0002"]}

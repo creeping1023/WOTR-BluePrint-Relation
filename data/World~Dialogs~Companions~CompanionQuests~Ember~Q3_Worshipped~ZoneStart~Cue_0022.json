@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0020"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Ember_Q1/EmberQ1_KTC_Cultist", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0021"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0020"], "children": ["World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0021", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Ember_Q1/EmberQ1_KTC_Cultist"]}

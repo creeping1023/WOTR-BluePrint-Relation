@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra"], "children": ["DLC/FreeDLC4/FreeDlc4Reward", "Items/NewTrashLoot/TrashTrashLoot/PetrifiedEgg", "Items/Familiars/ImperialDragon/ImperialDragon_Ability"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/NewTrashLoot/TrashTrashLoot/PetrifiedEgg", "Items/Familiars/ImperialDragon/ImperialDragon_Ability", "DLC/FreeDLC4/FreeDlc4Reward"]}

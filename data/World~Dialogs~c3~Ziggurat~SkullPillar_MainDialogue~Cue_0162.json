@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Answer_0161"], "children": ["Units/Monsters/Invisible_Kitten/Ziggurat/SkullPillar", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0163"]}
+{"parents": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Answer_0161"], "children": ["World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0163", "Units/Monsters/Invisible_Kitten/Ziggurat/SkullPillar"]}

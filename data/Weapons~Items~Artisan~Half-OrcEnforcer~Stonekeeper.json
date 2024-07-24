@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level4/SpikeStones", "Weapons/Types/MartialTwoHanded/Greatsword", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Greatsword", "Weapons/Enchantments/Corrosive", "Spells/Level4/SpikeStones", "Weapons/Enchantments/Enhancement2"]}

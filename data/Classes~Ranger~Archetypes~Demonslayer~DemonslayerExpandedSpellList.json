@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/Archetypes/Demonslayer/DemonslayerArchetype"], "children": ["Classes/Ranger/RangerClass", "Spells/Level1/ProtectionFromEvil", "Classes/Ranger/RangerClass", "Spells/Level2/ProtectionFromEvilCommunal"]}
+{"parents": ["Classes/Ranger/Archetypes/Demonslayer/DemonslayerArchetype"], "children": ["Spells/Level2/ProtectionFromEvilCommunal", "Spells/Level1/ProtectionFromEvil", "Classes/Ranger/RangerClass"]}

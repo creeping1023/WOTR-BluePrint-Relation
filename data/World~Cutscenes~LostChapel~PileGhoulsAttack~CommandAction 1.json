@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/PileGhoulsAttack/PileGhoulsAttack"], "children": ["World/Encounters/LostChapel/SummonPools/PileGhouls", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/LostChapel/PileGhoulsAttack/PileGhoulsAttack"], "children": ["Factions/Mobs", "World/Encounters/LostChapel/SummonPools/PileGhouls"]}

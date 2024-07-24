@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/Shortspear", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Corrosive", "Weapons/Items/Unique/EE/DeadlyIvyEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Corrosive", "Weapons/Types/SimpleOneHanded/Shortspear", "Weapons/Items/Unique/EE/DeadlyIvyEnchantment", "Weapons/Enchantments/Enhancement2"]}

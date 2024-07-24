@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/Ssilameshnik_GoneWild/Ssilameshnik_GoneWild", "World/Cutscenes/DLC1_Threshold_FinalDungeon/Ssilameshnik_GoneWild/gate"], "children": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/Ssilameshnik_GoneWild/CommandAction1"]}
+{"parents": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/Ssilameshnik_GoneWild/gate", "World/Cutscenes/DLC1_Threshold_FinalDungeon/Ssilameshnik_GoneWild/Ssilameshnik_GoneWild"], "children": ["World/Cutscenes/DLC1_Threshold_FinalDungeon/Ssilameshnik_GoneWild/CommandAction1"]}

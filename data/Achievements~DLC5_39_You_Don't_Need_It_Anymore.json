@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_FrozenTemple/ActionsHolders/DeadCultistTreasure_Action", "Root/BlueprintRoot"], "children": ["DLC/DLC5/Dlc5Campaign", "Achievements/Groups/DLC5TrophyGroup"]}
+{"parents": ["Root/BlueprintRoot", "World/Encounters/DLC5_FrozenTemple/ActionsHolders/DeadCultistTreasure_Action"], "children": ["Achievements/Groups/DLC5TrophyGroup", "DLC/DLC5/Dlc5Campaign"]}

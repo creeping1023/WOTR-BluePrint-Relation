@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_0004"], "children": ["World/Quests/DLC1_Megaepic/EqualizeLawChaos/EqualizeLawChaos_quest", "Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik", "World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_6"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_0004"], "children": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_6", "World/Quests/DLC1_Megaepic/EqualizeLawChaos/EqualizeLawChaos_quest", "Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik"]}

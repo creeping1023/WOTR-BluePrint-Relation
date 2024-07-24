@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/Timer_Before_AzataRankUp_04", "World/Cutscenes/AzataIsland/AzataRankUp3_scene/CommandStartDialog"], "children": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_3_correct/Cue_0022"]}
+{"parents": ["World/Cutscenes/AzataIsland/AzataRankUp3_scene/CommandStartDialog", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/Timer_Before_AzataRankUp_04"], "children": ["World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_3_correct/Cue_0022"]}

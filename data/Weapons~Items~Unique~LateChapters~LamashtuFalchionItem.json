@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/Falchion", "Weapons/Enchantments/Enhancement5", "Weapons/Items/Unique/LateChapters/LamashtuFalchionEnchantment", "Weapons/Enchantments/Unholy", "Weapons/Enchantments/Anarchic"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Anarchic", "Weapons/Types/MartialTwoHanded/Falchion", "Weapons/Enchantments/Unholy", "Weapons/Items/Unique/LateChapters/LamashtuFalchionEnchantment", "Weapons/Enchantments/Enhancement5"]}

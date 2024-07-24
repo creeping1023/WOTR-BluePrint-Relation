@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Area512/TestEtude512 - Child1-1"], "children": ["World/Etudes/Area512/TestEtude512", "World/Encounters/WoundWormsLair/UnlockableFlags/DragonDead"]}
+{"parents": ["World/Etudes/Area512/TestEtude512 - Child1-1"], "children": ["World/Encounters/WoundWormsLair/UnlockableFlags/DragonDead", "World/Etudes/Area512/TestEtude512"]}

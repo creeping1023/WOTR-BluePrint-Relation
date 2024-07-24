@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Seelah/Q0_FriendsInNeed/SeelahQ0_FriendsInNeed", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra", "World/Quests/Companions/Seelah/Q0_FriendsInNeed/SeelahQ0_HiddenFail"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/Companions/Seelah/Q0_FriendsInNeed/SeelahQ0_HiddenFail", "World/Quests/Companions/Seelah/Q0_FriendsInNeed/SeelahQ0_FriendsInNeed", "World/Etudes/Common/WrathOfTheRighteous/Chapter02_Extra"]}

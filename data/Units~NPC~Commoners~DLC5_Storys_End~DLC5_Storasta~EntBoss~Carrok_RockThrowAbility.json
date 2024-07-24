@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/DLC5_Carrok", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/Carrok_RockThrowAiAction"], "children": ["FX/Creatures/RockThrow00_AshGiantVariant", "Weapons/Types/Special/RayItem"]}
+{"parents": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/DLC5_Carrok", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/EntBoss/Carrok_RockThrowAiAction"], "children": ["Weapons/Types/Special/RayItem", "FX/Creatures/RockThrow00_AshGiantVariant"]}

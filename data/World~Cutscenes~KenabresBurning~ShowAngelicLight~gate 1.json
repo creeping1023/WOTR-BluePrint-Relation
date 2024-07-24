@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresBurning/ShowAngelicLight/ShowAngelicLight"], "children": ["World/Cutscenes/KenabresBurning/ShowAngelicLight/CommandDelay", "World/Cutscenes/KenabresBurning/ShowAngelicLight/gate 2"]}
+{"parents": ["World/Cutscenes/KenabresBurning/ShowAngelicLight/ShowAngelicLight"], "children": ["World/Cutscenes/KenabresBurning/ShowAngelicLight/gate 2", "World/Cutscenes/KenabresBurning/ShowAngelicLight/CommandDelay"]}

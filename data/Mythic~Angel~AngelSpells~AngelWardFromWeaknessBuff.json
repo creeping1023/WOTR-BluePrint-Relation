@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Angel/AngelSpells/AngelWardFromWeaknessCommunal", "Mythic/Angel/AngelSpells/AngelWardFromWeakness"], "children": ["Mythic/MythicAbilities/Corrupter", "Mythic/MythicAbilities/Corrupter", "Mythic/MythicAbilities/Corrupter"]}
+{"parents": ["Mythic/Angel/AngelSpells/AngelWardFromWeakness", "Mythic/Angel/AngelSpells/AngelWardFromWeaknessCommunal"], "children": ["Mythic/MythicAbilities/Corrupter"]}

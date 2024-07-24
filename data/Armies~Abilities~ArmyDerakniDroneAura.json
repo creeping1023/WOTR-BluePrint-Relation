@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyDerakniDroneFeatureBuff"], "children": ["Armies/Abilities/ArmyDerakniDroneEffectBuff", "Armies/Abilities/ArmyDerakniDroneEffectBuff", "Armies/Abilities/ArmyConfusedBuff"]}
+{"parents": ["Armies/Abilities/ArmyDerakniDroneFeatureBuff"], "children": ["Armies/Abilities/ArmyConfusedBuff", "Armies/Abilities/ArmyDerakniDroneEffectBuff"]}

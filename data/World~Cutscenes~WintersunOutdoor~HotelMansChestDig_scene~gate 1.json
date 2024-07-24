@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WintersunOutdoor/HotelMansChestDig_scene/gate"], "children": ["World/Cutscenes/WintersunOutdoor/HotelMansChestDig_scene/CommandDelay 3", "World/Cutscenes/WintersunOutdoor/HotelMansChestDig_scene/gate 2"]}
+{"parents": ["World/Cutscenes/WintersunOutdoor/HotelMansChestDig_scene/gate"], "children": ["World/Cutscenes/WintersunOutdoor/HotelMansChestDig_scene/gate 2", "World/Cutscenes/WintersunOutdoor/HotelMansChestDig_scene/CommandDelay 3"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_0001", "World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_2", "World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_0014"], "children": ["World/Cutscenes/DLC3_AlushinyrraPort/Balor_attack_Herald/CommandUnitAttack"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_2", "World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_0014", "World/Dialogs/DLC3_Roguelike/DarkBalor_Tier2end/Cue_0001"], "children": ["World/Cutscenes/DLC3_AlushinyrraPort/Balor_attack_Herald/CommandUnitAttack"]}

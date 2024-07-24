@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/CueSequence_0068"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_5", "World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_8"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/CueSequence_0068"], "children": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_8", "World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_5", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter3TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmyKalavakus", "Armies/UnitBlueprints/ArmyPainajaiRanged", "Armies/UnitBlueprints/ArmyNalfeshneeStandard", "Armies/UnitBlueprints/ArmyGlabrezuStandard"]}
+{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter3TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmyNalfeshneeStandard", "Armies/UnitBlueprints/ArmyPainajaiRanged", "Armies/UnitBlueprints/ArmyKalavakus", "Armies/UnitBlueprints/ArmyGlabrezuStandard"]}

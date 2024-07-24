@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SarkorianWedding/Bride/Answer_0009"], "children": ["Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss", "World/Dialogs/c5/SarkorianWedding/Bride/AnswersList_0002"]}
+{"parents": ["World/Dialogs/c5/SarkorianWedding/Bride/Answer_0009"], "children": ["World/Dialogs/c5/SarkorianWedding/Bride/AnswersList_0002", "Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"]}

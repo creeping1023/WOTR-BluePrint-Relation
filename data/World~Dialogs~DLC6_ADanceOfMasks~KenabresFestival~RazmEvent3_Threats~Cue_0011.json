@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/RazmEvent3_Threats/Cue_0001"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_RazmirManager", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/RazmEvent3_Threats/Cue_2"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/RazmEvent3_Threats/Cue_0001"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/RazmEvent3_Threats/Cue_2", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_RazmirManager"]}

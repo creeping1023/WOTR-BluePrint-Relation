@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/DisableWhenAutoCast", "Brain/Considerations/UndeadConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level0/DisruptUndead"]}
+{"children": ["Spells/Level0/DisruptUndead", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/UndeadConsideration", "Brain/Considerations/DisableWhenAutoCast"]}

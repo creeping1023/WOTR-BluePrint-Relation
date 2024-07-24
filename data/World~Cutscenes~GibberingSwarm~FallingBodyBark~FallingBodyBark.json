@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/GibberingSwarm/ScriptZones/Loot4Time01"], "children": ["World/Cutscenes/GibberingSwarm/FallingBodyBark/CommandDelay", "World/Cutscenes/GibberingSwarm/FallingBodyBark/CommandAction"]}
+{"parents": ["World/Encounters/GibberingSwarm/ScriptZones/Loot4Time01"], "children": ["World/Cutscenes/GibberingSwarm/FallingBodyBark/CommandAction", "World/Cutscenes/GibberingSwarm/FallingBodyBark/CommandDelay"]}

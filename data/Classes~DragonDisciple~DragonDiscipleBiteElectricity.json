@@ -1,1 +1,1 @@
-{"parents": ["Classes/DragonDisciple/DragonDiscipleBiteFeatureElectricity", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/NaturalWeapon/BiteDragonType", "Weapons/Enchantments/Shock"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Classes/DragonDisciple/DragonDiscipleBiteFeatureElectricity"], "children": ["Weapons/Types/NaturalWeapon/BiteDragonType", "Weapons/Enchantments/Shock"]}

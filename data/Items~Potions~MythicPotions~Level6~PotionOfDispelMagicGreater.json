@@ -1,1 +1,1 @@
-{"parents": ["Root/CraftRoot", "World/Areas/Random_Encounters/RE_TrashLootSettings", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootPotions"], "children": ["Items/DestructibleItemsShards/GlassShardItem", "Spells/Level6/DispelMagicGreaterTarget"]}
+{"parents": ["Dugeons/Loot/DungeonLootPotions", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Root/CraftRoot", "World/Areas/Random_Encounters/RE_TrashLootSettings"], "children": ["Spells/Level6/DispelMagicGreaterTarget", "Items/DestructibleItemsShards/GlassShardItem"]}

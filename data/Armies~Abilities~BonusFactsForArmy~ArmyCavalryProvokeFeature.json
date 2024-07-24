@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/FlagMilitary7CavalryProvoke", "Armies/UnitBlueprints/ArmyGoldenLegionnaires"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyCavalryProvokeAbility", "Armies/Abilities/BonusFactsForArmy/ArmyCavalryProvokeFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyGoldenLegionnaires", "Armies/CrusadeGlobalBuffs/FlagMilitary7CavalryProvoke"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyCavalryProvokeFact", "Armies/Abilities/BonusFactsForArmy/ArmyCavalryProvokeAbility"]}

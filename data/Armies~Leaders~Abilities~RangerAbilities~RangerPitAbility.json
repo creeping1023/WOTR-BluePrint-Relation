@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerPit"], "children": ["Armies/Leaders/Abilities/RangerAbilities/RangerPitArea", "Armies/Leaders/Abilities/RangerAbilities/RangerPitResource", "Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerPit"], "children": ["Armies/Leaders/Feats/Bonus/PropertyGetterHalfPower", "Armies/Leaders/Abilities/RangerAbilities/RangerPitArea", "Armies/Leaders/Abilities/RangerAbilities/RangerPitResource"]}

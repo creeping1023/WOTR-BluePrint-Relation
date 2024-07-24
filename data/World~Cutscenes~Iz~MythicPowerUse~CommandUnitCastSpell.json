@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/MythicPowerUse/gate1"], "children": ["World/Dialogs/c5/Iz/DeskariFight/Answer_0020", "Spells/CutsceneSpells/AngelBoltOfJusticeCutscene"]}
+{"parents": ["World/Cutscenes/Iz/MythicPowerUse/gate1"], "children": ["Spells/CutsceneSpells/AngelBoltOfJusticeCutscene", "World/Dialogs/c5/Iz/DeskariFight/Answer_0020"]}

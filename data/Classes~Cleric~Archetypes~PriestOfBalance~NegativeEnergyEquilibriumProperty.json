@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichChannelNegativeHarm", "Mythic/Lich/LichChannelNegativeHeal"], "children": ["Classes/Cleric/Archetypes/PriestOfBalance/NegativeEmpowerBuff", "Classes/Cleric/Archetypes/PriestOfBalance/NegativeEnergyEquilibriumBuff"]}
+{"parents": ["Mythic/Lich/LichChannelNegativeHarm", "Mythic/Lich/LichChannelNegativeHeal"], "children": ["Classes/Cleric/Archetypes/PriestOfBalance/NegativeEnergyEquilibriumBuff", "Classes/Cleric/Archetypes/PriestOfBalance/NegativeEmpowerBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialTwoHanded/EarthBreaker", "Weapons/Enchantments/Enhancement3", "Weapons/Items/Unique/DLC3/EarthBreakerHolyEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/DLC3/EarthBreakerHolyEnchantment", "Weapons/Enchantments/Enhancement3", "Weapons/Types/MartialTwoHanded/EarthBreaker"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyPainajaiRanged"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackArcher", "Armies/Brains/Actions/TacticalCombat_AIAction_PainajaiSpear", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]}
+{"parents": ["Armies/UnitBlueprints/ArmyPainajaiRanged"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam", "Armies/Brains/Actions/TacticalCombat_AIAction_PainajaiSpear", "Armies/Brains/Actions/TacticalCombatAiAttackArcher"]}

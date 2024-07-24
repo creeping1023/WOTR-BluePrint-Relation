@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_Ritual_is_completed/gate3"], "children": ["World/Encounters/DLC5_GiantsOverseers/SummonPools/DLC5_Prisoners_pool", "World/Cutscenes/GenericScenes/UnitRun_Param/UnitRun_Param"]}
+{"parents": ["World/Cutscenes/DLC5_GiantsOverseers/DLC5_Ritual_is_completed/gate3"], "children": ["World/Cutscenes/GenericScenes/UnitRun_Param/UnitRun_Param", "World/Encounters/DLC5_GiantsOverseers/SummonPools/DLC5_Prisoners_pool"]}

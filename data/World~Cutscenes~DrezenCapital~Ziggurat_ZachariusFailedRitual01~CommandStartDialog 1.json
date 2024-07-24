@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/Ziggurat_ZachariusFailedRitual01/gate 3"], "children": ["World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius", "World/Dialogs/c3/Ziggurat/Zacharius_Main/Zacharius_main"]}
+{"parents": ["World/Cutscenes/DrezenCapital/Ziggurat_ZachariusFailedRitual01/gate 3"], "children": ["World/Dialogs/c3/Ziggurat/Zacharius_Main/Zacharius_main", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Intro_in_abyss/CommandStartDialog"], "children": ["World/Dialogs/DLC5_StoryEnds/Interchapters/DLC5_Inter_Start/BookPage_0001", "World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_Adventures_Count"]}
+{"parents": ["World/Cutscenes/DLC5_FrozenTemple/DLC5_Intro_in_abyss/CommandStartDialog"], "children": ["World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_Adventures_Count", "World/Dialogs/DLC5_StoryEnds/Interchapters/DLC5_Inter_Start/BookPage_0001"]}

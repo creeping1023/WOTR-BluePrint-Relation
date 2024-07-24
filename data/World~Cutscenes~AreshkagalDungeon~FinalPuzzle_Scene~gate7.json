@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/FinalPuzzle_Scene/FinalPuzzle_Scene", "World/Cutscenes/AreshkagalDungeon/FinalPuzzle_Scene/gate2"], "children": ["World/Cutscenes/AreshkagalDungeon/FinalPuzzle_Scene/CommandAction5"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/FinalPuzzle_Scene/gate2", "World/Cutscenes/AreshkagalDungeon/FinalPuzzle_Scene/FinalPuzzle_Scene"], "children": ["World/Cutscenes/AreshkagalDungeon/FinalPuzzle_Scene/CommandAction5"]}

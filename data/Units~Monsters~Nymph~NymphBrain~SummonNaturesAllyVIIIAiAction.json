@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Nymph/NymphBrain/HATEOT_NymphBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level8/SummonNaturesAllyVIII", "Spells/Level8/SummonNaturesAllyVIIISingle"]}
+{"parents": ["Units/Monsters/Nymph/NymphBrain/HATEOT_NymphBrain"], "children": ["Brain/Considerations/NoThreateningUnitsConsideration", "Brain/Considerations/AttackTargetsPriority", "Spells/Level8/SummonNaturesAllyVIIISingle", "Spells/Level8/SummonNaturesAllyVIII"]}

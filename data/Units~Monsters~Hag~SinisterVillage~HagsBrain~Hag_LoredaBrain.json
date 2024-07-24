@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Hag/SinisterVillage/Hag_Loreda"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Hag/SinisterVillage/HagsBrain/Hag_LoredaChainLightningAiAction", "Units/Monsters/Hag/SinisterVillage/HagsBrain/Hag_LoredaStormboltsAiAction"]}
+{"parents": ["Units/Monsters/Hag/SinisterVillage/Hag_Loreda"], "children": ["Units/Monsters/Hag/SinisterVillage/HagsBrain/Hag_LoredaStormboltsAiAction", "Units/Monsters/Hag/SinisterVillage/HagsBrain/Hag_LoredaChainLightningAiAction", "Brain/Actions/AttackAiAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreeluLabReturn/AreeluCall/CommandStartDialog", "World/Dialogs/c6/SecondFloor/AreeluBurnTheWitch/Answer_0054"], "children": ["World/Dialogs/c5/AreeluLabAgain/AreeluCell/Cue_0001"]}
+{"parents": ["World/Dialogs/c6/SecondFloor/AreeluBurnTheWitch/Answer_0054", "World/Cutscenes/AreeluLabReturn/AreeluCall/CommandStartDialog"], "children": ["World/Dialogs/c5/AreeluLabAgain/AreeluCell/Cue_0001"]}

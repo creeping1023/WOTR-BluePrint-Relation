@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSpellLikes/TouchOfFatigueBackgroundsFeature"], "children": ["Spells/Level0/TouchOfFatigueCast", "Spells/Level0/TouchOfFatigueCast", "Spells/Level0/TouchOfFatigueCast", "Spells/Level0/TouchOfFatigueEffect"]}
+{"parents": ["Backgrounds/BackgroundsSpellLikes/TouchOfFatigueBackgroundsFeature"], "children": ["Spells/Level0/TouchOfFatigueEffect", "Spells/Level0/TouchOfFatigueCast"]}

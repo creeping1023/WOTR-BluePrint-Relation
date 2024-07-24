@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/Buried_A-dead/Buried_A-dead_dialogue"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/Buried_A-dead/AnswersList_0002"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/Buried_A-dead/Buried_A-dead_dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/Buried_A-dead/AnswersList_0002"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/Random_Encounters/RE_WoundedForest/RE_WoundedForest", "QA/Arbiter/Scenario/Generated/RE_WoundedForest"], "children": ["World/Areas/Random_Encounters/RE_WoundedForest/RE_WoundedForest", "World/Areas/Random_Encounters/RE_WoundedForest/RE_WoundedForest"]}
+{"parents": ["QA/Arbiter/Scenario/Generated/RE_WoundedForest", "World/Areas/Random_Encounters/RE_WoundedForest/RE_WoundedForest"], "children": ["World/Areas/Random_Encounters/RE_WoundedForest/RE_WoundedForest"]}

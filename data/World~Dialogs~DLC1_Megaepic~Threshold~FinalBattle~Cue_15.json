@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_14"], "children": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik", "World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/AnswersList_0035"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_14"], "children": ["World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/AnswersList_0035", "Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik"]}

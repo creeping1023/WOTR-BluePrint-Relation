@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/BlizzardElemental_NumbingColdFeature", "Classes/Druid/Archetypes/WinterChild/BlizzardServant/NumbingColdFeature"], "children": ["Classes/Monster/Animal/AnimalCompanionClass"]}
+{"parents": ["Classes/Druid/Archetypes/WinterChild/BlizzardServant/NumbingColdFeature", "Units/Monsters/DLC5Mobs/WizardsTower/BlizzardElemental/BlizzardElemental_NumbingColdFeature"], "children": ["Classes/Monster/Animal/AnimalCompanionClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CorruptedHusband/Answer_0006"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DLC5_CR9_Human_Corrupted_Ded", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CorruptedHusband/Cue_0017"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CorruptedHusband/Answer_0006"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/CorruptedHusband/Cue_0017", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DLC5_CR9_Human_Corrupted_Ded"]}

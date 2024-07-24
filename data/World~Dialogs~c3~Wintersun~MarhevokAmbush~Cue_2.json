@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/MarhevokAmbush/CueSequence_0021"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/c3/Wintersun/MarhevokAmbush/Cue_3"]}
+{"parents": ["World/Dialogs/c3/Wintersun/MarhevokAmbush/CueSequence_0021"], "children": ["World/Dialogs/c3/Wintersun/MarhevokAmbush/Cue_3", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

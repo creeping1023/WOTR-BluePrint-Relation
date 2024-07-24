@@ -1,1 +1,1 @@
-{"parents": ["Backgrounds/BackgroundsSelection/Craftsman/BackgroundsCraftsmanSelection", "Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerFighter"], "children": ["Feats/Proficiencies/WarhammerProficiency", "Feats/Proficiencies/LightHammerProficiency"]}
+{"parents": ["Units/Monsters/DLC6Mobs/AdventurersArena/DLC6_CR20_AdventurerFighter", "Backgrounds/BackgroundsSelection/Craftsman/BackgroundsCraftsmanSelection"], "children": ["Feats/Proficiencies/WarhammerProficiency", "Feats/Proficiencies/LightHammerProficiency"]}

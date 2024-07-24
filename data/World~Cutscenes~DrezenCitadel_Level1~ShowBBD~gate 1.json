@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level1/ShowBBD/gate", "World/Cutscenes/DrezenCitadel_Level1/ShowBBD/ShowBBD"], "children": ["World/Cutscenes/DrezenCitadel_Level1/ShowBBD/CommandStartDialog", "World/Cutscenes/DrezenCitadel_Level1/ShowBBD/gate 2"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level1/ShowBBD/ShowBBD", "World/Cutscenes/DrezenCitadel_Level1/ShowBBD/gate"], "children": ["World/Cutscenes/DrezenCitadel_Level1/ShowBBD/gate 2", "World/Cutscenes/DrezenCitadel_Level1/ShowBBD/CommandStartDialog"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/CursedKnightsLANN", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041"], "children": ["Units/Companions/Lann/Lann_Companion"]}
+{"parents": ["World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041", "World/Dialogs/c3/MoltenScar/PrisonedKnight/CursedKnightsLANN", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Lann/Lann_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/Cruoromancer/CommandingInfusionAbility", "Classes/Wizard/Archetypes/Cruoromancer/SickeningInfusionAbility", "Classes/Wizard/Archetypes/Cruoromancer/FocusedInfusionAbility"], "children": ["Classes/Wizard/WizardSpellbook"]}
+{"parents": ["Classes/Wizard/Archetypes/Cruoromancer/SickeningInfusionAbility", "Classes/Wizard/Archetypes/Cruoromancer/CommandingInfusionAbility", "Classes/Wizard/Archetypes/Cruoromancer/FocusedInfusionAbility"], "children": ["Classes/Wizard/WizardSpellbook"]}

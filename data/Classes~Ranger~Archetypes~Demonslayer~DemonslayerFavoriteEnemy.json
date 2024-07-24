@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/Archetypes/Demonslayer/DemonslayerArchetype", "Feats/DLC6/FavoredEnemySpellcasting"], "children": ["Traits/Races/Common/OutsiderType", "CreatureAbilities/Subtypes/SubtypeEvil"]}
+{"parents": ["Classes/Ranger/Archetypes/Demonslayer/DemonslayerArchetype", "Feats/DLC6/FavoredEnemySpellcasting"], "children": ["CreatureAbilities/Subtypes/SubtypeEvil", "Traits/Races/Common/OutsiderType"]}

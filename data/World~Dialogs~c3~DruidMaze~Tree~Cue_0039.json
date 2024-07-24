@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/DruidMaze/Tree/Answer_0038", "World/Dialogs/c3/DruidMaze/Tree/Cue_0068"], "children": ["Units/Monsters/Treant/CR17_PrimalTreant", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/c3/DruidMaze/Tree/Cue_0068", "World/Dialogs/c3/DruidMaze/Tree/Answer_0038"], "children": ["Factions/Mobs", "Units/Monsters/Treant/CR17_PrimalTreant"]}

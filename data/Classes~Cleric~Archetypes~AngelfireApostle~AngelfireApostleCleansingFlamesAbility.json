@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleCleansingFlames"], "children": ["Classes/Cleric/ChannelEnergyResource", "Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleCleansingFlamesBuff", "Classes/Cleric/ClericClass", "Classes/Cleric/ClericClass"]}
+{"parents": ["Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleCleansingFlames"], "children": ["Classes/Cleric/Archetypes/AngelfireApostle/AngelfireApostleCleansingFlamesBuff", "Classes/Cleric/ChannelEnergyResource", "Classes/Cleric/ClericClass"]}

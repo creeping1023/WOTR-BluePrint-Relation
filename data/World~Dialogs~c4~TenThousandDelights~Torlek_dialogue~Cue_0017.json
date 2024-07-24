@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Torlek_dialogue"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/AlushinyrraPatronage", "Factions/CutsceneNeutrals", "World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Cue_0032"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Torlek_dialogue"], "children": ["World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Cue_0032", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/DemonStates/AlushinyrraPatronage", "Factions/CutsceneNeutrals"]}

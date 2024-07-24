@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/SinisterVillage/ActionsHolders/HagCaveExit"], "children": ["World/Dialogs/c5/SinisterVillage/MalessaFinal/Cue_0001", "World/Dialogs/c5/SinisterVillage/MalessaFinal/Cue_0002", "World/Quests/c5/SinisterVillage2_DarkWaves/Obj_03_MeetHags"]}
+{"parents": ["World/Encounters/SinisterVillage/ActionsHolders/HagCaveExit"], "children": ["World/Dialogs/c5/SinisterVillage/MalessaFinal/Cue_0001", "World/Quests/c5/SinisterVillage2_DarkWaves/Obj_03_MeetHags", "World/Dialogs/c5/SinisterVillage/MalessaFinal/Cue_0002"]}

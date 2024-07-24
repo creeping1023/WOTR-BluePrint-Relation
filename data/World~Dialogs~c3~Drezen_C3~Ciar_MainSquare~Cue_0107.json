@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Drezen_C3/Ciar_MainSquare/Answer_0106"], "children": ["Items/Areas/Act_3_DemonsHerecy/ArueshalaeRedoubt/MorvegsTalisman", "World/Etudes/Common/WrathOfTheRighteous/Chapter03/EverbrightCrusaders/CiarSad", "World/Dialogs/c3/Drezen_C3/Ciar_MainSquare/Cue_0108"]}
+{"parents": ["World/Dialogs/c3/Drezen_C3/Ciar_MainSquare/Answer_0106"], "children": ["World/Dialogs/c3/Drezen_C3/Ciar_MainSquare/Cue_0108", "World/Etudes/Common/WrathOfTheRighteous/Chapter03/EverbrightCrusaders/CiarSad", "Items/Areas/Act_3_DemonsHerecy/ArueshalaeRedoubt/MorvegsTalisman"]}

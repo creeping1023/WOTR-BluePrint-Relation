@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/GalfreyFightAgainstMonster/GalfreyFightAgainstMonster", "World/Cutscenes/Iz/GalfreyFightAgainstMonster/gate 4"], "children": ["World/Cutscenes/Iz/GalfreyFightAgainstMonster/CommandAction"]}
+{"parents": ["World/Cutscenes/Iz/GalfreyFightAgainstMonster/gate 4", "World/Cutscenes/Iz/GalfreyFightAgainstMonster/GalfreyFightAgainstMonster"], "children": ["World/Cutscenes/Iz/GalfreyFightAgainstMonster/CommandAction"]}

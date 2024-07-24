@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/WorkshopGhouls/WorkshopGhouls"], "children": ["World/Cutscenes/LostChapel/WorkshopGhouls/CommandStartDialog", "World/Cutscenes/LostChapel/WorkshopGhouls/CommandDelay 1", "World/Cutscenes/LostChapel/WorkshopGhouls/gate 1"]}
+{"parents": ["World/Cutscenes/LostChapel/WorkshopGhouls/WorkshopGhouls"], "children": ["World/Cutscenes/LostChapel/WorkshopGhouls/CommandStartDialog", "World/Cutscenes/LostChapel/WorkshopGhouls/gate 1", "World/Cutscenes/LostChapel/WorkshopGhouls/CommandDelay 1"]}

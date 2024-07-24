@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresGates/StandingInLine/Answer_0004"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_BoyMale", "Player Character", "World/Dialogs/DLC6_ADanceOfMasks/KenabresGates/StandingInLine/Cue_0007"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/KenabresGates/StandingInLine/Answer_0004"], "children": ["Player Character", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_BoyMale", "World/Dialogs/DLC6_ADanceOfMasks/KenabresGates/StandingInLine/Cue_0007"]}

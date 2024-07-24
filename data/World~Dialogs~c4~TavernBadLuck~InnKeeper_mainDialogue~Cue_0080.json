@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0079"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/TruthAboutZiforian", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0079"], "children": ["World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/AnswersList_0003", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/TruthAboutZiforian"]}

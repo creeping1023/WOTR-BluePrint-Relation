@@ -1,1 +1,1 @@
-{"children": ["Classes/Monster/Outsider/OutsiderClass", "Classes/Basic/BasicFeatSelection", "Feats/Toughness", "Units/Types/DemonDretch", "Factions/Civilians", "Brain/Passive Monster Brain", "Buffs/NPC_Immortality"]}
+{"children": ["Factions/Civilians", "Units/Types/DemonDretch", "Classes/Basic/BasicFeatSelection", "Brain/Passive Monster Brain", "Buffs/NPC_Immortality", "Feats/Toughness", "Classes/Monster/Outsider/OutsiderClass"]}

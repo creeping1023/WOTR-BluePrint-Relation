@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/FinneanLab/DestroySkulls_scene/gate 1", "World/Cutscenes/FinneanLab/DestroySkulls_scene/gate 5"], "children": ["World/Cutscenes/FinneanLab/DestroySkulls_scene/CommandDelay 5", "World/Cutscenes/FinneanLab/DestroySkulls_scene/gate 7"]}
+{"parents": ["World/Cutscenes/FinneanLab/DestroySkulls_scene/gate 5", "World/Cutscenes/FinneanLab/DestroySkulls_scene/gate 1"], "children": ["World/Cutscenes/FinneanLab/DestroySkulls_scene/CommandDelay 5", "World/Cutscenes/FinneanLab/DestroySkulls_scene/gate 7"]}

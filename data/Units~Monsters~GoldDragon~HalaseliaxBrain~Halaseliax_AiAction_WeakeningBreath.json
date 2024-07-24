@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AoE_ChooseMoreEnemies", "Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_WeakeningBreathWeapon"]}
+{"parents": ["Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_Brain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_WeakeningBreathWeapon", "Brain/Considerations/AoE_ChooseMoreEnemies"]}

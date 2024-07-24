@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DrezenCapital/ActionsHolders/ZigguratGuardPlacement_ActionHolder", "World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB02/CommandAction"], "children": ["Factions/NeutralGuards", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_GuardSkeletons"]}
+{"parents": ["World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB02/CommandAction", "World/Encounters/DrezenCapital/ActionsHolders/ZigguratGuardPlacement_ActionHolder"], "children": ["Factions/NeutralGuards", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_GuardSkeletons"]}

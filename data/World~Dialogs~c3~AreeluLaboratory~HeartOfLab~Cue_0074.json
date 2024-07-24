@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_3", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0073"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0075"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0073", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_3"], "children": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0075", "Units/Companions/Nenio/Nenio_Companion"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Quivers/ColorlessRemainsQuiver/ColorlessRemainsQuiver_MadnessBuff"], "children": ["Items/Quivers/ColorlessRemainsQuiver/ColorlessRemainsQuiver_MadnessCountBuff", "Items/Quivers/ColorlessRemainsQuiver/ColorlessRemainsQuiver_MadnessCountBuff", "Buffs/Confusion"]}
+{"parents": ["Items/Quivers/ColorlessRemainsQuiver/ColorlessRemainsQuiver_MadnessBuff"], "children": ["Items/Quivers/ColorlessRemainsQuiver/ColorlessRemainsQuiver_MadnessCountBuff", "Buffs/Confusion"]}

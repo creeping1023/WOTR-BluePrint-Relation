@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/Archeology/Collector/AnswersList_0273"], "children": ["World/Dialogs/Test/Archeology/Collector/Cue_0363", "Items/Rods/Oculus/OculusItem"]}
+{"parents": ["World/Dialogs/Test/Archeology/Collector/AnswersList_0273"], "children": ["Items/Rods/Oculus/OculusItem", "World/Dialogs/Test/Archeology/Collector/Cue_0363"]}

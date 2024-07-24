@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_ThirdScene/gate1"], "children": ["Factions/CutsceneNeutrals", "Buffs/SummonedCreatureVisual", "CreatureAbilities/Unlootable"]}
+{"parents": ["World/Cutscenes/DLC1_AxisDungeon/IntroTeleport_ThirdScene/gate1"], "children": ["CreatureAbilities/Unlootable", "Buffs/SummonedCreatureVisual", "Factions/CutsceneNeutrals"]}

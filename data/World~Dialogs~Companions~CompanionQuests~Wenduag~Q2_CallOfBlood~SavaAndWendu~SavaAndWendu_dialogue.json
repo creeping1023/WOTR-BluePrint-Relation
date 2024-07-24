@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0142", "World/Cutscenes/AlushinyrraHigherCity/WenduagQ2_interlude/CommandStartDialog"], "children": ["World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/SavaAndWendu/Cue_0001"]}
+{"parents": ["World/Cutscenes/AlushinyrraHigherCity/WenduagQ2_interlude/CommandStartDialog", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0142"], "children": ["World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/SavaAndWendu/Cue_0001"]}

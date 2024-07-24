@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/Prebuilds/PrebuildKineticistFeatureList", "Classes/Kineticist/Metakinesis/MetakinesisMaster"], "children": ["Classes/Kineticist/Metakinesis/MetakinesisMaximizedCheaperAbility", "Classes/Kineticist/Metakinesis/MetakinesisMaximizedFeature"]}
+{"parents": ["Classes/Kineticist/Metakinesis/MetakinesisMaster", "Units/Pregens/StartGame/Prebuilds/PrebuildKineticistFeatureList"], "children": ["Classes/Kineticist/Metakinesis/MetakinesisMaximizedFeature", "Classes/Kineticist/Metakinesis/MetakinesisMaximizedCheaperAbility"]}

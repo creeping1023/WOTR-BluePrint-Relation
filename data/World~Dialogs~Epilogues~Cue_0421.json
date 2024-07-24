@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/BookPage_0352"], "children": ["World/Dialogs/Epilogues/Cue_0102_TE_with_Companions", "World/Dialogs/Epilogues/Cue_0105_TE_with_CompandAreelu", "World/Quests/Companions/Nenio/MoreThanNothing/MoreThanNothing_quest"]}
+{"parents": ["World/Dialogs/Epilogues/BookPage_0352"], "children": ["World/Dialogs/Epilogues/Cue_0102_TE_with_Companions", "World/Quests/Companions/Nenio/MoreThanNothing/MoreThanNothing_quest", "World/Dialogs/Epilogues/Cue_0105_TE_with_CompandAreelu"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/PrisonCook/Answer_5"], "children": ["Items/Potions/Level1/PotionOfReducePerson", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/PrisonCook/AnswersList_0002", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/PrisonCook/Cue_11"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/PrisonCook/Answer_5"], "children": ["World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/PrisonCook/AnswersList_0002", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/PrisonCook/Cue_11", "Items/Potions/Level1/PotionOfReducePerson"]}

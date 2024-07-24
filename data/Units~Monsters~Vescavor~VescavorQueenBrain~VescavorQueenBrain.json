@@ -1,1 +1,1 @@
-{"children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Vescavor/VescavorQueenBrain/VescavorQueenSpitAcidAiAction", "Units/Monsters/Vescavor/VescavorQueenBrain/VescavorQueenSwarmMotherAiAction"]}
+{"children": ["Units/Monsters/Vescavor/VescavorQueenBrain/VescavorQueenSwarmMotherAiAction", "Units/Monsters/Vescavor/VescavorQueenBrain/VescavorQueenSpitAcidAiAction", "Brain/Actions/AttackAiAction"]}

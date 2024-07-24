@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceMain_c2/UlbrigMourning/Cue_0015"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceMain_c2/UlbrigMourning/Cue_0017"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceMain_c2/UlbrigMourning/Cue_0015"], "children": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceMain_c2/UlbrigMourning/Cue_0017", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

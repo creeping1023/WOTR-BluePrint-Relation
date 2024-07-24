@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/MeatSlaves_dialogue/Answer_0009", "World/Dialogs/c4/FleshMarket/MeatSlaves_dialogue/Cue_0023"], "children": ["Spells/Level4/FearBuff_NoFX_SilverstepViilagers"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/MeatSlaves_dialogue/Cue_0023", "World/Dialogs/c4/FleshMarket/MeatSlaves_dialogue/Answer_0009"], "children": ["Spells/Level4/FearBuff_NoFX_SilverstepViilagers"]}

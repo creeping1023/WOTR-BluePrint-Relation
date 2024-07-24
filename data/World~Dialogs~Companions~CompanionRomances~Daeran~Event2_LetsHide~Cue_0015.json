@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/Answer_0012"], "children": ["World/UnlockableFlags/Companions/Daeran/DaeranTrust_Counter", "World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/AnswersList_0039"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/Answer_0012"], "children": ["World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/AnswersList_0039", "World/UnlockableFlags/Companions/Daeran/DaeranTrust_Counter"]}

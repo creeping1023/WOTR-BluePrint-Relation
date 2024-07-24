@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/AnswersList_0130", "QA/Clockwork/Scenario/Exploration/ScenarioParts/Chap4quickArena"], "children": ["World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0039", "World/Quests/c4/ChampionOfTheArena/Add6B_NewFight"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/Chap4quickArena", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/AnswersList_0130"], "children": ["World/Quests/c4/ChampionOfTheArena/Add6B_NewFight", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0039"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/AzataQuest_C4/NoDragon", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/AzataQuest_C4/NoDragon"]}

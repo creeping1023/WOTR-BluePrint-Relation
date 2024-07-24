@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DawnOfDragons/HokugolAfterBattle/CueSequence_0024"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed", "World/Etudes/Common/WrathOfTheRighteous/AzataChanged", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}
+{"parents": ["World/Dialogs/c5/DawnOfDragons/HokugolAfterBattle/CueSequence_0024"], "children": ["World/Etudes/Common/WrathOfTheRighteous/AzataChanged", "Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_EventLineFailed"]}

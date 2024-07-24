@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot", "Loot/Trash/CR13/PF2_Demons_ChapelChest"], "children": ["Items/DestructibleItemsShards/PaperShardItem", "Spells/Level3/Rage"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/CraftRoot", "Loot/Trash/CR13/PF2_Demons_ChapelChest"], "children": ["Spells/Level3/Rage", "Items/DestructibleItemsShards/PaperShardItem"]}

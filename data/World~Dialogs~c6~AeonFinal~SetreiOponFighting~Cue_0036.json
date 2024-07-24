@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0053"], "children": ["Units/NPC/Unique/Act_6/MythicAeon_Ch6/SetrayDevimaiHuman", "World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0037"]}
+{"parents": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0053"], "children": ["World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0037", "Units/NPC/Unique/Act_6/MythicAeon_Ch6/SetrayDevimaiHuman"]}

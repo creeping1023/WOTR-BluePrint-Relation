@@ -1,1 +1,1 @@
-{"parents": ["Loot/Trash/CR6/PF2_Crusaders_GGLoot38", "Dugeons/Loot/DungeonLootJunk", "Items/Vendors/ElinaTavernkeeperVendorTable", "Items/Vendors/BanditConspiratorVendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Loot/Trash/CR6/PF2_Crusaders_GGLoot38", "Items/Vendors/ElinaTavernkeeperVendorTable", "Dugeons/Loot/DungeonLootJunk", "Items/Vendors/BanditConspiratorVendorTable", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

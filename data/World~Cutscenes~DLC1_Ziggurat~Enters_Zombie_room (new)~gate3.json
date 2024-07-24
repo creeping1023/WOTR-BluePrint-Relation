@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate2"], "children": ["World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/CommandDelay3", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate4"]}
+{"parents": ["World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate2", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate"], "children": ["World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/CommandDelay3", "World/Cutscenes/DLC1_Ziggurat/Enters_Zombie_room (new)/gate4"]}

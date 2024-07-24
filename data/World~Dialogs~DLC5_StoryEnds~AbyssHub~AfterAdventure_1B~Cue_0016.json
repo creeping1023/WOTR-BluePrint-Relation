@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1B/Answer_0009"], "children": ["Units/NPC/Commoners/DLC5_Storys_End/Penta_companion", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1B/Cue_0009", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1B/Cue_0010"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1B/Answer_0009"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1B/Cue_0009", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1B/Cue_0010", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]}

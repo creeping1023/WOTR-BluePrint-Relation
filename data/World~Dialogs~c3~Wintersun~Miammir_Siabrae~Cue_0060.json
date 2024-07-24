@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_0059"], "children": ["World/Encounters/WintersunOutdoor/UnlockableFlags/NystraAnd_ExecutionMiammir", "World/Quests/c3/FlamingLance/Obj_4_DoSomething"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_0059"], "children": ["World/Quests/c3/FlamingLance/Obj_4_DoSomething", "World/Encounters/WintersunOutdoor/UnlockableFlags/NystraAnd_ExecutionMiammir"]}

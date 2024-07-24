@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Answer_0017", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Kaylessa", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0041"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Answer_0017", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0041", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Kaylessa"]}

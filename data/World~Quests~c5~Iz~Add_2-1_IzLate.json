@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Iz/ActionsHolders/Iz_DeskariAngel_Preset_Holder", "World/Quests/c5/Iz/Obj2_FindFlag", "World/Cutscenes/Iz/DeskariArrives/CommandAction1", "World/Quests/c5/Iz/Iz_quest"], "children": ["World/Quests/c5/Iz/Iz_quest"]}
+{"parents": ["World/Encounters/Iz/ActionsHolders/Iz_DeskariAngel_Preset_Holder", "World/Quests/c5/Iz/Iz_quest", "World/Quests/c5/Iz/Obj2_FindFlag", "World/Cutscenes/Iz/DeskariArrives/CommandAction1"], "children": ["World/Quests/c5/Iz/Iz_quest"]}

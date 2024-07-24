@@ -1,1 +1,1 @@
-{"parents": ["World/Areas/DLC5_LowFantasy2/DLC5_Tavern/EnterPoints/DLC5_TavernToBasement_Transition", "QA/Arbiter/Scenario/DLC5/DLC5_Tavern"], "children": ["World/Areas/DLC5_LowFantasy2/DLC5_Tavern/DLC5_Tavern", "World/Areas/DLC5_LowFantasy2/DLC5_Tavern/DLC5_TavernBasement"]}
+{"parents": ["World/Areas/DLC5_LowFantasy2/DLC5_Tavern/EnterPoints/DLC5_TavernToBasement_Transition", "QA/Arbiter/Scenario/DLC5/DLC5_Tavern"], "children": ["World/Areas/DLC5_LowFantasy2/DLC5_Tavern/DLC5_TavernBasement", "World/Areas/DLC5_LowFantasy2/DLC5_Tavern/DLC5_Tavern"]}

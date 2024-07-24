@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Lann_Q3_SavamelekhLair/LannUnderCorruption_True/gate 4"], "children": ["World/Encounters/Lann_Q3_SavamelekhLair/SummonPools/RageMongrels", "Spells/CutsceneSpells/CutsceneRageBuff"]}
+{"parents": ["World/Cutscenes/Lann_Q3_SavamelekhLair/LannUnderCorruption_True/gate 4"], "children": ["Spells/CutsceneSpells/CutsceneRageBuff", "World/Encounters/Lann_Q3_SavamelekhLair/SummonPools/RageMongrels"]}

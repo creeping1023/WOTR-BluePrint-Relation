@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Interchapters/c0_c1/BookPage_0001", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "QA/Clockwork/Scenario/Draft/Chapter1_tst_preset"]}
+{"parents": ["QA/Clockwork/Scenario/Draft/Chapter1_tst_preset", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "World/Dialogs/Interchapters/c0_c1/BookPage_0001", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"]}

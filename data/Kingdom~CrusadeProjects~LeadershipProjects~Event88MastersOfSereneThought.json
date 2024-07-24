@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/LeadershipProjects/LeadershipProjectsFlags/Event88MastersOfSereneThought", "World/Crusade/CrusadeArmy/Event_88_4", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["GlobalMaps/WorldWoundGM/Points/Point_Drezen", "World/Crusade/CrusadeArmy/Event_88_4", "Kingdom/CrusadeProjects/LeadershipProjects/LeadershipProjectsFlags/Event88MastersOfSereneThought"]}

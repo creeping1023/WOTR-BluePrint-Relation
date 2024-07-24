@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CP_Ghouls", "Units/Customization/CP_GhoulPriest"], "children": ["Races/GhoulRace"]}
+{"parents": ["Units/Customization/CP_GhoulPriest", "Units/Customization/CP_Ghouls"], "children": ["Races/GhoulRace"]}

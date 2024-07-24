@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ReturnToDrezen/AngelMythicPowers/gate"], "children": ["World/Cutscenes/ReturnToDrezen/AngelMythicPowers/CommandControlCamera1", "World/Cutscenes/ReturnToDrezen/AngelMythicPowers/CommandDelay15", "World/Cutscenes/ReturnToDrezen/AngelMythicPowers/gate2"]}
+{"parents": ["World/Cutscenes/ReturnToDrezen/AngelMythicPowers/gate"], "children": ["World/Cutscenes/ReturnToDrezen/AngelMythicPowers/CommandDelay15", "World/Cutscenes/ReturnToDrezen/AngelMythicPowers/gate2", "World/Cutscenes/ReturnToDrezen/AngelMythicPowers/CommandControlCamera1"]}

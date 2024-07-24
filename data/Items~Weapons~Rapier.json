@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootMagic", "Classes/Basic/Deities/DLC3_BesmaraFeature", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootVendorExclude"], "children": ["Weapons/Types/MartialOneHanded/Rapier"]}
+{"parents": ["Classes/Basic/Deities/DLC3_BesmaraFeature", "Dugeons/Loot/DungeonLootVendorExclude", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootMagic"], "children": ["Weapons/Types/MartialOneHanded/Rapier"]}

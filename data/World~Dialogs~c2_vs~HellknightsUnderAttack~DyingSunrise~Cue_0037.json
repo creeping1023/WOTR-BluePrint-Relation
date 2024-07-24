@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/CueSequence_0036"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/Cue_0038"]}
+{"parents": ["World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/CueSequence_0036"], "children": ["World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/Cue_0038", "Units/Companions/Ember/Ember_Companion"]}

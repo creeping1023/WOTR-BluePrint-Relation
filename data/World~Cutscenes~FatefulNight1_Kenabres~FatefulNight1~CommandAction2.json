@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/gate 11"], "children": ["Spells/Level1/EnlargePersonBuffSupressCutscene", "Classes/Shifter/ShifterCutsceneBuff"]}
+{"parents": ["World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/gate 11"], "children": ["Classes/Shifter/ShifterCutsceneBuff", "Spells/Level1/EnlargePersonBuffSupressCutscene"]}

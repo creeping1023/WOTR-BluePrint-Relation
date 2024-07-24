@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0006"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey", "World/Dialogs/c3/MidnightFane/FaneFinal/CueSequence_0011", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0033"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0006"], "children": ["World/Dialogs/c3/MidnightFane/FaneFinal/CueSequence_0011", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0033", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]}

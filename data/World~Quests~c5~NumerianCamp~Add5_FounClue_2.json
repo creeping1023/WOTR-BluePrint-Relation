@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest", "World/Quests/c5/NumerianCamp/Obj2_2_PasswordHacker", "World/Encounters/KohhDungeon/ActionsHolders/TakeNumNote_AH"], "children": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest"]}
+{"parents": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest", "World/Encounters/KohhDungeon/ActionsHolders/TakeNumNote_AH", "World/Quests/c5/NumerianCamp/Obj2_2_PasswordHacker"], "children": ["World/Quests/c5/NumerianCamp/NumerianCamp_quest"]}

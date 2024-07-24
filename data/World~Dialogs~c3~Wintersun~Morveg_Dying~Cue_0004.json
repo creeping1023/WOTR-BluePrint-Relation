@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0002"], "children": ["World/Quests/c3/VengeanceOfSarkoris/Obj3_KillMorveg", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0005"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0002", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Quests/c3/VengeanceOfSarkoris/Obj3_KillMorveg", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0005"]}

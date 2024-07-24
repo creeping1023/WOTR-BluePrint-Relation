@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/EmberQ1_EmberTaken01/EmberQ1_EmberTaken01", "World/Cutscenes/DrezenCapital/EmberQ1_EmberTaken01/gate 2"], "children": ["World/Cutscenes/DrezenCapital/EmberQ1_EmberTaken01/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/DrezenCapital/EmberQ1_EmberTaken01/gate 2", "World/Cutscenes/DrezenCapital/EmberQ1_EmberTaken01/EmberQ1_EmberTaken01"], "children": ["World/Cutscenes/DrezenCapital/EmberQ1_EmberTaken01/CommandStartDialog"]}

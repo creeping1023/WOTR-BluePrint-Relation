@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Spells/Level7/CreateUndeadBase", "Equipment/Amulets/XavornsCrossEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Amulets/XavornsCrossEnchant", "Spells/Level7/CreateUndeadBase", "Items/DestructibleItemsShards/MetalShardItem"]}

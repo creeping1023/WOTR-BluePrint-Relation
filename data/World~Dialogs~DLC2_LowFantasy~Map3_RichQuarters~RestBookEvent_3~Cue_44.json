@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RestBookEvent_3/BookPage_16"], "children": ["World/Encounters/DLC2_RichQuarter/UnlockableFlags/DLC2_BE_ChurchAndAlley_Stage2_SniperDistracted", "Buffs/Areas/DLC2_LowFantasy/DLC2_LowFantasy_RichQuater_Buff2"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RestBookEvent_3/BookPage_16"], "children": ["Buffs/Areas/DLC2_LowFantasy/DLC2_LowFantasy_RichQuater_Buff2", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/DLC2_BE_ChurchAndAlley_Stage2_SniperDistracted"]}

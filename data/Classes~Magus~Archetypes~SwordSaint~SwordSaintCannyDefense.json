@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/MagusProgression", "Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype"], "children": ["Classes/Magus/MagusClass", "Classes/Magus/Archetypes/SwordSaint/SwordSaintChosenWeaponFeature"]}
+{"parents": ["Classes/Magus/MagusProgression", "Classes/Magus/Archetypes/SwordSaint/SwordSaintArchetype"], "children": ["Classes/Magus/Archetypes/SwordSaint/SwordSaintChosenWeaponFeature", "Classes/Magus/MagusClass"]}

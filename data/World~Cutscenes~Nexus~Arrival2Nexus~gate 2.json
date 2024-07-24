@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/Arrival2Nexus/gate 1"], "children": ["World/Cutscenes/Nexus/Arrival2Nexus/CommandMoveParty 1", "World/Cutscenes/Nexus/Arrival2Nexus/gate 3", "World/Cutscenes/Nexus/Arrival2Nexus/CommandControlCamera 1", "World/Cutscenes/Nexus/Arrival2Nexus/gate 3"]}
+{"parents": ["World/Cutscenes/Nexus/Arrival2Nexus/gate 1"], "children": ["World/Cutscenes/Nexus/Arrival2Nexus/CommandControlCamera 1", "World/Cutscenes/Nexus/Arrival2Nexus/gate 3", "World/Cutscenes/Nexus/Arrival2Nexus/CommandMoveParty 1"]}

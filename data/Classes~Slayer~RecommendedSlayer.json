@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/StartGame/Prebuilds/PrebuildSlayerFeatureList", "Units/Pregens/PartyPregenTests/Greybor/GreyborPregenTestFeatureList"], "children": ["Classes/Slayer/SlayerClass", "Classes/Rogue/RecommendedRogue", "Classes/Rogue/RecommendedRogue"]}
+{"parents": ["Units/Pregens/StartGame/Prebuilds/PrebuildSlayerFeatureList", "Units/Pregens/PartyPregenTests/Greybor/GreyborPregenTestFeatureList"], "children": ["Classes/Rogue/RecommendedRogue", "Classes/Slayer/SlayerClass"]}

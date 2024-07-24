@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_DarknessLair/Darkness_KilledOnCore", "Root/BlueprintRoot", "World/Etudes/Common/DLC3_Roguelike/DLC3_Achievements/DLC3_08_Kill_the_fox"], "children": ["DLC/DLC3/Dlc3Campaign", "Achievements/Groups/DLC3TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_DarknessLair/Darkness_KilledOnCore", "World/Etudes/Common/DLC3_Roguelike/DLC3_Achievements/DLC3_08_Kill_the_fox"], "children": ["DLC/DLC3/Dlc3Campaign", "Achievements/Groups/DLC3TrophyGroupPack2"]}

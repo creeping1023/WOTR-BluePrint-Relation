@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c4/Mythic_Demon/Tarshari_main/Cue_0003"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["World/Dialogs/c4/Mythic_Demon/Tarshari_main/Cue_0003", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

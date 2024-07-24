@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/LeadersBrain/BaseLeaderBrain"], "children": ["Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration", "Armies/Rituals/RitualBaneAbility"]}
+{"parents": ["Armies/Brains/LeadersBrain/BaseLeaderBrain"], "children": ["Armies/Rituals/RitualBaneAbility", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"]}

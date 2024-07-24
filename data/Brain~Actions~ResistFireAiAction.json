@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/NoBuffResistEnergyFire", "Spells/Level2/ResistEnergy", "Spells/Level2/ResistFire"]}
+{"children": ["Spells/Level2/ResistEnergy", "Spells/Level2/ResistFire", "Brain/Considerations/NoBuffResistEnergyFire"]}

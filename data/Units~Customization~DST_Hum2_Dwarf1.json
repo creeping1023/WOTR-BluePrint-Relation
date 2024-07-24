@@ -1,1 +1,1 @@
-{"parents": ["Units/Customization/CP_Armigers", "Units/Customization/CP_CultistMelee3-4", "Units/Customization/CP_CultistMelee3-4_Desk"], "children": ["Races/HumanRace", "Races/DwarfRace"]}
+{"parents": ["Units/Customization/CP_CultistMelee3-4", "Units/Customization/CP_CultistMelee3-4_Desk", "Units/Customization/CP_Armigers"], "children": ["Races/DwarfRace", "Races/HumanRace"]}

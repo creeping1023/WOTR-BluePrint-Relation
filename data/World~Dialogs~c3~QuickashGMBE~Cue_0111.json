@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/QuickashGMBE/BookPage_0110", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/QuickashGMBE/Answer_0108", "Equipment/Gloves/PF2/Chapter3/FencersGiftItem", "Items/Utility/GoldCoins"]}
+{"parents": ["World/Dialogs/c3/QuickashGMBE/BookPage_0110", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Equipment/Gloves/PF2/Chapter3/FencersGiftItem", "Items/Utility/GoldCoins", "World/Dialogs/c3/QuickashGMBE/Answer_0108"]}

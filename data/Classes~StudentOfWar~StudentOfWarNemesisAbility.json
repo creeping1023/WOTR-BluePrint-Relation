@@ -1,1 +1,1 @@
-{"parents": ["Classes/StudentOfWar/StudentOfWarNemesis"], "children": ["Weapons/Enchantments/BaneEverything", "Classes/StudentOfWar/StudentOfWarNemesisResource"]}
+{"parents": ["Classes/StudentOfWar/StudentOfWarNemesis"], "children": ["Classes/StudentOfWar/StudentOfWarNemesisResource", "Weapons/Enchantments/BaneEverything"]}

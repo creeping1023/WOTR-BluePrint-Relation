@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/ElementalFocus/CompositeBlasts/BlizzardBlast/BlizzardBlastInfused/TorrentBlizzardBlastAbility", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/DLC5_SwordOfSithhudAreaAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Units/Monsters/DLC5_Sithhud/HandOfSithhud/DLC5_SwordOfSithhudAreaAbility", "Classes/Kineticist/ElementalFocus/CompositeBlasts/BlizzardBlast/BlizzardBlastInfused/TorrentBlizzardBlastAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

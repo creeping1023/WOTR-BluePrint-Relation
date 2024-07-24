@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Among_Ghouls/CueSequence_0012"], "children": ["Units/Companions/Seelah/Seelah_Companion", "Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c2_vs/LostChapel/Among_Ghouls/Cue_0019"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Among_Ghouls/CueSequence_0012"], "children": ["World/Dialogs/c2_vs/LostChapel/Among_Ghouls/Cue_0019", "Units/Companions/Seelah/Seelah_Companion"]}

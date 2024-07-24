@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/SpiritToRest/Answer_0003"], "children": ["Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidess", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/SpiritToRest/Answer_0003"], "children": ["Factions/Mobs", "Units/Monsters/DLC4_Ghosts/DLC4_CR12_GhostDruidess"]}

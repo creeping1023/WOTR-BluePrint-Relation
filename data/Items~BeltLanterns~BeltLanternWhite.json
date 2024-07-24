@@ -1,1 +1,1 @@
-{"parents": ["Units/Pregens/MVP_Pregens/Pregen_Grimbor_MVP", "Units/Companions/StreetRat_DraftCompanion", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["Units/Companions/StreetRat_DraftCompanion", "Dugeons/Loot/DungeonLootExclude", "Units/Pregens/MVP_Pregens/Pregen_Grimbor_MVP"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

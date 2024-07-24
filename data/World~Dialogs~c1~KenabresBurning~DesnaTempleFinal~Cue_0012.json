@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Answer_0010"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest", "World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0013"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Answer_0010"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_0013", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ileks_DesnaPriest"]}

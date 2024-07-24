@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Marhevok_Brain/Marhevok_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffMirrorImage", "Spells/Level2/MirrorImage"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Marhevok_Brain/Marhevok_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Spells/Level2/MirrorImage", "Brain/Considerations/NoBuffMirrorImage"]}

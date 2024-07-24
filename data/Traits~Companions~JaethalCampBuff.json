@@ -1,1 +1,1 @@
-{"children": ["Units/NPC/Commoners/Skeleton/SummonedSkeletonChampion", "Traits/Companions/JaethalSkeletonBuff", "Buffs/SummonedCreatureSpawnAllyI-III"]}
+{"children": ["Buffs/SummonedCreatureSpawnAllyI-III", "Units/NPC/Commoners/Skeleton/SummonedSkeletonChampion", "Traits/Companions/JaethalSkeletonBuff"]}

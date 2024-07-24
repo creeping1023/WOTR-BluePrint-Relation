@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Etudes/Common/WrathOfTheRighteous/Interchapter_Quests/Refuge_From_Present/Return_To_Mineshaft", "Loot/Quest/Mineshaft14/Vault_Dweller_Loot"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["World/Etudes/Common/WrathOfTheRighteous/Interchapter_Quests/Refuge_From_Present/Return_To_Mineshaft", "Loot/Quest/Mineshaft14/Vault_Dweller_Loot", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

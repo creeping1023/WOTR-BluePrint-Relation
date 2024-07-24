@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/TimeToLeave/Answer_0008"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/TimeToLeave/Cue_0015"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/TimeToLeave/Answer_0008"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/TimeToLeave/Cue_0015", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]}

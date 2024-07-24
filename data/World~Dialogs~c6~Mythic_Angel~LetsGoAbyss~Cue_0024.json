@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c6/Mythic_Angel/LetsGoAbyss/Answer_0017"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair", "World/Quests/MythicQuests/Angel/C6_IAmTheFlame/01_EndDeskari", "World/Quests/MythicQuests/Angel/C6_IAmTheFlame/00_WaitTillDeskari"]}
+{"parents": ["World/Dialogs/c6/Mythic_Angel/LetsGoAbyss/Answer_0017"], "children": ["World/Quests/MythicQuests/Angel/C6_IAmTheFlame/00_WaitTillDeskari", "World/Quests/MythicQuests/Angel/C6_IAmTheFlame/01_EndDeskari", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair"]}

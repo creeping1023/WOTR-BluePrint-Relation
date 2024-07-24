@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FleshMarket/Kerz/Answer_0060"], "children": ["World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KerzCrew", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/c4/FleshMarket/Kerz/Answer_0060"], "children": ["Factions/Mobs", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_KerzCrew"]}

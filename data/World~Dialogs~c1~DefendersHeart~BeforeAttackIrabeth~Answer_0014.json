@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/DefendersHeart/BeforeAttackIrabeth/AnswersList_0003"], "children": ["World/Dialogs/c1/DefendersHeart/BeforeAttackIrabeth/Cue_0015", "Classes/Basic/Deities/CaydenCaileanFeature"]}
+{"parents": ["World/Dialogs/c1/DefendersHeart/BeforeAttackIrabeth/AnswersList_0003"], "children": ["Classes/Basic/Deities/CaydenCaileanFeature", "World/Dialogs/c1/DefendersHeart/BeforeAttackIrabeth/Cue_0015"]}

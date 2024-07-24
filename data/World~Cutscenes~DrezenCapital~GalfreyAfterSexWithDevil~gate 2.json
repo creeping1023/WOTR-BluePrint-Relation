@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/GalfreyAfterSexWithDevil", "World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/gate3"], "children": ["World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/CommandAction"]}
+{"parents": ["World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/gate3", "World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/GalfreyAfterSexWithDevil"], "children": ["World/Cutscenes/DrezenCapital/GalfreyAfterSexWithDevil/CommandAction"]}

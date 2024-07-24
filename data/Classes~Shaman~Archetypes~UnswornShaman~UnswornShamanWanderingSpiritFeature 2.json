@@ -1,1 +1,1 @@
-{"parents": ["Classes/Shaman/Archetypes/UnswornShaman/UnswornShamanArchetype"], "children": ["Classes/Shaman/Archetypes/UnswornShaman/UnswornShamanWanderingSpiritResource 2", "Classes/Shaman/Archetypes/UnswornShaman/UnswornShamanWanderingSpiritAbility 2"]}
+{"parents": ["Classes/Shaman/Archetypes/UnswornShaman/UnswornShamanArchetype"], "children": ["Classes/Shaman/Archetypes/UnswornShaman/UnswornShamanWanderingSpiritAbility 2", "Classes/Shaman/Archetypes/UnswornShaman/UnswornShamanWanderingSpiritResource 2"]}

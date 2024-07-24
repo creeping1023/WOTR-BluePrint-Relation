@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/AuthorityHeavyMaceItem"], "children": ["Weapons/Items/Unique/LateChapters/AuthorityHeavyMaceFeature", "Weapons/Items/Unique/LateChapters/AuthorityHeavyMaceBuff", "Buffs/Nauseated"]}
+{"parents": ["Weapons/Items/Unique/LateChapters/AuthorityHeavyMaceItem"], "children": ["Buffs/Nauseated", "Weapons/Items/Unique/LateChapters/AuthorityHeavyMaceFeature", "Weapons/Items/Unique/LateChapters/AuthorityHeavyMaceBuff"]}

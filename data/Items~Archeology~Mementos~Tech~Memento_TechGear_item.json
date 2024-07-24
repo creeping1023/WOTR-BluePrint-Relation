@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Test/Archeology/Collector/Cue_0292", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/Test/Archeology/Collector/Answer_0021"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["World/Dialogs/Test/Archeology/Collector/Answer_0021", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/Test/Archeology/Collector/Cue_0292"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

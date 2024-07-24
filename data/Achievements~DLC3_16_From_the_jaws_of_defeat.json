@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Integration/DLC3_Int_Final/DLC3_Int_FinalBossFight", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_Final/DLC3_FinalBossFight", "Root/BlueprintRoot"], "children": ["Achievements/Groups/DLC3TrophyGroupPack3"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_Final/DLC3_FinalBossFight", "World/Etudes/Common/DLC3_Roguelike/DLC3_Integration/DLC3_Int_Final/DLC3_Int_FinalBossFight"], "children": ["Achievements/Groups/DLC3TrophyGroupPack3"]}

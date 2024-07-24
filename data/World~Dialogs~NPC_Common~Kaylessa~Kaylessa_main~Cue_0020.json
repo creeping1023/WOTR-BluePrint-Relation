@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_main/Answer_0017"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_main/AnswersList_0021"]}
+{"parents": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_main/Answer_0017", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/Kaylessa/Kaylessa_main/AnswersList_0021"]}

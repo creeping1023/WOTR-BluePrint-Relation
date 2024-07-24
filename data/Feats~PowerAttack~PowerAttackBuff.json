@@ -1,1 +1,1 @@
-{"parents": ["Feats/PowerAttack/PowerAttackToggleAbility", "Feats/DLC5/FuriousFocus", "Feats/DLC6/RagingBrutalityAbility", "Feats/CornugonSmash"], "children": ["Feats/PowerAttack/PowerAttackBuffEffect"]}
+{"parents": ["Feats/DLC6/RagingBrutalityAbility", "Feats/DLC5/FuriousFocus", "Feats/PowerAttack/PowerAttackToggleAbility", "Feats/CornugonSmash"], "children": ["Feats/PowerAttack/PowerAttackBuffEffect"]}

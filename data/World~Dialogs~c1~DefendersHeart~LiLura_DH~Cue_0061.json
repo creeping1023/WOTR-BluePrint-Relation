@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/DefendersHeart/LiLura_DH/Check_0059"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres", "World/Dialogs/c1/DefendersHeart/LiLura_DH/AnswersList_0035", "World/Dialogs/c1/DefendersHeart/LiLura_DH/Cue_0058"]}
+{"parents": ["World/Dialogs/c1/DefendersHeart/LiLura_DH/Check_0059"], "children": ["World/Dialogs/c1/DefendersHeart/LiLura_DH/Cue_0058", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres", "World/Dialogs/c1/DefendersHeart/LiLura_DH/AnswersList_0035"]}

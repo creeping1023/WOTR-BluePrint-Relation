@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Trickster/TricksterRankUp_6/Answer_0012"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/Shyka", "World/Crusade/RankUps/MythicRankUps/Trickster/TricksterRankUp_6/Cue_0025"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Trickster/TricksterRankUp_6/Answer_0012"], "children": ["World/Crusade/RankUps/MythicRankUps/Trickster/TricksterRankUp_6/Cue_0025", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/Shyka"]}

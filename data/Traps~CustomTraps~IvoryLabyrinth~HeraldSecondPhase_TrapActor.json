@@ -1,1 +1,1 @@
-{"children": ["Traps/TrapActor_Lvl03", "Traps/TrapActor_Lvl03", "Classes/Cleric/ClericClass", "Factions/Traps", "WeaponEmptyHand", "Traps/TrapDagger_Lvl20", "Traps/TrapActorFeature"]}
+{"children": ["Traps/TrapActorFeature", "Traps/TrapActor_Lvl03", "Traps/TrapDagger_Lvl20", "Classes/Cleric/ClericClass", "WeaponEmptyHand", "Factions/Traps"]}

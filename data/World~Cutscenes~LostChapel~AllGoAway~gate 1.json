@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/AllGoAway/AllGoAway"], "children": ["World/Cutscenes/LostChapel/AllGoAway/CommandFadeout", "World/Cutscenes/LostChapel/AllGoAway/gate 2", "World/Cutscenes/LostChapel/AllGoAway/CommandDelay 4", "World/Cutscenes/LostChapel/AllGoAway/CommandAction 2"]}
+{"parents": ["World/Cutscenes/LostChapel/AllGoAway/AllGoAway"], "children": ["World/Cutscenes/LostChapel/AllGoAway/CommandDelay 4", "World/Cutscenes/LostChapel/AllGoAway/CommandFadeout", "World/Cutscenes/LostChapel/AllGoAway/gate 2", "World/Cutscenes/LostChapel/AllGoAway/CommandAction 2"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/Hurlun_KenabBurn_Dialogue", "World/Dialogs/c1/KenabresBurning/Hurlun/Answer_0038"], "children": ["Factions/Player", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hurlun/HurlunDead"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/Answer_0038", "World/Dialogs/c1/KenabresBurning/Hurlun/Hurlun_KenabBurn_Dialogue"], "children": ["World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hurlun/HurlunDead", "Factions/Player"]}

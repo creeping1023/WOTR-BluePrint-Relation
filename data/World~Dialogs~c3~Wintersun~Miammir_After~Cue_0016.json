@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/Miammir_After/Answer_0009", "World/Dialogs/c3/Wintersun/Miammir_After/SequenceExit_0029"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Nystra"]}
+{"parents": ["World/Dialogs/c3/Wintersun/Miammir_After/SequenceExit_0029", "World/Dialogs/c3/Wintersun/Miammir_After/Answer_0009"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Nystra"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/gate2"], "children": ["Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion", "World/Dialogs/DLC4_Shifter/Shifter_Warcamp/Shifter_Warcamp_dialogue"]}
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/gate2"], "children": ["World/Dialogs/DLC4_Shifter/Shifter_Warcamp/Shifter_Warcamp_dialogue", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]}

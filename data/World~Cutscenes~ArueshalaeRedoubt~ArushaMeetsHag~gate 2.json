@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/gate"], "children": ["World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/CommandDelay", "World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/CommandBark", "World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/gate 4"]}
+{"parents": ["World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/gate"], "children": ["World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/gate 4", "World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/CommandDelay", "World/Cutscenes/ArueshalaeRedoubt/ArushaMeetsHag/CommandBark"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneWeaponVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleTwoHanded/Greatclub", "Weapons/Enchantments/Enhancement3", "Weapons/Items/Unique/EE/DuranceEnchantment"]}
+{"parents": ["Items/Vendors/PF2_DLC5/DLC5_ShadowPlaneWeaponVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/EE/DuranceEnchantment", "Weapons/Types/SimpleTwoHanded/Greatclub", "Weapons/Enchantments/Enhancement3"]}

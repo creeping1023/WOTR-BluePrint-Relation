@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/CommandBark 3", "World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/CommandUnitPlayCutsceneAnimation 2"]}
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/CommandUnitPlayCutsceneAnimation 2", "World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/CommandBark 3"]}

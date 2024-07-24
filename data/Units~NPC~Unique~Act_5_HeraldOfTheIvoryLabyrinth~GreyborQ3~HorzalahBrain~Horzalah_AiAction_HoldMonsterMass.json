@@ -1,1 +1,1 @@
-{"children": ["Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/NoBuffFreedomOfMovement", "Spells/Level9/HoldMonsterMass"]}
+{"children": ["Spells/Level9/HoldMonsterMass", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/NoBuffFreedomOfMovement"]}

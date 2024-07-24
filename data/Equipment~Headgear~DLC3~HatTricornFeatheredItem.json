@@ -1,1 +1,1 @@
-{"parents": ["Loot/Good/CR6/PF2_Demons_MeltedExplorer_2", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "EquipmentEntities/Helmet/KEE_Helmet_HatTricornFeathered", "Equipment/Headgear/DLC3/HatTricornFeatheredEnchantment"]}
+{"parents": ["Loot/Good/CR6/PF2_Demons_MeltedExplorer_2", "Dugeons/Loot/DungeonLootExclude"], "children": ["EquipmentEntities/Helmet/KEE_Helmet_HatTricornFeathered", "Items/DestructibleItemsShards/MetalShardItem", "Equipment/Headgear/DLC3/HatTricornFeatheredEnchantment"]}

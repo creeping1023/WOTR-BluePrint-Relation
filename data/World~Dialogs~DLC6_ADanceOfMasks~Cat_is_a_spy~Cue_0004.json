@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/Cat_is_a_spy/Check_0003"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_OldwomanwithCat", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Cat_Event"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/Cat_is_a_spy/Check_0003"], "children": ["World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Cat_Event", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_OldwomanwithCat"]}

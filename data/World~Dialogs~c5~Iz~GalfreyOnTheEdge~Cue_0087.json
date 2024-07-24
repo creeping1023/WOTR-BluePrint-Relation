@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/GalfreyOnTheEdge/CueSequence_0085"], "children": ["Units/Companions/Daeran/Daeran_Companion", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey", "World/Dialogs/c5/Iz/GalfreyOnTheEdge/Cue_0088"]}
+{"parents": ["World/Dialogs/c5/Iz/GalfreyOnTheEdge/CueSequence_0085"], "children": ["Units/Companions/Daeran/Daeran_Companion", "World/Dialogs/c5/Iz/GalfreyOnTheEdge/Cue_0088", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]}

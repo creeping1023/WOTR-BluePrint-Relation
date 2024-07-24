@@ -1,1 +1,1 @@
-{"parents": ["Spells/CutsceneSpells/HolyBomb_Cutscene", "Classes/Alchemist/Discoveries/HolyBombs/HolyBomb", "Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombAbility"], "children": ["FX/Abilities/AlchemistFireBomb00_Trajectory"]}
+{"parents": ["Armies/Leaders/Abilities/RangerAbilities/RangerHolyBombAbility", "Spells/CutsceneSpells/HolyBomb_Cutscene", "Classes/Alchemist/Discoveries/HolyBombs/HolyBomb"], "children": ["FX/Abilities/AlchemistFireBomb00_Trajectory"]}

@@ -1,1 +1,1 @@
-{"parents": ["Kingdom/CrusadeBuildings/BreweryClerics"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingBrewery", "Armies/Abilities/ArmyDR1", "Armies/Abilities/BonusFactsForArmy/ArmyBuildingBreweryCleric"]}
+{"parents": ["Kingdom/CrusadeBuildings/BreweryClerics"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingBrewery", "Armies/Abilities/BonusFactsForArmy/ArmyBuildingBreweryCleric", "Armies/Abilities/ArmyDR1"]}

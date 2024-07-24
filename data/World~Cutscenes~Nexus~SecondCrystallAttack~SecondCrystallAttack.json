@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/Nexus/ScriptZones/SecondCrystalAttack"], "children": ["World/Cutscenes/Nexus/SecondCrystallAttack/CommandDelay", "World/Cutscenes/Nexus/SecondCrystallAttack/CommandAction"]}
+{"parents": ["World/Encounters/Nexus/ScriptZones/SecondCrystalAttack"], "children": ["World/Cutscenes/Nexus/SecondCrystallAttack/CommandAction", "World/Cutscenes/Nexus/SecondCrystallAttack/CommandDelay"]}

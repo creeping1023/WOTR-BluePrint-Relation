@@ -1,1 +1,1 @@
-{"parents": ["Classes/Rogue/DebilitatingInjury/DebilitatingInjuryHamperedActiveBuff", "Classes/Rogue/DebilitatingInjury/DebilitatingInjuryDisorientedActiveBuff", "Classes/Rogue/DebilitatingInjury/DebilitatingInjuryBewilderedActiveBuff"], "children": ["Classes/Rogue/RogueClass"]}
+{"parents": ["Classes/Rogue/DebilitatingInjury/DebilitatingInjuryHamperedActiveBuff", "Classes/Rogue/DebilitatingInjury/DebilitatingInjuryBewilderedActiveBuff", "Classes/Rogue/DebilitatingInjury/DebilitatingInjuryDisorientedActiveBuff"], "children": ["Classes/Rogue/RogueClass"]}

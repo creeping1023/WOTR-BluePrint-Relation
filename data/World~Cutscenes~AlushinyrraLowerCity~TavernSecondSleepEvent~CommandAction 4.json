@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/TavernSecondSleepEvent/gate"], "children": ["World/Encounters/AlushinyrraLowerCity/SummonPools/LowerCity_TavernSleep2", "Factions/Mobs", "Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/TavernSecondSleepEvent/gate"], "children": ["Factions/Mobs", "World/Encounters/AlushinyrraLowerCity/SummonPools/LowerCity_TavernSleep2", "Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph"]}

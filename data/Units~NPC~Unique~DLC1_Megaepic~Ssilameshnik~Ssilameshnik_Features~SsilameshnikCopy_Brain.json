@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Copy"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Features/Ssilameshnik_AiAction_QBanishment"]}
+{"parents": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Copy"], "children": ["Units/NPC/Unique/DLC1_Megaepic/Ssilameshnik/Ssilameshnik_Features/Ssilameshnik_AiAction_QBanishment", "Brain/Actions/AttackAiAction"]}

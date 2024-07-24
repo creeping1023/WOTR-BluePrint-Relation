@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_4"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_7"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_4"], "children": ["World/Dialogs/DLC2_LowFantasy/Map5_Tavern/Tavern_Keeper/Cue_7", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

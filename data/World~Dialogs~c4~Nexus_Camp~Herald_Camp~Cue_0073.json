@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Nexus_Camp/Herald_Camp/Answer_0072"], "children": ["World/Encounters/Nexus/UnlockableFlags/TrapForHepzamirah", "World/Encounters/Nexus/UnlockableFlags/NexusCampDefence", "World/Dialogs/c4/Nexus_Camp/Herald_Camp/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c4/Nexus_Camp/Herald_Camp/Answer_0072"], "children": ["World/Dialogs/c4/Nexus_Camp/Herald_Camp/AnswersList_0003", "World/Encounters/Nexus/UnlockableFlags/NexusCampDefence", "World/Encounters/Nexus/UnlockableFlags/TrapForHepzamirah"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/DeskariFight/Cue_0058"], "children": ["World/Quests/MythicQuests/Locust/VersusDeskari/MythicLocust_C5_VersusDeskari_Quest", "Buffs/Sickened", "Buffs/Fatigued"]}
+{"parents": ["World/Dialogs/c5/Iz/DeskariFight/Cue_0058"], "children": ["Buffs/Sickened", "Buffs/Fatigued", "World/Quests/MythicQuests/Locust/VersusDeskari/MythicLocust_C5_VersusDeskari_Quest"]}

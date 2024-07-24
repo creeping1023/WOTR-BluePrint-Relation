@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/GenericScenes/UnitAnnoyed_Param/gate"], "children": ["World/Cutscenes/GenericScenes/UnitAnnoyed_Param/CommandDelay1", "World/Cutscenes/GenericScenes/UnitAnnoyed_Param/CommandActivateGate"]}
+{"parents": ["World/Cutscenes/GenericScenes/UnitAnnoyed_Param/gate"], "children": ["World/Cutscenes/GenericScenes/UnitAnnoyed_Param/CommandActivateGate", "World/Cutscenes/GenericScenes/UnitAnnoyed_Param/CommandDelay1"]}

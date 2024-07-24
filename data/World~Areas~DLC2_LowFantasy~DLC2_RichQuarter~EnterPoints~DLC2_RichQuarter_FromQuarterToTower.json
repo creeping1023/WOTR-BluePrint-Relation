@@ -1,1 +1,1 @@
-{"parents": ["QA/Arbiter/Scenario/DLC2/DLC2_RichQuarter"], "children": ["World/Areas/DLC2_LowFantasy/DLC2_RichQuarter/DLC2_RichQuarter", "World/Areas/DLC2_LowFantasy/DLC2_RichQuarter/FirstTower"]}
+{"parents": ["QA/Arbiter/Scenario/DLC2/DLC2_RichQuarter"], "children": ["World/Areas/DLC2_LowFantasy/DLC2_RichQuarter/FirstTower", "World/Areas/DLC2_LowFantasy/DLC2_RichQuarter/DLC2_RichQuarter"]}

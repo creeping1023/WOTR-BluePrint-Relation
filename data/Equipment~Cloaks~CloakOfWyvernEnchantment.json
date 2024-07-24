@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Cloaks/CloakWyvernItem", "Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/GiantSnakesSkinLeathArmorItem"], "children": ["Equipment/Cloaks/CloakWyvernFeature"]}
+{"parents": ["Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/GiantSnakesSkinLeathArmorItem", "Equipment/Cloaks/CloakWyvernItem"], "children": ["Equipment/Cloaks/CloakWyvernFeature"]}

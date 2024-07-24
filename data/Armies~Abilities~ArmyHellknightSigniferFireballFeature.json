@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyBrimorakStandard", "Armies/UnitBlueprints/ArmyHellknightSignifer"], "children": ["Armies/Abilities/ArmyHellknightSigniferFireball", "Armies/Abilities/ArmyHellknightSigniferFireballFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyHellknightSignifer", "Armies/UnitBlueprints/ArmyBrimorakStandard"], "children": ["Armies/Abilities/ArmyHellknightSigniferFireball", "Armies/Abilities/ArmyHellknightSigniferFireballFact"]}

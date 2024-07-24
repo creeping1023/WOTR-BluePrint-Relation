@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationFreezingSpells"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/HasteBuff", "Spells/Level3/SlowBuff", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiver", "Classes/Oracle/OracleClass", "Classes/Arcanist/ArcanistClass"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationFreezingSpells"], "children": ["Classes/Arcanist/ArcanistClass", "Classes/Oracle/OracleClass", "Spells/Level3/HasteBuff", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiver", "Spells/Level3/SlowBuff"]}

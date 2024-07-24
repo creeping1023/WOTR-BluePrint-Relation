@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot", "Classes/Rogue/Archetypes/EldritchScoundrelArchetype", "Classes/Rogue/RogueProgression"], "children": ["Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}
+{"parents": ["Classes/Rogue/Archetypes/EldritchScoundrelArchetype", "Classes/Rogue/RogueProgression", "Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionArchetypes/Wrecker/WrecherArchetype", "Classes/Pets/AnimalCompanionArchetypes/Wrecker/WreckerProgression"], "children": ["Traits/Races/Common/ConstructType"]}
+{"parents": ["Classes/Pets/AnimalCompanionArchetypes/Wrecker/WreckerProgression", "Classes/Pets/AnimalCompanionArchetypes/Wrecker/WrecherArchetype"], "children": ["Traits/Races/Common/ConstructType"]}

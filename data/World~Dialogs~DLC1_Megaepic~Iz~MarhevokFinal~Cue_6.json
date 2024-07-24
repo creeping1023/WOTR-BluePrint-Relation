@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/Answer_0003"], "children": ["Units/NPC/Unique/DLC1_Megaepic/DLC1_Marhevok", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/AnswersList_0002", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/CueSequence_0001"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/Answer_0003"], "children": ["World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/AnswersList_0002", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/CueSequence_0001", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Marhevok"]}

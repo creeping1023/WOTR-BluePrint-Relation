@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Shifter_CompanionDialogue/AnswersList_0001"], "children": ["World/Dialogs/DLC4_Shifter/Shifter_CompanionDialogue/Cue_33", "World/Quests/DLC4_Shifter/Shifter_Q3/Shifter_Q3_quest"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Shifter_CompanionDialogue/AnswersList_0001"], "children": ["World/Quests/DLC4_Shifter/Shifter_Q3/Shifter_Q3_quest", "World/Dialogs/DLC4_Shifter/Shifter_CompanionDialogue/Cue_33"]}

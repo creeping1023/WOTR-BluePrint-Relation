@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyHellknight", "Armies/UnitBlueprints/ArmyInfernalCavalry", "Armies/UnitBlueprints/KTC_ArmyInfernalCavalry", "Armies/UnitBlueprints/ArmyTieflingsAvengers"], "children": ["Armies/Abilities/ArmySmiteChaosBuff", "Armies/Abilities/ArmySmiteChaosBuff"]}
+{"parents": ["Armies/UnitBlueprints/ArmyInfernalCavalry", "Armies/UnitBlueprints/ArmyTieflingsAvengers", "Armies/UnitBlueprints/KTC_ArmyInfernalCavalry", "Armies/UnitBlueprints/ArmyHellknight"], "children": ["Armies/Abilities/ArmySmiteChaosBuff"]}

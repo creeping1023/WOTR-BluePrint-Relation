@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC4_Gundrun/ActionsHolders/DLC4_Gundrun_CliffDown_PassActions", "World/Cutscenes/DLC4_Gundrun/DLC4_StoneCutscene_Fail/CommandAction", "World/Cutscenes/DLC4_Gundrun/DLC4_StoneCutscene/CommandAction"]}
+{"parents": ["World/Cutscenes/DLC4_Gundrun/DLC4_StoneCutscene/CommandAction", "World/Encounters/DLC4_Gundrun/ActionsHolders/DLC4_Gundrun_CliffDown_PassActions", "World/Cutscenes/DLC4_Gundrun/DLC4_StoneCutscene_Fail/CommandAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/LocustSwarm/LocustSwarm", "Units/Monsters/LocustSwarm/SummonCR3LocustSwarm", "Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarm_Xantir"], "children": ["Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/LocustSwarmDamageAIAction"]}
+{"parents": ["Units/Monsters/LocustSwarm/SummonCR3LocustSwarm", "Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarm_Xantir", "Units/Monsters/LocustSwarm/LocustSwarm"], "children": ["Units/Monsters/LocustSwarm/IvorySanctum/LocustSwarmDamageAura/LocustSwarmDamageAIAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/WrathOfTheRighteous/0Prologue/Labyrinth/CampingTrigger", "World/Encounters/Prologue_Labyrinth/ScriptZones/CampingTutorial"], "children": ["Tutorials/DirectTutorial/NewTutorial_25_Camping_1_Gamepad", "Encyclopedia/Tutorial_25_Camping"]}
+{"parents": ["World/Encounters/Prologue_Labyrinth/ScriptZones/CampingTutorial", "World/Etudes/Common/WrathOfTheRighteous/0Prologue/Labyrinth/CampingTrigger"], "children": ["Tutorials/DirectTutorial/NewTutorial_25_Camping_1_Gamepad", "Encyclopedia/Tutorial_25_Camping"]}

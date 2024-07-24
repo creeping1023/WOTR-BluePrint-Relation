@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/MythicPowerUse/gate1"], "children": ["World/Dialogs/c5/Iz/DeskariFight/Answer_0028", "Mythic/Trickster/TricksterSpells/TricksterFishMissile"]}
+{"parents": ["World/Cutscenes/Iz/MythicPowerUse/gate1"], "children": ["Mythic/Trickster/TricksterSpells/TricksterFishMissile", "World/Dialogs/c5/Iz/DeskariFight/Answer_0028"]}

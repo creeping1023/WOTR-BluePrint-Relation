@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyFireElementalMedium", "Armies/UnitBlueprints/ArmyGiantSalamander"], "children": ["Armies/Brains/Actions/TacticalCombatAiSpreadBurn"]}
+{"parents": ["Armies/UnitBlueprints/ArmyGiantSalamander", "Armies/UnitBlueprints/ArmyFireElementalMedium"], "children": ["Armies/Brains/Actions/TacticalCombatAiSpreadBurn"]}

@@ -1,1 +1,1 @@
-{"children": ["Factions/CutsceneNeutrals", "Spells/CutsceneSpells/Alushinyrra/HoldPersonBuff_AlushinyrraSlaveMinotaur", "CreatureAbilities/Unlootable"]}
+{"children": ["CreatureAbilities/Unlootable", "Spells/CutsceneSpells/Alushinyrra/HoldPersonBuff_AlushinyrraSlaveMinotaur", "Factions/CutsceneNeutrals"]}

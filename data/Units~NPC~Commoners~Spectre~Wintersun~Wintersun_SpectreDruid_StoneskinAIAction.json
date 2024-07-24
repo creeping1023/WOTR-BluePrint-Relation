@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainBuff2"], "children": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_NotSelfConsideration", "Brain/Considerations/NoBuffStoneskin", "Spells/Level5/StoneskinCommunal"]}
+{"parents": ["Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_CombatBrainBuff2"], "children": ["Spells/Level5/StoneskinCommunal", "Brain/Considerations/NoBuffStoneskin", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_NotSelfConsideration"]}

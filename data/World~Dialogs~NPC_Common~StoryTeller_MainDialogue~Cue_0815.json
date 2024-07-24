@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/CueSequence_0129", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0821"], "children": ["Items/Archeology/Artifacts/PF2/Artifact_Helmet-shard", "World/Quests/Crusade/Archeology/Arch_CompileHelmet/Objective_0001"]}
+{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0821", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/CueSequence_0129"], "children": ["World/Quests/Crusade/Archeology/Arch_CompileHelmet/Objective_0001", "Items/Archeology/Artifacts/PF2/Artifact_Helmet-shard"]}

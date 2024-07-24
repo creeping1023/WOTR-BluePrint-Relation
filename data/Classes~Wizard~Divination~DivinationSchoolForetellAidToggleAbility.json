@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Divination/DivinationSchoolGreaterFeature"], "children": ["Classes/Wizard/Divination/DivinationSchoolGreaterResource", "Classes/Wizard/Divination/DivinationSchoolForetellAidBuff"]}
+{"parents": ["Classes/Wizard/Divination/DivinationSchoolGreaterFeature"], "children": ["Classes/Wizard/Divination/DivinationSchoolForetellAidBuff", "Classes/Wizard/Divination/DivinationSchoolGreaterResource"]}

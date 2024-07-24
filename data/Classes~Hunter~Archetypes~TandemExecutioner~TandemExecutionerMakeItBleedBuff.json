@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerMakeItBleedPetBuff", "Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerMakeItBleedFeature"], "children": ["CreatureAbilities/Bleed/Bleed2d6Buff", "Spells/Level3/HeroismBuff"]}
+{"parents": ["Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerMakeItBleedPetBuff", "Classes/Hunter/Archetypes/TandemExecutioner/TandemExecutionerMakeItBleedFeature"], "children": ["Spells/Level3/HeroismBuff", "CreatureAbilities/Bleed/Bleed2d6Buff"]}

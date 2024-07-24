@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Magic/MagicDomainBaseFeatureSeparatist", "Classes/Cleric/Archetypes/Separatist/Domains/Magic/MagicDomainBaseAbilitySeparatist"], "children": ["Classes/Cleric/ClericClass"]}
+{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Magic/MagicDomainBaseAbilitySeparatist", "Classes/Cleric/Archetypes/Separatist/Domains/Magic/MagicDomainBaseFeatureSeparatist"], "children": ["Classes/Cleric/ClericClass"]}

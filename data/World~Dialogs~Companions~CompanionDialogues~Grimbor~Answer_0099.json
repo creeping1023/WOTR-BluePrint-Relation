@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0109"], "children": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0106", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/BloodBathInTheAssasinsGuild"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0109"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter04/Chapter04_States/Chapter04_States/BloodBathInTheAssasinsGuild", "World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0106"]}

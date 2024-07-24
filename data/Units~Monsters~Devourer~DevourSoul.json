@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Devourer/DevourSoulCast"], "children": ["Units/Monsters/Devourer/DevourSoulBuff", "Weapons/Types/Special/TouchItem"]}
+{"parents": ["Units/Monsters/Devourer/DevourSoulCast"], "children": ["Weapons/Types/Special/TouchItem", "Units/Monsters/Devourer/DevourSoulBuff"]}

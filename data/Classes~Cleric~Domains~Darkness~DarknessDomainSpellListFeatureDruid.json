@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Darkness/DarknessDomainProgressionDruid"], "children": ["Classes/Druid/DruidClass", "Classes/Cleric/Domains/Darkness/DarknessDomainSpellList", "Classes/Cleric/Domains/Death/DeathDomainSpellListFeature", "Classes/Cleric/Domains/Death/DeathDomainSpellListFeature"]}
+{"parents": ["Classes/Cleric/Domains/Darkness/DarknessDomainProgressionDruid"], "children": ["Classes/Cleric/Domains/Darkness/DarknessDomainSpellList", "Classes/Druid/DruidClass", "Classes/Cleric/Domains/Death/DeathDomainSpellListFeature"]}

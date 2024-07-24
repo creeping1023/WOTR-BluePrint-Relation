@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyShifters"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyShifterWildShapeBoarAbillity", "Armies/Abilities/BonusFactsForArmy/ArmyShifterWildShapeBoarResource"]}
+{"parents": ["Armies/UnitBlueprints/ArmyShifters"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyShifterWildShapeBoarResource", "Armies/Abilities/BonusFactsForArmy/ArmyShifterWildShapeBoarAbillity"]}

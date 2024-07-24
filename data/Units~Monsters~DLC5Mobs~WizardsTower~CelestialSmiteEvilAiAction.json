@@ -1,1 +1,1 @@
-{"children": ["Units/Monsters/DLC5Mobs/WizardsTower/NoCelestialSmiteEvilConsideration", "Brain/Considerations/EvilConsideration", "Brain/Considerations/AttackTargetsPriority", "CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/CelestialSmiteEvilAbility"]}
+{"children": ["Brain/Considerations/AttackTargetsPriority", "Units/Monsters/DLC5Mobs/WizardsTower/NoCelestialSmiteEvilConsideration", "CreatureAbilities/Templates/Celestial/CelestialSmiteEvil/CelestialSmiteEvilAbility", "Brain/Considerations/EvilConsideration"]}

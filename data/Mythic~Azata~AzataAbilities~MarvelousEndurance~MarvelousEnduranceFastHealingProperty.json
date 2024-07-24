@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Azata/AzataAbilities/MarvelousEndurance/MarvelousEnduranceFastHealingBuff"], "children": ["Mythic/MythicStartingClass", "Mythic/Azata/AzataMythicClass", "Mythic/MythicStartingClass", "Mythic/Azata/AzataMythicClass"]}
+{"parents": ["Mythic/Azata/AzataAbilities/MarvelousEndurance/MarvelousEnduranceFastHealingBuff"], "children": ["Mythic/Azata/AzataMythicClass", "Mythic/MythicStartingClass"]}

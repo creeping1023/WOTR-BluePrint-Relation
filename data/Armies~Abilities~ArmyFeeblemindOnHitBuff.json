@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyFeeblemindOnHitFeature", "Brain/Considerations/NoBuffFeebleMindOnHit", "Brain/Considerations/NoBuffSlowArmy"]}
+{"parents": ["Brain/Considerations/NoBuffFeebleMindOnHit", "Armies/Abilities/ArmyFeeblemindOnHitFeature", "Brain/Considerations/NoBuffSlowArmy"]}

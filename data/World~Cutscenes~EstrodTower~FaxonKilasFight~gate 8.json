@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/EstrodTower/FaxonKilasFight/FaxonKilasConflict"], "children": ["World/Cutscenes/EstrodTower/FaxonKilasFight/CommandBark", "World/Cutscenes/EstrodTower/FaxonKilasFight/CommandMoveUnit", "World/Cutscenes/EstrodTower/FaxonKilasFight/gate"]}
+{"parents": ["World/Cutscenes/EstrodTower/FaxonKilasFight/FaxonKilasConflict"], "children": ["World/Cutscenes/EstrodTower/FaxonKilasFight/CommandMoveUnit", "World/Cutscenes/EstrodTower/FaxonKilasFight/gate", "World/Cutscenes/EstrodTower/FaxonKilasFight/CommandBark"]}

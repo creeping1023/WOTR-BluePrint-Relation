@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLoot_VendorRare_Grade4", "Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootRare"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/Chapter4/SacredCommandmentEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootPotionsAndScrolls", "Dugeons/Loot/DungeonLootRare", "Dugeons/Loot/DungeonLoot_VendorRare_Grade4"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/Chapter4/SacredCommandmentEnchantment"]}

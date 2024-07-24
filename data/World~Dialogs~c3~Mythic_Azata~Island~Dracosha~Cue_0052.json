@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/Dracosha/Answer_0033"], "children": ["Mythic/Azata/AzataDragon/AzataDragonUnit", "World/Dialogs/c3/Mythic_Azata/Island/Dracosha/AnswersList_0027"]}
+{"parents": ["World/Dialogs/c3/Mythic_Azata/Island/Dracosha/Answer_0033"], "children": ["World/Dialogs/c3/Mythic_Azata/Island/Dracosha/AnswersList_0027", "Mythic/Azata/AzataDragon/AzataDragonUnit"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/MongrelsDefeated/Answer_0013"], "children": ["World/Encounters/AlushinyrraHigherCity/UnlockableFlags/LannQ2_LannDidntHelp", "World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/MongrelsDefeated/AnswersList_0005"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/MongrelsDefeated/Answer_0013"], "children": ["World/Dialogs/Companions/CompanionQuests/Lann/Q2BadBlood/MongrelsDefeated/AnswersList_0005", "World/Encounters/AlushinyrraHigherCity/UnlockableFlags/LannQ2_LannDidntHelp"]}

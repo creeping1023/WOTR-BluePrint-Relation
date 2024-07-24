@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffPrayer", "Brain/Considerations/AoE_ChooseMoreEnemies", "Spells/Level3/Prayer"]}
+{"parents": ["Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/AoE_ChooseMoreEnemies", "Brain/Considerations/NoBuffPrayer", "Spells/Level3/Prayer"]}

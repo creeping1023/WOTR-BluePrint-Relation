@@ -1,1 +1,1 @@
-{"parents": ["Brain/Actions/BlurSelfAiAction", "Brain/Actions/BlurAiAction", "Units/Monsters/Mephit/MephitAirBrain/MephitAirBlurAiAction"], "children": ["Spells/Level2/BlurBuff"]}
+{"parents": ["Brain/Actions/BlurSelfAiAction", "Units/Monsters/Mephit/MephitAirBrain/MephitAirBlurAiAction", "Brain/Actions/BlurAiAction"], "children": ["Spells/Level2/BlurBuff"]}

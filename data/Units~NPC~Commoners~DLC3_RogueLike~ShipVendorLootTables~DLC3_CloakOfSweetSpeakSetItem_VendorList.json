@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_CloakOfSweetSpeakSet", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items"], "children": ["Equipment/Cloaks/DLC3/DLC3_CloakOfSweetSpeakSetItem"]}
+{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_CloakOfSweetSpeakSet"], "children": ["Equipment/Cloaks/DLC3/DLC3_CloakOfSweetSpeakSetItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus4/Holy/StandardDwarvenUrgroshHolyPlus3"], "children": ["Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead", "Weapons/Enchantments/Enhancement3", "Weapons/Enchantments/Holy"]}
+{"parents": ["Weapons/Items/TotalPlus4/Holy/StandardDwarvenUrgroshHolyPlus3", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Holy", "Weapons/Enchantments/Enhancement3", "Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead"]}

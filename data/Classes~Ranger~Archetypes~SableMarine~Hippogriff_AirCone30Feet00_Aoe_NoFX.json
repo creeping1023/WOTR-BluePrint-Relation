@@ -1,1 +1,1 @@
-{"parents": ["Classes/Ranger/Archetypes/SableMarine/SableMarineStrongestWingsRiderAbility", "Classes/Ranger/Archetypes/SableMarine/SableMarineStrongestWingsAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Classes/Ranger/Archetypes/SableMarine/SableMarineStrongestWingsAbility", "Classes/Ranger/Archetypes/SableMarine/SableMarineStrongestWingsRiderAbility"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

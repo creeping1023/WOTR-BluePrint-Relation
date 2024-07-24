@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0058"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0086", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0065"]}
+{"parents": ["World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0058"], "children": ["World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0086", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0065", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald"]}

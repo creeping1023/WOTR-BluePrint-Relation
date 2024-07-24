@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/gate", "World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/WarCamp_PaladinsBarks"], "children": ["World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/CommandDelay 3", "World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/gate 3"]}
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/gate", "World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/WarCamp_PaladinsBarks"], "children": ["World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/gate 3", "World/Cutscenes/WarCamp/WarCamp_PaladinsBarks/CommandDelay 3"]}

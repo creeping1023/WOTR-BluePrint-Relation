@@ -1,1 +1,1 @@
-{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotReadyToTeleportBuff"], "children": ["Spells/Level4/DimensionDoorCasterOnly"]}
+{"parents": ["Classes/Warpriest/Archetypes/MantisZealot/MantisZealotReadyToTeleportBuff", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotAspectOfTheMantisBuff"], "children": ["Spells/Level4/DimensionDoorCasterOnly"]}

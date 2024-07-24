@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationBastardSwordOversized"], "children": ["Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationBastardSwordOversized"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationBastardSwordOversized"], "children": ["Feats/WeaponSpecialization/WeaponSpecializationBastardSwordOversized", "Classes/Fighter/FighterClass"]}

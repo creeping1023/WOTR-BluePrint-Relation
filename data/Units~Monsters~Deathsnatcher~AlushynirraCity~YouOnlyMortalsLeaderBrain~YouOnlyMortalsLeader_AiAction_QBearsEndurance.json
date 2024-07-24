@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Deathsnatcher/AlushynirraCity/YouOnlyMortalsLeaderBrain/YouOnlyMortalsLeader_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffBearsEndurance", "Brain/Considerations/TargetSelf", "Spells/Level2/BearsEndurance"]}
+{"parents": ["Units/Monsters/Deathsnatcher/AlushynirraCity/YouOnlyMortalsLeaderBrain/YouOnlyMortalsLeader_Brain"], "children": ["Spells/Level2/BearsEndurance", "Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/TargetSelf", "Brain/Considerations/NoBuffBearsEndurance"]}

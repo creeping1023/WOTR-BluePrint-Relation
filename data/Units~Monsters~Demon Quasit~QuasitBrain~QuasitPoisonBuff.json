@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Quasit/QuasitBrain/QuasitPoisonFeature", "Brain/Considerations/HasPoison"]}
+{"parents": ["Brain/Considerations/HasPoison", "Units/Monsters/Demon Quasit/QuasitBrain/QuasitPoisonFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event83Agitators", "Kingdom/CrusadeProjects/DiplomacyProjects/Event83AgitatorsCooldown", "Kingdom/CrusadeProjects/DiplomacyProjects/Event83AgitatorsCooldown", "Armies/CrusadeGlobalBuffs/ArmyAgitators"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Armies/CrusadeGlobalBuffs/ArmyAgitators", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event83Agitators", "Kingdom/CrusadeProjects/DiplomacyProjects/Event83AgitatorsCooldown"]}

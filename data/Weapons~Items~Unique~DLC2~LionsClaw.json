@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/Special/LionsClawType", "Weapons/Enchantments/Enhancement3"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement3", "Weapons/Types/Special/LionsClawType"]}

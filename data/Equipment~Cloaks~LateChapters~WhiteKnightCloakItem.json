@@ -1,1 +1,1 @@
-{"parents": ["Items/Vendors/Rushlight_GeneralistVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/ClothShardItem", "Equipment/CommonEnchantments/Deflection4", "Equipment/Cloaks/LateChapters/WhiteKnightCloakEnchantment"]}
+{"parents": ["Items/Vendors/Rushlight_GeneralistVendorTable", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/CommonEnchantments/Deflection4", "Equipment/Cloaks/LateChapters/WhiteKnightCloakEnchantment", "Items/DestructibleItemsShards/ClothShardItem"]}

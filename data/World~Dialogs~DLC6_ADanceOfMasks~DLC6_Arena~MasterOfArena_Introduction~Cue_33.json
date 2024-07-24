@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_Arena/MasterOfArena_Introduction/Answer_18"], "children": ["Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DLC6_MasterOfArena", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_Arena/MasterOfArena_Introduction/AnswersList_0005"]}
+{"parents": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_Arena/MasterOfArena_Introduction/Answer_18"], "children": ["World/Dialogs/DLC6_ADanceOfMasks/DLC6_Arena/MasterOfArena_Introduction/AnswersList_0005", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DLC6_MasterOfArena"]}

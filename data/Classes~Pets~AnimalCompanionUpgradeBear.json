@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionFeatureBear"], "children": ["CreatureAbilities/ReducedReach", "Classes/Shifter/ShifterMajorForms/Bear/ShifterGrabBear", "Classes/Pets/BearHugFeature"]}
+{"parents": ["Classes/Pets/AnimalCompanionFeatureBear"], "children": ["Classes/Pets/BearHugFeature", "CreatureAbilities/ReducedReach", "Classes/Shifter/ShifterMajorForms/Bear/ShifterGrabBear"]}

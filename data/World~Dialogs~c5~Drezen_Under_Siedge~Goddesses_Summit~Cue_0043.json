@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0042"], "children": ["Units/NPC/Unique/Areelu/Areelu", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Goddesses_Summit/Iomedae", "World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0044"]}
+{"parents": ["World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0042"], "children": ["Units/NPC/Unique/Areelu/Areelu", "World/Dialogs/c5/Drezen_Under_Siedge/Goddesses_Summit/Cue_0044", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Goddesses_Summit/Iomedae"]}

@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationTalon"], "children": ["Weapons/Types/NaturalWeapon/TalonsType", "Classes/Fighter/FighterClass", "Feats/WeaponSpecialization/WeaponSpecializationTalon"]}
+{"parents": ["Feats/WeaponSpecialization/WeaponSpecializationTalon"], "children": ["Weapons/Types/NaturalWeapon/TalonsType", "Feats/WeaponSpecialization/WeaponSpecializationTalon", "Classes/Fighter/FighterClass"]}

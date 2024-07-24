@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AlushinyrraLowerCity/FirstEnterDemonMythic/gate 2", "World/Cutscenes/AlushinyrraLowerCity/FirstEnterDemonMythic/FirstEnterDemonMythic"], "children": ["World/Cutscenes/AlushinyrraLowerCity/FirstEnterDemonMythic/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/AlushinyrraLowerCity/FirstEnterDemonMythic/FirstEnterDemonMythic", "World/Cutscenes/AlushinyrraLowerCity/FirstEnterDemonMythic/gate 2"], "children": ["World/Cutscenes/AlushinyrraLowerCity/FirstEnterDemonMythic/CommandStartDialog"]}

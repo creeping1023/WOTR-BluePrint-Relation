@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmySuccubusStandard"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackArcher", "Armies/Brains/Actions/TacticalCombat_AIAction_Dominate"]}
+{"parents": ["Armies/UnitBlueprints/ArmySuccubusStandard"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_Dominate", "Armies/Brains/Actions/TacticalCombatAiAttackArcher"]}

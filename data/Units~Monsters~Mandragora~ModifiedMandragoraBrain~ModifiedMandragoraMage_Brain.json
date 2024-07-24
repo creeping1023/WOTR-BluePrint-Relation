@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Mandragora/CR20_ModifiedMandragoraMagic"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Mandragora/ModifiedMandragoraBrain/ModifiedMandragora_QuickDispMaAreaAiAction"]}
+{"parents": ["Units/Monsters/Mandragora/CR20_ModifiedMandragoraMagic"], "children": ["Units/Monsters/Mandragora/ModifiedMandragoraBrain/ModifiedMandragora_QuickDispMaAreaAiAction", "Brain/Actions/AttackAiAction"]}

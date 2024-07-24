@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "World/Dialogs/c1/DefendersHeart/Bartender_DefHeart/Bartender_DefHeart_Dialogue"], "children": ["World/Dialogs/c1/DefendersHeart/Bartender_DefHeart/AnswersList_0003"]}
+{"parents": ["QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "World/Dialogs/c1/DefendersHeart/Bartender_DefHeart/Bartender_DefHeart_Dialogue", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c1/DefendersHeart/Bartender_DefHeart/AnswersList_0003"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1A/Cue_0013"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1A/Cue_0015"]}
+{"parents": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1A/Cue_0013"], "children": ["World/Dialogs/DLC5_StoryEnds/AbyssHub/AfterAdventure_1A/Cue_0015", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]}

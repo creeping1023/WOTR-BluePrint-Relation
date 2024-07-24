@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/PuluraFall/AzataGreenMagic_scene_PuluraFall/CommandAction 2"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/Azata_ActsOnOtherAreas", "World/Areas/Act_3_DemonsHerecy/PuluraFall/PuluraFall"]}
+{"parents": ["World/Cutscenes/PuluraFall/AzataGreenMagic_scene_PuluraFall/CommandAction 2"], "children": ["World/Areas/Act_3_DemonsHerecy/PuluraFall/PuluraFall", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/Azata_ActsOnOtherAreas"]}

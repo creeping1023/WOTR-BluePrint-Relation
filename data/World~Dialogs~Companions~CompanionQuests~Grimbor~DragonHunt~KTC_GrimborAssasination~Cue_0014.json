@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/KTC_GrimborAssasination/Answer_0012"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborNotInParty_KickedOut"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/KTC_GrimborAssasination/Answer_0012"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/GreyborCompanion/GreyborNotInParty_KickedOut", "Units/Companions/Greybor/Greybor_Companion"]}

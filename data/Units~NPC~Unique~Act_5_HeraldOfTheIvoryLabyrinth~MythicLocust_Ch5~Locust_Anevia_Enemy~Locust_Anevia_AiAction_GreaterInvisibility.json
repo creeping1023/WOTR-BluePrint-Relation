@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Anevia_Enemy/Locust_Anevia_Brain"], "children": ["Brain/Considerations/IsThreatedConsideration", "Spells/Level4/InvisibilityGreater"]}
+{"parents": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_Anevia_Enemy/Locust_Anevia_Brain"], "children": ["Spells/Level4/InvisibilityGreater", "Brain/Considerations/IsThreatedConsideration"]}

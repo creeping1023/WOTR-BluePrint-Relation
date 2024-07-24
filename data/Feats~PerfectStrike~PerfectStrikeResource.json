@@ -1,1 +1,1 @@
-{"parents": ["Feats/PerfectStrike/PerfectStrikeAbility", "Equipment/Headgear/UniquePF2/Chapter4/HeadbandOfRigorousTrainingFeature", "Feats/PerfectStrike/PerfectStrikeFeature"], "children": ["Classes/Monk/MonkClass"]}
+{"parents": ["Equipment/Headgear/UniquePF2/Chapter4/HeadbandOfRigorousTrainingFeature", "Feats/PerfectStrike/PerfectStrikeFeature", "Feats/PerfectStrike/PerfectStrikeAbility"], "children": ["Classes/Monk/MonkClass"]}

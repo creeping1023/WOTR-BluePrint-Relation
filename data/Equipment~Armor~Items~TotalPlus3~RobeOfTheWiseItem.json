@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/Upgraders/Player/PF-429566_RobeOfWise"], "children": ["Classes/Monster/Dragon/DragonClass", "EquipmentEntities/Robe/KEE_Robe_RobeArcane1", "Equipment/Armor/Types/ClothType", "Equipment/Armor/Items/TotalPlus3/RobeOfTheWiseEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Root/Upgraders/Player/PF-429566_RobeOfWise"], "children": ["EquipmentEntities/Robe/KEE_Robe_RobeArcane1", "Equipment/Armor/Types/ClothType", "Equipment/Armor/Items/TotalPlus3/RobeOfTheWiseEnchant", "Classes/Monster/Dragon/DragonClass"]}

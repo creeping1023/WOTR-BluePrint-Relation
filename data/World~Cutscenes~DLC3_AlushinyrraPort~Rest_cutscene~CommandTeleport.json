@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC3_AlushinyrraPort/Rest_cutscene/gate1"], "children": ["World/Areas/DLC3_RogueLike/DLC3_AlushinyrraPort/DLC3_AlushinyrraPort", "World/Areas/DLC3_RogueLike/DLC3_AlushinyrraPort/EnterPoints/DLC3_AlushinyrraPort_Rest"]}
+{"parents": ["World/Cutscenes/DLC3_AlushinyrraPort/Rest_cutscene/gate1"], "children": ["World/Areas/DLC3_RogueLike/DLC3_AlushinyrraPort/EnterPoints/DLC3_AlushinyrraPort_Rest", "World/Areas/DLC3_RogueLike/DLC3_AlushinyrraPort/DLC3_AlushinyrraPort"]}

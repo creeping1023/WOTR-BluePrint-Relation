@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/Atselm_dialogue/Answer_0040"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Battlebliss/WildHunt_AtselmYoung", "World/Dialogs/c4/BattleBliss/Atselm_dialogue/Cue_0042"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/Atselm_dialogue/Answer_0040"], "children": ["World/Dialogs/c4/BattleBliss/Atselm_dialogue/Cue_0042", "Units/NPC/Unique/Act_4_MidnightIsles/Battlebliss/WildHunt_AtselmYoung"]}

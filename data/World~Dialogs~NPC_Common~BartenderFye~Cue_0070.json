@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/BartenderFye/Answer_0044"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster", "World/Dialogs/NPC_Common/BartenderFye/Cue_0071"]}
+{"parents": ["World/Dialogs/NPC_Common/BartenderFye/Answer_0044"], "children": ["World/Dialogs/NPC_Common/BartenderFye/Cue_0071", "World/Etudes/Common/WrathOfTheRighteous/MythicTrickster/PlayerIsTrickster"]}

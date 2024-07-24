@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Encounters/GlobalPuzzle_Green/ConditionsHolders/Slot_-1_1_ItemRestriction"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}
+{"parents": ["World/Encounters/GlobalPuzzle_Green/ConditionsHolders/Slot_-1_1_ItemRestriction", "Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/DustShardItem"]}

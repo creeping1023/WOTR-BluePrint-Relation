@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0008"], "children": ["World/Encounters/LostChapel/SummonPools/CrusadersPlaza", "Spells/Level1/TrueStrikeBuff"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0008"], "children": ["Spells/Level1/TrueStrikeBuff", "World/Encounters/LostChapel/SummonPools/CrusadersPlaza"]}

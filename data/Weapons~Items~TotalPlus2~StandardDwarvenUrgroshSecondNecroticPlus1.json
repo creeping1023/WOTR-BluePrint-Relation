@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Weapons/Items/TotalPlus2/StandardDwarvenUrgroshNecroticPlus1"], "children": ["Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead", "Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Necrotic"]}
+{"parents": ["Weapons/Items/TotalPlus2/StandardDwarvenUrgroshNecroticPlus1", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Enchantments/Necrotic", "Weapons/Types/ExoticTwoHanded/DwarvenUrgroshSpearHead"]}

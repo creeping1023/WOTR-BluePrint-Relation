@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_DefacerWarhammerWeapon", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items"], "children": ["Items/Weapons/DLC3/DLC3_DefacerWarhammerWeaponItem"]}
+{"parents": ["World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/Mimic_Items", "World/Encounters/DLC3_AlushinyrraPort/ActionsHolders/DLC_3_Vendor_Items/DLC3_DefacerWarhammerWeapon"], "children": ["Items/Weapons/DLC3/DLC3_DefacerWarhammerWeaponItem"]}

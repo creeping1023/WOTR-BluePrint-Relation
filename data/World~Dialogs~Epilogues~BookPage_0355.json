@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_Companions"], "children": ["Units/Companions/Trever/Trever_Companion", "World/Dialogs/Epilogues/Cue_0444", "World/Dialogs/Epilogues/Cue_0446", "World/Dialogs/Epilogues/Answer_0369"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_Companions"], "children": ["World/Dialogs/Epilogues/Cue_0444", "World/Dialogs/Epilogues/Answer_0369", "Units/Companions/Trever/Trever_Companion", "World/Dialogs/Epilogues/Cue_0446"]}

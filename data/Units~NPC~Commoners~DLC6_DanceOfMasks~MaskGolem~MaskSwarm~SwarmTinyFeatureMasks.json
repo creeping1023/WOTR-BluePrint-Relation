@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/CR16_MaskSwarm"], "children": ["Equipment/Amulets/DLC4/SwarmbaneClaspFeature", "Units/Monsters/RatSwarm/RatSwarmDamageAura/GenericSwarmBuff"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/CR16_MaskSwarm"], "children": ["Units/Monsters/RatSwarm/RatSwarmDamageAura/GenericSwarmBuff", "Equipment/Amulets/DLC4/SwarmbaneClaspFeature"]}

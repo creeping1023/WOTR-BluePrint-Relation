@@ -1,1 +1,1 @@
-{"parents": ["World/Crusade/RankUps/MythicRankUps/Aeon/AeonRankUp_3correct/Answer_0011"], "children": ["Armies/CrusadeGlobalBuffs/FlagAeon3Buff", "Armies/CrusadeGlobalBuffs/FlagAeon3Buff", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonRankUpRewards"]}
+{"parents": ["World/Crusade/RankUps/MythicRankUps/Aeon/AeonRankUp_3correct/Answer_0011"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonRankUpRewards", "Armies/CrusadeGlobalBuffs/FlagAeon3Buff"]}

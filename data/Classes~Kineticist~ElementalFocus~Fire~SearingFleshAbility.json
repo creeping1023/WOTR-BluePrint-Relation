@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/ElementalFocus/Fire/SearingFlesh"], "children": ["Classes/Kineticist/ElementalFocus/Fire/SearingFleshBuff", "Classes/Kineticist/ElementalFocus/Fire/SearingFleshResource"]}
+{"parents": ["Classes/Kineticist/ElementalFocus/Fire/SearingFlesh"], "children": ["Classes/Kineticist/ElementalFocus/Fire/SearingFleshResource", "Classes/Kineticist/ElementalFocus/Fire/SearingFleshBuff"]}

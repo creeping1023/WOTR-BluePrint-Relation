@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC5_LostChapel_PlaneOfShadow/ActionsHolders/Knowledge_Coprse"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WolfAmbush/CommandDelay", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WolfAmbush/gate"]}
+{"parents": ["World/Encounters/DLC5_LostChapel_PlaneOfShadow/ActionsHolders/Knowledge_Coprse"], "children": ["World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WolfAmbush/gate", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_WolfAmbush/CommandDelay"]}

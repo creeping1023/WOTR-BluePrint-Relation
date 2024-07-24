@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Woljif_Q3/Ygefeles_Brain"], "children": ["Brain/Considerations/SwiftActionOffCooldown", "Brain/Considerations/NoBuffInvisibilityGreater", "Spells/Level4/InvisibilityGreater"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Woljif_Q3/Ygefeles_Brain"], "children": ["Brain/Considerations/NoBuffInvisibilityGreater", "Brain/Considerations/SwiftActionOffCooldown", "Spells/Level4/InvisibilityGreater"]}

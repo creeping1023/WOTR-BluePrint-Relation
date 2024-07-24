@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/LivingGrimoireArchetype"], "children": ["Classes/Inquisitor/InquisitorSpellSlotsTable", "Classes/Inquisitor/InquisitorSpellList", "Classes/Inquisitor/InquisitorClass"]}
+{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/LivingGrimoireArchetype"], "children": ["Classes/Inquisitor/InquisitorSpellSlotsTable", "Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/InquisitorSpellList"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_KenabresGateGuard"], "children": ["Weapons/Types/MartialLight/WeaponLightShield", "Weapons/Enchantments/Enhancement1"]}
+{"parents": ["Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_KenabresGateGuard"], "children": ["Weapons/Enchantments/Enhancement1", "Weapons/Types/MartialLight/WeaponLightShield"]}

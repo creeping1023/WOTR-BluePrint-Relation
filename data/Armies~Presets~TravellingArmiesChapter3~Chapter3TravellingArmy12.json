@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter3TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmyCultist_FighterTank", "Armies/UnitBlueprints/ArmyRiftDrakeStandard"]}
+{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter3TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmyRiftDrakeStandard", "Armies/UnitBlueprints/ArmyCultist_FighterTank"]}

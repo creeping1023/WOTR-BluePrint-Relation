@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/AreshkagalDungeon/StatueChallenge3Button_Scene/CommandStartDialog"], "children": ["World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/Cue_0001", "Spells/CutsceneSpells/AreshkagalDungeon/AreshkagalDialogFx", "Spells/CutsceneSpells/AreshkagalDungeon/AreshkagalDialogFx"]}
+{"parents": ["World/Cutscenes/AreshkagalDungeon/StatueChallenge3Button_Scene/CommandStartDialog"], "children": ["Spells/CutsceneSpells/AreshkagalDungeon/AreshkagalDialogFx", "World/Dialogs/c5/AreshkagalTomb/VowingToAreshka/Cue_0001"]}

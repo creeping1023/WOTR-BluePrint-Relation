@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0015"], "children": ["Units/Monsters/Demon Dretch/AreeluLab/Dretch_Stitch", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/AnswersList_0061"]}
+{"parents": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0015"], "children": ["World/Dialogs/c3/AreeluLaboratory/HeartOfLab/AnswersList_0061", "Units/Monsters/Demon Dretch/AreeluLab/Dretch_Stitch"]}

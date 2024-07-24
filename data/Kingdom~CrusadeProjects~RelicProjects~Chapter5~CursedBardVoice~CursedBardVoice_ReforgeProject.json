@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Items/Crusade/Relic_VocalCord", "Items/Crusade/Relic_VocalCord", "Items/Crusade/Relic_VocalCord", "World/Crusade/Events/Relics/Ch5/CursedBardVoice_Reforge_event"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["World/Crusade/Events/Relics/Ch5/CursedBardVoice_Reforge_event", "Items/Crusade/Relic_VocalCord"]}

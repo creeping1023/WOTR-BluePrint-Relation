@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Gargoyle/LostChapel/GargoyleHOwling"], "children": ["Brain/Actions/AttackAiAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleHowling_GoodHopeAIAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleHowling_HasteAIAction"]}
+{"parents": ["Units/Monsters/Gargoyle/LostChapel/GargoyleHOwling"], "children": ["Units/Monsters/Gargoyle/LostChapel/GargoyleHowling_HasteAIAction", "Units/Monsters/Gargoyle/LostChapel/GargoyleHowling_GoodHopeAIAction", "Brain/Actions/AttackAiAction"]}

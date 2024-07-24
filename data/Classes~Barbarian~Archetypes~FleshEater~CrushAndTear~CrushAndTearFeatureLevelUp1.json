@@ -1,1 +1,1 @@
-{"parents": ["Classes/Barbarian/Archetypes/FleshEater/CrushAndTear/CrushAndTearFeature"], "children": ["Classes/Barbarian/BarbarianClass", "Classes/Barbarian/Archetypes/FleshEater/CrushAndTear/CrushAndTearFeatureBite1"]}
+{"parents": ["Classes/Barbarian/Archetypes/FleshEater/CrushAndTear/CrushAndTearFeature"], "children": ["Classes/Barbarian/Archetypes/FleshEater/CrushAndTear/CrushAndTearFeatureBite1", "Classes/Barbarian/BarbarianClass"]}

@@ -1,1 +1,1 @@
-{"parents": ["Test/Scenes/DebugDialogPlayer/Presets/DebugDialogPlayer_Default_Preset", "Test/Scenes/DebugDialogPlayer/EnterPoints/DebugDialogPlayer_Enter"], "children": ["Test/Scenes/DebugDialogPlayer/Presets/DebugDialogPlayer_Default_Preset"]}
+{"parents": ["Test/Scenes/DebugDialogPlayer/EnterPoints/DebugDialogPlayer_Enter", "Test/Scenes/DebugDialogPlayer/Presets/DebugDialogPlayer_Default_Preset"], "children": ["Test/Scenes/DebugDialogPlayer/Presets/DebugDialogPlayer_Default_Preset"]}

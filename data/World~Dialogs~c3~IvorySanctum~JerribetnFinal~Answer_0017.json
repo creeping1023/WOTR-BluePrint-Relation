@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/IvorySanctum/JerribetnFinal/AnswersList_0004", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/JerribethDead", "Factions/Mobs", "Factions/Mobs"]}
+{"parents": ["World/Dialogs/c3/IvorySanctum/JerribetnFinal/AnswersList_0004", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Factions/Mobs", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/JerribethDead"]}

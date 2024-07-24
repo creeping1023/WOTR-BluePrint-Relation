@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Nabasu/NabasuBrain/NabasuDeathStealingGazeAbility", "Units/Monsters/Demon Nabasu/NabasuBrain/DLC4_CorruptingGazeBuff"], "children": ["Units/Monsters/Demon Nabasu/NabasuBrain/NabasuDeathStealingGazeAreaEffect"]}
+{"parents": ["Units/Monsters/Demon Nabasu/NabasuBrain/DLC4_CorruptingGazeBuff", "Units/Monsters/Demon Nabasu/NabasuBrain/NabasuDeathStealingGazeAbility"], "children": ["Units/Monsters/Demon Nabasu/NabasuBrain/NabasuDeathStealingGazeAreaEffect"]}

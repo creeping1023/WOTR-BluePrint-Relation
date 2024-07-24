@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/Elementalist/ELementalistElementSelection"], "children": ["Classes/Wizard/Archetypes/Elementalist/ElementalistAcidAbility", "Classes/Wizard/WizardClass", "Classes/Wizard/Archetypes/Elementalist/ElementalistAcidHalfUntypedFeature"]}
+{"parents": ["Classes/Wizard/Archetypes/Elementalist/ELementalistElementSelection"], "children": ["Classes/Wizard/Archetypes/Elementalist/ElementalistAcidAbility", "Classes/Wizard/Archetypes/Elementalist/ElementalistAcidHalfUntypedFeature", "Classes/Wizard/WizardClass"]}

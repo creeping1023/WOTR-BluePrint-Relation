@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/Cue_0034"], "children": ["Units/Monsters/Graveknight/ColyphyrDungeon/Kestoglyr", "Units/Monsters/Demon Babau/CR11_BabauEliteFreeHand", "World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/AnswersList_0003"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/Cue_0034"], "children": ["World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/AnswersList_0003", "Units/Monsters/Demon Babau/CR11_BabauEliteFreeHand", "Units/Monsters/Graveknight/ColyphyrDungeon/Kestoglyr"]}

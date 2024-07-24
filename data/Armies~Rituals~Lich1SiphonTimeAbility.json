@@ -1,1 +1,1 @@
-{"parents": ["Armies/Rituals/Lich1SiphonTime"], "children": ["Armies/Leaders/LeaderManaResource", "Armies/Abilities/ArmyHasteBuff", "Armies/Abilities/ArmySlowBuff", "Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff"]}
+{"parents": ["Armies/Rituals/Lich1SiphonTime"], "children": ["Armies/Leaders/Feats/WarriorFeats/EmergencyOrderSecondBuff", "Armies/Leaders/LeaderManaResource", "Armies/Abilities/ArmyHasteBuff", "Armies/Abilities/ArmySlowBuff"]}

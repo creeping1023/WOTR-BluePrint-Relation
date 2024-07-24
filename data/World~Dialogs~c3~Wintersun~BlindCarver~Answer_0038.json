@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c3/Wintersun/BlindCarver/AnswersList_0008"], "children": ["World/Dialogs/c3/Wintersun/BlindCarver/Cue_0039", "World/Quests/c3/RuneStonesWintersun/RuneStonesWintersun_quest"]}
+{"parents": ["World/Dialogs/c3/Wintersun/BlindCarver/AnswersList_0008", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/Wintersun/BlindCarver/Cue_0039", "World/Quests/c3/RuneStonesWintersun/RuneStonesWintersun_quest"]}

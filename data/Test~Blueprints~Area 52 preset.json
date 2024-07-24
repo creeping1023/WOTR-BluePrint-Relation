@@ -1,1 +1,1 @@
-{"parents": ["Test/Blueprints/Area 52"], "children": ["Test/Blueprints/Area 52", "Test/Blueprints/Area52EnterPoint", "PlayerFighterPregen", "DLC/MainGame/MainCampaign"]}
+{"parents": ["Test/Blueprints/Area 52"], "children": ["PlayerFighterPregen", "Test/Blueprints/Area52EnterPoint", "Test/Blueprints/Area 52", "DLC/MainGame/MainCampaign"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/WarCamp/ScriptZones/WarCamp_EarlyBeginning_LannScene"], "children": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/CommandDelay", "World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/gate 1"]}
+{"parents": ["World/Encounters/WarCamp/ScriptZones/WarCamp_EarlyBeginning_LannScene"], "children": ["World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/gate 1", "World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_LannScene/CommandDelay"]}

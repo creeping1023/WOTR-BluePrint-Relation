@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/BE_Manor/Cue_0271", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Cue_0039", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Answer_0038"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Answer_0038", "Dugeons/Loot/DungeonLootExclude", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Cue_0039", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/BE_Manor/Cue_0271"]}

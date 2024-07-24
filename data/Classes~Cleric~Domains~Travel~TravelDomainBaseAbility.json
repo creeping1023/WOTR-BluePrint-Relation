@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Travel/TravelDomainBaseFeature"], "children": ["Classes/Cleric/Domains/Travel/TravelDomainBaseBuff", "Classes/Cleric/Domains/Travel/TravelDomainBaseResource"]}
+{"parents": ["Classes/Cleric/Domains/Travel/TravelDomainBaseFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Travel/TravelDomainBaseBuff", "Classes/Cleric/Domains/Travel/TravelDomainBaseResource"]}

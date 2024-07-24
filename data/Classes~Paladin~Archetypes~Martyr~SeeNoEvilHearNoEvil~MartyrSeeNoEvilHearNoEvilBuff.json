@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrsMercySuppressSeeNoEvilHearNoEvilBuff", "Classes/Paladin/Archetypes/Martyr/SeeNoEvilHearNoEvil/MartyrSeeNoEvilHearNoEvilFeature"], "children": ["Classes/Paladin/Archetypes/Martyr/SeeNoEvilHearNoEvil/MartyrSeeNoEvilHearNoEvilArea"]}
+{"parents": ["Classes/Paladin/Archetypes/Martyr/SeeNoEvilHearNoEvil/MartyrSeeNoEvilHearNoEvilFeature", "Classes/Paladin/Archetypes/Martyr/MartyrsMercySuppressSeeNoEvilHearNoEvilBuff"], "children": ["Classes/Paladin/Archetypes/Martyr/SeeNoEvilHearNoEvil/MartyrSeeNoEvilHearNoEvilArea"]}

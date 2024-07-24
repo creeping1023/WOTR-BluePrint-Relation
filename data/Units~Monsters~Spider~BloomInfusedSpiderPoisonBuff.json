@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Spider/BloomInfusedSpiderPoisonFeature", "Brain/Considerations/HasPoison"]}
+{"parents": ["Brain/Considerations/HasPoison", "Units/Monsters/Spider/BloomInfusedSpiderPoisonFeature"]}

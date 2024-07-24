@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/SoanaAfterBear/Cue_0031"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Soana_Wintersun", "Items/Areas/Act_3_DemonsHerecy/Wintersun/SoanaMedallionBroken"]}
+{"parents": ["World/Dialogs/c3/Wintersun/SoanaAfterBear/Cue_0031"], "children": ["Items/Areas/Act_3_DemonsHerecy/Wintersun/SoanaMedallionBroken", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Soana_Wintersun"]}

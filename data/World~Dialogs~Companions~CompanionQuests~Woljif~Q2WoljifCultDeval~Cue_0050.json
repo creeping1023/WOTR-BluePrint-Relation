@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultDeval/Answer_0049"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/DevalArmed", "World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultDeval/AnswersList_0004"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultDeval/Answer_0049"], "children": ["World/Dialogs/Companions/CompanionQuests/Woljif/Q2WoljifCultDeval/AnswersList_0004", "Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/DevalArmed"]}

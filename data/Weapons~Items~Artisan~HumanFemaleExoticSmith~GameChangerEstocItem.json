@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Spells/Level5/WavesOfFatigue", "Weapons/Types/ExoticOneHanded/Estoc", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Keen", "Weapons/Enchantments/Enhancement4"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Keen", "Weapons/Enchantments/Enhancement4", "Weapons/Types/ExoticOneHanded/Estoc", "Spells/Level5/WavesOfFatigue", "Weapons/Enchantments/Speed"]}

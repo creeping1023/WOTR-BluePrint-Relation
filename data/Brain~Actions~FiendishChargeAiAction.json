@@ -1,1 +1,1 @@
-{"parents": ["Brain/ChargeFiendishMonsterBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/HasFiendishSmiteGoodConsideration", "Root/SystemMechanics/Abilities/ChargeAbility"]}
+{"parents": ["Brain/ChargeFiendishMonsterBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Root/SystemMechanics/Abilities/ChargeAbility", "CreatureAbilities/Templates/Fiendish/FiendishSmiteGood/HasFiendishSmiteGoodConsideration"]}

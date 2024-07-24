@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Loot/Good/CR15/PF2_Demons_HowToMythicADemon"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/HowToMythicADemonFeature", "Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Good/CR15/PF2_Demons_HowToMythicADemon", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/HowToMythicADemonFeature", "Items/DestructibleItemsShards/PaperShardItem"]}

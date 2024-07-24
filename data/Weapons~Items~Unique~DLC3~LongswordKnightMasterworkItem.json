@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Thundering", "Weapons/Enchantments/BaneConstruct"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Longsword", "Weapons/Enchantments/Thundering", "Weapons/Enchantments/Speed", "Weapons/Enchantments/BaneConstruct", "Weapons/Enchantments/Enhancement2"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Amulets/Artisan/AmuletofPersuasionEnchant"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Amulets/Artisan/AmuletofPersuasionEnchant", "Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Alchemist/AlchemistProgression", "Classes/Alchemist/Archetypes/Grenadier/GrenadierArchetype"], "children": ["Feats/BombAbilityFocus", "Buffs/Staggered", "Buffs/Staggered", "Classes/Alchemist/AlchemistClass"]}
+{"parents": ["Classes/Alchemist/AlchemistProgression", "Classes/Alchemist/Archetypes/Grenadier/GrenadierArchetype"], "children": ["Feats/BombAbilityFocus", "Classes/Alchemist/AlchemistClass", "Buffs/Staggered"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Answer_0090"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_FulsomeQueen_onKnees/CommandDelay", "World/Cutscenes/ColyphyrDungeon/Colyphyr_FulsomeQueen_onKnees/gate"]}
+{"parents": ["World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Answer_0090"], "children": ["World/Cutscenes/ColyphyrDungeon/Colyphyr_FulsomeQueen_onKnees/gate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_FulsomeQueen_onKnees/CommandDelay"]}

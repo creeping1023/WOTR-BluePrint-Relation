@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Nabasu/IvorySanctum/IvorySanctum_MythicNabasu_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/HeavyArmorConsideration", "Spells/Level6/HellfireRay"]}
+{"parents": ["Units/Monsters/Demon Nabasu/IvorySanctum/IvorySanctum_MythicNabasu_Brain"], "children": ["Brain/Considerations/ChaoticBehaviour", "Brain/Considerations/AttackTargetsPriority", "Spells/Level6/HellfireRay", "Brain/Considerations/HeavyArmorConsideration"]}

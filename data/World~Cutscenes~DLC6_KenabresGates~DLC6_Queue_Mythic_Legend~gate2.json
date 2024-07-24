@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Legend/DLC6_Queue_Mythic_Legend", "World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Legend/gate1"], "children": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Legend/CommandAction1"]}
+{"parents": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Legend/gate1", "World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Legend/DLC6_Queue_Mythic_Legend"], "children": ["World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Legend/CommandAction1"]}

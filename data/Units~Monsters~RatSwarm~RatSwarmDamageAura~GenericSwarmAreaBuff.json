@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/RatSwarm/RatSwarmDamageAura/GenericSwarmArea"], "children": ["Buffs/SwarmTargetBuff", "Buffs/SwarmTargetBuff"]}
+{"parents": ["Units/Monsters/RatSwarm/RatSwarmDamageAura/GenericSwarmArea"], "children": ["Buffs/SwarmTargetBuff"]}

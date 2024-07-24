@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/TrueMagus/TrueMagusAttackAbility"], "children": ["Classes/Magus/SpellCombat/SpellCombatBuff", "Classes/Magus/TrueMagus/TrueMagusAttackEffectBuff"]}
+{"parents": ["Classes/Magus/TrueMagus/TrueMagusAttackAbility"], "children": ["Classes/Magus/TrueMagus/TrueMagusAttackEffectBuff", "Classes/Magus/SpellCombat/SpellCombatBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Gargoyle/Regill_HellknightsVsGargoyles/GargoyleMinibossBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/Boneshaker"]}
+{"parents": ["Units/Monsters/Gargoyle/Regill_HellknightsVsGargoyles/GargoyleMinibossBrain"], "children": ["Spells/Level2/Boneshaker", "Brain/Considerations/AttackTargetsPriority"]}

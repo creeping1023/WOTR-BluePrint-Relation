@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0049", "Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/MartialOneHanded/Battleaxe", "Weapons/Enchantments/Enhancement5", "Weapons/Enchantments/ElderBrass", "Weapons/Enchantments/Furious"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0049"], "children": ["Weapons/Enchantments/ElderBrass", "Weapons/Enchantments/Furious", "Weapons/Enchantments/Enhancement5", "Weapons/Types/MartialOneHanded/Battleaxe"]}

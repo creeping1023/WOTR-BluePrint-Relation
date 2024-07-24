@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Answer_0187", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/Aron_WarCamp", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0191"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Answer_0187", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0191", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/Aron_WarCamp"]}

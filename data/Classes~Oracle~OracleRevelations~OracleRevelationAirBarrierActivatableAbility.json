@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationAirBarrier"], "children": ["Classes/Oracle/OracleRevelations/OracleRevelationAirBarrierResource", "Classes/Oracle/OracleRevelations/OracleRevelationAirBarrierBuff"]}
+{"parents": ["Classes/Oracle/OracleRevelations/OracleRevelationAirBarrier"], "children": ["Classes/Oracle/OracleRevelations/OracleRevelationAirBarrierBuff", "Classes/Oracle/OracleRevelations/OracleRevelationAirBarrierResource"]}

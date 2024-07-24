@@ -1,1 +1,1 @@
-{"parents": ["Classes/Oracle/Archetypes/DivineHerbalist/HealersWayFact", "Classes/Paladin/Archetypes/DivineGuardian/DivineGuardianHandsFeature", "Classes/Paladin/LayOnHands/LayOnHandsFeature"], "children": ["Classes/Paladin/LayOnHands/LayOnHandsResource"]}
+{"parents": ["Classes/Paladin/LayOnHands/LayOnHandsFeature", "Classes/Oracle/Archetypes/DivineHerbalist/HealersWayFact", "Classes/Paladin/Archetypes/DivineGuardian/DivineGuardianHandsFeature"], "children": ["Classes/Paladin/LayOnHands/LayOnHandsResource"]}

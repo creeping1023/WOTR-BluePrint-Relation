@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/WildTalents/FoxfireFeature", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulMentalProwessBuff"], "children": ["Spells/Level1/FaerieFireBuff", "Classes/Kineticist/KineticistClass"]}
+{"parents": ["Classes/Kineticist/WildTalents/FoxfireFeature", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulMentalProwessBuff"], "children": ["Classes/Kineticist/KineticistClass", "Spells/Level1/FaerieFireBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/GalfreyAttacksMonsterWithPlayer", "World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/gate"], "children": ["World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/CommandAction"]}
+{"parents": ["World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/gate", "World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/GalfreyAttacksMonsterWithPlayer"], "children": ["World/Cutscenes/Iz/GalfreyAttacksMonsterWithPlayer/CommandAction"]}

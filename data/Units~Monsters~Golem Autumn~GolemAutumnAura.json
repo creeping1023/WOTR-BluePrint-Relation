@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Golem Autumn/GolemAutumnEntangleAuraBuff"], "children": ["Spells/Level1/EntangleBuff", "Spells/Level3/CrushingDespairBuff"]}
+{"parents": ["Units/Monsters/Golem Autumn/GolemAutumnEntangleAuraBuff"], "children": ["Spells/Level3/CrushingDespairBuff", "Spells/Level1/EntangleBuff"]}

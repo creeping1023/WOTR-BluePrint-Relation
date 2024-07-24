@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/Answer_0015", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/Companions/Finnean/Finnean_Companion", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/AnswersList_0002"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/Answer_0015", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanHello/AnswersList_0002", "Units/Companions/Finnean/Finnean_Companion"]}

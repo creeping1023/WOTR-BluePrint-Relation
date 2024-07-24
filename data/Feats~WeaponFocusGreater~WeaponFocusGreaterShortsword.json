@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusShortsword"], "children": ["Weapons/Types/MartialLight/Shortsword", "Feats/WeaponFocus/WeaponFocusShortsword", "Classes/Fighter/FighterClass"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusShortsword"], "children": ["Feats/WeaponFocus/WeaponFocusShortsword", "Weapons/Types/MartialLight/Shortsword", "Classes/Fighter/FighterClass"]}

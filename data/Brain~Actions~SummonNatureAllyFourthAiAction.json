@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Nymph/NymphBrain/NymphBrain", "Units/Monsters/Nymph/NymphBrain/HATEOT_NymphBrain"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level4/SummonNaturesAllyIV", "Spells/Level4/SummonNaturesAllyIVSingle"]}
+{"parents": ["Units/Monsters/Nymph/NymphBrain/NymphBrain", "Units/Monsters/Nymph/NymphBrain/HATEOT_NymphBrain"], "children": ["Spells/Level4/SummonNaturesAllyIVSingle", "Brain/Considerations/AttackTargetsPriority", "Spells/Level4/SummonNaturesAllyIV"]}

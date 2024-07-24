@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocus/WeaponFocusShortbow"], "children": ["Weapons/Types/MartialRanged/Shortbow", "Feats/WeaponFocus/WeaponFocusShortbow", "Classes/Fighter/FighterClass", "Weapons/Types/MartialRanged/CompositeShortbow"]}
+{"parents": ["Feats/WeaponFocus/WeaponFocusShortbow"], "children": ["Weapons/Types/MartialRanged/Shortbow", "Weapons/Types/MartialRanged/CompositeShortbow", "Classes/Fighter/FighterClass", "Feats/WeaponFocus/WeaponFocusShortbow"]}

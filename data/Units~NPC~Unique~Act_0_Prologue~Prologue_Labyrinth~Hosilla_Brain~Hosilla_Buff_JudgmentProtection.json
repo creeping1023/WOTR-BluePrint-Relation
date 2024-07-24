@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Labyrinth/Hosilla_Brain/Hosilla_Ability_JudgementProtection"], "children": ["Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/Judgments/JudgmentWatcherBuff", "Classes/Inquisitor/InquisitorClass"]}
+{"parents": ["Units/NPC/Unique/Act_0_Prologue/Prologue_Labyrinth/Hosilla_Brain/Hosilla_Ability_JudgementProtection"], "children": ["Classes/Inquisitor/InquisitorClass", "Classes/Inquisitor/Judgments/JudgmentWatcherBuff"]}

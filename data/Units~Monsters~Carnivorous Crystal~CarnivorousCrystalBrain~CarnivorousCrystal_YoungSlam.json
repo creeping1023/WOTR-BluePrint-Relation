@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_PolymorphPermanentYoung", "QA/Unused/Units/Monsters/Carnivorous Crystal/CR11_CarnivorousCrystalYoung"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}
+{"parents": ["QA/Unused/Units/Monsters/Carnivorous Crystal/CR11_CarnivorousCrystalYoung", "Dugeons/Loot/DungeonLootExclude", "Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_PolymorphPermanentYoung"], "children": ["Weapons/Types/NaturalWeapon/SlamType"]}

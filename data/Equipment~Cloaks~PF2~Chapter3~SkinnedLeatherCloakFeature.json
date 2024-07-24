@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Cloaks/PF2/Chapter3/SkinnedLeatherCloakEnchantment"], "children": ["CreatureAbilities/Immunities/UndeadImmunities", "Equipment/Cloaks/PF2/Chapter3/SkinnedLeatherCloakBuff", "Equipment/Cloaks/CloakWyvernFeature", "Equipment/Cloaks/CloakWyvernFeature"]}
+{"parents": ["Equipment/Cloaks/PF2/Chapter3/SkinnedLeatherCloakEnchantment"], "children": ["Equipment/Cloaks/CloakWyvernFeature", "CreatureAbilities/Immunities/UndeadImmunities", "Equipment/Cloaks/PF2/Chapter3/SkinnedLeatherCloakBuff"]}

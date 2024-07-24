@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/ScoutScene/Cue_0015"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Musician", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/ScoutScene/AnswersList_0016"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/ScoutScene/Cue_0015"], "children": ["World/Dialogs/DLC2_LowFantasy/Map1_Theatre/ScoutScene/AnswersList_0016", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Musician"]}

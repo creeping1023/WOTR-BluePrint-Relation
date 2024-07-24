@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Player_Test_Level1", "Dugeons/Loot/DungeonLootExclude"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Shortspear_Props"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Player_Test_Level1"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Shortspear_Props"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainStandard", "Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainBless"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level2/Boneshaker"]}
+{"parents": ["Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainStandard", "Units/Monsters/Gargoyle/GargoyleBrain/HalfFiendGargoyleCleric_BrainBless"], "children": ["Spells/Level2/Boneshaker", "Brain/Considerations/AttackTargetsPriority"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Angel/Wardens_MythAngel/SequenceExit_0015", "World/Dialogs/c5/Mythic_Angel/Wardens_MythAngel/Answer_0012"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair", "World/Dialogs/c5/Mythic_Angel/Wardens_MythAngel/Cue_0024"]}
+{"parents": ["World/Dialogs/c5/Mythic_Angel/Wardens_MythAngel/SequenceExit_0015", "World/Dialogs/c5/Mythic_Angel/Wardens_MythAngel/Answer_0012"], "children": ["World/Dialogs/c5/Mythic_Angel/Wardens_MythAngel/Cue_0024", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair"]}

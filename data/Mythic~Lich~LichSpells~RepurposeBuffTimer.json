@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Lich/LichSpells/FlayForPurposeBuff", "Mythic/Lich/LichSpells/DoomOfServitudeBuff", "Mythic/Lich/LichSpells/RepurposeBuff"], "children": ["Mythic/Lich/LichSpells/RepurposeBuffUndead"]}
+{"parents": ["Mythic/Lich/LichSpells/DoomOfServitudeBuff", "Mythic/Lich/LichSpells/RepurposeBuff", "Mythic/Lich/LichSpells/FlayForPurposeBuff"], "children": ["Mythic/Lich/LichSpells/RepurposeBuffUndead"]}

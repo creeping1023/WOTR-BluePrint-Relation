@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/AnswersList_0003"], "children": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/Cue_0004", "World/Quests/c4/AvengeInsults/Obj1.5_AvengeChivarro", "Mythic/Aeon/AeonMythicClass"]}
+{"parents": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/AnswersList_0003"], "children": ["World/Dialogs/c4/TenThousandDelights/Chivarro_dialogue/Cue_0004", "Mythic/Aeon/AeonMythicClass", "World/Quests/c4/AvengeInsults/Obj1.5_AvengeChivarro"]}

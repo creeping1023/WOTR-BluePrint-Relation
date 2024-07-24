@@ -1,1 +1,1 @@
-{"parents": ["Classes/HellknightSignifer/HellknightSigniferSpellbook"], "children": ["Classes/Bloodrager/BloodragerClass", "Classes/Bloodrager/BloodragerSpellbook"]}
+{"parents": ["Classes/HellknightSignifer/HellknightSigniferSpellbook"], "children": ["Classes/Bloodrager/BloodragerSpellbook", "Classes/Bloodrager/BloodragerClass"]}

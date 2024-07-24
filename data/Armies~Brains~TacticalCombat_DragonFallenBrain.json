@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyDragonFallen"], "children": ["Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_BreathDragonFallen", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]}
+{"parents": ["Armies/UnitBlueprints/ArmyDragonFallen"], "children": ["Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam", "Armies/Brains/Actions/TacticalCombatAiAttackImportant", "Armies/Brains/Actions/TacticalCombat_AIAction_BreathDragonFallen"]}

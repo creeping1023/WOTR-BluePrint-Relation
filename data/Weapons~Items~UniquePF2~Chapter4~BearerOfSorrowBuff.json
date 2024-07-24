@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/Chapter4/BearerOfSorrowEnchantment", "Weapons/Items/UniquePF2/Chapter4/BearerOfSorrowProperty", "Weapons/Items/UniquePF2/Chapter4/BearerOfSorrowBuffFithAttackTriggerBuff"], "children": ["Spells/Level1/BlessBuff"]}
+{"parents": ["Weapons/Items/UniquePF2/Chapter4/BearerOfSorrowEnchantment", "Weapons/Items/UniquePF2/Chapter4/BearerOfSorrowBuffFithAttackTriggerBuff", "Weapons/Items/UniquePF2/Chapter4/BearerOfSorrowProperty"], "children": ["Spells/Level1/BlessBuff"]}

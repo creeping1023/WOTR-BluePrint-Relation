@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Demon Kalavakus/KalavakusBrain/Kalavakus_AiAction_Disarm", "Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusAdvancedFighter_AiAction_Disarm"], "children": ["Root/SystemMechanics/Conditions/DisarmMainHandBuff"]}
+{"parents": ["Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusAdvancedFighter_AiAction_Disarm", "Units/Monsters/Demon Kalavakus/KalavakusBrain/Kalavakus_AiAction_Disarm"], "children": ["Root/SystemMechanics/Conditions/DisarmMainHandBuff"]}

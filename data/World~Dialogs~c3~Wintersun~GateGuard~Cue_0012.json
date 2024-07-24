@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/GateGuard/Cue_0028", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Commoners/Sarcorians_Warriors/CR0_Sarcorian_Guard_Male", "World/Dialogs/c3/Wintersun/GateGuard/Cue_0013"]}
+{"parents": ["World/Dialogs/c3/Wintersun/GateGuard/Cue_0028", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/c3/Wintersun/GateGuard/Cue_0013", "Units/NPC/Commoners/Sarcorians_Warriors/CR0_Sarcorian_Guard_Male"]}

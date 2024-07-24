@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_1/Cue_0006"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Socothbenoth", "World/Cutscenes/TricksterCouncil/MeetTheCommander/MeetTheCommander", "World/Dialogs/c3/Mythic_Trickster/Council_1/AnswersList_0008"]}
+{"parents": ["World/Dialogs/c3/Mythic_Trickster/Council_1/Cue_0006"], "children": ["World/Cutscenes/TricksterCouncil/MeetTheCommander/MeetTheCommander", "World/Dialogs/c3/Mythic_Trickster/Council_1/AnswersList_0008", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Socothbenoth"]}

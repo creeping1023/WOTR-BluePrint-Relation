@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/RankUpOfficer_Military", "Armies/Leaders/Warlords/WarlordUnits/Warlord_Odan_Fighter", "Armies/Leaders/Warlords/Warlord_Odan"], "children": ["Units/Portraits/ElfMaleNoble"]}
+{"parents": ["Armies/Leaders/Warlords/WarlordUnits/Warlord_Odan_Fighter", "Armies/Leaders/Warlords/Warlord_Odan", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/RankUpOfficer_Military"], "children": ["Units/Portraits/ElfMaleNoble"]}

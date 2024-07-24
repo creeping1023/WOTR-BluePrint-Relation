@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/CueSequence_0051"], "children": ["Units/Companions/Camelia/Camelia_Companion", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Cue_0059"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/CueSequence_0051"], "children": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Cue_0059", "Units/Companions/Camelia/Camelia_Companion"]}

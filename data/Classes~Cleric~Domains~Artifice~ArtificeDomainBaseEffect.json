@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Archetypes/Separatist/Domains/Artifice/ArtificeDomainBaseAuraSeparatist", "Classes/Cleric/Domains/Artifice/ArtificeDomainBaseAura"], "children": ["Spells/Level1/EnlargePersonBuff"]}
+{"parents": ["Classes/Cleric/Domains/Artifice/ArtificeDomainBaseAura", "Classes/Cleric/Archetypes/Separatist/Domains/Artifice/ArtificeDomainBaseAuraSeparatist"], "children": ["Spells/Level1/EnlargePersonBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyDerakniStandard"], "children": ["Armies/Abilities/ArmySummonVescavorSwarm", "Armies/Abilities/ArmySummonVescavorSwarmFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyDerakniStandard"], "children": ["Armies/Abilities/ArmySummonVescavorSwarmFact", "Armies/Abilities/ArmySummonVescavorSwarm"]}

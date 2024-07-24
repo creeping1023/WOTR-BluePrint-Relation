@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment", "Classes/Bard/BardicPerformances/FrighteningTune/FrighteningTuneArea"], "children": ["Buffs/Frightened"]}
+{"parents": ["Classes/Bard/BardicPerformances/FrighteningTune/FrighteningTuneArea", "Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment"], "children": ["Buffs/Frightened"]}

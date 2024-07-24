@@ -1,1 +1,1 @@
-{"parents": ["Armies/Brains/TacticalCombatHellknightSigniferBrain", "Armies/Brains/TacticalCombatBrimorakBrain"], "children": ["Units/Monsters/Hellhound/HellhoundBrain/AoE_ChooseMoreThen2Enemies", "Brain/Considerations/AoE_AvoidFriends", "Armies/Abilities/ArmyHellknightSigniferFireball"]}
+{"parents": ["Armies/Brains/TacticalCombatBrimorakBrain", "Armies/Brains/TacticalCombatHellknightSigniferBrain"], "children": ["Armies/Abilities/ArmyHellknightSigniferFireball", "Brain/Considerations/AoE_AvoidFriends", "Units/Monsters/Hellhound/HellhoundBrain/AoE_ChooseMoreThen2Enemies"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Angel/AngelAdjustNow/Answer_0010_AngAdj", "World/Dialogs/c3/Mythic_Angel/AngelAdjustNow/Answer_0004"], "children": ["World/Quests/MythicQuests/Angel/C3_AngelAlignment/01_AngelFix", "World/Dialogs/c3/Mythic_Angel/AngelAdjustNow/Cue_0007_AngAdj1"]}
+{"parents": ["World/Dialogs/c3/Mythic_Angel/AngelAdjustNow/Answer_0004", "World/Dialogs/c3/Mythic_Angel/AngelAdjustNow/Answer_0010_AngAdj"], "children": ["World/Quests/MythicQuests/Angel/C3_AngelAlignment/01_AngelFix", "World/Dialogs/c3/Mythic_Angel/AngelAdjustNow/Cue_0007_AngAdj1"]}

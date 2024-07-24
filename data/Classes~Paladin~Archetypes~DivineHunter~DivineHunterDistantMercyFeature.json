@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/DivineHunter/DivineHunterArchetype", "Classes/Paladin/PaladinProgression"], "children": ["Classes/Paladin/Archetypes/DivineHunter/DivineHunterDistantMercyAbility", "Classes/Paladin/Archetypes/DivineHunter/DivineHunterDistantMercyAbility", "Classes/Paladin/PaladinClass"]}
+{"parents": ["Classes/Paladin/PaladinProgression", "Classes/Paladin/Archetypes/DivineHunter/DivineHunterArchetype"], "children": ["Classes/Paladin/PaladinClass", "Classes/Paladin/Archetypes/DivineHunter/DivineHunterDistantMercyAbility"]}

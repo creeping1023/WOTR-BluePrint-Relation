@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/gate", "World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/MythicShadow_AfterCombat"], "children": ["World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/CommandAction 3"]}
+{"parents": ["World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/MythicShadow_AfterCombat", "World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/gate"], "children": ["World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/CommandAction 3"]}

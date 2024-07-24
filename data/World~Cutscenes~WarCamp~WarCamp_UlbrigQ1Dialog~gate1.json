@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/gate", "World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/WarCamp_UlbrigQ1Dialog"], "children": ["World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/CommandAction19"]}
+{"parents": ["World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/WarCamp_UlbrigQ1Dialog", "World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/gate"], "children": ["World/Cutscenes/WarCamp/WarCamp_UlbrigQ1Dialog/CommandAction19"]}

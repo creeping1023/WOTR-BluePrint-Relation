@@ -1,1 +1,1 @@
-{"parents": ["Armies/UnitBlueprints/ArmyCultistMagic"], "children": ["Armies/Abilities/ArmyCultistCurse", "Armies/Abilities/ArmyCultistCurseFact"]}
+{"parents": ["Armies/UnitBlueprints/ArmyCultistMagic"], "children": ["Armies/Abilities/ArmyCultistCurseFact", "Armies/Abilities/ArmyCultistCurse"]}

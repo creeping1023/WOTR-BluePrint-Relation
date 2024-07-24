@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/Common/ActionHolders/SpawnActions_SetFaction(CutsceneNeutral)toSpawnedUnit", "Spells/Level1/EnlargePersonBuff"]}
+{"children": ["Spells/Level1/EnlargePersonBuff", "World/Encounters/Common/ActionHolders/SpawnActions_SetFaction(CutsceneNeutral)toSpawnedUnit"]}

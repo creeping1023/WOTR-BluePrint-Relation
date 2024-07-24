@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/BaphometBrain/Baphomet_Brain_Basic"], "children": ["Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/AvoidMainCharacterConsideration"]}
+{"parents": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/BaphometBrain/Baphomet_Brain_Basic"], "children": ["Brain/Considerations/AvoidMainCharacterConsideration", "Brain/Considerations/AttackTargetsPriority"]}

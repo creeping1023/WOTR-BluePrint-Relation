@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Demon/Alushinyrra/Irmangaleth_C3/Cue_0012", "World/Cutscenes/BattleBliss/WeWillMakeGladiatorOutOfYouYet/CommandAction"], "children": ["World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss", "World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss"]}
+{"parents": ["World/Cutscenes/BattleBliss/WeWillMakeGladiatorOutOfYouYet/CommandAction", "World/Dialogs/c3/Mythic_Demon/Alushinyrra/Irmangaleth_C3/Cue_0012"], "children": ["World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss"]}

@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/DLC2/DLC2StandardShortspear", "Weapons/Items/UniquePF2/DLC2/DLC2ShortspearEnchantment"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}
+{"parents": ["Weapons/Items/UniquePF2/DLC2/DLC2ShortspearEnchantment", "Weapons/Items/UniquePF2/DLC2/DLC2StandardShortspear"], "children": ["Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronShadow/WitchShadowPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level9/Shades"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronShadow/WitchShadowPatronProgression"], "children": ["Spells/Level9/Shades", "Classes/Witch/WitchClass"]}

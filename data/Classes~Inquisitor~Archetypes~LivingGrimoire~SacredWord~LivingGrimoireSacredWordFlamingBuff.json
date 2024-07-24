@@ -1,1 +1,1 @@
-{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordFlamingChoice", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordDurationBuff"], "children": ["Weapons/Enchantments/Flaming"]}
+{"parents": ["Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordDurationBuff", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/LivingGrimoireSacredWordFlamingChoice"], "children": ["Weapons/Enchantments/Flaming"]}

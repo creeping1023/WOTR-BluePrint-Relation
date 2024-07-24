@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/SarkorianWedding/FinalBossEnd/gate3"], "children": ["World/Cutscenes/SarkorianWedding/FinalBossEnd/CommandAction", "World/Cutscenes/SarkorianWedding/FinalBossEnd/gate5"]}
+{"parents": ["World/Cutscenes/SarkorianWedding/FinalBossEnd/gate3"], "children": ["World/Cutscenes/SarkorianWedding/FinalBossEnd/gate5", "World/Cutscenes/SarkorianWedding/FinalBossEnd/CommandAction"]}

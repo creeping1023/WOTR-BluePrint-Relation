@@ -1,1 +1,1 @@
-{"parents": ["GlobalMaps/WorldWoundGM/Points/Location_DemodandLair", "QA/Arbiter/Scenario/Act_3_DemonHerecy/DemodandLair", "World/Areas/Act_3_DemonsHerecy/DemodandLair/Presets/DemodandLair_Default_Preset"], "children": ["World/Areas/Act_3_DemonsHerecy/DemodandLair/DemodandLair"]}
+{"parents": ["World/Areas/Act_3_DemonsHerecy/DemodandLair/Presets/DemodandLair_Default_Preset", "GlobalMaps/WorldWoundGM/Points/Location_DemodandLair", "QA/Arbiter/Scenario/Act_3_DemonHerecy/DemodandLair"], "children": ["World/Areas/Act_3_DemonsHerecy/DemodandLair/DemodandLair"]}

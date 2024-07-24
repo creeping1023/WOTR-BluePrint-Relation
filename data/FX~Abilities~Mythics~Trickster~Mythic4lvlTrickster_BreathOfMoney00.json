@@ -1,1 +1,1 @@
-{"parents": ["Armies/Abilities/ArmyRaiderResourcesForKillingNinjaPirates", "Mythic/Trickster/TricksterSpells/TricksterBreathOfMoney"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}
+{"parents": ["Mythic/Trickster/TricksterSpells/TricksterBreathOfMoney", "Armies/Abilities/ArmyRaiderResourcesForKillingNinjaPirates"], "children": ["FX/Spell Level None/LineProjectile00_Trajectory"]}

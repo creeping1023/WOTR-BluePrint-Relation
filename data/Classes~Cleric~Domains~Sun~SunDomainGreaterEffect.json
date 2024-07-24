@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/SymbolOfRevelationRune", "Spells/Level4/SymbolOfRevelationRuneTriggered"], "children": ["Spells/Level1/EnlargePersonBuff"]}
+{"parents": ["Spells/Level4/SymbolOfRevelationRuneTriggered", "Spells/Level4/SymbolOfRevelationRune"], "children": ["Spells/Level1/EnlargePersonBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_2/AnswersList_0010"], "children": ["World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_2/Cue_0015", "World/Etudes/Common/WrathOfTheRighteous/Companions/LannCompanion/LannRomance/LannRomance_LannTrue2"]}
+{"parents": ["World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_2/AnswersList_0010"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/LannCompanion/LannRomance/LannRomance_LannTrue2", "World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_2/Cue_0015"]}

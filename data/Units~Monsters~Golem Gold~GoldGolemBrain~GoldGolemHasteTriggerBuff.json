@@ -1,1 +1,1 @@
-{"parents": ["CreatureAbilities/ImmunityToMagic/GoldGolemImmunity"], "children": ["Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemAdditionalDR", "Spells/Level3/SlowBuff", "Spells/Level3/SlowBuff", "Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemHasteBuff"]}
+{"parents": ["CreatureAbilities/ImmunityToMagic/GoldGolemImmunity"], "children": ["Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemHasteBuff", "Units/Monsters/Golem Gold/GoldGolemBrain/GoldGolemAdditionalDR", "Spells/Level3/SlowBuff"]}

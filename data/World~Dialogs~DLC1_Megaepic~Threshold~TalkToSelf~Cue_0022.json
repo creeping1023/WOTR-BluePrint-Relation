@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/TalkToSelf/Answer_0021"], "children": ["Units/NPC/Unique/DLC1_Megaepic/Valmallos/Valmallos", "World/Dialogs/DLC1_Megaepic/Threshold/TalkToSelf/AnswersList_0004"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/Threshold/TalkToSelf/Answer_0021"], "children": ["World/Dialogs/DLC1_Megaepic/Threshold/TalkToSelf/AnswersList_0004", "Units/NPC/Unique/DLC1_Megaepic/Valmallos/Valmallos"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresBurning/NabasuPromo/gate 3"], "children": ["Units/NPC/Commoners/Ghoul/CR1_GhoulStandard", "World/Encounters/KenabresBurning/SummonPools/GhoulFromNabasu3", "Factions/CutsceneNeutrals"]}
+{"parents": ["World/Cutscenes/KenabresBurning/NabasuPromo/gate 3"], "children": ["World/Encounters/KenabresBurning/SummonPools/GhoulFromNabasu3", "Units/NPC/Commoners/Ghoul/CR1_GhoulStandard", "Factions/CutsceneNeutrals"]}

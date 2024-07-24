@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Check_0004"], "children": ["World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Cue_8", "World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Cue_0009", "World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Answer_0006"]}
+{"parents": ["World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Check_0004"], "children": ["World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Answer_0006", "World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Cue_8", "World/Dialogs/DLC1_Megaepic/DLC1Travel_bookevent/Cue_0009"]}

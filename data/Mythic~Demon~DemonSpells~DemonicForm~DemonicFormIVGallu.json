@@ -1,1 +1,1 @@
-{"parents": ["Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIV", "Units/Monsters/DLC3_Mobs/Tier3Boss/DLC3_FAB_DemonicFormAIAction"], "children": ["Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIVGalluBuff", "Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIV"]}
+{"parents": ["Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIV", "Units/Monsters/DLC3_Mobs/Tier3Boss/DLC3_FAB_DemonicFormAIAction"], "children": ["Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIV", "Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIVGalluBuff"]}

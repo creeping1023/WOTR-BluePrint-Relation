@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Church/Church_Dialogue", "World/Dialogs/c2_vs/LostChapel/Church/Cue_0012"], "children": ["World/Encounters/WarCamp/UnlockableFlags/GalfreyReinforcement_DeusVult", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/QueenGalfrey_LostChapel"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Church/Cue_0012", "World/Dialogs/c2_vs/LostChapel/Church/Church_Dialogue"], "children": ["World/Encounters/WarCamp/UnlockableFlags/GalfreyReinforcement_DeusVult", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/QueenGalfrey_LostChapel"]}

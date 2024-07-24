@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/Fighting/gate"], "children": ["World/Cutscenes/VaultOfGraves/Fighting/CommandActivateGate", "World/Cutscenes/VaultOfGraves/Fighting/gate3"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/Fighting/gate"], "children": ["World/Cutscenes/VaultOfGraves/Fighting/gate3", "World/Cutscenes/VaultOfGraves/Fighting/CommandActivateGate"]}

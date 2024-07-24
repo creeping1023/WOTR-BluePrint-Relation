@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/ClericBrain/GhoulClericStandardBrain"], "children": ["Brain/Considerations/LongRange", "Brain/Considerations/AttackTargetsPriority", "Spells/Level2/Boneshaker"]}
+{"parents": ["Units/NPC/Commoners/Ghoul/GhoulBrain/ClericBrain/GhoulClericStandardBrain"], "children": ["Spells/Level2/Boneshaker", "Brain/Considerations/AttackTargetsPriority", "Brain/Considerations/LongRange"]}

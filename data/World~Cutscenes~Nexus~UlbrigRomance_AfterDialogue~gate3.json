@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Nexus/UlbrigRomance_AfterDialogue/UlbrigRomance_AfterDialogue"], "children": ["World/Cutscenes/Nexus/UlbrigRomance_AfterDialogue/CommandAction", "World/Cutscenes/Nexus/UlbrigRomance_AfterDialogue/gate"]}
+{"parents": ["World/Cutscenes/Nexus/UlbrigRomance_AfterDialogue/UlbrigRomance_AfterDialogue"], "children": ["World/Cutscenes/Nexus/UlbrigRomance_AfterDialogue/gate", "World/Cutscenes/Nexus/UlbrigRomance_AfterDialogue/CommandAction"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/AreshkagalTomb/AreshkaConfrontation/Cue_0009"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c5/AreshkagalTomb/AreshkaConfrontation/Cue_0012"]}
+{"parents": ["World/Dialogs/c5/AreshkagalTomb/AreshkaConfrontation/Cue_0009"], "children": ["World/Dialogs/c5/AreshkagalTomb/AreshkaConfrontation/Cue_0012", "Units/Companions/Nenio/Nenio_Companion"]}

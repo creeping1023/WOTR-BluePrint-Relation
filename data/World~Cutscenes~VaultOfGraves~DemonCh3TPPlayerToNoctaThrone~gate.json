@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/VaultOfGraves/DemonCh3TPPlayerToNoctaThrone/DemonCh3TPPlayerToNoctaThrone"], "children": ["World/Cutscenes/VaultOfGraves/DemonCh3TPPlayerToNoctaThrone/CommandDelay", "World/Cutscenes/VaultOfGraves/DemonCh3TPPlayerToNoctaThrone/CommandStartDialog"]}
+{"parents": ["World/Cutscenes/VaultOfGraves/DemonCh3TPPlayerToNoctaThrone/DemonCh3TPPlayerToNoctaThrone"], "children": ["World/Cutscenes/VaultOfGraves/DemonCh3TPPlayerToNoctaThrone/CommandStartDialog", "World/Cutscenes/VaultOfGraves/DemonCh3TPPlayerToNoctaThrone/CommandDelay"]}

@@ -1,1 +1,1 @@
-{"parents": ["Items/UsableSlotItem/LuckyDicesItem"], "children": ["Items/UsableSlotItem/LuckyDicesACBuff", "Items/UsableSlotItem/LuckyDicesAttackBuff", "Items/UsableSlotItem/LuckyDicesDamageBuff"]}
+{"parents": ["Items/UsableSlotItem/LuckyDicesItem"], "children": ["Items/UsableSlotItem/LuckyDicesAttackBuff", "Items/UsableSlotItem/LuckyDicesDamageBuff", "Items/UsableSlotItem/LuckyDicesACBuff"]}

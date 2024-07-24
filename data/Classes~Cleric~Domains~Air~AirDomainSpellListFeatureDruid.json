@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cleric/Domains/Air/AirDomainProgressionDruid"], "children": ["Classes/Druid/DruidClass", "Classes/Cleric/Domains/Air/AirDomainSpellList", "Classes/Cleric/Domains/Air/AirDomainSpellListFeature", "Classes/Cleric/Domains/Air/AirDomainSpellListFeature"]}
+{"parents": ["Classes/Cleric/Domains/Air/AirDomainProgressionDruid"], "children": ["Classes/Cleric/Domains/Air/AirDomainSpellList", "Classes/Cleric/Domains/Air/AirDomainSpellListFeature", "Classes/Druid/DruidClass"]}

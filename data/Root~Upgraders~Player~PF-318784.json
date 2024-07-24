@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Kineticist/Infusions/DismissInfusionFeature", "Classes/Kineticist/KineticistProgression"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Kineticist/KineticistProgression", "Classes/Kineticist/Infusions/DismissInfusionFeature"]}

@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "Items/Vendors/LinziQ_BookPeddler", "Loot/Quest/HorgusManor/PoorLootLibrary04"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}
+{"parents": ["Loot/Quest/HorgusManor/PoorLootLibrary04", "Dugeons/Loot/DungeonLootExclude", "Items/Vendors/LinziQ_BookPeddler"], "children": ["Items/DestructibleItemsShards/PaperShardItem"]}

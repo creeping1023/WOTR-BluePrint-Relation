@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/KenabresGraveyard/SosielHelpCitizens/gate11"], "children": ["World/Encounters/KenabresGraveyard/UnlockableFlags/DoorBreak", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}
+{"parents": ["World/Cutscenes/KenabresGraveyard/SosielHelpCitizens/gate11"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Encounters/KenabresGraveyard/UnlockableFlags/DoorBreak"]}

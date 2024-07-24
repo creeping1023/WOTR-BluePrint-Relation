@@ -1,1 +1,1 @@
-{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrArchetype"], "children": ["Classes/Paladin/LayOnHands/LayOnHandsOthers", "Classes/Paladin/Archetypes/Martyr/MartyrMartyrsMercyNoAuraOfHealthChoice", "Classes/Paladin/Archetypes/Martyr/MartyrMartyrsMercyNoSeeNoEvilChoice"]}
+{"parents": ["Classes/Paladin/Archetypes/Martyr/MartyrArchetype"], "children": ["Classes/Paladin/Archetypes/Martyr/MartyrMartyrsMercyNoSeeNoEvilChoice", "Classes/Paladin/Archetypes/Martyr/MartyrMartyrsMercyNoAuraOfHealthChoice", "Classes/Paladin/LayOnHands/LayOnHandsOthers"]}

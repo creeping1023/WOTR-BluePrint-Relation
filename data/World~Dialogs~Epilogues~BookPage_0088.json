@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Epilogues/Cue_0089", "World/Dialogs/Epilogues/Cue_0090", "World/Dialogs/Epilogues/Answer_0091"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_AeonCompanions"], "children": ["World/Dialogs/Epilogues/Cue_0089", "Units/Companions/Greybor/Greybor_Companion", "World/Dialogs/Epilogues/Cue_0090", "World/Dialogs/Epilogues/Answer_0091"]}

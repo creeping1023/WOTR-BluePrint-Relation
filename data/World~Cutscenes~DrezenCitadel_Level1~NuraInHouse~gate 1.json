@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/NuraInHouse", "World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/gate 2"], "children": ["World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/CommandAction 1"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/gate 2", "World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/NuraInHouse"], "children": ["World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/CommandAction 1"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/SilverDragon/Terendelev/AnotherDragon_Undead", "Units/Monsters/SilverDragon/Terendelev/AnotherDragon_BreathAiAction"], "children": ["FX/Spell Level None/ColdCone50Feet00", "Buffs/Staggered", "Buffs/Stunned", "Buffs/Staggered", "Classes/Monster/Dragon/DragonClass"]}
+{"parents": ["Units/Monsters/SilverDragon/Terendelev/AnotherDragon_BreathAiAction", "Units/Monsters/SilverDragon/Terendelev/AnotherDragon_Undead"], "children": ["Buffs/Staggered", "Buffs/Stunned", "Classes/Monster/Dragon/DragonClass", "FX/Spell Level None/ColdCone50Feet00"]}

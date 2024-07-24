@@ -1,1 +1,1 @@
-{"parents": ["Weapons/Items/UniquePF2/VoicesOfHollowEnchantment"], "children": ["Weapons/Items/UniquePF2/VoicesOfHollowBuff", "FX/Spell Level None/SonicCone30Feet00"]}
+{"parents": ["Weapons/Items/UniquePF2/VoicesOfHollowEnchantment"], "children": ["FX/Spell Level None/SonicCone30Feet00", "Weapons/Items/UniquePF2/VoicesOfHollowBuff"]}

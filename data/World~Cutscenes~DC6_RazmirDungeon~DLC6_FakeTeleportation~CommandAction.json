@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_FakeTeleportation/gate"], "children": ["Buffs/NPC_Untargetable", "Buffs/NPC_Protection", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/DC6_RazmirDungeon/DLC6_FakeTeleportation/gate"], "children": ["Factions/Mobs", "Buffs/NPC_Protection", "Buffs/NPC_Untargetable"]}

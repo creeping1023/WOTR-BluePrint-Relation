@@ -1,1 +1,1 @@
-{"children": ["Factions/Mobs", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalLocusMod/DLC3_ElementalLocusBuff_OnInvisible", "CreatureAbilities/DamageReduction/DR10"]}
+{"children": ["Factions/Mobs", "CreatureAbilities/DamageReduction/DR10", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalLocusMod/DLC3_ElementalLocusBuff_OnInvisible"]}

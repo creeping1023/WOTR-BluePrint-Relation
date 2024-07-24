@@ -1,1 +1,1 @@
-{"parents": ["Root/Upgraders/Player/PF-256029", "Units/Monsters/Demon Vavakia/VavakiaBrain/Vavakia_Ability_BreathWeapon", "Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIVVavakia_Breath"]}
+{"parents": ["Units/Monsters/Demon Vavakia/VavakiaBrain/Vavakia_Ability_BreathWeapon", "Root/Upgraders/Player/PF-256029", "Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIVVavakia_Breath"]}

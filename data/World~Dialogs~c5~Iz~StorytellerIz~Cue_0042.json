@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Iz/StorytellerIz/CueSequence_0041"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Storyteller", "World/Dialogs/c5/Iz/StorytellerIz/Cue_0044"]}
+{"parents": ["World/Dialogs/c5/Iz/StorytellerIz/CueSequence_0041"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/BlackWingRuins/Storyteller", "Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/c5/Iz/StorytellerIz/Cue_0044"]}

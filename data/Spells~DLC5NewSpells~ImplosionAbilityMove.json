@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC5NewSpells/ImplosionSelfAddActionBuff"], "children": ["Classes/Cleric/ClericSpellList", "Spells/DLC5NewSpells/ImplosionBuff", "CreatureAbilities/Incorporeal", "Spells/DLC5NewSpells/ImplosionImmunityBuff"]}
+{"parents": ["Spells/DLC5NewSpells/ImplosionSelfAddActionBuff"], "children": ["Spells/DLC5NewSpells/ImplosionImmunityBuff", "Classes/Cleric/ClericSpellList", "Spells/DLC5NewSpells/ImplosionBuff", "CreatureAbilities/Incorporeal"]}

@@ -1,1 +1,1 @@
-{"parents": ["Classes/Hunter/Archetypes/Forester/ForesterTactician/ForesterTacticianCoordinatedManeuversAbility", "Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianCoordinatedManeuversAbility"], "children": ["Feats/Teamwork/CoordinatedManeuvers"]}
+{"parents": ["Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianCoordinatedManeuversAbility", "Classes/Hunter/Archetypes/Forester/ForesterTactician/ForesterTacticianCoordinatedManeuversAbility"], "children": ["Feats/Teamwork/CoordinatedManeuvers"]}

@@ -1,1 +1,1 @@
-{"parents": ["Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingCathedral"], "children": ["CreatureAbilities/Subtypes/SubtypeDemon", "CreatureAbilities/Subtypes/SubtypeDemon", "Armies/Abilities/BonusFactsForArmy/ArmyBuildingCathedralBuff"]}
+{"parents": ["Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingCathedral"], "children": ["Armies/Abilities/BonusFactsForArmy/ArmyBuildingCathedralBuff", "CreatureAbilities/Subtypes/SubtypeDemon"]}

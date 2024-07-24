@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/AnimalCompanionFeatureMonitor", "Classes/Pets/MonitorLizardChargeFeature"], "children": ["Classes/Pets/MonitorPoisonFeature", "Classes/Pets/IterativeNaturalAttacksBuff"]}
+{"parents": ["Classes/Pets/AnimalCompanionFeatureMonitor", "Classes/Pets/MonitorLizardChargeFeature"], "children": ["Classes/Pets/IterativeNaturalAttacksBuff", "Classes/Pets/MonitorPoisonFeature"]}

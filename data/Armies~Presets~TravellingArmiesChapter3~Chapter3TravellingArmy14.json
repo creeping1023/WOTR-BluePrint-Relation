@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter3TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmySuccubusStandard", "Armies/UnitBlueprints/ArmyHeavyInfantry", "Armies/UnitBlueprints/ArmyCuirassier"]}
+{"parents": ["Root/Kingdom/ArmyRoot", "Root/Kingdom/Chapter3TravellingArmyList"], "children": ["Armies/UnitBlueprints/ArmyCuirassier", "Armies/UnitBlueprints/ArmyHeavyInfantry", "Armies/UnitBlueprints/ArmySuccubusStandard"]}

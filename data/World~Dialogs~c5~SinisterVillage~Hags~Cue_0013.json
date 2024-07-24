@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0012"], "children": ["Units/NPC/Unique/Act_2_SwordOfValor/SinisterVillage/Markyll", "World/Dialogs/c5/SinisterVillage/Hags/AnswersList_0006"]}
+{"parents": ["World/Dialogs/c5/SinisterVillage/Hags/Cue_0012"], "children": ["World/Dialogs/c5/SinisterVillage/Hags/AnswersList_0006", "Units/NPC/Unique/Act_2_SwordOfValor/SinisterVillage/Markyll"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ReturnToDrezen/TricksterMythicPowers_1/CommandUnitCastSpell1", "World/Cutscenes/ReturnToDrezen/TricksterMythicPowers_1/CommandUnitCastSpell"], "children": ["Buffs/Prone", "FX/Abilities/Mythics/Trickster/TricksterFishMissile_Projectile"]}
+{"parents": ["World/Cutscenes/ReturnToDrezen/TricksterMythicPowers_1/CommandUnitCastSpell", "World/Cutscenes/ReturnToDrezen/TricksterMythicPowers_1/CommandUnitCastSpell1"], "children": ["Buffs/Prone", "FX/Abilities/Mythics/Trickster/TricksterFishMissile_Projectile"]}

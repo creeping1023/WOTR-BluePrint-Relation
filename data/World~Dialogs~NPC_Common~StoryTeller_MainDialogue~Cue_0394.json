@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0415", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0393"]}
+{"parents": ["QA/Clockwork/Scenario/Draft/Chapter2_tst_preset", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_0415", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0393"]}

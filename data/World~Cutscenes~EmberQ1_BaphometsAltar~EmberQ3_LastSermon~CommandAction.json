@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/EmberQ1_BaphometsAltar/EmberQ3_LastSermon/gate"], "children": ["World/Areas/Act_3_DemonsHerecy/EmberQ1_BaphometsAltar/EnterPoints/EmberQ3_BaphometsAltar_Dialogue_Enter", "Units/Companions/Ember/Ember_Companion"]}
+{"parents": ["World/Cutscenes/EmberQ1_BaphometsAltar/EmberQ3_LastSermon/gate"], "children": ["Units/Companions/Ember/Ember_Companion", "World/Areas/Act_3_DemonsHerecy/EmberQ1_BaphometsAltar/EnterPoints/EmberQ3_BaphometsAltar_Dialogue_Enter"]}

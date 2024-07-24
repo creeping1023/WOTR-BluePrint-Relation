@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC2_Graveyard/ActionsHolders/(CR 6) Necromancer_SpawnActions", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_NecromancerAgro"], "children": ["World/Cutscenes/DLC2_Graveyard/Graveyard_Necromancer_Cast/CommandUnitPlayCutsceneAnimation"]}
+{"parents": ["World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_NecromancerAgro", "World/Encounters/DLC2_Graveyard/ActionsHolders/(CR 6) Necromancer_SpawnActions"], "children": ["World/Cutscenes/DLC2_Graveyard/Graveyard_Necromancer_Cast/CommandUnitPlayCutsceneAnimation"]}

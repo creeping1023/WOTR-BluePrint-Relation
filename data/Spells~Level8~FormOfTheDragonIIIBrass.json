@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level8/FormOfTheDragonIII", "Items/Scrolls/Level8/ScrollOfFormOfTheDragonIIIBrass"], "children": ["Spells/Level8/FormOfTheDragonIIIBrassBuff", "Spells/Level8/FormOfTheDragonIII"]}
+{"parents": ["Items/Scrolls/Level8/ScrollOfFormOfTheDragonIIIBrass", "Spells/Level8/FormOfTheDragonIII"], "children": ["Spells/Level8/FormOfTheDragonIII", "Spells/Level8/FormOfTheDragonIIIBrassBuff"]}

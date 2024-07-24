@@ -1,1 +1,1 @@
-{"parents": ["Spells/DLC5NewSpells/Implosion", "Spells/DLC5NewSpells/ImplosionAbilityMove"], "children": ["Spells/DLC5NewSpells/ImplosionImmunityBuff"]}
+{"parents": ["Spells/DLC5NewSpells/ImplosionAbilityMove", "Spells/DLC5NewSpells/Implosion"], "children": ["Spells/DLC5NewSpells/ImplosionImmunityBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Test/Units/PlayerWeaponTestPregen"], "children": ["Weapons/Items/Standard/SimpleLight/StandardDagger", "Weapons/Items/Standard/SimpleLight/StandardLightMace", "Weapons/Items/Standard/SimpleLight/StandardPunchingDagger", "Weapons/Items/Standard/SimpleLight/StandardSickle"]}
+{"parents": ["Test/Units/PlayerWeaponTestPregen"], "children": ["Weapons/Items/Standard/SimpleLight/StandardPunchingDagger", "Weapons/Items/Standard/SimpleLight/StandardLightMace", "Weapons/Items/Standard/SimpleLight/StandardSickle", "Weapons/Items/Standard/SimpleLight/StandardDagger"]}

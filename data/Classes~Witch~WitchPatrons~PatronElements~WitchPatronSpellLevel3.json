@@ -1,1 +1,1 @@
-{"parents": ["Classes/Witch/WitchPatrons/PatronElements/WitchElementsPatronProgression"], "children": ["Classes/Witch/WitchClass", "Spells/Level3/Fireball"]}
+{"parents": ["Classes/Witch/WitchPatrons/PatronElements/WitchElementsPatronProgression"], "children": ["Spells/Level3/Fireball", "Classes/Witch/WitchClass"]}

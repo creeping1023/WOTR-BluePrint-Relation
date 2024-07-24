@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Demodand Tarry/AlushynirraCity/AlushynirraDemodandKineticist"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Commoners/Demodand Tarry/AlushynirraCity/AlushynirraDemodandMiniboss/AlushynirraDemodandKineticist_AiAction_MagmaBlastArchers"]}
+{"parents": ["Units/NPC/Commoners/Demodand Tarry/AlushynirraCity/AlushynirraDemodandKineticist"], "children": ["Units/NPC/Commoners/Demodand Tarry/AlushynirraCity/AlushynirraDemodandMiniboss/AlushynirraDemodandKineticist_AiAction_MagmaBlastArchers", "Brain/Actions/AttackAiAction"]}

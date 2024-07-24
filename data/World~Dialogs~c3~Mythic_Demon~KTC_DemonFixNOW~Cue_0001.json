@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Mythic_Demon/KTC_DemonFixNOW/KTC_DemonFixNOW_dialogue"], "children": ["Spells/CutsceneSpells/YozzPolymorfBuff", "World/Dialogs/c3/Mythic_Demon/KTC_DemonFixNOW/Cue_0002", "World/Dialogs/c3/Mythic_Demon/KTC_DemonFixNOW/Cue_0003"]}
+{"parents": ["World/Dialogs/c3/Mythic_Demon/KTC_DemonFixNOW/KTC_DemonFixNOW_dialogue"], "children": ["World/Dialogs/c3/Mythic_Demon/KTC_DemonFixNOW/Cue_0003", "World/Dialogs/c3/Mythic_Demon/KTC_DemonFixNOW/Cue_0002", "Spells/CutsceneSpells/YozzPolymorfBuff"]}

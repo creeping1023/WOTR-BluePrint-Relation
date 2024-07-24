@@ -1,1 +1,1 @@
-{"parents": ["Items/Rods/Artisan/RodOfPower/RodOfPowerBuffMetamagic", "Items/Rods/Artisan/RodOfPowerItem", "Items/Rods/Artisan/HalflingFemaleShadytraderMasterpieceItem"], "children": ["Items/Rods/Artisan/RodOfPower/RodOfPowerBuffMetamagic"]}
+{"parents": ["Items/Rods/Artisan/RodOfPowerItem", "Items/Rods/Artisan/HalflingFemaleShadytraderMasterpieceItem", "Items/Rods/Artisan/RodOfPower/RodOfPowerBuffMetamagic"], "children": ["Items/Rods/Artisan/RodOfPower/RodOfPowerBuffMetamagic"]}

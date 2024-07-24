@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/Glaciation", "Root/BlueprintRoot", "World/Cutscenes/DLC5_SithhudLair/DLC5_Sithhud_is_finally_dead/CommandAction1"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/Glaciation", "World/Cutscenes/DLC5_SithhudLair/DLC5_Sithhud_is_finally_dead/CommandAction1"], "children": ["Achievements/Groups/DLC5TrophyGroupPack2"]}

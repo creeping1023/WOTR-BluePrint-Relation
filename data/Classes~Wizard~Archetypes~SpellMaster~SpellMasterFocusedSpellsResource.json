@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Archetypes/SpellMaster/SpellMasterFocusedSpellsFeature", "Classes/Wizard/Archetypes/SpellMaster/SpellMasterFocusedSpellsAbility"], "children": ["Classes/Wizard/WizardClass", "Classes/Wizard/WizardClass"]}
+{"parents": ["Classes/Wizard/Archetypes/SpellMaster/SpellMasterFocusedSpellsFeature", "Classes/Wizard/Archetypes/SpellMaster/SpellMasterFocusedSpellsAbility"], "children": ["Classes/Wizard/WizardClass"]}

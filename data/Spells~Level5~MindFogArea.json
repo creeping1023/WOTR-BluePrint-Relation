@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level5/MindFog"], "children": ["Spells/Level5/MindFogBuff", "Spells/Level5/MindFogAfterBuff", "Spells/Level5/MindFogAfterBuff", "Spells/Level5/MindFogBuff", "Spells/Level5/MindFogAfterBuff"]}
+{"parents": ["Spells/Level5/MindFog"], "children": ["Spells/Level5/MindFogAfterBuff", "Spells/Level5/MindFogBuff"]}

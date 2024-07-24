@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC3_ToxicPrison_1/ActionsHolders/DLC3_RewardStatueBuff_Actions", "Root/DungeonRoot"], "children": ["Buffs/Sickened"]}
+{"parents": ["Root/DungeonRoot", "World/Encounters/DLC3_ToxicPrison_1/ActionsHolders/DLC3_RewardStatueBuff_Actions"], "children": ["Buffs/Sickened"]}

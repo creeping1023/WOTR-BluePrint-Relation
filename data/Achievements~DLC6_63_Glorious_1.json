@@ -1,1 +1,1 @@
-{"parents": ["World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Areas/DLC6_Arena/Arena_Tier01_Encounter05", "Root/BlueprintRoot"], "children": ["Achievements/Groups/DLC6TrophyGroup"]}
+{"parents": ["Root/BlueprintRoot", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Areas/DLC6_Arena/Arena_Tier01_Encounter05"], "children": ["Achievements/Groups/DLC6TrophyGroup"]}

@@ -1,1 +1,1 @@
-{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/HalfFiendMinotaur_Brain_UnholyAura"], "children": ["Brain/Considerations/NoBuffUnholyAura", "Spells/Level8/UnholyAura"]}
+{"parents": ["Units/Monsters/Minotaur/MinotaurBrain/HalfFiendMinotaur_Brain_UnholyAura"], "children": ["Spells/Level8/UnholyAura", "Brain/Considerations/NoBuffUnholyAura"]}

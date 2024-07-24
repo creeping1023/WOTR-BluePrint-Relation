@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/Mythic_Azata/MarketSearch/Cue_0018"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/SarzaksisTranslatorTiefling", "World/Dialogs/c4/Mythic_Azata/MarketSearch/Cue_0020"]}
+{"parents": ["World/Dialogs/c4/Mythic_Azata/MarketSearch/Cue_0018"], "children": ["World/Dialogs/c4/Mythic_Azata/MarketSearch/Cue_0020", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Mentor", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/SarzaksisTranslatorTiefling"]}

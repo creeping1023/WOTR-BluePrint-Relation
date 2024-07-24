@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/LostChapel/Zacharius/Cue_0092"], "children": ["Units/Companions/Nenio/Nenio_Companion", "World/Dialogs/c2_vs/LostChapel/Zacharius/Cue_0094"]}
+{"parents": ["World/Dialogs/c2_vs/LostChapel/Zacharius/Cue_0092"], "children": ["World/Dialogs/c2_vs/LostChapel/Zacharius/Cue_0094", "Units/Companions/Nenio/Nenio_Companion"]}

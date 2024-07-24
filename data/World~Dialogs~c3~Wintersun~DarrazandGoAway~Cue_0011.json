@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/DarrazandGoAway/Answer_0008"], "children": ["World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Marhevok_cutscene", "World/Dialogs/c3/Wintersun/DarrazandGoAway/AnswersList_0007"]}
+{"parents": ["World/Dialogs/c3/Wintersun/DarrazandGoAway/Answer_0008"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Marhevok_cutscene", "World/Dialogs/c3/Wintersun/DarrazandGoAway/AnswersList_0007", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"]}

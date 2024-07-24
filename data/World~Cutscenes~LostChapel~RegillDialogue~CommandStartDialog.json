@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/RegillDialogue/gate"], "children": ["Units/Companions/Regill/Regill_Companion", "World/Dialogs/c2_vs/LostChapel/Companion_Regill/Companion_Regill_Dialogue"]}
+{"parents": ["World/Cutscenes/LostChapel/RegillDialogue/gate"], "children": ["World/Dialogs/c2_vs/LostChapel/Companion_Regill/Companion_Regill_Dialogue", "Units/Companions/Regill/Regill_Companion"]}

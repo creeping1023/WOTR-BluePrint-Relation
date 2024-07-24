@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0003"], "children": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0021", "World/Etudes/Common/WrathOfTheRighteous/Chapter01"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Daeran/AnswersList_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Daeran/Cue_0021", "World/Etudes/Common/WrathOfTheRighteous/Chapter01"]}

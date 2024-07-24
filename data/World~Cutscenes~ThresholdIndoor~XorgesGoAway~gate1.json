@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ThresholdIndoor/XorgesGoAway/gate", "World/Cutscenes/ThresholdIndoor/XorgesGoAway/XorgesGoAway"], "children": ["World/Cutscenes/ThresholdIndoor/XorgesGoAway/CommandMoveUnit", "World/Cutscenes/ThresholdIndoor/XorgesGoAway/gate2"]}
+{"parents": ["World/Cutscenes/ThresholdIndoor/XorgesGoAway/XorgesGoAway", "World/Cutscenes/ThresholdIndoor/XorgesGoAway/gate"], "children": ["World/Cutscenes/ThresholdIndoor/XorgesGoAway/CommandMoveUnit", "World/Cutscenes/ThresholdIndoor/XorgesGoAway/gate2"]}

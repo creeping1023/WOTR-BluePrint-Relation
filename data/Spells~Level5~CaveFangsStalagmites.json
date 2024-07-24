@@ -1,1 +1,1 @@
-{"parents": ["Items/Scrolls/Level5/ScrollOfCaveFangsStalagmites", "Spells/Level5/CaveFangs"], "children": ["Spells/Level5/CaveFangsStalagmitesBuff", "Spells/Level5/CaveFangs"]}
+{"parents": ["Items/Scrolls/Level5/ScrollOfCaveFangsStalagmites", "Spells/Level5/CaveFangs"], "children": ["Spells/Level5/CaveFangs", "Spells/Level5/CaveFangsStalagmitesBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["Equipment/Cloaks/DLC2/CloakOfTheLionEnchantment"], "children": ["Equipment/Cloaks/DLC2/CloakOfTheLionResistanceBuff", "Classes/Paladin/PaladinClass", "Equipment/Cloaks/DLC2/CloakOfTheLionSmiteBuff", "Equipment/Cloaks/DLC2/CloakOfTheLionSmiteBuff", "Equipment/Cloaks/DLC2/CloakOfTheLionResistanceBuff"]}
+{"parents": ["Equipment/Cloaks/DLC2/CloakOfTheLionEnchantment"], "children": ["Classes/Paladin/PaladinClass", "Equipment/Cloaks/DLC2/CloakOfTheLionSmiteBuff", "Equipment/Cloaks/DLC2/CloakOfTheLionResistanceBuff"]}

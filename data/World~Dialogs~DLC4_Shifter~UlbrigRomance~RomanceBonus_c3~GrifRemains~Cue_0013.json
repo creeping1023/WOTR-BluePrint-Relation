@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceBonus_c3/GrifRemains/Cue_0012"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Companions/UlbrigCompanion/UlbrigRomance/UlbrigRomance_Active", "World/UnlockableFlags/Companions/UlbrigRomanceFindTraces_c3"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceBonus_c3/GrifRemains/Cue_0012"], "children": ["World/UnlockableFlags/Companions/UlbrigRomanceFindTraces_c3", "World/Etudes/Common/WrathOfTheRighteous/Companions/UlbrigCompanion/UlbrigRomance/UlbrigRomance_Active"]}

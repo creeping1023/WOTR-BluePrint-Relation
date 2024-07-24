@@ -1,1 +1,1 @@
-{"parents": ["Items/Rods/MetamagicRodPersistentLesser/MetamagicRodLesserPersistent", "Items/Rods/MetamagicRodPersistentLesser/MetamagicRodLesserPersistentBuff"], "children": ["Items/Rods/MetamagicRodPersistentLesser/MetamagicRodLesserPersistentBuff"]}
+{"parents": ["Items/Rods/MetamagicRodPersistentLesser/MetamagicRodLesserPersistentBuff", "Items/Rods/MetamagicRodPersistentLesser/MetamagicRodLesserPersistent"], "children": ["Items/Rods/MetamagicRodPersistentLesser/MetamagicRodLesserPersistentBuff"]}

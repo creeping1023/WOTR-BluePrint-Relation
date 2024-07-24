@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Dialogs/NPC_Common/Irabeth/Cue_0166", "Items/Utility/GoldCoins", "Weapons/Items/TotalPlus5/SolemnHour"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Weapons/Items/TotalPlus5/SolemnHour", "World/Dialogs/NPC_Common/Irabeth/Cue_0166", "Items/Utility/GoldCoins"]}

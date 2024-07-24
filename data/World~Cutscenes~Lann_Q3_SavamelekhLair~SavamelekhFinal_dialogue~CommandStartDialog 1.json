@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Lann_Q3_SavamelekhLair/SavamelekhFinal_dialogue/gate1"], "children": ["World/Quests/Companions/Wenduag/Q3_TraitorsBlood/Q3_TraitorsBlood", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q3_TraitorsBlood/FinalSava/FinalSava_dialogue"]}
+{"parents": ["World/Cutscenes/Lann_Q3_SavamelekhLair/SavamelekhFinal_dialogue/gate1"], "children": ["World/Dialogs/Companions/CompanionQuests/Wenduag/Q3_TraitorsBlood/FinalSava/FinalSava_dialogue", "World/Quests/Companions/Wenduag/Q3_TraitorsBlood/Q3_TraitorsBlood"]}

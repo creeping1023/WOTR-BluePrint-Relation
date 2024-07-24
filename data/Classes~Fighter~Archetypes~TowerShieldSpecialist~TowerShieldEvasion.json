@@ -1,1 +1,1 @@
-{"parents": ["Classes/Fighter/Archetypes/TowerShieldSpecialist/TowerShieldSpecialistArchetype", "Classes/Fighter/FighterProgression"]}
+{"parents": ["Classes/Fighter/FighterProgression", "Classes/Fighter/Archetypes/TowerShieldSpecialist/TowerShieldSpecialistArchetype"]}

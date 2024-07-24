@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/OraclePartyHouse/Daeran_FirstMeet/CueSequence_0018"], "children": ["Units/Companions/Seelah/Seelah_Companion", "World/Dialogs/c1/KenabresBurning/OraclePartyHouse/Daeran_FirstMeet/Cue_0022"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/OraclePartyHouse/Daeran_FirstMeet/CueSequence_0018"], "children": ["World/Dialogs/c1/KenabresBurning/OraclePartyHouse/Daeran_FirstMeet/Cue_0022", "Units/Companions/Seelah/Seelah_Companion"]}

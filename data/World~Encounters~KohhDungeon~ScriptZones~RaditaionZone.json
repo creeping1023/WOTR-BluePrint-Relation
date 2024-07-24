@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/KohhDungeon/UnlockableFlags/ChemicalLabContamination", "Buffs/KohhPoisonZoneBuff", "Buffs/KohhPoisonZoneBuff"]}
+{"children": ["Buffs/KohhPoisonZoneBuff", "World/Encounters/KohhDungeon/UnlockableFlags/ChemicalLabContamination"]}

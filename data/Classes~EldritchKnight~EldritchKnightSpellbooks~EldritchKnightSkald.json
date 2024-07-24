@@ -1,1 +1,1 @@
-{"parents": ["Classes/EldritchKnight/EldritchKnightSpellbooks/EldritchKnightSpellbookSelection"], "children": ["Classes/Skald/SkaldClass", "Classes/Skald/SkaldSpellbook"]}
+{"parents": ["Classes/EldritchKnight/EldritchKnightSpellbooks/EldritchKnightSpellbookSelection"], "children": ["Classes/Skald/SkaldSpellbook", "Classes/Skald/SkaldClass"]}

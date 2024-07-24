@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/DesnaAdept3/AnswersList_0008", "QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mAzataUnlock"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaAdept3/Cue_0017", "World/Dialogs/c1/KenabresBurning/DesnaAdept3/Cue_0018"]}
+{"parents": ["QA/Clockwork/Scenario/Exploration/ScenarioParts/Mythic/mAzataUnlock", "World/Dialogs/c1/KenabresBurning/DesnaAdept3/AnswersList_0008"], "children": ["World/Dialogs/c1/KenabresBurning/DesnaAdept3/Cue_0017", "World/Dialogs/c1/KenabresBurning/DesnaAdept3/Cue_0018"]}

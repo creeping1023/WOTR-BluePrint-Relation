@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanAfterBattle/Answer_0011"], "children": ["Units/Companions/Finnean/Finnean_Companion", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanAfterBattle/Cue_0012"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanAfterBattle/Answer_0011"], "children": ["World/Dialogs/Companions/CompanionQuests/Finnean/FinneanAfterBattle/Cue_0012", "Units/Companions/Finnean/Finnean_Companion"]}

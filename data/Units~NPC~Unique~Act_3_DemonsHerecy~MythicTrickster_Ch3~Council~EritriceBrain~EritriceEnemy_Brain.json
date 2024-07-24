@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/EritriceEnemy"], "children": ["Brain/Actions/AttackAiAction", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/EritriceBrain/EritriceEnemy_AiAction_Cacophony"]}
+{"parents": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/EritriceEnemy"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Council/EritriceBrain/EritriceEnemy_AiAction_Cacophony", "Brain/Actions/AttackAiAction"]}

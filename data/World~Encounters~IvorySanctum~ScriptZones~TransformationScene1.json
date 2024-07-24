@@ -1,1 +1,1 @@
-{"children": ["World/Encounters/IvorySanctum/UnlockableFlags/TransformationSceneSeconEntrance", "World/Cutscenes/GenericScenes/MoveCameraAndStartDialog/MoveCameraAndStartDialog", "World/Dialogs/c3/IvorySanctum/Cultists_Transformation/Cultists_Transformation_Dialog"]}
+{"children": ["World/Cutscenes/GenericScenes/MoveCameraAndStartDialog/MoveCameraAndStartDialog", "World/Encounters/IvorySanctum/UnlockableFlags/TransformationSceneSeconEntrance", "World/Dialogs/c3/IvorySanctum/Cultists_Transformation/Cultists_Transformation_Dialog"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Final/Gundrun_final_dialogue"], "children": ["World/Etudes/Common/DLC4_Shifter/DLC4_Part_2", "World/Etudes/Common/DLC4_Shifter"]}
+{"parents": ["World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Final/Gundrun_final_dialogue"], "children": ["World/Etudes/Common/DLC4_Shifter", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_2"]}

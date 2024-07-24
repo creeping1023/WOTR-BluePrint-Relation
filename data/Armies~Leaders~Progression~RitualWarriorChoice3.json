@@ -1,1 +1,1 @@
-{"parents": ["Armies/Leaders/Progression/WarlordWarriorProgression"], "children": ["Armies/Rituals/RitualPrayer", "Armies/Rituals/RitualCauseFear", "Armies/Rituals/RitualBullsStrength"]}
+{"parents": ["Armies/Leaders/Progression/WarlordWarriorProgression"], "children": ["Armies/Rituals/RitualBullsStrength", "Armies/Rituals/RitualPrayer", "Armies/Rituals/RitualCauseFear"]}

@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/Companions/CompanionDialogues/Regill/Answer_0046"], "children": ["World/Dialogs/Companions/CompanionDialogues/Regill/AnswersList_0022"]}
+{"parents": ["World/Dialogs/Companions/CompanionDialogues/Regill/Answer_0046", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["World/Dialogs/Companions/CompanionDialogues/Regill/AnswersList_0022"]}

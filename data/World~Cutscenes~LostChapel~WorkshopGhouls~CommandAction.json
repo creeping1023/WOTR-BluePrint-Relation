@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/WorkshopGhouls/WorkshopGhouls"], "children": ["Spells/CutsceneSpells/ProneBuff", "World/Encounters/LostChapel/Buffs/CantMove"]}
+{"parents": ["World/Cutscenes/LostChapel/WorkshopGhouls/WorkshopGhouls"], "children": ["World/Encounters/LostChapel/Buffs/CantMove", "Spells/CutsceneSpells/ProneBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/ColyphyrDungeon/Test_Colyphyr_NocticulaHeartOut/gate"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/Baphomet", "World/Encounters/BaseArea/SummonPools/BaphometTest", "Factions/CutsceneNeutrals"]}
+{"parents": ["World/Cutscenes/ColyphyrDungeon/Test_Colyphyr_NocticulaHeartOut/gate"], "children": ["Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/Baphomet", "Factions/CutsceneNeutrals", "World/Encounters/BaseArea/SummonPools/BaphometTest"]}

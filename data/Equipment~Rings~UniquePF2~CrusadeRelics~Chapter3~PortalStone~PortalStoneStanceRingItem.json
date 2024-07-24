@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude", "World/Crusade/Events/Relics/Ch3/PathStone_Enchanting_event"], "children": ["Items/DestructibleItemsShards/MetalShardItem", "Equipment/Rings/UniquePF2/CrusadeRelics/Chapter3/PortalStone/PortalStoneStanceRingEnchantment"]}
+{"parents": ["World/Crusade/Events/Relics/Ch3/PathStone_Enchanting_event", "Dugeons/Loot/DungeonLootExclude"], "children": ["Equipment/Rings/UniquePF2/CrusadeRelics/Chapter3/PortalStone/PortalStoneStanceRingEnchantment", "Items/DestructibleItemsShards/MetalShardItem"]}

@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/c4/FriendshipWithShamira/Obj5_FindNahCrystall", "World/Quests/c4/FriendshipWithShamira/Add8_GiveStorytellerCrystall", "World/Quests/c4/FriendshipWithShamira/Add8_0_FindNahCrystall"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["World/Quests/c4/FriendshipWithShamira/Add8_GiveStorytellerCrystall", "World/Quests/c4/FriendshipWithShamira/Add8_0_FindNahCrystall", "World/Quests/c4/FriendshipWithShamira/Obj5_FindNahCrystall"]}

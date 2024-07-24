@@ -1,1 +1,1 @@
-{"parents": ["Mythic/MythicAbilities/DomainMastery", "Classes/Cleric/Domains/Luck/LuckDomainBaseFeature"], "children": ["Classes/Cleric/Domains/Luck/LuckDomainBaseResource", "Classes/Cleric/Domains/Luck/LuckDomainBaseBuff"]}
+{"parents": ["Classes/Cleric/Domains/Luck/LuckDomainBaseFeature", "Mythic/MythicAbilities/DomainMastery"], "children": ["Classes/Cleric/Domains/Luck/LuckDomainBaseBuff", "Classes/Cleric/Domains/Luck/LuckDomainBaseResource"]}

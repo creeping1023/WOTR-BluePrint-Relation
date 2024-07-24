@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss3"], "children": ["Spells/Level3/HasteBuff", "Spells/Level3/DisplacementBuff", "Spells/Level4/DivinePowerBuff", "Spells/Level8/FormOfTheDragonIIIBlueBuff"]}
+{"parents": ["Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss3"], "children": ["Spells/Level3/DisplacementBuff", "Spells/Level3/HasteBuff", "Spells/Level8/FormOfTheDragonIIIBlueBuff", "Spells/Level4/DivinePowerBuff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c3/Wintersun/MarhevokAmbush/Answer_0033"], "children": ["World/Encounters/ReligionReactivityBuffs/Sarenrae_Buff", "World/Dialogs/c3/Wintersun/MarhevokAmbush/Cue_0035"]}
+{"parents": ["World/Dialogs/c3/Wintersun/MarhevokAmbush/Answer_0033"], "children": ["World/Dialogs/c3/Wintersun/MarhevokAmbush/Cue_0035", "World/Encounters/ReligionReactivityBuffs/Sarenrae_Buff"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Encounters/DLC2_RichQuarter/ScriptZones/Rekarth_watchpoint"], "children": ["World/Cutscenes/DLC2_RichQuarter/Rekarth_watchpoint/CommandDelay", "World/Cutscenes/DLC2_RichQuarter/Rekarth_watchpoint/CommandBark"]}
+{"parents": ["World/Encounters/DLC2_RichQuarter/ScriptZones/Rekarth_watchpoint"], "children": ["World/Cutscenes/DLC2_RichQuarter/Rekarth_watchpoint/CommandBark", "World/Cutscenes/DLC2_RichQuarter/Rekarth_watchpoint/CommandDelay"]}

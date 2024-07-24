@@ -1,1 +1,1 @@
-{"parents": ["Classes/Kineticist/KineticistProgression"], "children": ["Classes/Basic/Proficiencies/SimpleWeaponProficiency", "Classes/Basic/Proficiencies/LightArmorProficiency", "Weapons/Types/Special/RayCalculateFeature"]}
+{"parents": ["Classes/Kineticist/KineticistProgression"], "children": ["Classes/Basic/Proficiencies/LightArmorProficiency", "Weapons/Types/Special/RayCalculateFeature", "Classes/Basic/Proficiencies/SimpleWeaponProficiency"]}

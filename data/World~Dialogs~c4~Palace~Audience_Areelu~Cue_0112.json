@@ -1,1 +1,1 @@
-{"parents": ["QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset", "World/Dialogs/c4/Palace/Audience_Areelu/CueSequence_0003"], "children": ["Units/Companions/Nenio/Nenio_Companion", "Units/NPC/Unique/Areelu/Areelu"]}
+{"parents": ["World/Dialogs/c4/Palace/Audience_Areelu/CueSequence_0003", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], "children": ["Units/NPC/Unique/Areelu/Areelu", "Units/Companions/Nenio/Nenio_Companion"]}

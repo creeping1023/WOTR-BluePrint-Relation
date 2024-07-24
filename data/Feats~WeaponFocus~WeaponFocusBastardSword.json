@@ -1,1 +1,1 @@
-{"parents": ["Feats/WeaponFocusGreater/WeaponFocusGreaterBastardSword", "Armies/UnitBlueprints/ArmyPaidBlade"], "children": ["Weapons/Types/ExoticOneHanded/BastardSword", "Feats/WeaponFocusGreater/WeaponFocusGreaterBastardSword"]}
+{"parents": ["Armies/UnitBlueprints/ArmyPaidBlade", "Feats/WeaponFocusGreater/WeaponFocusGreaterBastardSword"], "children": ["Feats/WeaponFocusGreater/WeaponFocusGreaterBastardSword", "Weapons/Types/ExoticOneHanded/BastardSword"]}

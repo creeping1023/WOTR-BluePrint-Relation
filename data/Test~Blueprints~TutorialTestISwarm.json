@@ -1,1 +1,1 @@
-{"children": ["Classes/Monster/Animal/AnimalClass", "Sound/Barks/NPC/Monsters/SwarmRats_Barks", "Factions/WildAnimals", "Units/Monsters/RatSwarm/RatSwarmBrain", "Units/Monsters/RatSwarm/SwarmTinyFeature"]}
+{"children": ["Units/Monsters/RatSwarm/SwarmTinyFeature", "Factions/WildAnimals", "Classes/Monster/Animal/AnimalClass", "Sound/Barks/NPC/Monsters/SwarmRats_Barks", "Units/Monsters/RatSwarm/RatSwarmBrain"]}

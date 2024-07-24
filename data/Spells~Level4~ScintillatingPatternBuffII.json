@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level4/ScintillatingPatternBuffINonliving", "Spells/Level8/ScintillatingPattern", "Spells/Level4/ScintillatingPatternBuffILiving"], "children": ["Buffs/Confusion"]}
+{"parents": ["Spells/Level4/ScintillatingPatternBuffILiving", "Spells/Level4/ScintillatingPatternBuffINonliving", "Spells/Level8/ScintillatingPattern"], "children": ["Buffs/Confusion"]}

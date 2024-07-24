@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleOneHanded/Shortspear", "Weapons/Enchantments/Enhancement4", "Weapons/Enchantments/BaneFey", "Weapons/Items/Unique/EE/PrimeWiperEnchantment"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Items/Unique/EE/PrimeWiperEnchantment", "Weapons/Enchantments/Enhancement4", "Weapons/Types/SimpleOneHanded/Shortspear", "Weapons/Enchantments/BaneFey"]}

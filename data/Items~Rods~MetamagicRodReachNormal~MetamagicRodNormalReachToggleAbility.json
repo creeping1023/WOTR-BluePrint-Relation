@@ -1,1 +1,1 @@
-{"parents": ["Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReach", "Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReachBuff"], "children": ["Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReachBuff"]}
+{"parents": ["Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReachBuff", "Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReach"], "children": ["Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReachBuff"]}

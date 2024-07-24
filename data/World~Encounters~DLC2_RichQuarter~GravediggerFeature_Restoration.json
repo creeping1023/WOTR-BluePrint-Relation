@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Gravedigger"], "children": ["World/Encounters/DLC2_RichQuarter/RestorationBuff_Gravedigger", "Spells/Level4/Restoration"]}
+{"parents": ["Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Gravedigger"], "children": ["Spells/Level4/Restoration", "World/Encounters/DLC2_RichQuarter/RestorationBuff_Gravedigger"]}

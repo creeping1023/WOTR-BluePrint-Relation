@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/SkaldProgression", "Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype", "Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornArchetype"], "children": ["Classes/Skald/SkaldLoreMasterAbility"]}
+{"parents": ["Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype", "Classes/Skald/Archetypes/HeraldOfTheHorn/HeraldOfTheHornArchetype", "Classes/Skald/SkaldProgression"], "children": ["Classes/Skald/SkaldLoreMasterAbility"]}

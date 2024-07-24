@@ -1,1 +1,1 @@
-{"parents": ["World/Quests/MythicQuests/Demon/C5_ConspiracyInTheShadows/Obj3_WinInTheFight"], "children": ["Armies/UnitBlueprints/ArmyKalavakus", "Armies/UnitBlueprints/ArmyBabauStandard", "Armies/UnitBlueprints/ArmyBrimorakStandard", "Armies/UnitBlueprints/ArmyVrockStandard"]}
+{"parents": ["World/Quests/MythicQuests/Demon/C5_ConspiracyInTheShadows/Obj3_WinInTheFight"], "children": ["Armies/UnitBlueprints/ArmyVrockStandard", "Armies/UnitBlueprints/ArmyBabauStandard", "Armies/UnitBlueprints/ArmyKalavakus", "Armies/UnitBlueprints/ArmyBrimorakStandard"]}

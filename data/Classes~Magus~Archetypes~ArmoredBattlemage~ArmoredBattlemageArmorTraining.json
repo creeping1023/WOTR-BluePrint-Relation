@@ -1,1 +1,1 @@
-{"parents": ["Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArchetype", "Root/Upgraders/Player/PF-518666_ArmoredBattlemageArmorTraining"], "children": ["Classes/Fighter/ArmorTraining", "Classes/Fighter/ArmorTraining", "Classes/Fighter/ArmorTraining"]}
+{"parents": ["Root/Upgraders/Player/PF-518666_ArmoredBattlemageArmorTraining", "Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArchetype"], "children": ["Classes/Fighter/ArmorTraining"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/LostChapel/BigGhoulAmbush/BigGhoulAmbush"], "children": ["World/Encounters/LostChapel/SummonPools/BigGhoulAmbush_Optional", "World/Cutscenes/LostChapel/GhoulsPretending02/GhoulsPretending02", "World/Encounters/LostChapel/SummonPools/BigGhoulAmbush01"]}
+{"parents": ["World/Cutscenes/LostChapel/BigGhoulAmbush/BigGhoulAmbush"], "children": ["World/Cutscenes/LostChapel/GhoulsPretending02/GhoulsPretending02", "World/Encounters/LostChapel/SummonPools/BigGhoulAmbush_Optional", "World/Encounters/LostChapel/SummonPools/BigGhoulAmbush01"]}

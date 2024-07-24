@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Smith/CueSequence_0045"], "children": ["Units/Companions/SosielVaenic/SosielVaenic_Companion", "World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0048"]}
+{"parents": ["World/Dialogs/c2_vs/DrezenSiege/Smith/CueSequence_0045"], "children": ["World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0048", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]}

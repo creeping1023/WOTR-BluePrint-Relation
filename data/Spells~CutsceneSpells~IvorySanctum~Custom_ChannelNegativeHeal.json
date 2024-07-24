@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/CommandAction"], "children": ["Classes/Cleric/ChannelEnergyResource", "CreatureAbilities/NegativeEnergyAffinity", "Classes/Cleric/Domains/Death/DeathDomainGreaterLiving"]}
+{"parents": ["World/Cutscenes/DrezenCitadel_Level2/MinotaurAltarTrap/CommandAction"], "children": ["CreatureAbilities/NegativeEnergyAffinity", "Classes/Cleric/ChannelEnergyResource", "Classes/Cleric/Domains/Death/DeathDomainGreaterLiving"]}

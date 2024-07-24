@@ -1,1 +1,1 @@
-{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Classes/Basic/Deities/GreenFaithFeature", "Units/Companions/Camelia/Camelia_Companion"]}
+{"parents": ["Root/PlayerUpgradeActionsRoot"], "children": ["Units/Companions/Camelia/Camelia_Companion", "Classes/Basic/Deities/GreenFaithFeature"]}

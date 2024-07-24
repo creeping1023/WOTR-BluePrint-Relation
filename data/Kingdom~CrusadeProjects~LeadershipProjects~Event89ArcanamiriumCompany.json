@@ -1,1 +1,1 @@
-{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["Kingdom/CrusadeProjects/LeadershipProjects/LeadershipProjectsFlags/Event89ArcanamiriumCompany", "World/Crusade/CrusadeArmy/Event_89_4", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"]}
+{"parents": ["Root/Kingdom/KingdomRoot"], "children": ["World/Crusade/CrusadeArmy/Event_89_4", "GlobalMaps/WorldWoundGM/Points/Point_Drezen", "Kingdom/CrusadeProjects/LeadershipProjects/LeadershipProjectsFlags/Event89ArcanamiriumCompany"]}

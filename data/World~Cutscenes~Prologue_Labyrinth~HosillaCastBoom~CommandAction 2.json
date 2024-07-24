@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/Prologue_Labyrinth/HosillaCastBoom/gate 2"], "children": ["Factions/Mobs", "Buffs/NPC_HealthGuard10", "World/Etudes/Common/WrathOfTheRighteous/0Prologue/Labyrinth/VenduagKnockOut", "Factions/Mobs"]}
+{"parents": ["World/Cutscenes/Prologue_Labyrinth/HosillaCastBoom/gate 2"], "children": ["Factions/Mobs", "World/Etudes/Common/WrathOfTheRighteous/0Prologue/Labyrinth/VenduagKnockOut", "Buffs/NPC_HealthGuard10"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c4/BattleBliss/HeraldDoubt_Battlebliss/Answer_0005"], "children": ["Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald", "World/Encounters/AlushinyrraLowerCity/UnlockableFlags/HeroldRespect"]}
+{"parents": ["World/Dialogs/c4/BattleBliss/HeraldDoubt_Battlebliss/Answer_0005"], "children": ["World/Encounters/AlushinyrraLowerCity/UnlockableFlags/HeroldRespect", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Answer_0022"], "children": ["Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR4_DeserterJanna", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Cue_0018"]}
+{"parents": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Answer_0022"], "children": ["World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/KnightCamp/Cue_0018", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Seelah_Q1/CR4_DeserterJanna"]}

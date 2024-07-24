@@ -1,1 +1,1 @@
-{"parents": ["Classes/Pets/BoarGoreFeature", "Classes/Pets/AnimalCompanionFeatureBoar"], "children": ["CreatureAbilities/ReducedReach", "Classes/Pets/FerocityFeature", "Classes/Pets/IterativeNaturalAttacksBuff"]}
+{"parents": ["Classes/Pets/BoarGoreFeature", "Classes/Pets/AnimalCompanionFeatureBoar"], "children": ["CreatureAbilities/ReducedReach", "Classes/Pets/IterativeNaturalAttacksBuff", "Classes/Pets/FerocityFeature"]}

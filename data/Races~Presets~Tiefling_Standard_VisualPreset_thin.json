@@ -1,1 +1,1 @@
-{"parents": ["Races/AscendingSuccubus", "Races/SuccubusRace", "Races/TieflingRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_Tiefling"]}
+{"parents": ["Races/TieflingRace", "Races/AscendingSuccubus", "Races/SuccubusRace"], "children": ["EquipmentEntities/Bodies/KEE_Body_Tiefling"]}

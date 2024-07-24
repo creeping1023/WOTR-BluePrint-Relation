@@ -1,1 +1,1 @@
-{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain_Alternative"], "children": ["Brain/Considerations/AttackTargetsPriority", "Spells/Level1/MagicMissile"]}
+{"parents": ["Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/ShadowcasterBrain_Alternative"], "children": ["Spells/Level1/MagicMissile", "Brain/Considerations/AttackTargetsPriority"]}

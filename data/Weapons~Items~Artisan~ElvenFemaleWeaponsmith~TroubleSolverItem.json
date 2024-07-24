@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/SimpleLight/PunchingDagger", "Weapons/Enchantments/Frost", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Agile", "Weapons/Enchantments/Unique/SlowOnHit14"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Frost", "Weapons/Types/SimpleLight/PunchingDagger", "Weapons/Enchantments/Speed", "Weapons/Enchantments/Unique/SlowOnHit14", "Weapons/Enchantments/Agile", "Weapons/Enchantments/Enhancement2"]}

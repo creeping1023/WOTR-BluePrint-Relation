@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/CueSequence_0064"], "children": ["Units/Companions/Wenduag/Wenduag_Companion", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hurlun/HurlunMadeInterraptOnLann", "World/Dialogs/c1/KenabresBurning/Hurlun/Cue_0070"]}
+{"parents": ["World/Dialogs/c1/KenabresBurning/Hurlun/CueSequence_0064"], "children": ["World/Dialogs/c1/KenabresBurning/Hurlun/Cue_0070", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hurlun/HurlunMadeInterraptOnLann", "Units/Companions/Wenduag/Wenduag_Companion"]}

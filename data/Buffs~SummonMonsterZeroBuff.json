@@ -1,1 +1,1 @@
-{"parents": ["Spells/Level1/SummonSpecial", "Classes/Paladin/Archetypes/TorturedCrusader/AloneInTheDark/LastManStanding/LastManAreaEffect", "Spells/Level1/SummonSpecialSpell"]}
+{"parents": ["Spells/Level1/SummonSpecialSpell", "Spells/Level1/SummonSpecial", "Classes/Paladin/Archetypes/TorturedCrusader/AloneInTheDark/LastManStanding/LastManAreaEffect"]}

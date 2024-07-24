@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/Dummy/Cue_7"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/SoldierParty_Caarel", "World/Dialogs/c5/Mythic_Legend/SoldierParty/Dummy/Cue_18"]}
+{"parents": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/Dummy/Cue_7"], "children": ["World/Dialogs/c5/Mythic_Legend/SoldierParty/Dummy/Cue_18", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLegend_Ch5/SoldierParty_Caarel"]}

@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0279"], "children": ["Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Megidiah_Retinue_commoner1", "World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0278"]}
+{"parents": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0279"], "children": ["World/Dialogs/c5/DrezenMain_C5/Coronation/Cue_0278", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicDevil_Ch5/Megidiah_Retinue_commoner1"]}

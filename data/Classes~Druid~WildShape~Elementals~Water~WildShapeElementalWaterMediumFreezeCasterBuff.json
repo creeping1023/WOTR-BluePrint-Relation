@@ -1,1 +1,1 @@
-{"parents": ["Classes/Wizard/Transmutation/TransmutationSchoolChangeShapeElementalWaterBuffLevel2", "Spells/Level5/ElementalBodyIIWaterBuff"], "children": ["Classes/Druid/WildShape/Elementals/Water/WildShapeElementalWaterMediumFreezeBuff", "Classes/Druid/WildShape/Elementals/Water/WildShapeElementalWaterMediumFreezeBuff"]}
+{"parents": ["Classes/Wizard/Transmutation/TransmutationSchoolChangeShapeElementalWaterBuffLevel2", "Spells/Level5/ElementalBodyIIWaterBuff"], "children": ["Classes/Druid/WildShape/Elementals/Water/WildShapeElementalWaterMediumFreezeBuff"]}

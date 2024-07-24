@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/Epilogues/CueSequence_PlayerFinalChoice"], "children": ["World/Etudes/Common/WrathOfTheRighteous/Chapter06_Extra/Ending_Azata", "World/Dialogs/Epilogues/Cue_0117", "World/Dialogs/Epilogues/Cue_0145", "World/Dialogs/Epilogues/Answer_0146"]}
+{"parents": ["World/Dialogs/Epilogues/CueSequence_PlayerFinalChoice"], "children": ["World/Dialogs/Epilogues/Answer_0146", "World/Dialogs/Epilogues/Cue_0117", "World/Etudes/Common/WrathOfTheRighteous/Chapter06_Extra/Ending_Azata", "World/Dialogs/Epilogues/Cue_0145"]}

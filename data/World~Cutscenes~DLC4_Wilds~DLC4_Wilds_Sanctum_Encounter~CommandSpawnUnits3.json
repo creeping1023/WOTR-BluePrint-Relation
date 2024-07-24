@@ -1,1 +1,1 @@
-{"parents": ["World/Cutscenes/DLC4_Wilds/DLC4_Wilds_Sanctum_Encounter/gate1"], "children": ["Buffs/NPC_Immortality", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Spirit_Animals/WolfsImmortal"]}
+{"parents": ["World/Cutscenes/DLC4_Wilds/DLC4_Wilds_Sanctum_Encounter/gate1"], "children": ["Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Spirit_Animals/WolfsImmortal", "Buffs/NPC_Immortality"]}

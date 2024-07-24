@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0003"], "children": ["Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion", "World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0005"]}
+{"parents": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0003"], "children": ["World/Dialogs/DLC2_LowFantasy/Map1.5_Catacombs/Mercenaries/Cue_0005", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]}

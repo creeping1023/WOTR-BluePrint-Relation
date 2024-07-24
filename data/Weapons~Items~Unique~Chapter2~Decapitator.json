@@ -1,1 +1,1 @@
-{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Types/ExoticOneHanded/Falcata", "Weapons/Enchantments/Enhancement2", "Weapons/Enchantments/Furious", "Weapons/Enchantments/Keen"]}
+{"parents": ["Dugeons/Loot/DungeonLootExclude"], "children": ["Weapons/Enchantments/Keen", "Weapons/Enchantments/Furious", "Weapons/Types/ExoticOneHanded/Falcata", "Weapons/Enchantments/Enhancement2"]}

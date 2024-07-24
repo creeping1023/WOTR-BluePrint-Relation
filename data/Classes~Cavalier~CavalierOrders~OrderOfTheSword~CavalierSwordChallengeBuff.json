@@ -1,1 +1,1 @@
-{"parents": ["Classes/Cavalier/CavalierOrders/OrderOfTheSword/CavalierSwordChallenge"], "children": ["Classes/Cavalier/CavalierChallengeBuffTarget", "Classes/Cavalier/CavalierClass"]}
+{"parents": ["Classes/Cavalier/CavalierOrders/OrderOfTheSword/CavalierSwordChallenge"], "children": ["Classes/Cavalier/CavalierClass", "Classes/Cavalier/CavalierChallengeBuffTarget"]}

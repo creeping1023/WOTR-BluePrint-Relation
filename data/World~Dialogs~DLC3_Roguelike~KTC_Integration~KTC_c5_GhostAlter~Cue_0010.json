@@ -1,1 +1,1 @@
-{"parents": ["World/Dialogs/DLC3_Roguelike/KTC_Integration/KTC_c5_GhostAlter/Answer_0008"], "children": ["World/Etudes/Common/DLC3_Roguelike/DLC3_Integration", "World/Quests/DLC3_Roguelike/DLC_Integ_Tier1/Obj_C5_Wait", "World/Quests/DLC3_Roguelike/DLC_Integ_Tier1/Obj_hiddencomplete"]}
+{"parents": ["World/Dialogs/DLC3_Roguelike/KTC_Integration/KTC_c5_GhostAlter/Answer_0008"], "children": ["World/Quests/DLC3_Roguelike/DLC_Integ_Tier1/Obj_C5_Wait", "World/Etudes/Common/DLC3_Roguelike/DLC3_Integration", "World/Quests/DLC3_Roguelike/DLC_Integ_Tier1/Obj_hiddencomplete"]}

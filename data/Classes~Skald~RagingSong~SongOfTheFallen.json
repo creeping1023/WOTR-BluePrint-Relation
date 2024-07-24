@@ -1,1 +1,1 @@
-{"parents": ["Classes/Skald/SkaldProgression", "Classes/Skald/Archetypes/HuntCaller/HuntCallerArchetype", "Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype"], "children": ["Classes/Skald/RagingSong/SongOfTheFallenAbility"]}
+{"parents": ["Classes/Skald/Archetypes/HuntCaller/HuntCallerArchetype", "Classes/Skald/Archetypes/Provocateur/ProvocateurArchetype", "Classes/Skald/SkaldProgression"], "children": ["Classes/Skald/RagingSong/SongOfTheFallenAbility"]}
